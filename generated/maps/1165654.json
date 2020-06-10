@@ -1,0 +1,24 @@
+{
+  "category": "speed2",
+  "counts": {
+    "bpm": 1,
+    "sv": 0,
+    "notes": {
+      "total": 1037,
+      "rice": 1037,
+      "ln": 0,
+      "single": 529,
+      "jump": 254,
+      "hand": 0,
+      "quad": 0
+    }
+  },
+  "title": "intel 4K Core Pack Vol.3",
+  "artist": "Various Artists",
+  "mapper": "inteliser",
+  "difficulty": "xi // Inixia (BAS)",
+  "beatmapId": "1165654",
+  "beatmapSetId": "550226",
+  "hp": "8",
+  "od": "6"
+}

@@ -1,0 +1,24 @@
+{
+  "category": "tech1",
+  "counts": {
+    "bpm": 5,
+    "sv": 4,
+    "notes": {
+      "total": 1286,
+      "rice": 1188,
+      "ln": 98,
+      "single": 539,
+      "jump": 275,
+      "hand": 63,
+      "quad": 2
+    }
+  },
+  "title": "Everlasting Message",
+  "artist": "penoreri",
+  "mapper": "_FrEsH_ChICkEn_",
+  "difficulty": "EXHAUST",
+  "beatmapId": "820842",
+  "beatmapSetId": "374724",
+  "hp": "8",
+  "od": "8"
+}

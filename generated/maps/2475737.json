@@ -1,0 +1,24 @@
+{
+  "category": "tech1",
+  "counts": {
+    "bpm": 3,
+    "sv": 0,
+    "notes": {
+      "total": 1161,
+      "rice": 1113,
+      "ln": 48,
+      "single": 745,
+      "jump": 208,
+      "hand": 0,
+      "quad": 0
+    }
+  },
+  "title": "Flim",
+  "artist": "Aphex Twin",
+  "mapper": "Davvy",
+  "difficulty": "Vacant (Hard)",
+  "beatmapId": "2475737",
+  "beatmapSetId": "1178598",
+  "hp": "7.5",
+  "od": "8"
+}

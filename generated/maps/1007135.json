@@ -1,0 +1,24 @@
+{
+  "category": "sv2",
+  "counts": {
+    "bpm": 2,
+    "sv": 1179,
+    "notes": {
+      "total": 1190,
+      "rice": 1041,
+      "ln": 149,
+      "single": 622,
+      "jump": 254,
+      "hand": 20,
+      "quad": 0
+    }
+  },
+  "title": "Itz Mr. Grim",
+  "artist": "Atik",
+  "mapper": "Schrodinger",
+  "difficulty": "Commando's Hard",
+  "beatmapId": "1007135",
+  "beatmapSetId": "461213",
+  "hp": "7",
+  "od": "7"
+}

@@ -1,0 +1,24 @@
+{
+  "category": "ln1",
+  "counts": {
+    "bpm": 1,
+    "sv": 0,
+    "notes": {
+      "total": 1185,
+      "rice": 520,
+      "ln": 665,
+      "single": 641,
+      "jump": 161,
+      "hand": 74,
+      "quad": 0
+    }
+  },
+  "title": "Resonance",
+  "artist": "HOME",
+  "mapper": "Guilhermeziat",
+  "difficulty": "ResidentSleeper",
+  "beatmapId": "2143115",
+  "beatmapSetId": "1024592",
+  "hp": "8",
+  "od": "7"
+}

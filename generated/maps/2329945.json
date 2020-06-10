@@ -1,0 +1,24 @@
+{
+  "category": "sv1",
+  "counts": {
+    "bpm": 1,
+    "sv": 647,
+    "notes": {
+      "total": 487,
+      "rice": 457,
+      "ln": 30,
+      "single": 200,
+      "jump": 52,
+      "hand": 61,
+      "quad": 0
+    }
+  },
+  "title": "Hanami",
+  "artist": "Slappy",
+  "mapper": "RuleBlazing",
+  "difficulty": "Edit",
+  "beatmapId": "2329945",
+  "beatmapSetId": "1101411",
+  "hp": "8.5",
+  "od": "8"
+}

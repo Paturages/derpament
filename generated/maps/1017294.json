@@ -1,0 +1,24 @@
+{
+  "category": "acc2",
+  "counts": {
+    "bpm": 1,
+    "sv": 6,
+    "notes": {
+      "total": 1716,
+      "rice": 1669,
+      "ln": 47,
+      "single": 453,
+      "jump": 357,
+      "hand": 183,
+      "quad": 0
+    }
+  },
+  "title": "40 Days...",
+  "artist": "blessthefall",
+  "mapper": "puxtu",
+  "difficulty": "no pp allowed",
+  "beatmapId": "1017294",
+  "beatmapSetId": "476241",
+  "hp": "8",
+  "od": "8"
+}

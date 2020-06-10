@@ -1,0 +1,24 @@
+{
+  "category": "speed2",
+  "counts": {
+    "bpm": 1,
+    "sv": 0,
+    "notes": {
+      "total": 1488,
+      "rice": 1488,
+      "ln": 0,
+      "single": 864,
+      "jump": 306,
+      "hand": 4,
+      "quad": 0
+    }
+  },
+  "title": "DORNWALD ~Junge~",
+  "artist": "DJ TOTTO",
+  "mapper": "inteliser",
+  "difficulty": "EXTREME",
+  "beatmapId": "1747847",
+  "beatmapSetId": "834112",
+  "hp": "9",
+  "od": "8"
+}

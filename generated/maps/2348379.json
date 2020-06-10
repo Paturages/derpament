@@ -1,0 +1,24 @@
+{
+  "category": "acc2",
+  "counts": {
+    "bpm": 1,
+    "sv": 8,
+    "notes": {
+      "total": 814,
+      "rice": 737,
+      "ln": 77,
+      "single": 379,
+      "jump": 207,
+      "hand": 7,
+      "quad": 0
+    }
+  },
+  "title": "Shiratsuyu no Kaze",
+  "artist": "Qrispy Joybox feat. Tokiwa Yu",
+  "mapper": "Arzenvald",
+  "difficulty": "4K Hyper",
+  "beatmapId": "2348379",
+  "beatmapSetId": "1123634",
+  "hp": "8",
+  "od": "8"
+}

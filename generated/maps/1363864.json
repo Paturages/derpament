@@ -1,0 +1,24 @@
+{
+  "category": "hybrid2",
+  "counts": {
+    "bpm": 1,
+    "sv": 12,
+    "notes": {
+      "total": 1340,
+      "rice": 1087,
+      "ln": 253,
+      "single": 1071,
+      "jump": 130,
+      "hand": 3,
+      "quad": 0
+    }
+  },
+  "title": "Wakaranai",
+  "artist": "Lon x Chroma",
+  "mapper": "Raveille",
+  "difficulty": "Tasukete!",
+  "beatmapId": "1363864",
+  "beatmapSetId": "643398",
+  "hp": "7",
+  "od": "7"
+}

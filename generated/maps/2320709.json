@@ -1,0 +1,24 @@
+{
+  "category": "tb",
+  "counts": {
+    "bpm": 1,
+    "sv": 659,
+    "notes": {
+      "total": 3252,
+      "rice": 2807,
+      "ln": 445,
+      "single": 1500,
+      "jump": 609,
+      "hand": 178,
+      "quad": 0
+    }
+  },
+  "title": "Cyberspace",
+  "artist": "xi vs Feryquitous",
+  "mapper": "HowToPlayLN",
+  "difficulty": "RuleNoteSerenade's Induction",
+  "beatmapId": "2320709",
+  "beatmapSetId": "1110640",
+  "hp": "8",
+  "od": "7.5"
+}

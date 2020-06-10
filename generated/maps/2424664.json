@@ -1,0 +1,24 @@
+{
+  "category": "speed",
+  "counts": {
+    "bpm": 2,
+    "sv": 4,
+    "notes": {
+      "total": 1544,
+      "rice": 1436,
+      "ln": 108,
+      "single": 1251,
+      "jump": 145,
+      "hand": 1,
+      "quad": 0
+    }
+  },
+  "title": "Fruits",
+  "artist": "Panda Eyes",
+  "mapper": "UnluckyCroco",
+  "difficulty": "Stage 4: Nutrition",
+  "beatmapId": "2424664",
+  "beatmapSetId": "1162325",
+  "hp": "7",
+  "od": "7"
+}

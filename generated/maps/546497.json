@@ -1,0 +1,24 @@
+{
+  "category": "acc1",
+  "counts": {
+    "bpm": 1,
+    "sv": 2,
+    "notes": {
+      "total": 1428,
+      "rice": 1342,
+      "ln": 86,
+      "single": 561,
+      "jump": 375,
+      "hand": 39,
+      "quad": 0
+    }
+  },
+  "title": "Renatus",
+  "artist": "Soleily",
+  "mapper": "Fullerene-",
+  "difficulty": "4K Hard",
+  "beatmapId": "546497",
+  "beatmapSetId": "235827",
+  "hp": "7.5",
+  "od": "8"
+}

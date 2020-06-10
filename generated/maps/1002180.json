@@ -1,0 +1,24 @@
+{
+  "category": "speed1",
+  "counts": {
+    "bpm": 1,
+    "sv": 15,
+    "notes": {
+      "total": 1433,
+      "rice": 1429,
+      "ln": 4,
+      "single": 781,
+      "jump": 326,
+      "hand": 0,
+      "quad": 0
+    }
+  },
+  "title": "in the Garden",
+  "artist": "Primary",
+  "mapper": "Mat",
+  "difficulty": "Julie's 4K Hard",
+  "beatmapId": "1002180",
+  "beatmapSetId": "361117",
+  "hp": "7.6",
+  "od": "7.8"
+}

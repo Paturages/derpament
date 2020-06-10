@@ -1,0 +1,24 @@
+{
+  "category": "tech2",
+  "counts": {
+    "bpm": 57,
+    "sv": 30,
+    "notes": {
+      "total": 1473,
+      "rice": 1215,
+      "ln": 258,
+      "single": 1469,
+      "jump": 2,
+      "hand": 0,
+      "quad": 0
+    }
+  },
+  "title": "Stick Your Ins Out",
+  "artist": "Solarbear",
+  "mapper": "Pope Gadget",
+  "difficulty": "Monheim's Hard",
+  "beatmapId": "2414954",
+  "beatmapSetId": "1149112",
+  "hp": "7.5",
+  "od": "7"
+}

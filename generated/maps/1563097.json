@@ -1,0 +1,24 @@
+{
+  "category": "hybrid2",
+  "counts": {
+    "bpm": 961,
+    "sv": 238,
+    "notes": {
+      "total": 1955,
+      "rice": 1688,
+      "ln": 267,
+      "single": 751,
+      "jump": 326,
+      "hand": 132,
+      "quad": 39
+    }
+  },
+  "title": "THE GOVT. KNOWS",
+  "artist": "KNOWER",
+  "mapper": "RemiFlan",
+  "difficulty": "STICK IT TO THE MAN",
+  "beatmapId": "1563097",
+  "beatmapSetId": "740972",
+  "hp": "9.1",
+  "od": "7.7"
+}

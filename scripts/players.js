@@ -49,12 +49,14 @@ const generatedPath = path.resolve(__dirname, "..", "generated");
         },
       }
     );
+    // Do not save the user page/bio
+    delete body.page;
 
     await fs.promises.writeFile(
       path.resolve(generatedPath, "players", `${playerId}.json`),
       prettier.format(JSON.stringify(body), { parser: "json" })
     );
-    console.log(`ID ${id} ${username} has been fetched and saved!`);
+    console.log(`ID ${body.id} ${body.username} has been fetched and saved!`);
 
     // Wait 2 seconds before the next request to not contribute to the murder of the osu! infrastructure
     await new Promise((r) => setTimeout(r, 2000));

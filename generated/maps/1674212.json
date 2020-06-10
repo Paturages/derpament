@@ -1,0 +1,24 @@
+{
+  "category": "tb",
+  "counts": {
+    "bpm": 1,
+    "sv": 8,
+    "notes": {
+      "total": 2352,
+      "rice": 1679,
+      "ln": 673,
+      "single": 857,
+      "jump": 680,
+      "hand": 45,
+      "quad": 0
+    }
+  },
+  "title": "GHOST",
+  "artist": "Camellia",
+  "mapper": "Protastic101",
+  "difficulty": "HD",
+  "beatmapId": "1674212",
+  "beatmapSetId": "797183",
+  "hp": "7.5",
+  "od": "7.5"
+}

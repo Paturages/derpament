@@ -1,0 +1,24 @@
+{
+  "category": "ln1",
+  "counts": {
+    "bpm": 1,
+    "sv": 0,
+    "notes": {
+      "total": 795,
+      "rice": 317,
+      "ln": 478,
+      "single": 543,
+      "jump": 123,
+      "hand": 2,
+      "quad": 0
+    }
+  },
+  "title": "PandorA",
+  "artist": "M2U",
+  "mapper": "Kamishiro Kurea",
+  "difficulty": "Pyxis",
+  "beatmapId": "2467204",
+  "beatmapSetId": "1048617",
+  "hp": "8",
+  "od": "7.5"
+}

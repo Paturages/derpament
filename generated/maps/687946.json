@@ -1,0 +1,24 @@
+{
+  "category": "tech1",
+  "counts": {
+    "bpm": 1,
+    "sv": 4,
+    "notes": {
+      "total": 706,
+      "rice": 571,
+      "ln": 135,
+      "single": 215,
+      "jump": 151,
+      "hand": 63,
+      "quad": 0
+    }
+  },
+  "title": "Kirlian Voyager",
+  "artist": "The Flashbulb",
+  "mapper": "Fullerene-",
+  "difficulty": "Dreamless Wanderer",
+  "beatmapId": "687946",
+  "beatmapSetId": "307508",
+  "hp": "8",
+  "od": "8"
+}

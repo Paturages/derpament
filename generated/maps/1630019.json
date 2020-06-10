@@ -1,0 +1,24 @@
+{
+  "category": "hybrid2",
+  "counts": {
+    "bpm": 1,
+    "sv": 114,
+    "notes": {
+      "total": 1258,
+      "rice": 1060,
+      "ln": 198,
+      "single": 464,
+      "jump": 322,
+      "hand": 50,
+      "quad": 0
+    }
+  },
+  "title": "Houmatsumugen Kochoujin",
+  "artist": "Narmaya(CV:M.A.O)",
+  "mapper": "Critical_Star",
+  "difficulty": "SY's 4K Hard",
+  "beatmapId": "1630019",
+  "beatmapSetId": "775728",
+  "hp": "8",
+  "od": "8"
+}

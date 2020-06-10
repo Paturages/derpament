@@ -1,0 +1,24 @@
+{
+  "category": "sv2",
+  "counts": {
+    "bpm": 1,
+    "sv": 308,
+    "notes": {
+      "total": 855,
+      "rice": 855,
+      "ln": 0,
+      "single": 213,
+      "jump": 255,
+      "hand": 44,
+      "quad": 0
+    }
+  },
+  "title": "Metal Scratchin'",
+  "artist": "Hideki Naganuma",
+  "mapper": "XeoStyle",
+  "difficulty": "Purple",
+  "beatmapId": "1085212",
+  "beatmapSetId": "510372",
+  "hp": "8",
+  "od": "8"
+}

@@ -1,0 +1,24 @@
+{
+  "category": "acc1",
+  "counts": {
+    "bpm": 1,
+    "sv": 2,
+    "notes": {
+      "total": 1424,
+      "rice": 1312,
+      "ln": 112,
+      "single": 661,
+      "jump": 380,
+      "hand": 1,
+      "quad": 0
+    }
+  },
+  "title": "Drug on the Drop (Zekk Remix)",
+  "artist": "uet",
+  "mapper": "D arc",
+  "difficulty": "Normal",
+  "beatmapId": "1369990",
+  "beatmapSetId": "645762",
+  "hp": "6.5",
+  "od": "7"
+}

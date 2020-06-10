@@ -1,0 +1,24 @@
+{
+  "category": "sv2",
+  "counts": {
+    "bpm": 1,
+    "sv": 437,
+    "notes": {
+      "total": 586,
+      "rice": 459,
+      "ln": 127,
+      "single": 334,
+      "jump": 126,
+      "hand": 0,
+      "quad": 0
+    }
+  },
+  "title": "Electronic Sound Lab",
+  "artist": "Yooh",
+  "mapper": "XeoStyle",
+  "difficulty": "NM",
+  "beatmapId": "673991",
+  "beatmapSetId": "299842",
+  "hp": "7",
+  "od": "7"
+}

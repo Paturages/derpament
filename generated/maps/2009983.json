@@ -1,0 +1,24 @@
+{
+  "category": "speed1",
+  "counts": {
+    "bpm": 4,
+    "sv": 1,
+    "notes": {
+      "total": 1452,
+      "rice": 1400,
+      "ln": 52,
+      "single": 830,
+      "jump": 311,
+      "hand": 0,
+      "quad": 0
+    }
+  },
+  "title": "Ukigumo",
+  "artist": "Hige Driver",
+  "mapper": "Guilhermeziat",
+  "difficulty": "I wanna be the jumpstream",
+  "beatmapId": "2009983",
+  "beatmapSetId": "960054",
+  "hp": "8",
+  "od": "8"
+}

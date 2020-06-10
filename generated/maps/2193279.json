@@ -1,0 +1,24 @@
+{
+  "category": "speed2",
+  "counts": {
+    "bpm": 2,
+    "sv": 16,
+    "notes": {
+      "total": 860,
+      "rice": 732,
+      "ln": 128,
+      "single": 546,
+      "jump": 157,
+      "hand": 0,
+      "quad": 0
+    }
+  },
+  "title": "GLORY:ROAD",
+  "artist": "uma vs. Morimori Atsushi",
+  "mapper": "Critical_Star",
+  "difficulty": "Standard",
+  "beatmapId": "2193279",
+  "beatmapSetId": "1049362",
+  "hp": "7",
+  "od": "7"
+}

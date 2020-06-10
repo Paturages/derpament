@@ -1,0 +1,24 @@
+{
+  "category": "sv1",
+  "counts": {
+    "bpm": 1,
+    "sv": 245,
+    "notes": {
+      "total": 320,
+      "rice": 248,
+      "ln": 72,
+      "single": 246,
+      "jump": 37,
+      "hand": 0,
+      "quad": 0
+    }
+  },
+  "title": "Double Scoop",
+  "artist": "a l e x",
+  "mapper": "-mint-",
+  "difficulty": "Time Regression",
+  "beatmapId": "2113076",
+  "beatmapSetId": "1009355",
+  "hp": "8",
+  "od": "8"
+}

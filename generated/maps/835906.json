@@ -1,0 +1,24 @@
+{
+  "category": "acc2",
+  "counts": {
+    "bpm": 1,
+    "sv": 7,
+    "notes": {
+      "total": 1107,
+      "rice": 1101,
+      "ln": 6,
+      "single": 298,
+      "jump": 370,
+      "hand": 23,
+      "quad": 0
+    }
+  },
+  "title": "A Million Stars",
+  "artist": "Presti",
+  "mapper": "Pizza",
+  "difficulty": "Adinata's 4K Hard",
+  "beatmapId": "835906",
+  "beatmapSetId": "379422",
+  "hp": "7.5",
+  "od": "7.5"
+}

@@ -1,0 +1,24 @@
+{
+  "category": "tb",
+  "counts": {
+    "bpm": 1,
+    "sv": 136,
+    "notes": {
+      "total": 1948,
+      "rice": 1546,
+      "ln": 402,
+      "single": 1048,
+      "jump": 423,
+      "hand": 14,
+      "quad": 3
+    }
+  },
+  "title": "paroxysm",
+  "artist": "Camellia",
+  "mapper": "_Y u r i_",
+  "difficulty": "STARTING THE ROAD",
+  "beatmapId": "1417095",
+  "beatmapSetId": "665379",
+  "hp": "8",
+  "od": "7"
+}

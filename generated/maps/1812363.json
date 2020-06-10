@@ -1,0 +1,24 @@
+{
+  "category": "hybrid",
+  "counts": {
+    "bpm": 3,
+    "sv": 9,
+    "notes": {
+      "total": 604,
+      "rice": 487,
+      "ln": 117,
+      "single": 292,
+      "jump": 147,
+      "hand": 6,
+      "quad": 0
+    }
+  },
+  "title": "Kakushigoto (Short Ver.)",
+  "artist": "Yuikonnu",
+  "mapper": "Loliconjr",
+  "difficulty": "Dragon's HD",
+  "beatmapId": "1812363",
+  "beatmapSetId": "864922",
+  "hp": "8",
+  "od": "7"
+}

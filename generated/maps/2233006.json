@@ -1,0 +1,24 @@
+{
+  "category": "ln2",
+  "counts": {
+    "bpm": 1,
+    "sv": 13,
+    "notes": {
+      "total": 701,
+      "rice": 429,
+      "ln": 272,
+      "single": 335,
+      "jump": 183,
+      "hand": 0,
+      "quad": 0
+    }
+  },
+  "title": "Saika",
+  "artist": "Rabpit",
+  "mapper": "ATing",
+  "difficulty": "LN Expert // Hard",
+  "beatmapId": "2233006",
+  "beatmapSetId": "1060785",
+  "hp": "7",
+  "od": "6.5"
+}

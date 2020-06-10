@@ -1,0 +1,24 @@
+{
+  "category": "ln3",
+  "counts": {
+    "bpm": 1,
+    "sv": 0,
+    "notes": {
+      "total": 800,
+      "rice": 467,
+      "ln": 333,
+      "single": 212,
+      "jump": 294,
+      "hand": 0,
+      "quad": 0
+    }
+  },
+  "title": "Doki Doki Literature Club! (Main Theme)",
+  "artist": "Team Salvato",
+  "mapper": "arcwinolivirus",
+  "difficulty": "?Harem?",
+  "beatmapId": "1443731",
+  "beatmapSetId": "682702",
+  "hp": "7.5",
+  "od": "7.5"
+}

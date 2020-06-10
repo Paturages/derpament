@@ -1,0 +1,24 @@
+{
+  "category": "speed3",
+  "counts": {
+    "bpm": 1,
+    "sv": 18,
+    "notes": {
+      "total": 1908,
+      "rice": 1855,
+      "ln": 53,
+      "single": 1420,
+      "jump": 241,
+      "hand": 2,
+      "quad": 0
+    }
+  },
+  "title": "God Rest Your Soul",
+  "artist": "Wisdom",
+  "mapper": "Kamishiro Kurea",
+  "difficulty": "Brave",
+  "beatmapId": "2467519",
+  "beatmapSetId": "1013997",
+  "hp": "8",
+  "od": "9"
+}

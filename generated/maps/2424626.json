@@ -1,0 +1,24 @@
+{
+  "category": "sv",
+  "counts": {
+    "bpm": 1,
+    "sv": 1624,
+    "notes": {
+      "total": 598,
+      "rice": 530,
+      "ln": 68,
+      "single": 557,
+      "jump": 19,
+      "hand": 1,
+      "quad": 0
+    }
+  },
+  "title": "dispersion (cut)",
+  "artist": "SiLiS",
+  "mapper": "Raveille",
+  "difficulty": "Stage 1: Evaluate",
+  "beatmapId": "2424626",
+  "beatmapSetId": "1162300",
+  "hp": "7",
+  "od": "7"
+}

@@ -1,0 +1,24 @@
+{
+  "category": "tech1",
+  "counts": {
+    "bpm": 1,
+    "sv": 4,
+    "notes": {
+      "total": 1115,
+      "rice": 1043,
+      "ln": 72,
+      "single": 723,
+      "jump": 196,
+      "hand": 0,
+      "quad": 0
+    }
+  },
+  "title": "Crow's Ghost",
+  "artist": "Twenty Knives",
+  "mapper": "Shoegazer",
+  "difficulty": "Advanced",
+  "beatmapId": "1414006",
+  "beatmapSetId": "666119",
+  "hp": "7.3",
+  "od": "7.3"
+}

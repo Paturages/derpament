@@ -1,0 +1,24 @@
+{
+  "category": "tb",
+  "counts": {
+    "bpm": 1,
+    "sv": 9,
+    "notes": {
+      "total": 2041,
+      "rice": 1683,
+      "ln": 358,
+      "single": 1472,
+      "jump": 280,
+      "hand": 3,
+      "quad": 0
+    }
+  },
+  "title": "RougokuSTRIP (Grimoire crossbreed rmx)",
+  "artist": "Team Grimoire",
+  "mapper": "[Shana Lesus]",
+  "difficulty": "Magic exists [HD]",
+  "beatmapId": "1086583",
+  "beatmapSetId": "490717",
+  "hp": "7",
+  "od": "8"
+}

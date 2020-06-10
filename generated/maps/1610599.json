@@ -1,0 +1,24 @@
+{
+  "category": "ln3",
+  "counts": {
+    "bpm": 1,
+    "sv": 4,
+    "notes": {
+      "total": 778,
+      "rice": 378,
+      "ln": 400,
+      "single": 417,
+      "jump": 159,
+      "hand": 13,
+      "quad": 1
+    }
+  },
+  "title": "Hitori",
+  "artist": "XX:me",
+  "mapper": "Raveille",
+  "difficulty": "Where are you now...",
+  "beatmapId": "1610599",
+  "beatmapSetId": "766073",
+  "hp": "7.7",
+  "od": "6.6"
+}

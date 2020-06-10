@@ -1,0 +1,24 @@
+{
+  "category": "speed1",
+  "counts": {
+    "bpm": 1,
+    "sv": 2,
+    "notes": {
+      "total": 997,
+      "rice": 937,
+      "ln": 60,
+      "single": 778,
+      "jump": 108,
+      "hand": 1,
+      "quad": 0
+    }
+  },
+  "title": "Perfect Cherry Storm",
+  "artist": "Sun3",
+  "mapper": "Staravia",
+  "difficulty": "Sapling",
+  "beatmapId": "1051453",
+  "beatmapSetId": "493299",
+  "hp": "8.2",
+  "od": "8.2"
+}

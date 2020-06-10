@@ -1,0 +1,24 @@
+{
+  "category": "acc1",
+  "counts": {
+    "bpm": 5,
+    "sv": 0,
+    "notes": {
+      "total": 1422,
+      "rice": 1231,
+      "ln": 191,
+      "single": 913,
+      "jump": 253,
+      "hand": 1,
+      "quad": 0
+    }
+  },
+  "title": "EON BREAK",
+  "artist": "Virtual Self",
+  "mapper": "Janko",
+  "difficulty": "Hard",
+  "beatmapId": "1956380",
+  "beatmapSetId": "932892",
+  "hp": "8",
+  "od": "8"
+}

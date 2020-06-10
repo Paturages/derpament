@@ -1,0 +1,24 @@
+{
+  "category": "sv2",
+  "counts": {
+    "bpm": 2,
+    "sv": 104,
+    "notes": {
+      "total": 644,
+      "rice": 496,
+      "ln": 148,
+      "single": 370,
+      "jump": 137,
+      "hand": 0,
+      "quad": 0
+    }
+  },
+  "title": "Breeze",
+  "artist": "cYsmix",
+  "mapper": "Tidek",
+  "difficulty": "Normal",
+  "beatmapId": "1357116",
+  "beatmapSetId": "639924",
+  "hp": "7.5",
+  "od": "7"
+}

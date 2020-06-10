@@ -1,0 +1,24 @@
+{
+  "category": "acc1",
+  "counts": {
+    "bpm": 2,
+    "sv": 0,
+    "notes": {
+      "total": 2489,
+      "rice": 2489,
+      "ln": 0,
+      "single": 1327,
+      "jump": 508,
+      "hand": 42,
+      "quad": 5
+    }
+  },
+  "title": "RTCMON",
+  "artist": "K A Z M A S A",
+  "mapper": "Couil",
+  "difficulty": "uwu",
+  "beatmapId": "1579336",
+  "beatmapSetId": "749852",
+  "hp": "8.4",
+  "od": "7"
+}

@@ -1,0 +1,24 @@
+{
+  "category": "ln2",
+  "counts": {
+    "bpm": 1,
+    "sv": 0,
+    "notes": {
+      "total": 461,
+      "rice": 173,
+      "ln": 288,
+      "single": 317,
+      "jump": 72,
+      "hand": 0,
+      "quad": 0
+    }
+  },
+  "title": "Fatima (TV size)",
+  "artist": "Itou Kanako",
+  "mapper": "Adri",
+  "difficulty": "Fly High",
+  "beatmapId": "1891296",
+  "beatmapSetId": "906277",
+  "hp": "7",
+  "od": "9"
+}

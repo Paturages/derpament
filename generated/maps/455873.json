@@ -1,0 +1,24 @@
+{
+  "category": "acc1",
+  "counts": {
+    "bpm": 1,
+    "sv": 6,
+    "notes": {
+      "total": 1772,
+      "rice": 1713,
+      "ln": 59,
+      "single": 794,
+      "jump": 459,
+      "hand": 20,
+      "quad": 0
+    }
+  },
+  "title": "Crazy Little Love",
+  "artist": "Nuage",
+  "mapper": "Sky_Demon",
+  "difficulty": "4Key Hard",
+  "beatmapId": "455873",
+  "beatmapSetId": "191505",
+  "hp": "7",
+  "od": "6"
+}

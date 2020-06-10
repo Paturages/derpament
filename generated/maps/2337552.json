@@ -1,0 +1,24 @@
+{
+  "category": "sv1",
+  "counts": {
+    "bpm": 1,
+    "sv": 291,
+    "notes": {
+      "total": 674,
+      "rice": 674,
+      "ln": 0,
+      "single": 298,
+      "jump": 143,
+      "hand": 30,
+      "quad": 0
+    }
+  },
+  "title": "Karton",
+  "artist": "Zest",
+  "mapper": "Adri",
+  "difficulty": "SFW",
+  "beatmapId": "2337552",
+  "beatmapSetId": "1119118",
+  "hp": "8",
+  "od": "8"
+}

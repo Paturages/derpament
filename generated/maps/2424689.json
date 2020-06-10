@@ -1,0 +1,24 @@
+{
+  "category": "acc",
+  "counts": {
+    "bpm": 1,
+    "sv": 0,
+    "notes": {
+      "total": 2086,
+      "rice": 2047,
+      "ln": 39,
+      "single": 672,
+      "jump": 248,
+      "hand": 306,
+      "quad": 0
+    }
+  },
+  "title": "Eagleheart",
+  "artist": "Stratovarius",
+  "mapper": "Davvy",
+  "difficulty": "Stage 2: Perseverance",
+  "beatmapId": "2424689",
+  "beatmapSetId": "1162340",
+  "hp": "8",
+  "od": "8"
+}

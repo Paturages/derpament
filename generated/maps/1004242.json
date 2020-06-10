@@ -1,0 +1,24 @@
+{
+  "category": "tb",
+  "counts": {
+    "bpm": 35,
+    "sv": 8,
+    "notes": {
+      "total": 2137,
+      "rice": 1856,
+      "ln": 281,
+      "single": 1245,
+      "jump": 431,
+      "hand": 10,
+      "quad": 0
+    }
+  },
+  "title": "croiX(extend)",
+  "artist": "Team Grimoire+amaneko",
+  "mapper": "Takane6",
+  "difficulty": "Kyou's ADVANCED",
+  "beatmapId": "1004242",
+  "beatmapSetId": "463986",
+  "hp": "7.5",
+  "od": "7.5"
+}

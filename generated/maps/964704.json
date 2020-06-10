@@ -1,0 +1,24 @@
+{
+  "category": "speed2",
+  "counts": {
+    "bpm": 1,
+    "sv": 4,
+    "notes": {
+      "total": 873,
+      "rice": 814,
+      "ln": 59,
+      "single": 551,
+      "jump": 161,
+      "hand": 0,
+      "quad": 0
+    }
+  },
+  "title": "INSECTICIDE",
+  "artist": "Camellia",
+  "mapper": "Raediaufar",
+  "difficulty": "NOVICE",
+  "beatmapId": "964704",
+  "beatmapSetId": "449590",
+  "hp": "7.5",
+  "od": "7.5"
+}

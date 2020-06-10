@@ -1,0 +1,24 @@
+{
+  "category": "sv1",
+  "counts": {
+    "bpm": 1,
+    "sv": 289,
+    "notes": {
+      "total": 1003,
+      "rice": 878,
+      "ln": 125,
+      "single": 529,
+      "jump": 220,
+      "hand": 10,
+      "quad": 1
+    }
+  },
+  "title": "Flicker",
+  "artist": "Porter Robinson",
+  "mapper": "Hydria",
+  "difficulty": "SV Heaven",
+  "beatmapId": "1045578",
+  "beatmapSetId": "490560",
+  "hp": "8",
+  "od": "8"
+}

@@ -1,0 +1,24 @@
+{
+  "category": "acc2",
+  "counts": {
+    "bpm": 1,
+    "sv": 10,
+    "notes": {
+      "total": 735,
+      "rice": 629,
+      "ln": 106,
+      "single": 339,
+      "jump": 198,
+      "hand": 0,
+      "quad": 0
+    }
+  },
+  "title": "Eternal Prayer",
+  "artist": "Soleily",
+  "mapper": "[ A v a l o n ]",
+  "difficulty": "Medium",
+  "beatmapId": "1103086",
+  "beatmapSetId": "518721",
+  "hp": "7",
+  "od": "7"
+}

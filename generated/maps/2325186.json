@@ -1,0 +1,24 @@
+{
+  "category": "tech2",
+  "counts": {
+    "bpm": 1,
+    "sv": 2,
+    "notes": {
+      "total": 718,
+      "rice": 555,
+      "ln": 163,
+      "single": 523,
+      "jump": 93,
+      "hand": 3,
+      "quad": 0
+    }
+  },
+  "title": "Rainbow Magic!!",
+  "artist": "ARForest",
+  "mapper": "leqek",
+  "difficulty": "4K NM",
+  "beatmapId": "2325186",
+  "beatmapSetId": "1113006",
+  "hp": "7.4",
+  "od": "6.9"
+}

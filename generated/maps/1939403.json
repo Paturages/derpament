@@ -1,0 +1,24 @@
+{
+  "category": "ln1",
+  "counts": {
+    "bpm": 2,
+    "sv": 18,
+    "notes": {
+      "total": 1534,
+      "rice": 420,
+      "ln": 1114,
+      "single": 835,
+      "jump": 329,
+      "hand": 7,
+      "quad": 5
+    }
+  },
+  "title": "RadioCutter",
+  "artist": "Waterflame",
+  "mapper": "TheNewBungping",
+  "difficulty": "Frequency",
+  "beatmapId": "1939403",
+  "beatmapSetId": "928513",
+  "hp": "7",
+  "od": "7"
+}

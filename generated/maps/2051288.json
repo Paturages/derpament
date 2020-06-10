@@ -1,0 +1,24 @@
+{
+  "category": "sv1",
+  "counts": {
+    "bpm": 1,
+    "sv": 1103,
+    "notes": {
+      "total": 858,
+      "rice": 706,
+      "ln": 152,
+      "single": 415,
+      "jump": 211,
+      "hand": 7,
+      "quad": 0
+    }
+  },
+  "title": "Hyou Ryuu",
+  "artist": "THE SxPLAY & KIVA",
+  "mapper": "zero2snow",
+  "difficulty": "Stage 1: Drifted",
+  "beatmapId": "2051288",
+  "beatmapSetId": "980182",
+  "hp": "5",
+  "od": "7"
+}

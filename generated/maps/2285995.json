@@ -1,0 +1,24 @@
+{
+  "category": "ln1",
+  "counts": {
+    "bpm": 1,
+    "sv": 0,
+    "notes": {
+      "total": 731,
+      "rice": 204,
+      "ln": 527,
+      "single": 603,
+      "jump": 64,
+      "hand": 0,
+      "quad": 0
+    }
+  },
+  "title": "Press Start",
+  "artist": "MDK",
+  "mapper": "juankristal",
+  "difficulty": "Newbie",
+  "beatmapId": "2285995",
+  "beatmapSetId": "850118",
+  "hp": "7",
+  "od": "7"
+}

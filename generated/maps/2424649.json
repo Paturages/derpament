@@ -1,0 +1,24 @@
+{
+  "category": "tech-hybrid",
+  "counts": {
+    "bpm": 10,
+    "sv": 0,
+    "notes": {
+      "total": 826,
+      "rice": 705,
+      "ln": 121,
+      "single": 440,
+      "jump": 190,
+      "hand": 2,
+      "quad": 0
+    }
+  },
+  "title": "7thSense",
+  "artist": "Sakuzyo",
+  "mapper": "Raveille",
+  "difficulty": "Stage 5: Eternity",
+  "beatmapId": "2424649",
+  "beatmapSetId": "1162313",
+  "hp": "7",
+  "od": "6.6"
+}

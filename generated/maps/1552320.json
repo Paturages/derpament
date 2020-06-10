@@ -1,0 +1,24 @@
+{
+  "category": "tech2",
+  "counts": {
+    "bpm": 1,
+    "sv": 6,
+    "notes": {
+      "total": 2638,
+      "rice": 2600,
+      "ln": 38,
+      "single": 1576,
+      "jump": 531,
+      "hand": 0,
+      "quad": 0
+    }
+  },
+  "title": "o'er the flood",
+  "artist": "goreshit",
+  "mapper": "Shoegazer",
+  "difficulty": "deluge",
+  "beatmapId": "1552320",
+  "beatmapSetId": "497750",
+  "hp": "8.1",
+  "od": "8.1"
+}

@@ -1,0 +1,24 @@
+{
+  "category": "tech1",
+  "counts": {
+    "bpm": 3,
+    "sv": 178,
+    "notes": {
+      "total": 1339,
+      "rice": 983,
+      "ln": 356,
+      "single": 1098,
+      "jump": 119,
+      "hand": 1,
+      "quad": 0
+    }
+  },
+  "title": "Figue Folle",
+  "artist": "Igorrr & Ruby My Dear",
+  "mapper": "Parachor",
+  "difficulty": "Harsh [Lv.9]",
+  "beatmapId": "903457",
+  "beatmapSetId": "347453",
+  "hp": "7.5",
+  "od": "7.5"
+}

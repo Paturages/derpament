@@ -1,0 +1,24 @@
+{
+  "category": "tech2",
+  "counts": {
+    "bpm": 1,
+    "sv": 0,
+    "notes": {
+      "total": 1081,
+      "rice": 1032,
+      "ln": 49,
+      "single": 599,
+      "jump": 235,
+      "hand": 4,
+      "quad": 0
+    }
+  },
+  "title": "BEDLAM",
+  "artist": "SANY-ON",
+  "mapper": "Nemesis-D",
+  "difficulty": "Lv.8 NM",
+  "beatmapId": "1302342",
+  "beatmapSetId": "617691",
+  "hp": "8",
+  "od": "8"
+}

@@ -1,0 +1,24 @@
+{
+  "category": "sv2",
+  "counts": {
+    "bpm": 1,
+    "sv": 616,
+    "notes": {
+      "total": 1025,
+      "rice": 916,
+      "ln": 109,
+      "single": 172,
+      "jump": 298,
+      "hand": 83,
+      "quad": 2
+    }
+  },
+  "title": "evangelize (blurry images)",
+  "artist": "stereoberry",
+  "mapper": "Tidek",
+  "difficulty": "transparency (SV)",
+  "beatmapId": "1222765",
+  "beatmapSetId": "577748",
+  "hp": "8",
+  "od": "9"
+}

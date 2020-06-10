@@ -1,0 +1,24 @@
+{
+  "category": "acc2",
+  "counts": {
+    "bpm": 1,
+    "sv": 19,
+    "notes": {
+      "total": 959,
+      "rice": 836,
+      "ln": 123,
+      "single": 485,
+      "jump": 237,
+      "hand": 0,
+      "quad": 0
+    }
+  },
+  "title": "Nhelv",
+  "artist": "Silentroom",
+  "mapper": "Leniane",
+  "difficulty": "Normal",
+  "beatmapId": "2410725",
+  "beatmapSetId": "1140163",
+  "hp": "7.5",
+  "od": "7.4"
+}
