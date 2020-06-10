@@ -1,1 +1,23 @@
-{"avatar_url":"https://a.ppy.sh/7260438?1565692087.jpeg","country":{"code":"US","name":"United States"},"id":7260438,"username":"andrekam98","join_date":"2015-10-19T10:31:17+00:00","statistics":{"level":{"current":70,"progress":30},"pp":3904.26,"pp_rank":14912,"ranked_score":745722632,"hit_accuracy":95.7845,"play_count":5258,"play_time":492626,"total_score":2291811050,"total_hits":4769843,"maximum_combo":3264,"replays_watched_by_others":0,"is_ranked":true,"grade_counts":{"ss":2,"ssh":0,"s":504,"sh":4,"a":251},"rank":{"global":14912,"country":1498}}}
+{
+  "avatar_url": "https://a.ppy.sh/7260438?1565692087.jpeg",
+  "country": { "code": "US", "name": "United States" },
+  "id": 7260438,
+  "username": "andrekam98",
+  "join_date": "2015-10-19T10:31:17+00:00",
+  "statistics": {
+    "level": { "current": 70, "progress": 30 },
+    "pp": 3904.26,
+    "pp_rank": 14912,
+    "ranked_score": 745722632,
+    "hit_accuracy": 95.7845,
+    "play_count": 5258,
+    "play_time": 492626,
+    "total_score": 2291811050,
+    "total_hits": 4769843,
+    "maximum_combo": 3264,
+    "replays_watched_by_others": 0,
+    "is_ranked": true,
+    "grade_counts": { "ss": 2, "ssh": 0, "s": 504, "sh": 4, "a": 251 },
+    "rank": { "global": 14912, "country": 1498 }
+  }
+}

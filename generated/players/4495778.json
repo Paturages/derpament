@@ -1,1 +1,23 @@
-{"avatar_url":"https://a.ppy.sh/4495778?1513893057.jpg","country":{"code":"HR","name":"Croatia"},"id":4495778,"username":"JumpingFox","join_date":"2014-06-07T18:55:20+00:00","statistics":{"level":{"current":97,"progress":47},"pp":3832.99,"pp_rank":15603,"ranked_score":2489060720,"hit_accuracy":94.7619,"play_count":27971,"play_time":1790972,"total_score":10921260184,"total_hits":16979073,"maximum_combo":2644,"replays_watched_by_others":9,"is_ranked":true,"grade_counts":{"ss":115,"ssh":17,"s":1503,"sh":677,"a":303},"rank":{"global":15603,"country":9}}}
+{
+  "avatar_url": "https://a.ppy.sh/4495778?1513893057.jpg",
+  "country": { "code": "HR", "name": "Croatia" },
+  "id": 4495778,
+  "username": "JumpingFox",
+  "join_date": "2014-06-07T18:55:20+00:00",
+  "statistics": {
+    "level": { "current": 97, "progress": 47 },
+    "pp": 3832.99,
+    "pp_rank": 15603,
+    "ranked_score": 2489060720,
+    "hit_accuracy": 94.7619,
+    "play_count": 27971,
+    "play_time": 1790972,
+    "total_score": 10921260184,
+    "total_hits": 16979073,
+    "maximum_combo": 2644,
+    "replays_watched_by_others": 9,
+    "is_ranked": true,
+    "grade_counts": { "ss": 115, "ssh": 17, "s": 1503, "sh": 677, "a": 303 },
+    "rank": { "global": 15603, "country": 9 }
+  }
+}

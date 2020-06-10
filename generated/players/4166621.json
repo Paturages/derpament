@@ -1,1 +1,23 @@
-{"avatar_url":"https://a.ppy.sh/4166621?1590081035.jpeg","country":{"code":"AU","name":"Australia"},"id":4166621,"username":"- Heatwave -","join_date":"2014-03-21T08:50:34+00:00","statistics":{"level":{"current":61,"progress":63},"pp":2220.68,"pp_rank":39543,"ranked_score":340372678,"hit_accuracy":95.5161,"play_count":4473,"play_time":248614,"total_score":1542109628,"total_hits":1756677,"maximum_combo":2131,"replays_watched_by_others":1,"is_ranked":true,"grade_counts":{"ss":12,"ssh":0,"s":242,"sh":0,"a":100},"rank":{"global":39543,"country":581}}}
+{
+  "avatar_url": "https://a.ppy.sh/4166621?1590081035.jpeg",
+  "country": { "code": "AU", "name": "Australia" },
+  "id": 4166621,
+  "username": "- Heatwave -",
+  "join_date": "2014-03-21T08:50:34+00:00",
+  "statistics": {
+    "level": { "current": 61, "progress": 63 },
+    "pp": 2220.68,
+    "pp_rank": 39543,
+    "ranked_score": 340372678,
+    "hit_accuracy": 95.5161,
+    "play_count": 4473,
+    "play_time": 248614,
+    "total_score": 1542109628,
+    "total_hits": 1756677,
+    "maximum_combo": 2131,
+    "replays_watched_by_others": 1,
+    "is_ranked": true,
+    "grade_counts": { "ss": 12, "ssh": 0, "s": 242, "sh": 0, "a": 100 },
+    "rank": { "global": 39543, "country": 581 }
+  }
+}

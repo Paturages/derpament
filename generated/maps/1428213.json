@@ -1,1 +1,24 @@
-{"category":"tb","counts":{"bpm":2,"sv":141,"notes":{"total":3192,"rice":2466,"ln":726,"single":1806,"jump":470,"hand":146,"quad":2}},"title":"Stray Star","artist":"nayuta","mapper":"Virtue-","difficulty":"Deviant Star","beatmapId":"1428213","beatmapSetId":"675074","hp":"8.5","od":"8.5","length":null}
+{
+  "category": "tb",
+  "counts": {
+    "bpm": 2,
+    "sv": 139,
+    "notes": {
+      "total": 3191,
+      "rice": 2465,
+      "ln": 726,
+      "single": 1805,
+      "jump": 470,
+      "hand": 146,
+      "quad": 2
+    }
+  },
+  "title": "Stray Star",
+  "artist": "nayuta",
+  "mapper": "Virtue-",
+  "difficulty": "Deviant Star",
+  "beatmapId": "1428213",
+  "beatmapSetId": "675074",
+  "hp": "8.5",
+  "od": "8.5"
+}

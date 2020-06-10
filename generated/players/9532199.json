@@ -1,1 +1,23 @@
-{"avatar_url":"https://a.ppy.sh/9532199?1591045916.jpeg","country":{"code":"AR","name":"Argentina"},"id":9532199,"username":"CoyaKawaii","join_date":"2017-01-06T02:49:39+00:00","statistics":{"level":{"current":75,"progress":55},"pp":5063.79,"pp_rank":7267,"ranked_score":724139699,"hit_accuracy":96.1129,"play_count":8670,"play_time":564069,"total_score":2847002754,"total_hits":5020631,"maximum_combo":3186,"replays_watched_by_others":1,"is_ranked":true,"grade_counts":{"ss":25,"ssh":1,"s":646,"sh":50,"a":53},"rank":{"global":7267,"country":95}}}
+{
+  "avatar_url": "https://a.ppy.sh/9532199?1591045916.jpeg",
+  "country": { "code": "AR", "name": "Argentina" },
+  "id": 9532199,
+  "username": "CoyaKawaii",
+  "join_date": "2017-01-06T02:49:39+00:00",
+  "statistics": {
+    "level": { "current": 75, "progress": 55 },
+    "pp": 5063.79,
+    "pp_rank": 7267,
+    "ranked_score": 724139699,
+    "hit_accuracy": 96.1129,
+    "play_count": 8670,
+    "play_time": 564069,
+    "total_score": 2847002754,
+    "total_hits": 5020631,
+    "maximum_combo": 3186,
+    "replays_watched_by_others": 1,
+    "is_ranked": true,
+    "grade_counts": { "ss": 25, "ssh": 1, "s": 646, "sh": 50, "a": 53 },
+    "rank": { "global": 7267, "country": 95 }
+  }
+}

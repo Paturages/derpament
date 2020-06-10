@@ -1,1 +1,23 @@
-{"avatar_url":"https://a.ppy.sh/8968772?1557216396.jpeg","country":{"code":"PH","name":"Philippines"},"id":8968772,"username":"ApathyOSU","join_date":"2016-09-08T13:57:08+00:00","statistics":{"level":{"current":76,"progress":65},"pp":2814.97,"pp_rank":28324,"ranked_score":608190677,"hit_accuracy":96.7083,"play_count":8892,"play_time":420276,"total_score":2974006971,"total_hits":3061737,"maximum_combo":2502,"replays_watched_by_others":2,"is_ranked":true,"grade_counts":{"ss":17,"ssh":0,"s":583,"sh":0,"a":55},"rank":{"global":28324,"country":1091}}}
+{
+  "avatar_url": "https://a.ppy.sh/8968772?1557216396.jpeg",
+  "country": { "code": "PH", "name": "Philippines" },
+  "id": 8968772,
+  "username": "ApathyOSU",
+  "join_date": "2016-09-08T13:57:08+00:00",
+  "statistics": {
+    "level": { "current": 76, "progress": 65 },
+    "pp": 2814.97,
+    "pp_rank": 28324,
+    "ranked_score": 608190677,
+    "hit_accuracy": 96.7083,
+    "play_count": 8892,
+    "play_time": 420276,
+    "total_score": 2974006971,
+    "total_hits": 3061737,
+    "maximum_combo": 2502,
+    "replays_watched_by_others": 2,
+    "is_ranked": true,
+    "grade_counts": { "ss": 17, "ssh": 0, "s": 583, "sh": 0, "a": 55 },
+    "rank": { "global": 28324, "country": 1091 }
+  }
+}

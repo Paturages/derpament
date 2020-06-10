@@ -1,0 +1,1046 @@
+{
+  "name": "Mania Beginner's Showdown 2 (High Bracket)",
+  "stages": [
+    { "id": "1.qualifiers", "name": "Qualifiers", "mapCount": 5 },
+    { "id": "2.groups", "name": "Group Stage", "mapCount": 12 },
+    { "id": "3.ro32", "name": "Round of 32", "mapCount": 12 },
+    { "id": "4.ro16", "name": "Round of 16", "mapCount": 15 }
+  ],
+  "players": {
+    "195946": {
+      "id": 195946,
+      "name": "woahsia",
+      "avatar": "https://a.ppy.sh/195946?1588003916.jpeg",
+      "country": "Singapore",
+      "pp": 4123.4,
+      "rank": 13023,
+      "countryRank": 138
+    },
+    "513834": {
+      "id": 513834,
+      "name": "Katsumi",
+      "avatar": "https://a.ppy.sh/513834?1574705564.png",
+      "country": "Germany",
+      "pp": 3049.29,
+      "rank": 24823,
+      "countryRank": 421
+    },
+    "1375479": {
+      "id": 1375479,
+      "name": "Paturages",
+      "avatar": "https://a.ppy.sh/1375479?1571575965.jpeg",
+      "country": "France",
+      "pp": 4641.89,
+      "rank": 9405,
+      "countryRank": 214
+    },
+    "1929336": {
+      "id": 1929336,
+      "name": "sumippe",
+      "avatar": "https://a.ppy.sh/1929336?1591374027.jpeg",
+      "country": "Indonesia",
+      "pp": 5320.17,
+      "rank": 6236,
+      "countryRank": 432
+    },
+    "2181508": {
+      "id": 2181508,
+      "name": "Jaldo",
+      "avatar": "https://a.ppy.sh/2181508?1480507755.jpg",
+      "country": "Australia",
+      "pp": 3541.88,
+      "rank": 18676,
+      "countryRank": 270
+    },
+    "2931858": {
+      "id": 2931858,
+      "name": "Nuketea",
+      "avatar": "https://a.ppy.sh/2931858?1560751984.jpeg",
+      "country": "Canada",
+      "pp": 4370.06,
+      "rank": 11167,
+      "countryRank": 269
+    },
+    "3263816": {
+      "id": 3263816,
+      "name": "Smosism",
+      "avatar": "https://a.ppy.sh/3263816?1521721286.jpeg",
+      "country": "Brazil",
+      "pp": 2915.49,
+      "rank": 26734,
+      "countryRank": 499
+    },
+    "3367798": {
+      "id": 3367798,
+      "name": "ButcherG",
+      "avatar": "https://a.ppy.sh/3367798?1586016760.jpeg",
+      "country": "Portugal",
+      "pp": 2214.66,
+      "rank": 39704,
+      "countryRank": 65
+    },
+    "4166621": {
+      "id": 4166621,
+      "name": "- Heatwave -",
+      "avatar": "https://a.ppy.sh/4166621?1590081035.jpeg",
+      "country": "Australia",
+      "pp": 2220.68,
+      "rank": 39543,
+      "countryRank": 581
+    },
+    "4211179": {
+      "id": 4211179,
+      "name": "[Hakura_San]",
+      "avatar": "https://a.ppy.sh/4211179?1590484155.png",
+      "country": "Thailand",
+      "pp": 4169.05,
+      "rank": 12643,
+      "countryRank": 281
+    },
+    "4450549": {
+      "id": 4450549,
+      "name": "joako 321",
+      "avatar": "https://a.ppy.sh/4450549?1588621258.jpeg",
+      "country": "Chile",
+      "pp": 3932.48,
+      "rank": 14632,
+      "countryRank": 262
+    },
+    "4495778": {
+      "id": 4495778,
+      "name": "JumpingFox",
+      "avatar": "https://a.ppy.sh/4495778?1513893057.jpg",
+      "country": "Croatia",
+      "pp": 3832.99,
+      "rank": 15603,
+      "countryRank": 9
+    },
+    "4533507": {
+      "id": 4533507,
+      "name": "Hanik",
+      "avatar": "https://a.ppy.sh/4533507?1591708412.jpeg",
+      "country": "Brazil",
+      "pp": 3893.98,
+      "rank": 15000,
+      "countryRank": 288
+    },
+    "4628759": {
+      "id": 4628759,
+      "name": "RockBooz",
+      "avatar": "https://a.ppy.sh/4628759?1585109661.jpeg",
+      "country": "Indonesia",
+      "pp": 2736.83,
+      "rank": 29598,
+      "countryRank": 2514
+    },
+    "4810150": {
+      "id": 4810150,
+      "name": "[Dose]",
+      "avatar": "https://a.ppy.sh/4810150?1587511461.jpeg",
+      "country": "Canada",
+      "pp": 2272.2,
+      "rank": 38375,
+      "countryRank": 936
+    },
+    "4833654": {
+      "id": 4833654,
+      "name": "Ladybug",
+      "avatar": "https://a.ppy.sh/4833654?1587158768.jpeg",
+      "country": "France",
+      "pp": 2596.84,
+      "rank": 31964,
+      "countryRank": 885
+    },
+    "5028866": {
+      "id": 5028866,
+      "name": "ibacot",
+      "avatar": "https://a.ppy.sh/5028866?1484564199.jpg",
+      "country": "Indonesia",
+      "pp": 3191.81,
+      "rank": 22896,
+      "countryRank": 1911
+    },
+    "5069913": {
+      "id": 5069913,
+      "name": "loli_seale",
+      "avatar": "https://a.ppy.sh/5069913?1523199388.jpeg",
+      "country": "Singapore",
+      "pp": 4791.53,
+      "rank": 8534,
+      "countryRank": 97
+    },
+    "6037121": {
+      "id": 6037121,
+      "name": "TNKSTC",
+      "avatar": "https://a.ppy.sh/6037121?1551797137.jpeg",
+      "country": "Thailand",
+      "pp": 3289.72,
+      "rank": 21660,
+      "countryRank": 470
+    },
+    "6175459": {
+      "id": 6175459,
+      "name": "Mintorment",
+      "avatar": "https://a.ppy.sh/6175459?1581165639.jpeg",
+      "country": "Australia",
+      "pp": 2155.67,
+      "rank": 41112,
+      "countryRank": 608
+    },
+    "6180024": {
+      "id": 6180024,
+      "name": "ph03n1x",
+      "avatar": "https://a.ppy.sh/6180024?1588363610.png",
+      "country": "United States",
+      "pp": 3215.52,
+      "rank": 22577,
+      "countryRank": 2375
+    },
+    "6186473": {
+      "id": 6186473,
+      "name": "Parax_UnDeath",
+      "avatar": "https://a.ppy.sh/6186473?1564964491.jpeg",
+      "country": "Germany",
+      "pp": 4204.27,
+      "rank": 12368,
+      "countryRank": 192
+    },
+    "6193165": {
+      "id": 6193165,
+      "name": "DK Beatbox",
+      "avatar": "https://a.ppy.sh/6193165?1547067786.jpeg",
+      "country": "Poland",
+      "pp": 3046.39,
+      "rank": 24861,
+      "countryRank": 315
+    },
+    "6497601": {
+      "id": 6497601,
+      "name": "ThomasTheDank",
+      "avatar": "https://a.ppy.sh/6497601?1573350463.jpeg",
+      "country": "United States",
+      "pp": 2284.19,
+      "rank": 38125,
+      "countryRank": 4101
+    },
+    "6752116": {
+      "id": 6752116,
+      "name": "Arraxey",
+      "avatar": "https://a.ppy.sh/6752116?1589407143.png",
+      "country": "United States",
+      "pp": 3168.58,
+      "rank": 23202,
+      "countryRank": 2445
+    },
+    "6867235": {
+      "id": 6867235,
+      "name": "stickilas",
+      "avatar": "https://a.ppy.sh/6867235?1590275147.jpeg",
+      "country": "Canada",
+      "pp": 5129,
+      "rank": 7010,
+      "countryRank": 168
+    },
+    "7246165": {
+      "id": 7246165,
+      "name": "KagenoKami",
+      "avatar": "https://a.ppy.sh/7246165?1590774887.png",
+      "country": "Philippines",
+      "pp": 4695.71,
+      "rank": 9094,
+      "countryRank": 321
+    },
+    "7260438": {
+      "id": 7260438,
+      "name": "andrekam98",
+      "avatar": "https://a.ppy.sh/7260438?1565692087.jpeg",
+      "country": "United States",
+      "pp": 3904.26,
+      "rank": 14912,
+      "countryRank": 1498
+    },
+    "7286850": {
+      "id": 7286850,
+      "name": "Iambosszie",
+      "avatar": "https://a.ppy.sh/7286850?1590495574.png",
+      "country": "Thailand",
+      "pp": 4636.12,
+      "rank": 9439,
+      "countryRank": 213
+    },
+    "7304344": {
+      "id": 7304344,
+      "name": "MonsterFighterP",
+      "avatar": "https://a.ppy.sh/7304344?1585672579.png",
+      "country": "Germany",
+      "pp": 4204.23,
+      "rank": 12366,
+      "countryRank": 193
+    },
+    "7306698": {
+      "id": 7306698,
+      "name": "1103",
+      "avatar": "https://a.ppy.sh/7306698?1591503656.gif",
+      "country": "United States",
+      "pp": 4254.74,
+      "rank": 11977,
+      "countryRank": 1184
+    },
+    "7317377": {
+      "id": 7317377,
+      "name": "Djink",
+      "avatar": "https://a.ppy.sh/7317377?1590760357.jpeg",
+      "country": "France",
+      "pp": 3591.22,
+      "rank": 18145,
+      "countryRank": 455
+    },
+    "7318863": {
+      "id": 7318863,
+      "name": "Tirile",
+      "avatar": "https://a.ppy.sh/7318863?1589786760.jpeg",
+      "country": "France",
+      "pp": 4549.45,
+      "rank": 9978,
+      "countryRank": 237
+    },
+    "7849422": {
+      "id": 7849422,
+      "name": "xelied",
+      "avatar": "https://a.ppy.sh/7849422?1580866429.jpeg",
+      "country": "France",
+      "pp": 4577.01,
+      "rank": 9811,
+      "countryRank": 229
+    },
+    "8134650": {
+      "id": 8134650,
+      "name": "UnitedWeGhost",
+      "avatar": "https://a.ppy.sh/8134650?1582675727.jpeg",
+      "country": "United States",
+      "pp": 3293.75,
+      "rank": 21604,
+      "countryRank": 2245
+    },
+    "8250678": {
+      "id": 8250678,
+      "name": "Fl0oW",
+      "avatar": "https://a.ppy.sh/8250678?1590758048.jpeg",
+      "country": "France",
+      "pp": 3813.29,
+      "rank": 15812,
+      "countryRank": 377
+    },
+    "8379046": {
+      "id": 8379046,
+      "name": "AmateurMonkeyYT",
+      "avatar": "https://a.ppy.sh/8379046?1586932824.jpeg",
+      "country": "Australia",
+      "pp": 3923.27,
+      "rank": 14727,
+      "countryRank": 209
+    },
+    "8558578": {
+      "id": 8558578,
+      "name": "zakis6playz",
+      "avatar": "https://a.ppy.sh/8558578?1587823892.jpeg",
+      "country": "Norway",
+      "pp": 2965.41,
+      "rank": 26016,
+      "countryRank": 127
+    },
+    "8567036": {
+      "id": 8567036,
+      "name": "KizXii",
+      "avatar": "https://a.ppy.sh/8567036?1551543483.jpeg",
+      "country": "Malaysia",
+      "pp": 3750.85,
+      "rank": 16470,
+      "countryRank": 398
+    },
+    "8576168": {
+      "id": 8576168,
+      "name": "antip0is0n",
+      "avatar": "https://a.ppy.sh/8576168?1584655969.jpeg",
+      "country": "Germany",
+      "pp": 4510.05,
+      "rank": 10246,
+      "countryRank": 156
+    },
+    "8642224": {
+      "id": 8642224,
+      "name": "Konohana Lucia",
+      "avatar": "https://a.ppy.sh/8642224?1591671511.jpeg",
+      "country": "Brazil",
+      "pp": 4592.2,
+      "rank": 9710,
+      "countryRank": 194
+    },
+    "8684540": {
+      "id": 8684540,
+      "name": "Logg45vs",
+      "avatar": "https://a.ppy.sh/8684540?1573142641.png",
+      "country": "Sweden",
+      "pp": 4218.82,
+      "rank": 12263,
+      "countryRank": 82
+    },
+    "8694649": {
+      "id": 8694649,
+      "name": "DrugManager",
+      "avatar": "https://a.ppy.sh/8694649?1591371239.png",
+      "country": "Germany",
+      "pp": 3815.18,
+      "rank": 15782,
+      "countryRank": 237
+    },
+    "8720555": {
+      "id": 8720555,
+      "name": "StartAndSelect",
+      "avatar": "https://a.ppy.sh/8720555?1588130800.jpeg",
+      "country": "United Kingdom",
+      "pp": 3650.73,
+      "rank": 17515,
+      "countryRank": 333
+    },
+    "8925266": {
+      "id": 8925266,
+      "name": "Haadez",
+      "avatar": "https://a.ppy.sh/8925266?1591095640.jpeg",
+      "country": "Finland",
+      "pp": 3216.3,
+      "rank": 22567,
+      "countryRank": 231
+    },
+    "8931788": {
+      "id": 8931788,
+      "name": "Daeng Simatta",
+      "avatar": "https://a.ppy.sh/8931788?1586825732.jpeg",
+      "country": "Indonesia",
+      "pp": 2151.63,
+      "rank": 41212,
+      "countryRank": 3612
+    },
+    "8934975": {
+      "id": 8934975,
+      "name": "Wassero",
+      "avatar": "https://a.ppy.sh/8934975?1477422305.jpg",
+      "country": "United Kingdom",
+      "pp": 3846.63,
+      "rank": 15475,
+      "countryRank": 298
+    },
+    "8968772": {
+      "id": 8968772,
+      "name": "ApathyOSU",
+      "avatar": "https://a.ppy.sh/8968772?1557216396.jpeg",
+      "country": "Philippines",
+      "pp": 2814.97,
+      "rank": 28324,
+      "countryRank": 1091
+    },
+    "9041586": {
+      "id": 9041586,
+      "name": "NyroxPGM",
+      "avatar": "https://a.ppy.sh/9041586?1589218769.jpeg",
+      "country": "France",
+      "pp": 4065.28,
+      "rank": 13480,
+      "countryRank": 320
+    },
+    "9048451": {
+      "id": 9048451,
+      "name": "XxTheJKxX",
+      "avatar": "https://a.ppy.sh/9048451?1571563284.jpeg",
+      "country": "Malaysia",
+      "pp": 4237.04,
+      "rank": 12127,
+      "countryRank": 299
+    },
+    "9113955": {
+      "id": 9113955,
+      "name": "ReZ_TB",
+      "avatar": "https://a.ppy.sh/9113955?1591640519.jpeg",
+      "country": "Indonesia",
+      "pp": 4009.11,
+      "rank": 14001,
+      "countryRank": 1100
+    },
+    "9459332": {
+      "id": 9459332,
+      "name": "febrezi",
+      "avatar": "https://a.ppy.sh/9459332?1588196315.jpeg",
+      "country": "Russian Federation",
+      "pp": 4042.62,
+      "rank": 13682,
+      "countryRank": 262
+    },
+    "9529504": {
+      "id": 9529504,
+      "name": "Mierf",
+      "avatar": "https://a.ppy.sh/9529504?1588427784.jpeg",
+      "country": "Netherlands",
+      "pp": 4742.88,
+      "rank": 8802,
+      "countryRank": 62
+    },
+    "9532199": {
+      "id": 9532199,
+      "name": "CoyaKawaii",
+      "avatar": "https://a.ppy.sh/9532199?1591045916.jpeg",
+      "country": "Argentina",
+      "pp": 5063.79,
+      "rank": 7267,
+      "countryRank": 95
+    },
+    "9671048": {
+      "id": 9671048,
+      "name": "- PLARHELLME -",
+      "avatar": "https://a.ppy.sh/9671048?1587795099.jpeg",
+      "country": "Thailand",
+      "pp": 4386.67,
+      "rank": 11045,
+      "countryRank": 249
+    },
+    "9700990": {
+      "id": 9700990,
+      "name": "Screeply",
+      "avatar": "https://a.ppy.sh/9700990?1588647398.jpeg",
+      "country": "Argentina",
+      "pp": 3992.86,
+      "rank": 14132,
+      "countryRank": 187
+    },
+    "9742934": {
+      "id": 9742934,
+      "name": "frisbii",
+      "avatar": "https://a.ppy.sh/9742934?1569970975.jpeg",
+      "country": "United Kingdom",
+      "pp": 4263.58,
+      "rank": 11910,
+      "countryRank": 225
+    },
+    "9768438": {
+      "id": 9768438,
+      "name": "nalo_",
+      "avatar": "https://a.ppy.sh/9768438?1586263142.jpeg",
+      "country": "France",
+      "pp": 4310.96,
+      "rank": 11588,
+      "countryRank": 274
+    },
+    "9896619": {
+      "id": 9896619,
+      "name": "Pelzig",
+      "avatar": "https://a.ppy.sh/9896619?1582942602.jpeg",
+      "country": "United States",
+      "pp": 4119.81,
+      "rank": 13050,
+      "countryRank": 1301
+    },
+    "9908055": {
+      "id": 9908055,
+      "name": "Ihram-San",
+      "avatar": "https://a.ppy.sh/9908055?1591698114.jpeg",
+      "country": "Indonesia",
+      "pp": 4318.97,
+      "rank": 11537,
+      "countryRank": 888
+    },
+    "10080805": {
+      "id": 10080805,
+      "name": "Iajaygames",
+      "avatar": "https://a.ppy.sh/10080805?1577238408.jpeg",
+      "country": "United Kingdom",
+      "pp": 3404.26,
+      "rank": 20301,
+      "countryRank": 379
+    },
+    "10151149": {
+      "id": 10151149,
+      "name": "ianlau2",
+      "avatar": "https://a.ppy.sh/10151149?1550321953.jpeg",
+      "country": "Malaysia",
+      "pp": 3165.02,
+      "rank": 23243,
+      "countryRank": 549
+    },
+    "10313176": {
+      "id": 10313176,
+      "name": "YaBoiKarito",
+      "avatar": "https://a.ppy.sh/10313176?1506129881.png",
+      "country": "United States",
+      "pp": 2262.85,
+      "rank": 38580,
+      "countryRank": 4158
+    },
+    "10523842": {
+      "id": 10523842,
+      "name": "victior",
+      "avatar": "/images/layout/avatar-guest.png",
+      "country": "France",
+      "pp": 3300.16,
+      "rank": 21542,
+      "countryRank": 570
+    },
+    "10540735": {
+      "id": 10540735,
+      "name": "Asymmetrical",
+      "avatar": "https://a.ppy.sh/10540735?1548905880.jpeg",
+      "country": "United States",
+      "pp": 3248.4,
+      "rank": 22151,
+      "countryRank": 2325
+    },
+    "10542408": {
+      "id": 10542408,
+      "name": "DanX",
+      "avatar": "https://a.ppy.sh/10542408?1579839163.png",
+      "country": "Vietnam",
+      "pp": 4486.64,
+      "rank": 10402,
+      "countryRank": 145
+    },
+    "10556718": {
+      "id": 10556718,
+      "name": "AlanProfits",
+      "avatar": "https://a.ppy.sh/10556718?1590560096.jpeg",
+      "country": "United States",
+      "pp": 3659.46,
+      "rank": 17414,
+      "countryRank": 1754
+    },
+    "10738928": {
+      "id": 10738928,
+      "name": "Dhaxy",
+      "avatar": "https://a.ppy.sh/10738928?1587794200.jpeg",
+      "country": "Indonesia",
+      "pp": 4540.88,
+      "rank": 10029,
+      "countryRank": 754
+    },
+    "11069680": {
+      "id": 11069680,
+      "name": "KingTaiki",
+      "avatar": "https://a.ppy.sh/11069680?1589496790.jpeg",
+      "country": "United States",
+      "pp": 4134.16,
+      "rank": 12933,
+      "countryRank": 1290
+    },
+    "11087123": {
+      "id": 11087123,
+      "name": "-NC KJ-",
+      "avatar": "https://a.ppy.sh/11087123?1589112981.jpeg",
+      "country": "Thailand",
+      "pp": 4070.43,
+      "rank": 13445,
+      "countryRank": 301
+    },
+    "11115513": {
+      "id": 11115513,
+      "name": "IIKanameII",
+      "avatar": "https://a.ppy.sh/11115513?1552404900.jpeg",
+      "country": "United States",
+      "pp": 2819.24,
+      "rank": 28274,
+      "countryRank": 2998
+    },
+    "11133661": {
+      "id": 11133661,
+      "name": "Saltify",
+      "avatar": "https://a.ppy.sh/11133661?1587454820.gif",
+      "country": "Singapore",
+      "pp": 5433.29,
+      "rank": 5849,
+      "countryRank": 59
+    },
+    "11158588": {
+      "id": 11158588,
+      "name": "nazerty68",
+      "avatar": "https://a.ppy.sh/11158588?1580325131.jpeg",
+      "country": "France",
+      "pp": 4114.41,
+      "rank": 13095,
+      "countryRank": 311
+    },
+    "11159223": {
+      "id": 11159223,
+      "name": "YannB",
+      "avatar": "https://a.ppy.sh/11159223?1564234977.jpeg",
+      "country": "France",
+      "pp": 3627.05,
+      "rank": 17750,
+      "countryRank": 444
+    },
+    "11207771": {
+      "id": 11207771,
+      "name": "Sinhcuvvia",
+      "avatar": "https://a.ppy.sh/11207771?1544689894.jpeg",
+      "country": "United States",
+      "pp": 2537.32,
+      "rank": 32967,
+      "countryRank": 3536
+    },
+    "11216472": {
+      "id": 11216472,
+      "name": "Panda_0ne",
+      "avatar": "https://a.ppy.sh/11216472?1586880081.jpeg",
+      "country": "France",
+      "pp": 3910.03,
+      "rank": 14867,
+      "countryRank": 355
+    },
+    "11315427": {
+      "id": 11315427,
+      "name": "Knot",
+      "avatar": "https://a.ppy.sh/11315427?1586116668.jpeg",
+      "country": "United Kingdom",
+      "pp": 3341.25,
+      "rank": 21024,
+      "countryRank": 396
+    },
+    "11386137": {
+      "id": 11386137,
+      "name": "xTraxus",
+      "avatar": "https://a.ppy.sh/11386137?1579016504.png",
+      "country": "United States",
+      "pp": 3429.28,
+      "rank": 19988,
+      "countryRank": 2055
+    },
+    "11404841": {
+      "id": 11404841,
+      "name": "Mokip",
+      "avatar": "https://a.ppy.sh/11404841?1590248621.jpeg",
+      "country": "France",
+      "pp": 2892.26,
+      "rank": 27123,
+      "countryRank": 748
+    },
+    "11664177": {
+      "id": 11664177,
+      "name": "NovaSagittarii",
+      "avatar": "https://a.ppy.sh/11664177?1564442390.png",
+      "country": "United States",
+      "pp": 4012.33,
+      "rank": 13960,
+      "countryRank": 1393
+    },
+    "11694276": {
+      "id": 11694276,
+      "name": "playCAP",
+      "avatar": "https://a.ppy.sh/11694276?1559423588.jpeg",
+      "country": "Ireland",
+      "pp": 2704.38,
+      "rank": 30114,
+      "countryRank": 29
+    },
+    "12187039": {
+      "id": 12187039,
+      "name": "zeXpulse",
+      "avatar": "https://a.ppy.sh/12187039?1586785687.jpeg",
+      "country": "Russian Federation",
+      "pp": 3650.99,
+      "rank": 17507,
+      "countryRank": 346
+    },
+    "12214401": {
+      "id": 12214401,
+      "name": "DovaCube",
+      "avatar": "https://a.ppy.sh/12214401?1589731399.jpeg",
+      "country": "France",
+      "pp": 4869.09,
+      "rank": 8122,
+      "countryRank": 183
+    },
+    "12278022": {
+      "id": 12278022,
+      "name": "Ferdz-",
+      "avatar": "https://a.ppy.sh/12278022?1587978686.jpeg",
+      "country": "Indonesia",
+      "pp": 4170.67,
+      "rank": 12631,
+      "countryRank": 994
+    },
+    "12295635": {
+      "id": 12295635,
+      "name": "Proc",
+      "avatar": "https://a.ppy.sh/12295635?1559460896.jpeg",
+      "country": "United States",
+      "pp": 3654.06,
+      "rank": 17470,
+      "countryRank": 1765
+    },
+    "12392840": {
+      "id": 12392840,
+      "name": "CaesarSalad99",
+      "avatar": "https://a.ppy.sh/12392840?1559276626.jpeg",
+      "country": "Canada",
+      "pp": 2363.05,
+      "rank": 36484,
+      "countryRank": 882
+    },
+    "12544475": {
+      "id": 12544475,
+      "name": "-Tenma-",
+      "avatar": "https://a.ppy.sh/12544475?1588447394.jpeg",
+      "country": "Russian Federation",
+      "pp": 4375.53,
+      "rank": 11128,
+      "countryRank": 210
+    },
+    "12586864": {
+      "id": 12586864,
+      "name": "cakeboss05",
+      "avatar": "https://a.ppy.sh/12586864?1591667601.jpeg",
+      "country": "Germany",
+      "pp": 3879.04,
+      "rank": 15162,
+      "countryRank": 231
+    },
+    "12621947": {
+      "id": 12621947,
+      "name": "FarmMyLife",
+      "avatar": "https://a.ppy.sh/12621947?1591001977.jpeg",
+      "country": "Thailand",
+      "pp": 5435.99,
+      "rank": 5845,
+      "countryRank": 139
+    },
+    "12755411": {
+      "id": 12755411,
+      "name": "Dai-jo-bu",
+      "avatar": "https://a.ppy.sh/12755411?1566074671.jpeg",
+      "country": "Brazil",
+      "pp": 3513.55,
+      "rank": 19041,
+      "countryRank": 350
+    },
+    "12894120": {
+      "id": 12894120,
+      "name": "Lazereed",
+      "avatar": "https://a.ppy.sh/12894120?1586731543.jpeg",
+      "country": "Philippines",
+      "pp": 4418.54,
+      "rank": 10825,
+      "countryRank": 382
+    },
+    "12900042": {
+      "id": 12900042,
+      "name": "Decrescendo",
+      "avatar": "https://a.ppy.sh/12900042?1589881255.png",
+      "country": "Denmark",
+      "pp": 3338.3,
+      "rank": 21054,
+      "countryRank": 67
+    },
+    "12936012": {
+      "id": 12936012,
+      "name": "Sh1ftingOwO",
+      "avatar": "https://a.ppy.sh/12936012?1584963628.jpeg",
+      "country": "Philippines",
+      "pp": 2429.97,
+      "rank": 35085,
+      "countryRank": 1379
+    },
+    "13021141": {
+      "id": 13021141,
+      "name": "uwuchuchuu",
+      "avatar": "https://a.ppy.sh/13021141?1590949294.jpeg",
+      "country": "Thailand",
+      "pp": 4612.21,
+      "rank": 9581,
+      "countryRank": 217
+    },
+    "13051350": {
+      "id": 13051350,
+      "name": "DarkPlayzYT",
+      "avatar": "https://a.ppy.sh/13051350?1585431128.jpeg",
+      "country": "Nicaragua",
+      "pp": 3486.42,
+      "rank": 19320,
+      "countryRank": 6
+    },
+    "13054446": {
+      "id": 13054446,
+      "name": "Psycho_Lab",
+      "avatar": "https://a.ppy.sh/13054446?1591204944.jpeg",
+      "country": "Thailand",
+      "pp": 4222.55,
+      "rank": 12227,
+      "countryRank": 275
+    },
+    "13273779": {
+      "id": 13273779,
+      "name": "Rain x Umbrella",
+      "avatar": "https://a.ppy.sh/13273779?1590805504.jpeg",
+      "country": "Indonesia",
+      "pp": 4291.8,
+      "rank": 11704,
+      "countryRank": 903
+    },
+    "13340841": {
+      "id": 13340841,
+      "name": "SochnyiKokos",
+      "avatar": "https://a.ppy.sh/13340841?1541210728.jpeg",
+      "country": "France",
+      "pp": 4466.42,
+      "rank": 10535,
+      "countryRank": 249
+    },
+    "13399705": {
+      "id": 13399705,
+      "name": "dedalord3000",
+      "avatar": "/images/layout/avatar-guest.png",
+      "country": "Singapore",
+      "pp": 3149.22,
+      "rank": 23455,
+      "countryRank": 249
+    },
+    "13592970": {
+      "id": 13592970,
+      "name": "OhDeMills",
+      "avatar": "https://a.ppy.sh/13592970?1564264900.png",
+      "country": "United Kingdom",
+      "pp": 2621.07,
+      "rank": 31534,
+      "countryRank": 607
+    },
+    "13625115": {
+      "id": 13625115,
+      "name": "Anthrox69",
+      "avatar": "https://a.ppy.sh/13625115?1584099009.jpeg",
+      "country": "Andorra",
+      "pp": 2228.09,
+      "rank": 39377,
+      "countryRank": 1
+    },
+    "13663757": {
+      "id": 13663757,
+      "name": "-Julio",
+      "avatar": "https://a.ppy.sh/13663757?1588442778.jpeg",
+      "country": "Dominican Republic",
+      "pp": 4332.12,
+      "rank": 11428,
+      "countryRank": 7
+    },
+    "13811400": {
+      "id": 13811400,
+      "name": "NeuralG",
+      "avatar": "https://a.ppy.sh/13811400?1584442881.png",
+      "country": "Turkey",
+      "pp": 2131.32,
+      "rank": 41724,
+      "countryRank": 80
+    },
+    "13942150": {
+      "id": 13942150,
+      "name": "CrashSmash",
+      "avatar": "https://a.ppy.sh/13942150?1573317215.jpeg",
+      "country": "Switzerland",
+      "pp": 4842.37,
+      "rank": 8271,
+      "countryRank": 11
+    },
+    "14093030": {
+      "id": 14093030,
+      "name": "maestro18plus",
+      "avatar": "https://a.ppy.sh/14093030?1586762934.jpeg",
+      "country": "Indonesia",
+      "pp": 3813.86,
+      "rank": 15805,
+      "countryRank": 1267
+    },
+    "14190991": {
+      "id": 14190991,
+      "name": "SuzumeAyase",
+      "avatar": "https://a.ppy.sh/14190991?1588667736.jpeg",
+      "country": "Indonesia",
+      "pp": 4036.6,
+      "rank": 13724,
+      "countryRank": 1081
+    },
+    "14423262": {
+      "id": 14423262,
+      "name": "Sapphere",
+      "avatar": "https://a.ppy.sh/14423262?1557308297.jpeg",
+      "country": "United States",
+      "pp": 3854.61,
+      "rank": 15402,
+      "countryRank": 1552
+    },
+    "14544810": {
+      "id": 14544810,
+      "name": "xovazka",
+      "avatar": "https://a.ppy.sh/14544810?1579971322.jpeg",
+      "country": "Russian Federation",
+      "pp": 3677.1,
+      "rank": 17212,
+      "countryRank": 339
+    },
+    "14585300": {
+      "id": 14585300,
+      "name": "Niiii",
+      "avatar": "https://a.ppy.sh/14585300?1590358851.jpeg",
+      "country": "United States",
+      "pp": 4381.29,
+      "rank": 11091,
+      "countryRank": 1093
+    },
+    "14591972": {
+      "id": 14591972,
+      "name": "MeikiHakiru",
+      "avatar": "https://a.ppy.sh/14591972?1590599395.jpeg",
+      "country": "Indonesia",
+      "pp": 3772.2,
+      "rank": 16235,
+      "countryRank": 1306
+    },
+    "14888056": {
+      "id": 14888056,
+      "name": "oliverq",
+      "avatar": "https://a.ppy.sh/14888056?1587824731.jpeg",
+      "country": "Sweden",
+      "pp": 4410.3,
+      "rank": 10886,
+      "countryRank": 74
+    },
+    "15776185": {
+      "id": 15776185,
+      "name": "Gerwin13",
+      "avatar": "https://a.ppy.sh/15776185?1576767962.jpeg",
+      "country": "Philippines",
+      "pp": 4342.04,
+      "rank": 11351,
+      "countryRank": 402
+    },
+    "15828159": {
+      "id": 15828159,
+      "name": "Maraud",
+      "avatar": "https://a.ppy.sh/15828159?1590683528.jpeg",
+      "country": "Spain",
+      "pp": 3055.44,
+      "rank": 24729,
+      "countryRank": 205
+    },
+    "15844415": {
+      "id": 15844415,
+      "name": "Kirameiji",
+      "avatar": "https://a.ppy.sh/15844415?1590210116.jpeg",
+      "country": "Singapore",
+      "pp": 4837.96,
+      "rank": 8297,
+      "countryRank": 94
+    },
+    "15947296": {
+      "id": 15947296,
+      "name": "Dbell",
+      "avatar": "https://a.ppy.sh/15947296?1583912032.jpeg",
+      "country": "Indonesia",
+      "pp": 2832.5,
+      "rank": 28044,
+      "countryRank": 2391
+    }
+  }
+}

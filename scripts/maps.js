@@ -1,6 +1,7 @@
 require("dotenv").config();
 const fs = require("fs");
 const path = require("path");
+const prettier = require("prettier");
 
 if (!process.argv[2] || !process.argv[3]) {
   console.log("Usage: node scripts/maps [folder_name] [stage_id]");
@@ -83,13 +84,17 @@ const matchLineWithField = (line, field, cb) => {
       if (line === "[HitObjects]") return (tag = "notes");
 
       if (tag === "timing") {
-        const [, value] = line.split(",");
+        const [, value, somethingElse] = line.split(",");
+        if (!somethingElse) return;
         // value > 0 is a BPM marker, value < 0 is an SV marker
         if (+value > 0) data.counts.bpm += 1;
         else data.counts.sv += +1;
       } else if (tag === "notes") {
         const [note, , time, type, , info] = line.split(",");
-        maxTime = +time;
+        if (!info) return;
+        if (+time > maxTime) {
+          maxTime = +time;
+        }
 
         data.counts.notes.total += 1;
         if (type === "128") {
@@ -129,7 +134,7 @@ const matchLineWithField = (line, field, cb) => {
 
     await fs.promises.writeFile(
       path.resolve(generatedPath, "maps", `${data.beatmapId}.json`),
-      JSON.stringify(data)
+      prettier.format(JSON.stringify(data), { parser: "json" })
     );
     console.log(
       `${category.toUpperCase()} "${data.artist} - ${

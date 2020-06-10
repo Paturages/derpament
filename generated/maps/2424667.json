@@ -1,1 +1,24 @@
-{"category":"tech-hybrid","counts":{"bpm":9,"sv":10,"notes":{"total":1286,"rice":879,"ln":407,"single":473,"jump":359,"hand":21,"quad":8}},"title":"NULCTRL","artist":"Silentroom","mapper":"Raveille","difficulty":"Stage 5: Command","beatmapId":"2424667","beatmapSetId":"1162328","hp":"7","od":"7.5","length":null}
+{
+  "category": "tech-hybrid",
+  "counts": {
+    "bpm": 9,
+    "sv": 8,
+    "notes": {
+      "total": 1285,
+      "rice": 878,
+      "ln": 407,
+      "single": 472,
+      "jump": 359,
+      "hand": 21,
+      "quad": 8
+    }
+  },
+  "title": "NULCTRL",
+  "artist": "Silentroom",
+  "mapper": "Raveille",
+  "difficulty": "Stage 5: Command",
+  "beatmapId": "2424667",
+  "beatmapSetId": "1162328",
+  "hp": "7",
+  "od": "7.5"
+}

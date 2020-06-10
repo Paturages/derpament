@@ -1,1 +1,23 @@
-{"avatar_url":"https://a.ppy.sh/7306698?1591503656.gif","country":{"code":"US","name":"United States"},"id":7306698,"username":"1103","join_date":"2015-10-24T20:12:08+00:00","statistics":{"level":{"current":70,"progress":22},"pp":4254.74,"pp_rank":11977,"ranked_score":624049004,"hit_accuracy":95.3547,"play_count":6836,"play_time":502208,"total_score":2284038451,"total_hits":4630006,"maximum_combo":3148,"replays_watched_by_others":3,"is_ranked":true,"grade_counts":{"ss":7,"ssh":0,"s":530,"sh":1,"a":62},"rank":{"global":11977,"country":1184}}}
+{
+  "avatar_url": "https://a.ppy.sh/7306698?1591503656.gif",
+  "country": { "code": "US", "name": "United States" },
+  "id": 7306698,
+  "username": "1103",
+  "join_date": "2015-10-24T20:12:08+00:00",
+  "statistics": {
+    "level": { "current": 70, "progress": 22 },
+    "pp": 4254.74,
+    "pp_rank": 11977,
+    "ranked_score": 624049004,
+    "hit_accuracy": 95.3547,
+    "play_count": 6836,
+    "play_time": 502208,
+    "total_score": 2284038451,
+    "total_hits": 4630006,
+    "maximum_combo": 3148,
+    "replays_watched_by_others": 3,
+    "is_ranked": true,
+    "grade_counts": { "ss": 7, "ssh": 0, "s": 530, "sh": 1, "a": 62 },
+    "rank": { "global": 11977, "country": 1184 }
+  }
+}

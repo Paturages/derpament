@@ -1,1 +1,23 @@
-{"avatar_url":"https://a.ppy.sh/12295635?1559460896.jpeg","country":{"code":"US","name":"United States"},"id":12295635,"username":"Proc","join_date":"2018-05-19T08:27:24+00:00","statistics":{"level":{"current":66,"progress":60},"pp":3654.06,"pp_rank":17470,"ranked_score":273612307,"hit_accuracy":96.4086,"play_count":4169,"play_time":406028,"total_score":1947703806,"total_hits":4016435,"maximum_combo":4658,"replays_watched_by_others":0,"is_ranked":true,"grade_counts":{"ss":2,"ssh":0,"s":238,"sh":0,"a":59},"rank":{"global":17470,"country":1765}}}
+{
+  "avatar_url": "https://a.ppy.sh/12295635?1559460896.jpeg",
+  "country": { "code": "US", "name": "United States" },
+  "id": 12295635,
+  "username": "Proc",
+  "join_date": "2018-05-19T08:27:24+00:00",
+  "statistics": {
+    "level": { "current": 66, "progress": 60 },
+    "pp": 3654.06,
+    "pp_rank": 17470,
+    "ranked_score": 273612307,
+    "hit_accuracy": 96.4086,
+    "play_count": 4169,
+    "play_time": 406028,
+    "total_score": 1947703806,
+    "total_hits": 4016435,
+    "maximum_combo": 4658,
+    "replays_watched_by_others": 0,
+    "is_ranked": true,
+    "grade_counts": { "ss": 2, "ssh": 0, "s": 238, "sh": 0, "a": 59 },
+    "rank": { "global": 17470, "country": 1765 }
+  }
+}

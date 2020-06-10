@@ -1,1 +1,23 @@
-{"avatar_url":"https://a.ppy.sh/15947296?1583912032.jpeg","country":{"code":"ID","name":"Indonesia"},"id":15947296,"username":"Dbell","join_date":"2020-01-09T17:45:28+00:00","statistics":{"level":{"current":44,"progress":37},"pp":2832.5,"pp_rank":28044,"ranked_score":332427388,"hit_accuracy":96.02,"play_count":1015,"play_time":119389,"total_score":572879070,"total_hits":1112308,"maximum_combo":2636,"replays_watched_by_others":0,"is_ranked":true,"grade_counts":{"ss":4,"ssh":0,"s":207,"sh":7,"a":111},"rank":{"global":28044,"country":2391}}}
+{
+  "avatar_url": "https://a.ppy.sh/15947296?1583912032.jpeg",
+  "country": { "code": "ID", "name": "Indonesia" },
+  "id": 15947296,
+  "username": "Dbell",
+  "join_date": "2020-01-09T17:45:28+00:00",
+  "statistics": {
+    "level": { "current": 44, "progress": 37 },
+    "pp": 2832.5,
+    "pp_rank": 28044,
+    "ranked_score": 332427388,
+    "hit_accuracy": 96.02,
+    "play_count": 1015,
+    "play_time": 119389,
+    "total_score": 572879070,
+    "total_hits": 1112308,
+    "maximum_combo": 2636,
+    "replays_watched_by_others": 0,
+    "is_ranked": true,
+    "grade_counts": { "ss": 4, "ssh": 0, "s": 207, "sh": 7, "a": 111 },
+    "rank": { "global": 28044, "country": 2391 }
+  }
+}

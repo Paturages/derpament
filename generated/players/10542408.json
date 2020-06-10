@@ -1,1 +1,23 @@
-{"avatar_url":"https://a.ppy.sh/10542408?1579839163.png","country":{"code":"VN","name":"Vietnam"},"id":10542408,"username":"DanX","join_date":"2017-07-22T10:49:51+00:00","statistics":{"level":{"current":75,"progress":53},"pp":4486.64,"pp_rank":10402,"ranked_score":628570146,"hit_accuracy":96.2437,"play_count":7270,"play_time":518698,"total_score":2844598968,"total_hits":4996923,"maximum_combo":3222,"replays_watched_by_others":0,"is_ranked":true,"grade_counts":{"ss":6,"ssh":1,"s":531,"sh":45,"a":124},"rank":{"global":10402,"country":145}}}
+{
+  "avatar_url": "https://a.ppy.sh/10542408?1579839163.png",
+  "country": { "code": "VN", "name": "Vietnam" },
+  "id": 10542408,
+  "username": "DanX",
+  "join_date": "2017-07-22T10:49:51+00:00",
+  "statistics": {
+    "level": { "current": 75, "progress": 53 },
+    "pp": 4486.64,
+    "pp_rank": 10402,
+    "ranked_score": 628570146,
+    "hit_accuracy": 96.2437,
+    "play_count": 7270,
+    "play_time": 518698,
+    "total_score": 2844598968,
+    "total_hits": 4996923,
+    "maximum_combo": 3222,
+    "replays_watched_by_others": 0,
+    "is_ranked": true,
+    "grade_counts": { "ss": 6, "ssh": 1, "s": 531, "sh": 45, "a": 124 },
+    "rank": { "global": 10402, "country": 145 }
+  }
+}

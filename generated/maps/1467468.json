@@ -1,1 +1,24 @@
-{"category":"tech2","counts":{"bpm":1,"sv":6,"notes":{"total":1483,"rice":1321,"ln":162,"single":439,"jump":244,"hand":180,"quad":4}},"title":"Super Lady","artist":"Tsundere Alley","mapper":"Azubeur","difficulty":"Disco","beatmapId":"1467468","beatmapSetId":"693544","hp":"6","od":"7","length":null}
+{
+  "category": "tech2",
+  "counts": {
+    "bpm": 1,
+    "sv": 4,
+    "notes": {
+      "total": 1482,
+      "rice": 1320,
+      "ln": 162,
+      "single": 438,
+      "jump": 244,
+      "hand": 180,
+      "quad": 4
+    }
+  },
+  "title": "Super Lady",
+  "artist": "Tsundere Alley",
+  "mapper": "Azubeur",
+  "difficulty": "Disco",
+  "beatmapId": "1467468",
+  "beatmapSetId": "693544",
+  "hp": "6",
+  "od": "7"
+}

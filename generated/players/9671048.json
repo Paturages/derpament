@@ -1,1 +1,23 @@
-{"avatar_url":"https://a.ppy.sh/9671048?1587795099.jpeg","country":{"code":"TH","name":"Thailand"},"id":9671048,"username":"- PLARHELLME -","join_date":"2017-02-01T11:28:49+00:00","statistics":{"level":{"current":88,"progress":70},"pp":4386.67,"pp_rank":11045,"ranked_score":1437937563,"hit_accuracy":96.4835,"play_count":12000,"play_time":1101834,"total_score":4641038797,"total_hits":8630769,"maximum_combo":4024,"replays_watched_by_others":26,"is_ranked":true,"grade_counts":{"ss":25,"ssh":0,"s":1137,"sh":45,"a":388},"rank":{"global":11045,"country":249}}}
+{
+  "avatar_url": "https://a.ppy.sh/9671048?1587795099.jpeg",
+  "country": { "code": "TH", "name": "Thailand" },
+  "id": 9671048,
+  "username": "- PLARHELLME -",
+  "join_date": "2017-02-01T11:28:49+00:00",
+  "statistics": {
+    "level": { "current": 88, "progress": 70 },
+    "pp": 4386.67,
+    "pp_rank": 11045,
+    "ranked_score": 1437937563,
+    "hit_accuracy": 96.4835,
+    "play_count": 12000,
+    "play_time": 1101834,
+    "total_score": 4641038797,
+    "total_hits": 8630769,
+    "maximum_combo": 4024,
+    "replays_watched_by_others": 26,
+    "is_ranked": true,
+    "grade_counts": { "ss": 25, "ssh": 0, "s": 1137, "sh": 45, "a": 388 },
+    "rank": { "global": 11045, "country": 249 }
+  }
+}

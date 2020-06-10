@@ -1,1 +1,23 @@
-{"avatar_url":"https://a.ppy.sh/8931788?1586825732.jpeg","country":{"code":"ID","name":"Indonesia"},"id":8931788,"username":"Daeng Simatta","join_date":"2016-08-31T03:59:33+00:00","statistics":{"level":{"current":89,"progress":43},"pp":2151.63,"pp_rank":41212,"ranked_score":1208957500,"hit_accuracy":95.1736,"play_count":7486,"play_time":564297,"total_score":4772583893,"total_hits":4545691,"maximum_combo":2404,"replays_watched_by_others":4,"is_ranked":true,"grade_counts":{"ss":9,"ssh":12,"s":362,"sh":620,"a":244},"rank":{"global":41212,"country":3612}}}
+{
+  "avatar_url": "https://a.ppy.sh/8931788?1586825732.jpeg",
+  "country": { "code": "ID", "name": "Indonesia" },
+  "id": 8931788,
+  "username": "Daeng Simatta",
+  "join_date": "2016-08-31T03:59:33+00:00",
+  "statistics": {
+    "level": { "current": 89, "progress": 43 },
+    "pp": 2151.63,
+    "pp_rank": 41212,
+    "ranked_score": 1208957500,
+    "hit_accuracy": 95.1736,
+    "play_count": 7486,
+    "play_time": 564297,
+    "total_score": 4772583893,
+    "total_hits": 4545691,
+    "maximum_combo": 2404,
+    "replays_watched_by_others": 4,
+    "is_ranked": true,
+    "grade_counts": { "ss": 9, "ssh": 12, "s": 362, "sh": 620, "a": 244 },
+    "rank": { "global": 41212, "country": 3612 }
+  }
+}

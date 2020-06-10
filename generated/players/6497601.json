@@ -1,1 +1,23 @@
-{"avatar_url":"https://a.ppy.sh/6497601?1573350463.jpeg","country":{"code":"US","name":"United States"},"id":6497601,"username":"ThomasTheDank","join_date":"2015-05-22T01:55:49+00:00","statistics":{"level":{"current":60,"progress":72},"pp":2284.19,"pp_rank":38125,"ranked_score":401186102,"hit_accuracy":95.5629,"play_count":4783,"play_time":285215,"total_score":1474181723,"total_hits":2547206,"maximum_combo":2401,"replays_watched_by_others":0,"is_ranked":true,"grade_counts":{"ss":0,"ssh":0,"s":154,"sh":2,"a":194},"rank":{"global":38125,"country":4101}}}
+{
+  "avatar_url": "https://a.ppy.sh/6497601?1573350463.jpeg",
+  "country": { "code": "US", "name": "United States" },
+  "id": 6497601,
+  "username": "ThomasTheDank",
+  "join_date": "2015-05-22T01:55:49+00:00",
+  "statistics": {
+    "level": { "current": 60, "progress": 72 },
+    "pp": 2284.19,
+    "pp_rank": 38125,
+    "ranked_score": 401186102,
+    "hit_accuracy": 95.5629,
+    "play_count": 4783,
+    "play_time": 285215,
+    "total_score": 1474181723,
+    "total_hits": 2547206,
+    "maximum_combo": 2401,
+    "replays_watched_by_others": 0,
+    "is_ranked": true,
+    "grade_counts": { "ss": 0, "ssh": 0, "s": 154, "sh": 2, "a": 194 },
+    "rank": { "global": 38125, "country": 4101 }
+  }
+}

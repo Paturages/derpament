@@ -1,1 +1,23 @@
-{"avatar_url":"https://a.ppy.sh/12586864?1591667601.jpeg","country":{"code":"DE","name":"Germany"},"id":12586864,"username":"cakeboss05","join_date":"2018-07-03T14:42:01+00:00","statistics":{"level":{"current":68,"progress":76},"pp":3879.04,"pp_rank":15162,"ranked_score":531487142,"hit_accuracy":95.7585,"play_count":6228,"play_time":452676,"total_score":2144455083,"total_hits":4166109,"maximum_combo":4476,"replays_watched_by_others":11,"is_ranked":true,"grade_counts":{"ss":7,"ssh":1,"s":309,"sh":4,"a":252},"rank":{"global":15162,"country":231}}}
+{
+  "avatar_url": "https://a.ppy.sh/12586864?1591667601.jpeg",
+  "country": { "code": "DE", "name": "Germany" },
+  "id": 12586864,
+  "username": "cakeboss05",
+  "join_date": "2018-07-03T14:42:01+00:00",
+  "statistics": {
+    "level": { "current": 68, "progress": 76 },
+    "pp": 3879.04,
+    "pp_rank": 15162,
+    "ranked_score": 531487142,
+    "hit_accuracy": 95.7585,
+    "play_count": 6228,
+    "play_time": 452676,
+    "total_score": 2144455083,
+    "total_hits": 4166109,
+    "maximum_combo": 4476,
+    "replays_watched_by_others": 11,
+    "is_ranked": true,
+    "grade_counts": { "ss": 7, "ssh": 1, "s": 309, "sh": 4, "a": 252 },
+    "rank": { "global": 15162, "country": 231 }
+  }
+}

@@ -1,1 +1,24 @@
-{"category":"sv1","counts":{"bpm":3,"sv":890,"notes":{"total":815,"rice":654,"ln":161,"single":265,"jump":212,"hand":42,"quad":0}},"title":"Love Taste (w/ Jamie Paige & Shiki)","artist":"Moe shop","mapper":"zero2snow","difficulty":"Sour (SV)","beatmapId":"2326952","beatmapSetId":"1113833","hp":"7","od":"7","length":null}
+{
+  "category": "sv1",
+  "counts": {
+    "bpm": 3,
+    "sv": 888,
+    "notes": {
+      "total": 814,
+      "rice": 653,
+      "ln": 161,
+      "single": 264,
+      "jump": 212,
+      "hand": 42,
+      "quad": 0
+    }
+  },
+  "title": "Love Taste (w/ Jamie Paige & Shiki)",
+  "artist": "Moe shop",
+  "mapper": "zero2snow",
+  "difficulty": "Sour (SV)",
+  "beatmapId": "2326952",
+  "beatmapSetId": "1113833",
+  "hp": "7",
+  "od": "7"
+}

@@ -1,1 +1,23 @@
-{"avatar_url":"https://a.ppy.sh/8379046?1586932824.jpeg","country":{"code":"AU","name":"Australia"},"id":8379046,"username":"AmateurMonkeyYT","join_date":"2016-05-09T10:53:37+00:00","statistics":{"level":{"current":82,"progress":89},"pp":3923.27,"pp_rank":14727,"ranked_score":1449096829,"hit_accuracy":95.601,"play_count":6973,"play_time":645350,"total_score":3763898842,"total_hits":6737401,"maximum_combo":3104,"replays_watched_by_others":11,"is_ranked":true,"grade_counts":{"ss":30,"ssh":0,"s":862,"sh":17,"a":480},"rank":{"global":14727,"country":209}}}
+{
+  "avatar_url": "https://a.ppy.sh/8379046?1586932824.jpeg",
+  "country": { "code": "AU", "name": "Australia" },
+  "id": 8379046,
+  "username": "AmateurMonkeyYT",
+  "join_date": "2016-05-09T10:53:37+00:00",
+  "statistics": {
+    "level": { "current": 82, "progress": 89 },
+    "pp": 3923.27,
+    "pp_rank": 14727,
+    "ranked_score": 1449096829,
+    "hit_accuracy": 95.601,
+    "play_count": 6973,
+    "play_time": 645350,
+    "total_score": 3763898842,
+    "total_hits": 6737401,
+    "maximum_combo": 3104,
+    "replays_watched_by_others": 11,
+    "is_ranked": true,
+    "grade_counts": { "ss": 30, "ssh": 0, "s": 862, "sh": 17, "a": 480 },
+    "rank": { "global": 14727, "country": 209 }
+  }
+}

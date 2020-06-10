@@ -1,0 +1,11 @@
+.root.svelte-14fulyi{display:flex;flex-direction:row;justify-content:space-between;max-width:800px;border-bottom:1px solid #eee;position:relative}.name.svelte-14fulyi{font-size:1.5em;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;max-width:500px}.metrics.svelte-14fulyi{font-size:.8em}.title.svelte-14fulyi{flex:1}.category.svelte-14fulyi{position:absolute;bottom:0;left:0;text-transform:uppercase}.counts.svelte-14fulyi{font-size:.9em;margin-left:1em;text-align:right}
+.root.svelte-ot3nx9.svelte-ot3nx9{height:4em;display:flex;flex-direction:row;align-items:center;max-width:800px;border-bottom:1px solid #eee}.avatar.svelte-ot3nx9.svelte-ot3nx9{width:3.5em;height:3.5em;margin-right:1em}.avatar.svelte-ot3nx9 img.svelte-ot3nx9{border-radius:50%}.name.svelte-ot3nx9.svelte-ot3nx9{font-size:1.5em;flex:1}.info.svelte-ot3nx9.svelte-ot3nx9{margin-left:1em;text-align:right}
+.root.svelte-13aaa7j{display:flex;flex-direction:row;align-items:center;max-width:800px;border-bottom:1px solid #eee}.name.svelte-13aaa7j{font-size:1.5em;flex:1}.info.svelte-13aaa7j{margin-left:1em;text-align:right}.score.svelte-13aaa7j{width:4em;margin-left:1em;font-size:1.5em;text-align:right}
+.root.svelte-b5fgg6{display:flex;flex-direction:row;align-items:center;justify-content:space-between;max-width:800px;border-bottom:1px solid #eee}.name.svelte-b5fgg6{font-size:1.5em}.maps.svelte-b5fgg6{margin-left:1em}
+.root.svelte-1lh8f59{display:flex;flex-direction:row;align-items:center;justify-content:space-between;max-width:800px;border-bottom:1px solid #eee}.name.svelte-1lh8f59{font-size:1.5em}.players.svelte-1lh8f59{margin-left:1em}
+.scores.svelte-phg5ss>*{margin:1em 0}
+main.svelte-1uwsjf2{margin:2em}.map.svelte-1uwsjf2{margin:1em 0 3em}.map.svelte-1uwsjf2>*{margin:1em 0}
+main.svelte-11u6ss8{margin:2em}.stages.svelte-11u6ss8{margin-bottom:2em}.stages.svelte-11u6ss8>*{margin:1em 0}
+main.svelte-saxtqp{margin:2em}.tournaments.svelte-saxtqp>*{margin:1em 0}
+
+/*# sourceMappingURL=bundle.css.map */

@@ -2,6 +2,7 @@ require("dotenv").config();
 const fs = require("fs");
 const path = require("path");
 const got = require("got");
+const prettier = require("prettier");
 
 if (!process.argv[2] || !process.argv[3]) {
   console.log("Usage: node scripts/matches [folder_name] [stage_id]");
@@ -51,7 +52,7 @@ const generatedPath = path.resolve(__dirname, "..", "generated");
 
     await fs.promises.writeFile(
       path.resolve(generatedPath, "matches", `${mpId}.json`),
-      JSON.stringify(body)
+      prettier.format(JSON.stringify(body), { parser: "json" })
     );
     console.log(`ID ${mpId} "${body.match.name}" has been fetched and saved!`);
 

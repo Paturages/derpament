@@ -1,1 +1,23 @@
-{"avatar_url":"https://a.ppy.sh/12278022?1587978686.jpeg","country":{"code":"ID","name":"Indonesia"},"id":12278022,"username":"Ferdz-","join_date":"2018-05-16T05:12:21+00:00","statistics":{"level":{"current":96,"progress":51},"pp":4170.67,"pp_rank":12631,"ranked_score":3161483047,"hit_accuracy":97.6543,"play_count":14296,"play_time":1166974,"total_score":8687869408,"total_hits":7778968,"maximum_combo":2908,"replays_watched_by_others":151,"is_ranked":true,"grade_counts":{"ss":1737,"ssh":0,"s":1395,"sh":29,"a":79},"rank":{"global":12631,"country":994}}}
+{
+  "avatar_url": "https://a.ppy.sh/12278022?1587978686.jpeg",
+  "country": { "code": "ID", "name": "Indonesia" },
+  "id": 12278022,
+  "username": "Ferdz-",
+  "join_date": "2018-05-16T05:12:21+00:00",
+  "statistics": {
+    "level": { "current": 96, "progress": 51 },
+    "pp": 4170.67,
+    "pp_rank": 12631,
+    "ranked_score": 3161483047,
+    "hit_accuracy": 97.6543,
+    "play_count": 14296,
+    "play_time": 1166974,
+    "total_score": 8687869408,
+    "total_hits": 7778968,
+    "maximum_combo": 2908,
+    "replays_watched_by_others": 151,
+    "is_ranked": true,
+    "grade_counts": { "ss": 1737, "ssh": 0, "s": 1395, "sh": 29, "a": 79 },
+    "rank": { "global": 12631, "country": 994 }
+  }
+}

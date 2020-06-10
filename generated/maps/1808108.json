@@ -1,1 +1,24 @@
-{"category":"sv1","counts":{"bpm":1,"sv":3040,"notes":{"total":1005,"rice":863,"ln":142,"single":192,"jump":178,"hand":79,"quad":55}},"title":"Rise (feat.The Word Alive)","artist":"League of Legends,The Glitch Mob & Mako","mapper":"Leniane","difficulty":"Challenger","beatmapId":"1808108","beatmapSetId":"864573","hp":"8","od":"8","length":null}
+{
+  "category": "sv1",
+  "counts": {
+    "bpm": 1,
+    "sv": 3038,
+    "notes": {
+      "total": 1004,
+      "rice": 862,
+      "ln": 142,
+      "single": 191,
+      "jump": 178,
+      "hand": 79,
+      "quad": 55
+    }
+  },
+  "title": "Rise (feat.The Word Alive)",
+  "artist": "League of Legends,The Glitch Mob & Mako",
+  "mapper": "Leniane",
+  "difficulty": "Challenger",
+  "beatmapId": "1808108",
+  "beatmapSetId": "864573",
+  "hp": "8",
+  "od": "8"
+}

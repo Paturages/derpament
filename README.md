@@ -56,3 +56,7 @@ Inside that folder, you'll have to copy and paste the `.osu` files of your corre
 Order them by prefixing them by a number (e.g `01.sv1.osu`).
 
 This will compute useful information about the provided maps and save it as JSON in `generated/maps`.
+
+## License
+
+This is MIT so if you wanna fork this and use it for your own tournaments and host your own GitHub Pages, it's free real estate.

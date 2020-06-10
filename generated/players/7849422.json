@@ -1,1 +1,23 @@
-{"avatar_url":"https://a.ppy.sh/7849422?1580866429.jpeg","country":{"code":"FR","name":"France"},"id":7849422,"username":"xelied","join_date":"2016-01-29T23:42:04+00:00","statistics":{"level":{"current":81,"progress":46},"pp":4577.01,"pp_rank":9811,"ranked_score":904480915,"hit_accuracy":96.2735,"play_count":5949,"play_time":682272,"total_score":3571488052,"total_hits":7431402,"maximum_combo":3231,"replays_watched_by_others":0,"is_ranked":true,"grade_counts":{"ss":29,"ssh":0,"s":720,"sh":5,"a":191},"rank":{"global":9811,"country":229}}}
+{
+  "avatar_url": "https://a.ppy.sh/7849422?1580866429.jpeg",
+  "country": { "code": "FR", "name": "France" },
+  "id": 7849422,
+  "username": "xelied",
+  "join_date": "2016-01-29T23:42:04+00:00",
+  "statistics": {
+    "level": { "current": 81, "progress": 46 },
+    "pp": 4577.01,
+    "pp_rank": 9811,
+    "ranked_score": 904480915,
+    "hit_accuracy": 96.2735,
+    "play_count": 5949,
+    "play_time": 682272,
+    "total_score": 3571488052,
+    "total_hits": 7431402,
+    "maximum_combo": 3231,
+    "replays_watched_by_others": 0,
+    "is_ranked": true,
+    "grade_counts": { "ss": 29, "ssh": 0, "s": 720, "sh": 5, "a": 191 },
+    "rank": { "global": 9811, "country": 229 }
+  }
+}

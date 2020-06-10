@@ -1,1 +1,23 @@
-{"avatar_url":"https://a.ppy.sh/8720555?1588130800.jpeg","country":{"code":"GB","name":"United Kingdom"},"id":8720555,"username":"StartAndSelect","join_date":"2016-07-18T10:31:09+00:00","statistics":{"level":{"current":96,"progress":72},"pp":3650.73,"pp_rank":17515,"ranked_score":2345612328,"hit_accuracy":96.1213,"play_count":14669,"play_time":1863427,"total_score":9051643388,"total_hits":16103368,"maximum_combo":3283,"replays_watched_by_others":8,"is_ranked":true,"grade_counts":{"ss":68,"ssh":1,"s":1807,"sh":81,"a":573},"rank":{"global":17515,"country":333}}}
+{
+  "avatar_url": "https://a.ppy.sh/8720555?1588130800.jpeg",
+  "country": { "code": "GB", "name": "United Kingdom" },
+  "id": 8720555,
+  "username": "StartAndSelect",
+  "join_date": "2016-07-18T10:31:09+00:00",
+  "statistics": {
+    "level": { "current": 96, "progress": 72 },
+    "pp": 3650.73,
+    "pp_rank": 17515,
+    "ranked_score": 2345612328,
+    "hit_accuracy": 96.1213,
+    "play_count": 14669,
+    "play_time": 1863427,
+    "total_score": 9051643388,
+    "total_hits": 16103368,
+    "maximum_combo": 3283,
+    "replays_watched_by_others": 8,
+    "is_ranked": true,
+    "grade_counts": { "ss": 68, "ssh": 1, "s": 1807, "sh": 81, "a": 573 },
+    "rank": { "global": 17515, "country": 333 }
+  }
+}

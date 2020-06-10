@@ -1,1 +1,24 @@
-{"category":"tech1","counts":{"bpm":1,"sv":38,"notes":{"total":1149,"rice":975,"ln":174,"single":657,"jump":222,"hand":16,"quad":0}},"title":"Dopamine","artist":"U1 overground","mapper":"Couil","difficulty":"MX","beatmapId":"1502626","beatmapSetId":"696726","hp":"8.2","od":"8.6","length":null}
+{
+  "category": "tech1",
+  "counts": {
+    "bpm": 1,
+    "sv": 36,
+    "notes": {
+      "total": 1148,
+      "rice": 974,
+      "ln": 174,
+      "single": 656,
+      "jump": 222,
+      "hand": 16,
+      "quad": 0
+    }
+  },
+  "title": "Dopamine",
+  "artist": "U1 overground",
+  "mapper": "Couil",
+  "difficulty": "MX",
+  "beatmapId": "1502626",
+  "beatmapSetId": "696726",
+  "hp": "8.2",
+  "od": "8.6"
+}

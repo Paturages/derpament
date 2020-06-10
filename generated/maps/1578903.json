@@ -1,1 +1,24 @@
-{"category":"speed1","counts":{"bpm":1,"sv":2,"notes":{"total":971,"rice":944,"ln":27,"single":551,"jump":210,"hand":0,"quad":0}},"title":"Solar Storm","artist":"xi","mapper":"DustMoon","difficulty":"Hyper","beatmapId":"1578903","beatmapSetId":"747277","hp":"7","od":"7","length":null}
+{
+  "category": "speed1",
+  "counts": {
+    "bpm": 1,
+    "sv": 0,
+    "notes": {
+      "total": 970,
+      "rice": 943,
+      "ln": 27,
+      "single": 550,
+      "jump": 210,
+      "hand": 0,
+      "quad": 0
+    }
+  },
+  "title": "Solar Storm",
+  "artist": "xi",
+  "mapper": "DustMoon",
+  "difficulty": "Hyper",
+  "beatmapId": "1578903",
+  "beatmapSetId": "747277",
+  "hp": "7",
+  "od": "7"
+}

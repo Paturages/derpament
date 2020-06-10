@@ -1,1 +1,24 @@
-{"category":"sv2","counts":{"bpm":96,"sv":2449,"notes":{"total":1069,"rice":1053,"ln":16,"single":463,"jump":297,"hand":4,"quad":0}},"title":"Rockefeller Street","artist":"Getter Jaani","mapper":"Logan636","difficulty":"ProSubconsciousVisualizationperity","beatmapId":"2390611","beatmapSetId":"1110967","hp":"6","od":"7.7","length":null}
+{
+  "category": "sv2",
+  "counts": {
+    "bpm": 96,
+    "sv": 2447,
+    "notes": {
+      "total": 1068,
+      "rice": 1052,
+      "ln": 16,
+      "single": 462,
+      "jump": 297,
+      "hand": 4,
+      "quad": 0
+    }
+  },
+  "title": "Rockefeller Street",
+  "artist": "Getter Jaani",
+  "mapper": "Logan636",
+  "difficulty": "ProSubconsciousVisualizationperity",
+  "beatmapId": "2390611",
+  "beatmapSetId": "1110967",
+  "hp": "6",
+  "od": "7.7"
+}

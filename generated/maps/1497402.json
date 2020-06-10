@@ -1,1 +1,24 @@
-{"category":"speed1","counts":{"bpm":1,"sv":2,"notes":{"total":1460,"rice":1384,"ln":76,"single":1359,"jump":49,"hand":1,"quad":0}},"title":"The Big Black","artist":"The Quick Brown Fox","mapper":"Cytyzent","difficulty":"Challenge","beatmapId":"1497402","beatmapSetId":"708264","hp":"5","od":"8","length":null}
+{
+  "category": "speed1",
+  "counts": {
+    "bpm": 1,
+    "sv": 0,
+    "notes": {
+      "total": 1459,
+      "rice": 1383,
+      "ln": 76,
+      "single": 1358,
+      "jump": 49,
+      "hand": 1,
+      "quad": 0
+    }
+  },
+  "title": "The Big Black",
+  "artist": "The Quick Brown Fox",
+  "mapper": "Cytyzent",
+  "difficulty": "Challenge",
+  "beatmapId": "1497402",
+  "beatmapSetId": "708264",
+  "hp": "5",
+  "od": "8"
+}

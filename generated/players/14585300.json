@@ -1,1 +1,23 @@
-{"avatar_url":"https://a.ppy.sh/14585300?1590358851.jpeg","country":{"code":"US","name":"United States"},"id":14585300,"username":"Niiii","join_date":"2019-06-01T17:19:15+00:00","statistics":{"level":{"current":72,"progress":95},"pp":4381.29,"pp_rank":11091,"ranked_score":411915420,"hit_accuracy":96.664,"play_count":7451,"play_time":532455,"total_score":2562233668,"total_hits":4574203,"maximum_combo":4076,"replays_watched_by_others":1,"is_ranked":true,"grade_counts":{"ss":2,"ssh":1,"s":304,"sh":25,"a":100},"rank":{"global":11091,"country":1093}}}
+{
+  "avatar_url": "https://a.ppy.sh/14585300?1590358851.jpeg",
+  "country": { "code": "US", "name": "United States" },
+  "id": 14585300,
+  "username": "Niiii",
+  "join_date": "2019-06-01T17:19:15+00:00",
+  "statistics": {
+    "level": { "current": 72, "progress": 95 },
+    "pp": 4381.29,
+    "pp_rank": 11091,
+    "ranked_score": 411915420,
+    "hit_accuracy": 96.664,
+    "play_count": 7451,
+    "play_time": 532455,
+    "total_score": 2562233668,
+    "total_hits": 4574203,
+    "maximum_combo": 4076,
+    "replays_watched_by_others": 1,
+    "is_ranked": true,
+    "grade_counts": { "ss": 2, "ssh": 1, "s": 304, "sh": 25, "a": 100 },
+    "rank": { "global": 11091, "country": 1093 }
+  }
+}

@@ -1,1 +1,23 @@
-{"avatar_url":"https://a.ppy.sh/9113955?1591640519.jpeg","country":{"code":"ID","name":"Indonesia"},"id":9113955,"username":"ReZ_TB","join_date":"2016-10-11T16:05:10+00:00","statistics":{"level":{"current":85,"progress":35},"pp":4009.11,"pp_rank":14001,"ranked_score":1201577333,"hit_accuracy":95.7603,"play_count":8326,"play_time":671454,"total_score":4113201540,"total_hits":6363366,"maximum_combo":3145,"replays_watched_by_others":2,"is_ranked":true,"grade_counts":{"ss":58,"ssh":0,"s":937,"sh":8,"a":256},"rank":{"global":14001,"country":1100}}}
+{
+  "avatar_url": "https://a.ppy.sh/9113955?1591640519.jpeg",
+  "country": { "code": "ID", "name": "Indonesia" },
+  "id": 9113955,
+  "username": "ReZ_TB",
+  "join_date": "2016-10-11T16:05:10+00:00",
+  "statistics": {
+    "level": { "current": 85, "progress": 35 },
+    "pp": 4009.11,
+    "pp_rank": 14001,
+    "ranked_score": 1201577333,
+    "hit_accuracy": 95.7603,
+    "play_count": 8326,
+    "play_time": 671454,
+    "total_score": 4113201540,
+    "total_hits": 6363366,
+    "maximum_combo": 3145,
+    "replays_watched_by_others": 2,
+    "is_ranked": true,
+    "grade_counts": { "ss": 58, "ssh": 0, "s": 937, "sh": 8, "a": 256 },
+    "rank": { "global": 14001, "country": 1100 }
+  }
+}

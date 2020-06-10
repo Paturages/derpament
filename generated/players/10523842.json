@@ -1,1 +1,23 @@
-{"avatar_url":"/images/layout/avatar-guest.png","country":{"code":"FR","name":"France"},"id":10523842,"username":"victior","join_date":"2017-07-18T17:27:16+00:00","statistics":{"level":{"current":76,"progress":51},"pp":3300.16,"pp_rank":21542,"ranked_score":406239930,"hit_accuracy":95.6633,"play_count":7097,"play_time":597106,"total_score":2957300788,"total_hits":4576081,"maximum_combo":3055,"replays_watched_by_others":0,"is_ranked":true,"grade_counts":{"ss":13,"ssh":0,"s":370,"sh":1,"a":77},"rank":{"global":21542,"country":570}}}
+{
+  "avatar_url": "/images/layout/avatar-guest.png",
+  "country": { "code": "FR", "name": "France" },
+  "id": 10523842,
+  "username": "victior",
+  "join_date": "2017-07-18T17:27:16+00:00",
+  "statistics": {
+    "level": { "current": 76, "progress": 51 },
+    "pp": 3300.16,
+    "pp_rank": 21542,
+    "ranked_score": 406239930,
+    "hit_accuracy": 95.6633,
+    "play_count": 7097,
+    "play_time": 597106,
+    "total_score": 2957300788,
+    "total_hits": 4576081,
+    "maximum_combo": 3055,
+    "replays_watched_by_others": 0,
+    "is_ranked": true,
+    "grade_counts": { "ss": 13, "ssh": 0, "s": 370, "sh": 1, "a": 77 },
+    "rank": { "global": 21542, "country": 570 }
+  }
+}

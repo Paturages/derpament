@@ -1,1 +1,24 @@
-{"category":"speed","counts":{"bpm":310,"sv":312,"notes":{"total":1468,"rice":1434,"ln":34,"single":1044,"jump":212,"hand":0,"quad":0}},"title":"Caprice no. 5","artist":"Niccolo Paganini","mapper":"Davvy","difficulty":"Stage 4: Transcendental","beatmapId":"2424691","beatmapSetId":"1162342","hp":"8","od":"8","length":null}
+{
+  "category": "speed",
+  "counts": {
+    "bpm": 310,
+    "sv": 310,
+    "notes": {
+      "total": 1467,
+      "rice": 1433,
+      "ln": 34,
+      "single": 1043,
+      "jump": 212,
+      "hand": 0,
+      "quad": 0
+    }
+  },
+  "title": "Caprice no. 5",
+  "artist": "Niccolo Paganini",
+  "mapper": "Davvy",
+  "difficulty": "Stage 4: Transcendental",
+  "beatmapId": "2424691",
+  "beatmapSetId": "1162342",
+  "hp": "8",
+  "od": "8"
+}

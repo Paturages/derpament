@@ -1,1 +1,23 @@
-{"avatar_url":"https://a.ppy.sh/4810150?1587511461.jpeg","country":{"code":"CA","name":"Canada"},"id":4810150,"username":"[Dose]","join_date":"2014-08-18T13:17:56+00:00","statistics":{"level":{"current":63,"progress":48},"pp":2272.2,"pp_rank":38375,"ranked_score":1028749982,"hit_accuracy":95.9467,"play_count":2993,"play_time":266631,"total_score":1685972734,"total_hits":1588656,"maximum_combo":2456,"replays_watched_by_others":2,"is_ranked":true,"grade_counts":{"ss":79,"ssh":0,"s":861,"sh":3,"a":174},"rank":{"global":38375,"country":936}}}
+{
+  "avatar_url": "https://a.ppy.sh/4810150?1587511461.jpeg",
+  "country": { "code": "CA", "name": "Canada" },
+  "id": 4810150,
+  "username": "[Dose]",
+  "join_date": "2014-08-18T13:17:56+00:00",
+  "statistics": {
+    "level": { "current": 63, "progress": 48 },
+    "pp": 2272.2,
+    "pp_rank": 38375,
+    "ranked_score": 1028749982,
+    "hit_accuracy": 95.9467,
+    "play_count": 2993,
+    "play_time": 266631,
+    "total_score": 1685972734,
+    "total_hits": 1588656,
+    "maximum_combo": 2456,
+    "replays_watched_by_others": 2,
+    "is_ranked": true,
+    "grade_counts": { "ss": 79, "ssh": 0, "s": 861, "sh": 3, "a": 174 },
+    "rank": { "global": 38375, "country": 936 }
+  }
+}

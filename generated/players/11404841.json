@@ -1,1 +1,23 @@
-{"avatar_url":"https://a.ppy.sh/11404841?1590248621.jpeg","country":{"code":"FR","name":"France"},"id":11404841,"username":"Mokip","join_date":"2017-12-24T22:53:07+00:00","statistics":{"level":{"current":57,"progress":90},"pp":2892.26,"pp_rank":27123,"ranked_score":317101160,"hit_accuracy":95.1558,"play_count":5515,"play_time":260443,"total_score":1277855120,"total_hits":1954552,"maximum_combo":1815,"replays_watched_by_others":0,"is_ranked":true,"grade_counts":{"ss":0,"ssh":0,"s":145,"sh":0,"a":178},"rank":{"global":27123,"country":748}}}
+{
+  "avatar_url": "https://a.ppy.sh/11404841?1590248621.jpeg",
+  "country": { "code": "FR", "name": "France" },
+  "id": 11404841,
+  "username": "Mokip",
+  "join_date": "2017-12-24T22:53:07+00:00",
+  "statistics": {
+    "level": { "current": 57, "progress": 90 },
+    "pp": 2892.26,
+    "pp_rank": 27123,
+    "ranked_score": 317101160,
+    "hit_accuracy": 95.1558,
+    "play_count": 5515,
+    "play_time": 260443,
+    "total_score": 1277855120,
+    "total_hits": 1954552,
+    "maximum_combo": 1815,
+    "replays_watched_by_others": 0,
+    "is_ranked": true,
+    "grade_counts": { "ss": 0, "ssh": 0, "s": 145, "sh": 0, "a": 178 },
+    "rank": { "global": 27123, "country": 748 }
+  }
+}

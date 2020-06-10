@@ -1,1 +1,24 @@
-{"category":"speed2","counts":{"bpm":1,"sv":8,"notes":{"total":2652,"rice":2578,"ln":74,"single":1414,"jump":616,"hand":2,"quad":0}},"title":"TOXIC VIBRATION (extend ver.)","artist":"SOUND HOLIC Vs. T.Kakuta feat. YURiCa","mapper":"arcwinolivirus","difficulty":"HD","beatmapId":"790554","beatmapSetId":"359551","hp":"7.5","od":"7.5","length":null}
+{
+  "category": "speed2",
+  "counts": {
+    "bpm": 1,
+    "sv": 6,
+    "notes": {
+      "total": 2651,
+      "rice": 2577,
+      "ln": 74,
+      "single": 1413,
+      "jump": 616,
+      "hand": 2,
+      "quad": 0
+    }
+  },
+  "title": "TOXIC VIBRATION (extend ver.)",
+  "artist": "SOUND HOLIC Vs. T.Kakuta feat. YURiCa",
+  "mapper": "arcwinolivirus",
+  "difficulty": "HD",
+  "beatmapId": "790554",
+  "beatmapSetId": "359551",
+  "hp": "7.5",
+  "od": "7.5"
+}

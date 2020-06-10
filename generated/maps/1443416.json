@@ -1,1 +1,24 @@
-{"category":"tb","counts":{"bpm":22,"sv":72,"notes":{"total":1743,"rice":1249,"ln":494,"single":1350,"jump":171,"hand":17,"quad":0}},"title":"flower of wilderness","artist":"Camellia","mapper":"redinerdi","difficulty":"remap","beatmapId":"1443416","beatmapSetId":"611050","hp":"8.5","od":"8","length":null}
+{
+  "category": "tb",
+  "counts": {
+    "bpm": 22,
+    "sv": 70,
+    "notes": {
+      "total": 1742,
+      "rice": 1248,
+      "ln": 494,
+      "single": 1349,
+      "jump": 171,
+      "hand": 17,
+      "quad": 0
+    }
+  },
+  "title": "flower of wilderness",
+  "artist": "Camellia",
+  "mapper": "redinerdi",
+  "difficulty": "remap",
+  "beatmapId": "1443416",
+  "beatmapSetId": "611050",
+  "hp": "8.5",
+  "od": "8"
+}

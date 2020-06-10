@@ -1,1 +1,23 @@
-{"avatar_url":"https://a.ppy.sh/8934975?1477422305.jpg","country":{"code":"GB","name":"United Kingdom"},"id":8934975,"username":"Wassero","join_date":"2016-08-31T20:11:29+00:00","statistics":{"level":{"current":73,"progress":54},"pp":3846.63,"pp_rank":15475,"ranked_score":612198209,"hit_accuracy":96.1496,"play_count":5625,"play_time":503047,"total_score":2625560537,"total_hits":3983661,"maximum_combo":3359,"replays_watched_by_others":1,"is_ranked":true,"grade_counts":{"ss":23,"ssh":0,"s":606,"sh":7,"a":65},"rank":{"global":15475,"country":298}}}
+{
+  "avatar_url": "https://a.ppy.sh/8934975?1477422305.jpg",
+  "country": { "code": "GB", "name": "United Kingdom" },
+  "id": 8934975,
+  "username": "Wassero",
+  "join_date": "2016-08-31T20:11:29+00:00",
+  "statistics": {
+    "level": { "current": 73, "progress": 54 },
+    "pp": 3846.63,
+    "pp_rank": 15475,
+    "ranked_score": 612198209,
+    "hit_accuracy": 96.1496,
+    "play_count": 5625,
+    "play_time": 503047,
+    "total_score": 2625560537,
+    "total_hits": 3983661,
+    "maximum_combo": 3359,
+    "replays_watched_by_others": 1,
+    "is_ranked": true,
+    "grade_counts": { "ss": 23, "ssh": 0, "s": 606, "sh": 7, "a": 65 },
+    "rank": { "global": 15475, "country": 298 }
+  }
+}

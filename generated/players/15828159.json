@@ -1,1 +1,23 @@
-{"avatar_url":"https://a.ppy.sh/15828159?1590683528.jpeg","country":{"code":"ES","name":"Spain"},"id":15828159,"username":"Maraud","join_date":"2019-12-24T00:00:37+00:00","statistics":{"level":{"current":69,"progress":4},"pp":3055.44,"pp_rank":24729,"ranked_score":505131606,"hit_accuracy":94.8364,"play_count":4942,"play_time":557773,"total_score":2170519325,"total_hits":4840402,"maximum_combo":1693,"replays_watched_by_others":0,"is_ranked":true,"grade_counts":{"ss":23,"ssh":1,"s":263,"sh":11,"a":220},"rank":{"global":24729,"country":205}}}
+{
+  "avatar_url": "https://a.ppy.sh/15828159?1590683528.jpeg",
+  "country": { "code": "ES", "name": "Spain" },
+  "id": 15828159,
+  "username": "Maraud",
+  "join_date": "2019-12-24T00:00:37+00:00",
+  "statistics": {
+    "level": { "current": 69, "progress": 4 },
+    "pp": 3055.44,
+    "pp_rank": 24729,
+    "ranked_score": 505131606,
+    "hit_accuracy": 94.8364,
+    "play_count": 4942,
+    "play_time": 557773,
+    "total_score": 2170519325,
+    "total_hits": 4840402,
+    "maximum_combo": 1693,
+    "replays_watched_by_others": 0,
+    "is_ranked": true,
+    "grade_counts": { "ss": 23, "ssh": 1, "s": 263, "sh": 11, "a": 220 },
+    "rank": { "global": 24729, "country": 205 }
+  }
+}

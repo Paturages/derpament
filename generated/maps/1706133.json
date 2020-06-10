@@ -1,1 +1,24 @@
-{"category":"ln2","counts":{"bpm":1,"sv":6,"notes":{"total":586,"rice":206,"ln":380,"single":246,"jump":142,"hand":12,"quad":5}},"title":"Crush On You","artist":"Hiro [Crackin' DJ]","mapper":"Raveille","difficulty":"Can You Feel It","beatmapId":"1706133","beatmapSetId":"813515","hp":"8","od":"7","length":null}
+{
+  "category": "ln2",
+  "counts": {
+    "bpm": 1,
+    "sv": 4,
+    "notes": {
+      "total": 585,
+      "rice": 205,
+      "ln": 380,
+      "single": 245,
+      "jump": 142,
+      "hand": 12,
+      "quad": 5
+    }
+  },
+  "title": "Crush On You",
+  "artist": "Hiro [Crackin' DJ]",
+  "mapper": "Raveille",
+  "difficulty": "Can You Feel It",
+  "beatmapId": "1706133",
+  "beatmapSetId": "813515",
+  "hp": "8",
+  "od": "7"
+}

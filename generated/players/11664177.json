@@ -1,1 +1,23 @@
-{"avatar_url":"https://a.ppy.sh/11664177?1564442390.png","country":{"code":"US","name":"United States"},"id":11664177,"username":"NovaSagittarii","join_date":"2018-02-02T02:26:02+00:00","statistics":{"level":{"current":68,"progress":14},"pp":4012.33,"pp_rank":13960,"ranked_score":789674402,"hit_accuracy":96.9499,"play_count":3969,"play_time":420549,"total_score":2086319788,"total_hits":3896427,"maximum_combo":4073,"replays_watched_by_others":4,"is_ranked":true,"grade_counts":{"ss":3,"ssh":0,"s":491,"sh":6,"a":298},"rank":{"global":13960,"country":1393}}}
+{
+  "avatar_url": "https://a.ppy.sh/11664177?1564442390.png",
+  "country": { "code": "US", "name": "United States" },
+  "id": 11664177,
+  "username": "NovaSagittarii",
+  "join_date": "2018-02-02T02:26:02+00:00",
+  "statistics": {
+    "level": { "current": 68, "progress": 14 },
+    "pp": 4012.33,
+    "pp_rank": 13960,
+    "ranked_score": 789674402,
+    "hit_accuracy": 96.9499,
+    "play_count": 3969,
+    "play_time": 420549,
+    "total_score": 2086319788,
+    "total_hits": 3896427,
+    "maximum_combo": 4073,
+    "replays_watched_by_others": 4,
+    "is_ranked": true,
+    "grade_counts": { "ss": 3, "ssh": 0, "s": 491, "sh": 6, "a": 298 },
+    "rank": { "global": 13960, "country": 1393 }
+  }
+}

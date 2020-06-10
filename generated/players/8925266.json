@@ -1,1 +1,23 @@
-{"avatar_url":"https://a.ppy.sh/8925266?1591095640.jpeg","country":{"code":"FI","name":"Finland"},"id":8925266,"username":"Haadez","join_date":"2016-08-29T19:59:30+00:00","statistics":{"level":{"current":63,"progress":3},"pp":3216.3,"pp_rank":22567,"ranked_score":781135335,"hit_accuracy":95.8397,"play_count":3506,"play_time":241519,"total_score":1649686252,"total_hits":1855966,"maximum_combo":3033,"replays_watched_by_others":11,"is_ranked":true,"grade_counts":{"ss":66,"ssh":0,"s":601,"sh":7,"a":185},"rank":{"global":22567,"country":231}}}
+{
+  "avatar_url": "https://a.ppy.sh/8925266?1591095640.jpeg",
+  "country": { "code": "FI", "name": "Finland" },
+  "id": 8925266,
+  "username": "Haadez",
+  "join_date": "2016-08-29T19:59:30+00:00",
+  "statistics": {
+    "level": { "current": 63, "progress": 3 },
+    "pp": 3216.3,
+    "pp_rank": 22567,
+    "ranked_score": 781135335,
+    "hit_accuracy": 95.8397,
+    "play_count": 3506,
+    "play_time": 241519,
+    "total_score": 1649686252,
+    "total_hits": 1855966,
+    "maximum_combo": 3033,
+    "replays_watched_by_others": 11,
+    "is_ranked": true,
+    "grade_counts": { "ss": 66, "ssh": 0, "s": 601, "sh": 7, "a": 185 },
+    "rank": { "global": 22567, "country": 231 }
+  }
+}

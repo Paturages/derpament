@@ -1,1 +1,24 @@
-{"category":"ln2","counts":{"bpm":1,"sv":2,"notes":{"total":1023,"rice":318,"ln":705,"single":328,"jump":343,"hand":3,"quad":0}},"title":"Arc","artist":"Mind Vortex","mapper":"juankristal","difficulty":"Coordination","beatmapId":"1305835","beatmapSetId":"619512","hp":"5","od":"7.5","length":null}
+{
+  "category": "ln2",
+  "counts": {
+    "bpm": 1,
+    "sv": 0,
+    "notes": {
+      "total": 1022,
+      "rice": 317,
+      "ln": 705,
+      "single": 327,
+      "jump": 343,
+      "hand": 3,
+      "quad": 0
+    }
+  },
+  "title": "Arc",
+  "artist": "Mind Vortex",
+  "mapper": "juankristal",
+  "difficulty": "Coordination",
+  "beatmapId": "1305835",
+  "beatmapSetId": "619512",
+  "hp": "5",
+  "od": "7.5"
+}

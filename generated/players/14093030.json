@@ -1,1 +1,23 @@
-{"avatar_url":"https://a.ppy.sh/14093030?1586762934.jpeg","country":{"code":"ID","name":"Indonesia"},"id":14093030,"username":"maestro18plus","join_date":"2019-03-14T05:21:34+00:00","statistics":{"level":{"current":85,"progress":13},"pp":3813.86,"pp_rank":15805,"ranked_score":1429346888,"hit_accuracy":96.4461,"play_count":11021,"play_time":907155,"total_score":4080967704,"total_hits":6230495,"maximum_combo":2977,"replays_watched_by_others":2,"is_ranked":true,"grade_counts":{"ss":38,"ssh":0,"s":835,"sh":0,"a":377},"rank":{"global":15805,"country":1267}}}
+{
+  "avatar_url": "https://a.ppy.sh/14093030?1586762934.jpeg",
+  "country": { "code": "ID", "name": "Indonesia" },
+  "id": 14093030,
+  "username": "maestro18plus",
+  "join_date": "2019-03-14T05:21:34+00:00",
+  "statistics": {
+    "level": { "current": 85, "progress": 13 },
+    "pp": 3813.86,
+    "pp_rank": 15805,
+    "ranked_score": 1429346888,
+    "hit_accuracy": 96.4461,
+    "play_count": 11021,
+    "play_time": 907155,
+    "total_score": 4080967704,
+    "total_hits": 6230495,
+    "maximum_combo": 2977,
+    "replays_watched_by_others": 2,
+    "is_ranked": true,
+    "grade_counts": { "ss": 38, "ssh": 0, "s": 835, "sh": 0, "a": 377 },
+    "rank": { "global": 15805, "country": 1267 }
+  }
+}

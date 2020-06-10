@@ -1,1 +1,24 @@
-{"category":"tech2","counts":{"bpm":1,"sv":4,"notes":{"total":1380,"rice":1192,"ln":188,"single":838,"jump":199,"hand":48,"quad":0}},"title":"electro peaceful","artist":"Mr.T","mapper":"-mint-","difficulty":"mechanical tranquility","beatmapId":"2156093","beatmapSetId":"1031030","hp":"8","od":"8","length":null}
+{
+  "category": "tech2",
+  "counts": {
+    "bpm": 1,
+    "sv": 2,
+    "notes": {
+      "total": 1379,
+      "rice": 1191,
+      "ln": 188,
+      "single": 837,
+      "jump": 199,
+      "hand": 48,
+      "quad": 0
+    }
+  },
+  "title": "electro peaceful",
+  "artist": "Mr.T",
+  "mapper": "-mint-",
+  "difficulty": "mechanical tranquility",
+  "beatmapId": "2156093",
+  "beatmapSetId": "1031030",
+  "hp": "8",
+  "od": "8"
+}

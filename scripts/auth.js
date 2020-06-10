@@ -11,6 +11,12 @@ let auth;
 exports.initAuth = async () => {
   try {
     auth = require("../auth.json");
+    // Verify that the token is still valid
+    await got("https://osu.ppy.sh/api/v2/me", {
+      headers: {
+        Authorization: `Bearer ${auth.access_token}`,
+      },
+    });
   } catch {
     console.log("Log into your osu! account using this link:");
     console.log(

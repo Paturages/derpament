@@ -1,1 +1,24 @@
-{"category":"speed3","counts":{"bpm":1,"sv":2,"notes":{"total":1748,"rice":1746,"ln":2,"single":1330,"jump":209,"hand":0,"quad":0}},"title":"Something About Icyworld","artist":"Phantasma","mapper":"Arkener","difficulty":"Fleeting Fantasy - Phantasma - Hard 11","beatmapId":"1849543","beatmapSetId":"884900","hp":"8","od":"8","length":null}
+{
+  "category": "speed3",
+  "counts": {
+    "bpm": 1,
+    "sv": 0,
+    "notes": {
+      "total": 1747,
+      "rice": 1745,
+      "ln": 2,
+      "single": 1329,
+      "jump": 209,
+      "hand": 0,
+      "quad": 0
+    }
+  },
+  "title": "Something About Icyworld",
+  "artist": "Phantasma",
+  "mapper": "Arkener",
+  "difficulty": "Fleeting Fantasy - Phantasma - Hard 11",
+  "beatmapId": "1849543",
+  "beatmapSetId": "884900",
+  "hp": "8",
+  "od": "8"
+}

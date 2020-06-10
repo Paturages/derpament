@@ -1,1 +1,23 @@
-{"avatar_url":"https://a.ppy.sh/8567036?1551543483.jpeg","country":{"code":"MY","name":"Malaysia"},"id":8567036,"username":"KizXii","join_date":"2016-06-16T13:11:41+00:00","statistics":{"level":{"current":75,"progress":38},"pp":3750.85,"pp_rank":16470,"ranked_score":1135689177,"hit_accuracy":96.2461,"play_count":6037,"play_time":456109,"total_score":2827354328,"total_hits":4046716,"maximum_combo":1793,"replays_watched_by_others":0,"is_ranked":true,"grade_counts":{"ss":18,"ssh":0,"s":838,"sh":21,"a":348},"rank":{"global":16470,"country":398}}}
+{
+  "avatar_url": "https://a.ppy.sh/8567036?1551543483.jpeg",
+  "country": { "code": "MY", "name": "Malaysia" },
+  "id": 8567036,
+  "username": "KizXii",
+  "join_date": "2016-06-16T13:11:41+00:00",
+  "statistics": {
+    "level": { "current": 75, "progress": 38 },
+    "pp": 3750.85,
+    "pp_rank": 16470,
+    "ranked_score": 1135689177,
+    "hit_accuracy": 96.2461,
+    "play_count": 6037,
+    "play_time": 456109,
+    "total_score": 2827354328,
+    "total_hits": 4046716,
+    "maximum_combo": 1793,
+    "replays_watched_by_others": 0,
+    "is_ranked": true,
+    "grade_counts": { "ss": 18, "ssh": 0, "s": 838, "sh": 21, "a": 348 },
+    "rank": { "global": 16470, "country": 398 }
+  }
+}

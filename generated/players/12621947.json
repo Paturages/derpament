@@ -1,1 +1,23 @@
-{"avatar_url":"https://a.ppy.sh/12621947?1591001977.jpeg","country":{"code":"TH","name":"Thailand"},"id":12621947,"username":"FarmMyLife","join_date":"2018-07-09T10:29:05+00:00","statistics":{"level":{"current":71,"progress":74},"pp":5435.99,"pp_rank":5845,"ranked_score":476756145,"hit_accuracy":96.4415,"play_count":6838,"play_time":432372,"total_score":2435924952,"total_hits":4530970,"maximum_combo":4887,"replays_watched_by_others":1,"is_ranked":true,"grade_counts":{"ss":9,"ssh":0,"s":452,"sh":1,"a":54},"rank":{"global":5845,"country":139}}}
+{
+  "avatar_url": "https://a.ppy.sh/12621947?1591001977.jpeg",
+  "country": { "code": "TH", "name": "Thailand" },
+  "id": 12621947,
+  "username": "FarmMyLife",
+  "join_date": "2018-07-09T10:29:05+00:00",
+  "statistics": {
+    "level": { "current": 71, "progress": 74 },
+    "pp": 5435.99,
+    "pp_rank": 5845,
+    "ranked_score": 476756145,
+    "hit_accuracy": 96.4415,
+    "play_count": 6838,
+    "play_time": 432372,
+    "total_score": 2435924952,
+    "total_hits": 4530970,
+    "maximum_combo": 4887,
+    "replays_watched_by_others": 1,
+    "is_ranked": true,
+    "grade_counts": { "ss": 9, "ssh": 0, "s": 452, "sh": 1, "a": 54 },
+    "rank": { "global": 5845, "country": 139 }
+  }
+}

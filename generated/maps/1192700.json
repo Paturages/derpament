@@ -1,1 +1,24 @@
-{"category":"speed2","counts":{"bpm":4,"sv":8,"notes":{"total":1354,"rice":1342,"ln":12,"single":811,"jump":192,"hand":53,"quad":0}},"title":"Kitsune no Yomeiri","artist":"Masa","mapper":"puxtu","difficulty":"HD v.2","beatmapId":"1192700","beatmapSetId":"213615","hp":"7","od":"8","length":null}
+{
+  "category": "speed2",
+  "counts": {
+    "bpm": 4,
+    "sv": 4,
+    "notes": {
+      "total": 1353,
+      "rice": 1341,
+      "ln": 12,
+      "single": 810,
+      "jump": 192,
+      "hand": 53,
+      "quad": 0
+    }
+  },
+  "title": "Kitsune no Yomeiri",
+  "artist": "Masa",
+  "mapper": "puxtu",
+  "difficulty": "HD v.2",
+  "beatmapId": "1192700",
+  "beatmapSetId": "213615",
+  "hp": "7",
+  "od": "8"
+}

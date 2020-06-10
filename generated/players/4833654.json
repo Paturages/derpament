@@ -1,1 +1,23 @@
-{"avatar_url":"https://a.ppy.sh/4833654?1587158768.jpeg","country":{"code":"FR","name":"France"},"id":4833654,"username":"Ladybug","join_date":"2014-08-23T18:08:58+00:00","statistics":{"level":{"current":56,"progress":38},"pp":2596.84,"pp_rank":31964,"ranked_score":568880770,"hit_accuracy":96.2995,"play_count":2406,"play_time":200197,"total_score":1179177706,"total_hits":1387760,"maximum_combo":2673,"replays_watched_by_others":0,"is_ranked":true,"grade_counts":{"ss":6,"ssh":1,"s":471,"sh":14,"a":148},"rank":{"global":31964,"country":885}}}
+{
+  "avatar_url": "https://a.ppy.sh/4833654?1587158768.jpeg",
+  "country": { "code": "FR", "name": "France" },
+  "id": 4833654,
+  "username": "Ladybug",
+  "join_date": "2014-08-23T18:08:58+00:00",
+  "statistics": {
+    "level": { "current": 56, "progress": 38 },
+    "pp": 2596.84,
+    "pp_rank": 31964,
+    "ranked_score": 568880770,
+    "hit_accuracy": 96.2995,
+    "play_count": 2406,
+    "play_time": 200197,
+    "total_score": 1179177706,
+    "total_hits": 1387760,
+    "maximum_combo": 2673,
+    "replays_watched_by_others": 0,
+    "is_ranked": true,
+    "grade_counts": { "ss": 6, "ssh": 1, "s": 471, "sh": 14, "a": 148 },
+    "rank": { "global": 31964, "country": 885 }
+  }
+}

@@ -1,1 +1,23 @@
-{"avatar_url":"https://a.ppy.sh/9768438?1586263142.jpeg","country":{"code":"FR","name":"France"},"id":9768438,"username":"nalo_","join_date":"2017-02-19T10:02:41+00:00","statistics":{"level":{"current":80,"progress":30},"pp":4310.96,"pp_rank":11588,"ranked_score":966384917,"hit_accuracy":97.3519,"play_count":7398,"play_time":571420,"total_score":3420723291,"total_hits":4780389,"maximum_combo":3877,"replays_watched_by_others":3,"is_ranked":true,"grade_counts":{"ss":14,"ssh":13,"s":832,"sh":153,"a":28},"rank":{"global":11588,"country":274}}}
+{
+  "avatar_url": "https://a.ppy.sh/9768438?1586263142.jpeg",
+  "country": { "code": "FR", "name": "France" },
+  "id": 9768438,
+  "username": "nalo_",
+  "join_date": "2017-02-19T10:02:41+00:00",
+  "statistics": {
+    "level": { "current": 80, "progress": 30 },
+    "pp": 4310.96,
+    "pp_rank": 11588,
+    "ranked_score": 966384917,
+    "hit_accuracy": 97.3519,
+    "play_count": 7398,
+    "play_time": 571420,
+    "total_score": 3420723291,
+    "total_hits": 4780389,
+    "maximum_combo": 3877,
+    "replays_watched_by_others": 3,
+    "is_ranked": true,
+    "grade_counts": { "ss": 14, "ssh": 13, "s": 832, "sh": 153, "a": 28 },
+    "rank": { "global": 11588, "country": 274 }
+  }
+}

@@ -1,1 +1,23 @@
-{"avatar_url":"https://a.ppy.sh/10540735?1548905880.jpeg","country":{"code":"US","name":"United States"},"id":10540735,"username":"Asymmetrical","join_date":"2017-07-22T01:52:15+00:00","statistics":{"level":{"current":78,"progress":38},"pp":3248.4,"pp_rank":22151,"ranked_score":767935368,"hit_accuracy":97.034,"play_count":6584,"play_time":466544,"total_score":3180287061,"total_hits":3662051,"maximum_combo":3726,"replays_watched_by_others":0,"is_ranked":true,"grade_counts":{"ss":13,"ssh":2,"s":668,"sh":29,"a":154},"rank":{"global":22151,"country":2325}}}
+{
+  "avatar_url": "https://a.ppy.sh/10540735?1548905880.jpeg",
+  "country": { "code": "US", "name": "United States" },
+  "id": 10540735,
+  "username": "Asymmetrical",
+  "join_date": "2017-07-22T01:52:15+00:00",
+  "statistics": {
+    "level": { "current": 78, "progress": 38 },
+    "pp": 3248.4,
+    "pp_rank": 22151,
+    "ranked_score": 767935368,
+    "hit_accuracy": 97.034,
+    "play_count": 6584,
+    "play_time": 466544,
+    "total_score": 3180287061,
+    "total_hits": 3662051,
+    "maximum_combo": 3726,
+    "replays_watched_by_others": 0,
+    "is_ranked": true,
+    "grade_counts": { "ss": 13, "ssh": 2, "s": 668, "sh": 29, "a": 154 },
+    "rank": { "global": 22151, "country": 2325 }
+  }
+}

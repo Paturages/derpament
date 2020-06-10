@@ -1,1 +1,23 @@
-{"avatar_url":"https://a.ppy.sh/10738928?1587794200.jpeg","country":{"code":"ID","name":"Indonesia"},"id":10738928,"username":"Dhaxy","join_date":"2017-08-27T03:12:41+00:00","statistics":{"level":{"current":78,"progress":10},"pp":4540.88,"pp_rank":10029,"ranked_score":533262594,"hit_accuracy":96.5623,"play_count":10707,"play_time":568151,"total_score":3146166138,"total_hits":4896935,"maximum_combo":3340,"replays_watched_by_others":0,"is_ranked":true,"grade_counts":{"ss":7,"ssh":0,"s":538,"sh":2,"a":39},"rank":{"global":10029,"country":754}}}
+{
+  "avatar_url": "https://a.ppy.sh/10738928?1587794200.jpeg",
+  "country": { "code": "ID", "name": "Indonesia" },
+  "id": 10738928,
+  "username": "Dhaxy",
+  "join_date": "2017-08-27T03:12:41+00:00",
+  "statistics": {
+    "level": { "current": 78, "progress": 10 },
+    "pp": 4540.88,
+    "pp_rank": 10029,
+    "ranked_score": 533262594,
+    "hit_accuracy": 96.5623,
+    "play_count": 10707,
+    "play_time": 568151,
+    "total_score": 3146166138,
+    "total_hits": 4896935,
+    "maximum_combo": 3340,
+    "replays_watched_by_others": 0,
+    "is_ranked": true,
+    "grade_counts": { "ss": 7, "ssh": 0, "s": 538, "sh": 2, "a": 39 },
+    "rank": { "global": 10029, "country": 754 }
+  }
+}

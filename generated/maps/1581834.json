@@ -1,1 +1,24 @@
-{"category":"sv1","counts":{"bpm":1,"sv":487,"notes":{"total":788,"rice":726,"ln":62,"single":312,"jump":107,"hand":86,"quad":1}},"title":"4K SV Pack","artist":"Various Artists","mapper":"Janko","difficulty":"Alexander Okunev - Death Mashina","beatmapId":"1581834","beatmapSetId":"722368","hp":"8.5","od":"8.5","length":null}
+{
+  "category": "sv1",
+  "counts": {
+    "bpm": 1,
+    "sv": 485,
+    "notes": {
+      "total": 787,
+      "rice": 725,
+      "ln": 62,
+      "single": 311,
+      "jump": 107,
+      "hand": 86,
+      "quad": 1
+    }
+  },
+  "title": "4K SV Pack",
+  "artist": "Various Artists",
+  "mapper": "Janko",
+  "difficulty": "Alexander Okunev - Death Mashina",
+  "beatmapId": "1581834",
+  "beatmapSetId": "722368",
+  "hp": "8.5",
+  "od": "8.5"
+}

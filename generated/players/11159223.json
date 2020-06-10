@@ -1,1 +1,23 @@
-{"avatar_url":"https://a.ppy.sh/11159223?1564234977.jpeg","country":{"code":"FR","name":"France"},"id":11159223,"username":"YannB","join_date":"2017-11-13T20:28:11+00:00","statistics":{"level":{"current":94,"progress":66},"pp":3627.05,"pp_rank":17750,"ranked_score":1596820251,"hit_accuracy":95.1623,"play_count":13723,"play_time":1195364,"total_score":6523123657,"total_hits":9909834,"maximum_combo":3033,"replays_watched_by_others":0,"is_ranked":true,"grade_counts":{"ss":6,"ssh":0,"s":1154,"sh":1,"a":584},"rank":{"global":17750,"country":444}}}
+{
+  "avatar_url": "https://a.ppy.sh/11159223?1564234977.jpeg",
+  "country": { "code": "FR", "name": "France" },
+  "id": 11159223,
+  "username": "YannB",
+  "join_date": "2017-11-13T20:28:11+00:00",
+  "statistics": {
+    "level": { "current": 94, "progress": 66 },
+    "pp": 3627.05,
+    "pp_rank": 17750,
+    "ranked_score": 1596820251,
+    "hit_accuracy": 95.1623,
+    "play_count": 13723,
+    "play_time": 1195364,
+    "total_score": 6523123657,
+    "total_hits": 9909834,
+    "maximum_combo": 3033,
+    "replays_watched_by_others": 0,
+    "is_ranked": true,
+    "grade_counts": { "ss": 6, "ssh": 0, "s": 1154, "sh": 1, "a": 584 },
+    "rank": { "global": 17750, "country": 444 }
+  }
+}

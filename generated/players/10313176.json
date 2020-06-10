@@ -1,1 +1,23 @@
-{"avatar_url":"https://a.ppy.sh/10313176?1506129881.png","country":{"code":"US","name":"United States"},"id":10313176,"username":"YaBoiKarito","join_date":"2017-06-06T00:18:59+00:00","statistics":{"level":{"current":46,"progress":45},"pp":2262.85,"pp_rank":38580,"ranked_score":199317027,"hit_accuracy":94.2182,"play_count":2383,"play_time":139173,"total_score":657665370,"total_hits":1154327,"maximum_combo":2532,"replays_watched_by_others":2,"is_ranked":true,"grade_counts":{"ss":1,"ssh":0,"s":70,"sh":1,"a":98},"rank":{"global":38580,"country":4158}}}
+{
+  "avatar_url": "https://a.ppy.sh/10313176?1506129881.png",
+  "country": { "code": "US", "name": "United States" },
+  "id": 10313176,
+  "username": "YaBoiKarito",
+  "join_date": "2017-06-06T00:18:59+00:00",
+  "statistics": {
+    "level": { "current": 46, "progress": 45 },
+    "pp": 2262.85,
+    "pp_rank": 38580,
+    "ranked_score": 199317027,
+    "hit_accuracy": 94.2182,
+    "play_count": 2383,
+    "play_time": 139173,
+    "total_score": 657665370,
+    "total_hits": 1154327,
+    "maximum_combo": 2532,
+    "replays_watched_by_others": 2,
+    "is_ranked": true,
+    "grade_counts": { "ss": 1, "ssh": 0, "s": 70, "sh": 1, "a": 98 },
+    "rank": { "global": 38580, "country": 4158 }
+  }
+}

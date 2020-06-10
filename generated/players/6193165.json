@@ -1,1 +1,23 @@
-{"avatar_url":"https://a.ppy.sh/6193165?1547067786.jpeg","country":{"code":"PL","name":"Poland"},"id":6193165,"username":"DK Beatbox","join_date":"2015-03-21T10:03:25+00:00","statistics":{"level":{"current":69,"progress":80},"pp":3046.39,"pp_rank":24861,"ranked_score":489469523,"hit_accuracy":95.3597,"play_count":5799,"play_time":421675,"total_score":2243317389,"total_hits":2820621,"maximum_combo":2961,"replays_watched_by_others":0,"is_ranked":true,"grade_counts":{"ss":4,"ssh":0,"s":431,"sh":0,"a":84},"rank":{"global":24861,"country":315}}}
+{
+  "avatar_url": "https://a.ppy.sh/6193165?1547067786.jpeg",
+  "country": { "code": "PL", "name": "Poland" },
+  "id": 6193165,
+  "username": "DK Beatbox",
+  "join_date": "2015-03-21T10:03:25+00:00",
+  "statistics": {
+    "level": { "current": 69, "progress": 80 },
+    "pp": 3046.39,
+    "pp_rank": 24861,
+    "ranked_score": 489469523,
+    "hit_accuracy": 95.3597,
+    "play_count": 5799,
+    "play_time": 421675,
+    "total_score": 2243317389,
+    "total_hits": 2820621,
+    "maximum_combo": 2961,
+    "replays_watched_by_others": 0,
+    "is_ranked": true,
+    "grade_counts": { "ss": 4, "ssh": 0, "s": 431, "sh": 0, "a": 84 },
+    "rank": { "global": 24861, "country": 315 }
+  }
+}

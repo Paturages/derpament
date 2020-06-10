@@ -1,1 +1,23 @@
-{"avatar_url":"https://a.ppy.sh/8684540?1573142641.png","country":{"code":"SE","name":"Sweden"},"id":8684540,"username":"Logg45vs","join_date":"2016-07-10T15:45:16+00:00","statistics":{"level":{"current":83,"progress":4},"pp":4218.82,"pp_rank":12263,"ranked_score":683848502,"hit_accuracy":96.0034,"play_count":14742,"play_time":951143,"total_score":3785179437,"total_hits":9058629,"maximum_combo":3370,"replays_watched_by_others":1,"is_ranked":true,"grade_counts":{"ss":12,"ssh":1,"s":384,"sh":4,"a":256},"rank":{"global":12263,"country":82}}}
+{
+  "avatar_url": "https://a.ppy.sh/8684540?1573142641.png",
+  "country": { "code": "SE", "name": "Sweden" },
+  "id": 8684540,
+  "username": "Logg45vs",
+  "join_date": "2016-07-10T15:45:16+00:00",
+  "statistics": {
+    "level": { "current": 83, "progress": 4 },
+    "pp": 4218.82,
+    "pp_rank": 12263,
+    "ranked_score": 683848502,
+    "hit_accuracy": 96.0034,
+    "play_count": 14742,
+    "play_time": 951143,
+    "total_score": 3785179437,
+    "total_hits": 9058629,
+    "maximum_combo": 3370,
+    "replays_watched_by_others": 1,
+    "is_ranked": true,
+    "grade_counts": { "ss": 12, "ssh": 1, "s": 384, "sh": 4, "a": 256 },
+    "rank": { "global": 12263, "country": 82 }
+  }
+}

@@ -2,6 +2,7 @@ require("dotenv").config();
 const fs = require("fs");
 const path = require("path");
 const got = require("got");
+const prettier = require("prettier");
 
 const { initAuth, getToken } = require("./auth");
 
@@ -48,18 +49,10 @@ const generatedPath = path.resolve(__dirname, "..", "generated");
         },
       }
     );
-    const { avatar_url, country, id, username, join_date, statistics } = body;
 
     await fs.promises.writeFile(
       path.resolve(generatedPath, "players", `${playerId}.json`),
-      JSON.stringify({
-        avatar_url,
-        country,
-        id,
-        username,
-        join_date,
-        statistics,
-      })
+      prettier.format(JSON.stringify(body), { parser: "json" })
     );
     console.log(`ID ${id} ${username} has been fetched and saved!`);
 

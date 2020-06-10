@@ -1,1 +1,23 @@
-{"avatar_url":"https://a.ppy.sh/9908055?1591698114.jpeg","country":{"code":"ID","name":"Indonesia"},"id":9908055,"username":"Ihram-San","join_date":"2017-03-17T13:44:59+00:00","statistics":{"level":{"current":80,"progress":82},"pp":4318.97,"pp_rank":11537,"ranked_score":769536254,"hit_accuracy":95.3811,"play_count":13829,"play_time":649936,"total_score":3487196716,"total_hits":5193786,"maximum_combo":2928,"replays_watched_by_others":18,"is_ranked":true,"grade_counts":{"ss":81,"ssh":17,"s":440,"sh":120,"a":164},"rank":{"global":11537,"country":888}}}
+{
+  "avatar_url": "https://a.ppy.sh/9908055?1591698114.jpeg",
+  "country": { "code": "ID", "name": "Indonesia" },
+  "id": 9908055,
+  "username": "Ihram-San",
+  "join_date": "2017-03-17T13:44:59+00:00",
+  "statistics": {
+    "level": { "current": 80, "progress": 82 },
+    "pp": 4318.97,
+    "pp_rank": 11537,
+    "ranked_score": 769536254,
+    "hit_accuracy": 95.3811,
+    "play_count": 13829,
+    "play_time": 649936,
+    "total_score": 3487196716,
+    "total_hits": 5193786,
+    "maximum_combo": 2928,
+    "replays_watched_by_others": 18,
+    "is_ranked": true,
+    "grade_counts": { "ss": 81, "ssh": 17, "s": 440, "sh": 120, "a": 164 },
+    "rank": { "global": 11537, "country": 888 }
+  }
+}

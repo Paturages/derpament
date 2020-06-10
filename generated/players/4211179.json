@@ -1,1 +1,23 @@
-{"avatar_url":"https://a.ppy.sh/4211179?1590484155.png","country":{"code":"TH","name":"Thailand"},"id":4211179,"username":"[Hakura_San]","join_date":"2014-04-01T12:36:35+00:00","statistics":{"level":{"current":53,"progress":0},"pp":4169.05,"pp_rank":12643,"ranked_score":357653785,"hit_accuracy":97.2211,"play_count":2061,"play_time":159160,"total_score":978538224,"total_hits":1632594,"maximum_combo":3234,"replays_watched_by_others":3,"is_ranked":true,"grade_counts":{"ss":2,"ssh":0,"s":322,"sh":1,"a":62},"rank":{"global":12643,"country":281}}}
+{
+  "avatar_url": "https://a.ppy.sh/4211179?1590484155.png",
+  "country": { "code": "TH", "name": "Thailand" },
+  "id": 4211179,
+  "username": "[Hakura_San]",
+  "join_date": "2014-04-01T12:36:35+00:00",
+  "statistics": {
+    "level": { "current": 53, "progress": 0 },
+    "pp": 4169.05,
+    "pp_rank": 12643,
+    "ranked_score": 357653785,
+    "hit_accuracy": 97.2211,
+    "play_count": 2061,
+    "play_time": 159160,
+    "total_score": 978538224,
+    "total_hits": 1632594,
+    "maximum_combo": 3234,
+    "replays_watched_by_others": 3,
+    "is_ranked": true,
+    "grade_counts": { "ss": 2, "ssh": 0, "s": 322, "sh": 1, "a": 62 },
+    "rank": { "global": 12643, "country": 281 }
+  }
+}

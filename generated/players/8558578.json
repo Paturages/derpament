@@ -1,1 +1,23 @@
-{"avatar_url":"https://a.ppy.sh/8558578?1587823892.jpeg","country":{"code":"NO","name":"Norway"},"id":8558578,"username":"zakis6playz","join_date":"2016-06-14T17:04:44+00:00","statistics":{"level":{"current":54,"progress":15},"pp":2965.41,"pp_rank":26016,"ranked_score":206871486,"hit_accuracy":96.1096,"play_count":3446,"play_time":196780,"total_score":1043927210,"total_hits":1806671,"maximum_combo":2769,"replays_watched_by_others":0,"is_ranked":true,"grade_counts":{"ss":0,"ssh":0,"s":138,"sh":0,"a":74},"rank":{"global":26016,"country":127}}}
+{
+  "avatar_url": "https://a.ppy.sh/8558578?1587823892.jpeg",
+  "country": { "code": "NO", "name": "Norway" },
+  "id": 8558578,
+  "username": "zakis6playz",
+  "join_date": "2016-06-14T17:04:44+00:00",
+  "statistics": {
+    "level": { "current": 54, "progress": 15 },
+    "pp": 2965.41,
+    "pp_rank": 26016,
+    "ranked_score": 206871486,
+    "hit_accuracy": 96.1096,
+    "play_count": 3446,
+    "play_time": 196780,
+    "total_score": 1043927210,
+    "total_hits": 1806671,
+    "maximum_combo": 2769,
+    "replays_watched_by_others": 0,
+    "is_ranked": true,
+    "grade_counts": { "ss": 0, "ssh": 0, "s": 138, "sh": 0, "a": 74 },
+    "rank": { "global": 26016, "country": 127 }
+  }
+}

@@ -1,1 +1,23 @@
-{"avatar_url":"https://a.ppy.sh/12755411?1566074671.jpeg","country":{"code":"BR","name":"Brazil"},"id":12755411,"username":"Dai-jo-bu","join_date":"2018-07-29T01:37:21+00:00","statistics":{"level":{"current":68,"progress":68},"pp":3513.55,"pp_rank":19041,"ranked_score":580600911,"hit_accuracy":96.6477,"play_count":5286,"play_time":373676,"total_score":2137222960,"total_hits":3298012,"maximum_combo":3093,"replays_watched_by_others":0,"is_ranked":true,"grade_counts":{"ss":1,"ssh":0,"s":523,"sh":0,"a":148},"rank":{"global":19041,"country":350}}}
+{
+  "avatar_url": "https://a.ppy.sh/12755411?1566074671.jpeg",
+  "country": { "code": "BR", "name": "Brazil" },
+  "id": 12755411,
+  "username": "Dai-jo-bu",
+  "join_date": "2018-07-29T01:37:21+00:00",
+  "statistics": {
+    "level": { "current": 68, "progress": 68 },
+    "pp": 3513.55,
+    "pp_rank": 19041,
+    "ranked_score": 580600911,
+    "hit_accuracy": 96.6477,
+    "play_count": 5286,
+    "play_time": 373676,
+    "total_score": 2137222960,
+    "total_hits": 3298012,
+    "maximum_combo": 3093,
+    "replays_watched_by_others": 0,
+    "is_ranked": true,
+    "grade_counts": { "ss": 1, "ssh": 0, "s": 523, "sh": 0, "a": 148 },
+    "rank": { "global": 19041, "country": 350 }
+  }
+}

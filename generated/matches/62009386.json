@@ -1,1 +1,198 @@
-{"match":{"match_id":"62009386","name":"MBS2: (antip0is0n) vs. (DanX)","start_time":"2020-05-23 14:51:36","end_time":"2020-05-23 15:40:08"},"games":[{"game_id":"324296358","start_time":"2020-05-23 15:21:06","end_time":"2020-05-23 15:23:07","beatmap_id":"2127847","play_mode":"3","match_type":"0","scoring_type":"3","team_type":"0","mods":"0","scores":[{"slot":"0","team":"0","user_id":"8576168","score":"954488","maxcombo":"1293","rank":"0","count50":"0","count100":"1","count300":"353","countmiss":"0","countgeki":"905","countkatu":"34","perfect":"0","pass":"1","enabled_mods":"0"},{"slot":"1","team":"0","user_id":"10542408","score":"972700","maxcombo":"1293","rank":"0","count50":"0","count100":"0","count300":"350","countmiss":"0","countgeki":"928","countkatu":"15","perfect":"0","pass":"1","enabled_mods":"0"}]},{"game_id":"324297021","start_time":"2020-05-23 15:24:17","end_time":"2020-05-23 15:26:51","beatmap_id":"1192700","play_mode":"3","match_type":"0","scoring_type":"3","team_type":"0","mods":"0","scores":[{"slot":"0","team":"0","user_id":"8576168","score":"963628","maxcombo":"966","rank":"0","count50":"0","count100":"0","count300":"253","countmiss":"2","countgeki":"1104","countkatu":"6","perfect":"0","pass":"1","enabled_mods":"0"},{"slot":"1","team":"0","user_id":"10542408","score":"993175","maxcombo":"1365","rank":"0","count50":"0","count100":"0","count300":"156","countmiss":"0","countgeki":"1208","countkatu":"1","perfect":"0","pass":"1","enabled_mods":"0"}]},{"game_id":"324297852","start_time":"2020-05-23 15:28:15","end_time":"2020-05-23 15:32:38","beatmap_id":"2438150","play_mode":"3","match_type":"0","scoring_type":"3","team_type":"0","mods":"0","scores":[{"slot":"0","team":"0","user_id":"8576168","score":"966726","maxcombo":"1721","rank":"0","count50":"1","count100":"1","count300":"505","countmiss":"1","countgeki":"1811","countkatu":"26","perfect":"0","pass":"1","enabled_mods":"0"},{"slot":"1","team":"0","user_id":"10542408","score":"980223","maxcombo":"2345","rank":"0","count50":"0","count100":"2","count300":"428","countmiss":"0","countgeki":"1898","countkatu":"17","perfect":"0","pass":"1","enabled_mods":"0"}]},{"game_id":"324299259","start_time":"2020-05-23 15:35:02","end_time":"2020-05-23 15:38:03","beatmap_id":"365726","play_mode":"3","match_type":"0","scoring_type":"3","team_type":"0","mods":"0","scores":[{"slot":"0","team":"0","user_id":"8576168","score":"965817","maxcombo":"738","rank":"0","count50":"1","count100":"0","count300":"284","countmiss":"0","countgeki":"924","countkatu":"9","perfect":"0","pass":"1","enabled_mods":"0"},{"slot":"1","team":"0","user_id":"10542408","score":"968879","maxcombo":"1218","rank":"0","count50":"0","count100":"0","count300":"312","countmiss":"0","countgeki":"887","countkatu":"19","perfect":"0","pass":"1","enabled_mods":"0"}]}]}
+{
+  "match": {
+    "match_id": "62009386",
+    "name": "MBS2: (antip0is0n) vs. (DanX)",
+    "start_time": "2020-05-23 14:51:36",
+    "end_time": "2020-05-23 15:40:08"
+  },
+  "games": [
+    {
+      "game_id": "324296358",
+      "start_time": "2020-05-23 15:21:06",
+      "end_time": "2020-05-23 15:23:07",
+      "beatmap_id": "2127847",
+      "play_mode": "3",
+      "match_type": "0",
+      "scoring_type": "3",
+      "team_type": "0",
+      "mods": "0",
+      "scores": [
+        {
+          "slot": "0",
+          "team": "0",
+          "user_id": "8576168",
+          "score": "954488",
+          "maxcombo": "1293",
+          "rank": "0",
+          "count50": "0",
+          "count100": "1",
+          "count300": "353",
+          "countmiss": "0",
+          "countgeki": "905",
+          "countkatu": "34",
+          "perfect": "0",
+          "pass": "1",
+          "enabled_mods": "0"
+        },
+        {
+          "slot": "1",
+          "team": "0",
+          "user_id": "10542408",
+          "score": "972700",
+          "maxcombo": "1293",
+          "rank": "0",
+          "count50": "0",
+          "count100": "0",
+          "count300": "350",
+          "countmiss": "0",
+          "countgeki": "928",
+          "countkatu": "15",
+          "perfect": "0",
+          "pass": "1",
+          "enabled_mods": "0"
+        }
+      ]
+    },
+    {
+      "game_id": "324297021",
+      "start_time": "2020-05-23 15:24:17",
+      "end_time": "2020-05-23 15:26:51",
+      "beatmap_id": "1192700",
+      "play_mode": "3",
+      "match_type": "0",
+      "scoring_type": "3",
+      "team_type": "0",
+      "mods": "0",
+      "scores": [
+        {
+          "slot": "0",
+          "team": "0",
+          "user_id": "8576168",
+          "score": "963628",
+          "maxcombo": "966",
+          "rank": "0",
+          "count50": "0",
+          "count100": "0",
+          "count300": "253",
+          "countmiss": "2",
+          "countgeki": "1104",
+          "countkatu": "6",
+          "perfect": "0",
+          "pass": "1",
+          "enabled_mods": "0"
+        },
+        {
+          "slot": "1",
+          "team": "0",
+          "user_id": "10542408",
+          "score": "993175",
+          "maxcombo": "1365",
+          "rank": "0",
+          "count50": "0",
+          "count100": "0",
+          "count300": "156",
+          "countmiss": "0",
+          "countgeki": "1208",
+          "countkatu": "1",
+          "perfect": "0",
+          "pass": "1",
+          "enabled_mods": "0"
+        }
+      ]
+    },
+    {
+      "game_id": "324297852",
+      "start_time": "2020-05-23 15:28:15",
+      "end_time": "2020-05-23 15:32:38",
+      "beatmap_id": "2438150",
+      "play_mode": "3",
+      "match_type": "0",
+      "scoring_type": "3",
+      "team_type": "0",
+      "mods": "0",
+      "scores": [
+        {
+          "slot": "0",
+          "team": "0",
+          "user_id": "8576168",
+          "score": "966726",
+          "maxcombo": "1721",
+          "rank": "0",
+          "count50": "1",
+          "count100": "1",
+          "count300": "505",
+          "countmiss": "1",
+          "countgeki": "1811",
+          "countkatu": "26",
+          "perfect": "0",
+          "pass": "1",
+          "enabled_mods": "0"
+        },
+        {
+          "slot": "1",
+          "team": "0",
+          "user_id": "10542408",
+          "score": "980223",
+          "maxcombo": "2345",
+          "rank": "0",
+          "count50": "0",
+          "count100": "2",
+          "count300": "428",
+          "countmiss": "0",
+          "countgeki": "1898",
+          "countkatu": "17",
+          "perfect": "0",
+          "pass": "1",
+          "enabled_mods": "0"
+        }
+      ]
+    },
+    {
+      "game_id": "324299259",
+      "start_time": "2020-05-23 15:35:02",
+      "end_time": "2020-05-23 15:38:03",
+      "beatmap_id": "365726",
+      "play_mode": "3",
+      "match_type": "0",
+      "scoring_type": "3",
+      "team_type": "0",
+      "mods": "0",
+      "scores": [
+        {
+          "slot": "0",
+          "team": "0",
+          "user_id": "8576168",
+          "score": "965817",
+          "maxcombo": "738",
+          "rank": "0",
+          "count50": "1",
+          "count100": "0",
+          "count300": "284",
+          "countmiss": "0",
+          "countgeki": "924",
+          "countkatu": "9",
+          "perfect": "0",
+          "pass": "1",
+          "enabled_mods": "0"
+        },
+        {
+          "slot": "1",
+          "team": "0",
+          "user_id": "10542408",
+          "score": "968879",
+          "maxcombo": "1218",
+          "rank": "0",
+          "count50": "0",
+          "count100": "0",
+          "count300": "312",
+          "countmiss": "0",
+          "countgeki": "887",
+          "countkatu": "19",
+          "perfect": "0",
+          "pass": "1",
+          "enabled_mods": "0"
+        }
+      ]
+    }
+  ]
+}

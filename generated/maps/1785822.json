@@ -1,1 +1,24 @@
-{"category":"sv2","counts":{"bpm":1,"sv":1239,"notes":{"total":1357,"rice":893,"ln":464,"single":482,"jump":280,"hand":93,"quad":9}},"title":"Sunset Tea Cup","artist":"YUC'e","mapper":"rRubyyy","difficulty":"TeaCupSV","beatmapId":"1785822","beatmapSetId":"847692","hp":"8","od":"6","length":null}
+{
+  "category": "sv2",
+  "counts": {
+    "bpm": 1,
+    "sv": 1237,
+    "notes": {
+      "total": 1356,
+      "rice": 892,
+      "ln": 464,
+      "single": 481,
+      "jump": 280,
+      "hand": 93,
+      "quad": 9
+    }
+  },
+  "title": "Sunset Tea Cup",
+  "artist": "YUC'e",
+  "mapper": "rRubyyy",
+  "difficulty": "TeaCupSV",
+  "beatmapId": "1785822",
+  "beatmapSetId": "847692",
+  "hp": "8",
+  "od": "6"
+}

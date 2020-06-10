@@ -1,1 +1,24 @@
-{"category":"ln2","counts":{"bpm":1,"sv":2,"notes":{"total":727,"rice":195,"ln":532,"single":342,"jump":171,"hand":13,"quad":1}},"title":"Boys in Kaleidosphere","artist":"Mili","mapper":"Turtwig","difficulty":"Abstraction","beatmapId":"2316822","beatmapSetId":"1063420","hp":"7","od":"6","length":null}
+{
+  "category": "ln2",
+  "counts": {
+    "bpm": 1,
+    "sv": 0,
+    "notes": {
+      "total": 726,
+      "rice": 194,
+      "ln": 532,
+      "single": 341,
+      "jump": 171,
+      "hand": 13,
+      "quad": 1
+    }
+  },
+  "title": "Boys in Kaleidosphere",
+  "artist": "Mili",
+  "mapper": "Turtwig",
+  "difficulty": "Abstraction",
+  "beatmapId": "2316822",
+  "beatmapSetId": "1063420",
+  "hp": "7",
+  "od": "6"
+}

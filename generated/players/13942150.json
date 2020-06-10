@@ -1,1 +1,23 @@
-{"avatar_url":"https://a.ppy.sh/13942150?1573317215.jpeg","country":{"code":"CH","name":"Switzerland"},"id":13942150,"username":"CrashSmash","join_date":"2019-02-15T14:29:53+00:00","statistics":{"level":{"current":60,"progress":3},"pp":4842.37,"pp_rank":8271,"ranked_score":418258363,"hit_accuracy":96.654,"play_count":3049,"play_time":327898,"total_score":1424157724,"total_hits":3105911,"maximum_combo":3041,"replays_watched_by_others":2,"is_ranked":true,"grade_counts":{"ss":34,"ssh":0,"s":345,"sh":0,"a":66},"rank":{"global":8271,"country":11}}}
+{
+  "avatar_url": "https://a.ppy.sh/13942150?1573317215.jpeg",
+  "country": { "code": "CH", "name": "Switzerland" },
+  "id": 13942150,
+  "username": "CrashSmash",
+  "join_date": "2019-02-15T14:29:53+00:00",
+  "statistics": {
+    "level": { "current": 60, "progress": 3 },
+    "pp": 4842.37,
+    "pp_rank": 8271,
+    "ranked_score": 418258363,
+    "hit_accuracy": 96.654,
+    "play_count": 3049,
+    "play_time": 327898,
+    "total_score": 1424157724,
+    "total_hits": 3105911,
+    "maximum_combo": 3041,
+    "replays_watched_by_others": 2,
+    "is_ranked": true,
+    "grade_counts": { "ss": 34, "ssh": 0, "s": 345, "sh": 0, "a": 66 },
+    "rank": { "global": 8271, "country": 11 }
+  }
+}

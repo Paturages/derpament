@@ -1,1 +1,23 @@
-{"avatar_url":"https://a.ppy.sh/8134650?1582675727.jpeg","country":{"code":"US","name":"United States"},"id":8134650,"username":"UnitedWeGhost","join_date":"2016-03-22T23:33:33+00:00","statistics":{"level":{"current":86,"progress":12},"pp":3293.75,"pp_rank":21604,"ranked_score":1197129688,"hit_accuracy":95.6912,"play_count":8256,"play_time":753989,"total_score":4227668374,"total_hits":7276052,"maximum_combo":3913,"replays_watched_by_others":1,"is_ranked":true,"grade_counts":{"ss":0,"ssh":0,"s":665,"sh":0,"a":431},"rank":{"global":21604,"country":2245}}}
+{
+  "avatar_url": "https://a.ppy.sh/8134650?1582675727.jpeg",
+  "country": { "code": "US", "name": "United States" },
+  "id": 8134650,
+  "username": "UnitedWeGhost",
+  "join_date": "2016-03-22T23:33:33+00:00",
+  "statistics": {
+    "level": { "current": 86, "progress": 12 },
+    "pp": 3293.75,
+    "pp_rank": 21604,
+    "ranked_score": 1197129688,
+    "hit_accuracy": 95.6912,
+    "play_count": 8256,
+    "play_time": 753989,
+    "total_score": 4227668374,
+    "total_hits": 7276052,
+    "maximum_combo": 3913,
+    "replays_watched_by_others": 1,
+    "is_ranked": true,
+    "grade_counts": { "ss": 0, "ssh": 0, "s": 665, "sh": 0, "a": 431 },
+    "rank": { "global": 21604, "country": 2245 }
+  }
+}

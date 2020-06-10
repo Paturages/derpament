@@ -1,1 +1,24 @@
-{"category":"acc2","counts":{"bpm":2,"sv":12,"notes":{"total":1251,"rice":1203,"ln":48,"single":475,"jump":388,"hand":0,"quad":0}},"title":"Sweet* Witch* Girl*","artist":"Morimori Atsushi vs. uma","mapper":"Syadow-","difficulty":"Hyper Pumpkin Head","beatmapId":"1349929","beatmapSetId":"636160","hp":"8","od":"8","length":null}
+{
+  "category": "acc2",
+  "counts": {
+    "bpm": 2,
+    "sv": 10,
+    "notes": {
+      "total": 1250,
+      "rice": 1202,
+      "ln": 48,
+      "single": 474,
+      "jump": 388,
+      "hand": 0,
+      "quad": 0
+    }
+  },
+  "title": "Sweet* Witch* Girl*",
+  "artist": "Morimori Atsushi vs. uma",
+  "mapper": "Syadow-",
+  "difficulty": "Hyper Pumpkin Head",
+  "beatmapId": "1349929",
+  "beatmapSetId": "636160",
+  "hp": "8",
+  "od": "8"
+}

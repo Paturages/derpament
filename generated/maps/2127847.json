@@ -1,1 +1,24 @@
-{"category":"hybrid","counts":{"bpm":1,"sv":2,"notes":{"total":1058,"rice":822,"ln":236,"single":662,"jump":186,"hand":8,"quad":0}},"title":"Update","artist":"PSYQUI","mapper":"KeppSado","difficulty":"advanced","beatmapId":"2127847","beatmapSetId":"1014868","hp":"7.5","od":"7.5","length":null}
+{
+  "category": "hybrid",
+  "counts": {
+    "bpm": 1,
+    "sv": 0,
+    "notes": {
+      "total": 1057,
+      "rice": 821,
+      "ln": 236,
+      "single": 661,
+      "jump": 186,
+      "hand": 8,
+      "quad": 0
+    }
+  },
+  "title": "Update",
+  "artist": "PSYQUI",
+  "mapper": "KeppSado",
+  "difficulty": "advanced",
+  "beatmapId": "2127847",
+  "beatmapSetId": "1014868",
+  "hp": "7.5",
+  "od": "7.5"
+}
