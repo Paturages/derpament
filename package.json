@@ -1,0 +1,33 @@
+{
+  "name": "derpament",
+  "version": "0.0.1",
+  "main": "index.js",
+  "author": "Paturages",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Paturages/derpament.git"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "got": "^11.3.0",
+    "dotenv": "^8.2.0"
+  },
+  "description": "A collection of scripts to fetch data and generate statistics for osu! tournaments.",
+  "bugs": {
+    "url": "https://github.com/Paturages/derpament/issues"
+  },
+  "homepage": "https://github.com/Paturages/derpament#readme",
+  "directories": {
+    "doc": "docs"
+  },
+  "dependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "osu",
+    "tournament",
+    "statistics",
+    "api"
+  ]
+}
