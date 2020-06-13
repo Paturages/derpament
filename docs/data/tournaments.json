@@ -12,7 +12,19 @@
   },
   {
     "name": "Mania Beginner's Showdown 2 (Low Bracket)",
+    "stages": [
+      { "id": "1.qualifiers", "name": "Qualifiers" },
+      { "id": "2.groups", "name": "Group Stage" },
+      { "id": "3.ro32", "name": "Round of 32" },
+      { "id": "4.ro16", "name": "Round of 16" }
+    ],
     "id": "mbs2lb",
     "playersCount": 57
+  },
+  {
+    "name": "Mania French Tournament 2020",
+    "stages": [{ "id": "1.qualifiers", "name": "Qualifiers" }],
+    "id": "mft2020",
+    "playersCount": 56
   }
 ]

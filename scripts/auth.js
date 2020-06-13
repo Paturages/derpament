@@ -28,7 +28,7 @@ exports.initAuth = async () => {
       output: process.stdout,
     });
 
-    const auth = await new Promise((resolve, reject) =>
+    auth = await new Promise((resolve, reject) =>
       readline.question("and enter the code below:", async (code) => {
         readline.close();
         try {
