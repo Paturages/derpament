@@ -1,14 +1,15 @@
 <script>
   import { onMount } from 'svelte';
   import { tournament } from '../stores';
+  import PlayerList from '../components/organisms/PlayerList.svelte';
   import StageRow from '../components/molecules/StageRow.svelte';
-  import PlayerRow from '../components/molecules/PlayerRow.svelte';
 
   export let id;
 
   onMount(async () => {
     if (!$tournament || $tournament.id != id) {
       try {
+        tournament.set(null);
         const res = await fetch(`data/${id}.json`);
         tournament.set(await res.json());
       } catch {
@@ -30,9 +31,7 @@
     </div>
     <h2>{Object.keys($tournament.players).length} players</h2>
     <div class="players">
-      {#each Object.values($tournament.players) as player}
-        <PlayerRow {...player} />
-      {/each}
+      <PlayerList players={Object.values($tournament.players)} />
     </div>
   {:else}
     <p>Loading tournament data...</p>

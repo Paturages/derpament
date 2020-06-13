@@ -46,7 +46,7 @@
     position: relative;
   }
   .name {
-    font-size: 1.5em;
+    font-weight: bold;
     white-space: nowrap;
     overflow: hidden;
     text-overflow: ellipsis;
@@ -68,5 +68,13 @@
     font-size: .9em;
     margin-left: 1em;
     text-align: right;
+  }
+  @media (max-width: 600px) {
+    .category {
+      position: initial;
+    }
+    .counts {
+      display: none;
+    }
   }
 </style>

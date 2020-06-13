@@ -8,16 +8,21 @@
   export let tournamentId;
 
   onMount(async () => {
-    if (!$tournament || $tournament.id != id) {
+    if (!$tournament || $tournament.id != tournamentId) {
       try {
-        const res = await fetch(`data/${tournamentId}.json`);
-        tournament.set(await res.json());
+        tournament.set(null);
+        stage.set(null);
+        const res1 = await fetch(`data/${tournamentId}.json`);
+        tournament.set(await res1.json());
+        const res2 = await fetch(`data/${tournamentId}.${id}.json`);
+        stage.set(await res2.json());
       } catch {
         location.hash = '';
       }
     }
     if (!$stage || $stage.id != id) {
       try {
+        stage.set(null);
         const res = await fetch(`data/${tournamentId}.${id}.json`);
         stage.set(await res.json());
       } catch {
@@ -33,7 +38,7 @@
     <h1>{$stage.name}</h1>
     <h2>{$stage.maps.length} maps</h2>
     <div class="maps">
-      {#each $stage.maps as map}
+      {#each $stage.maps as map (map.beatmapId)}
         <div class="map">
           <MapCard {...map} />
           <ScoreList players={$tournament.players} scores={map.scores} />
