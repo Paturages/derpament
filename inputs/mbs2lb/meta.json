@@ -16,6 +16,10 @@
     {
       "id": "4.ro16",
       "name": "Round of 16"
+    },
+    {
+      "id": "5.quarterfinals",
+      "name": "Quarterfinals"
     }
   ]
 }

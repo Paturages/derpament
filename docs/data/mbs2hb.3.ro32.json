@@ -7,12 +7,12 @@
       "category": "sv1",
       "counts": {
         "bpm": 1,
-        "sv": 487,
+        "sv": 485,
         "notes": {
-          "total": 788,
-          "rice": 726,
+          "total": 787,
+          "rice": 725,
           "ln": 62,
-          "single": 312,
+          "single": 311,
           "jump": 107,
           "hand": 86,
           "quad": 1
@@ -26,19 +26,18 @@
       "beatmapSetId": "722368",
       "hp": "8.5",
       "od": "8.5",
-      "length": null,
       "scores": []
     },
     {
       "category": "sv2",
       "counts": {
         "bpm": 96,
-        "sv": 2449,
+        "sv": 2447,
         "notes": {
-          "total": 1069,
-          "rice": 1053,
+          "total": 1068,
+          "rice": 1052,
           "ln": 16,
-          "single": 463,
+          "single": 462,
           "jump": 297,
           "hand": 4,
           "quad": 0
@@ -52,7 +51,6 @@
       "beatmapSetId": "1110967",
       "hp": "6",
       "od": "7.7",
-      "length": null,
       "scores": [
         {
           "userId": "1375479",
@@ -424,12 +422,12 @@
       "category": "ln1",
       "counts": {
         "bpm": 1,
-        "sv": 1,
+        "sv": 0,
         "notes": {
-          "total": 1270,
-          "rice": 508,
+          "total": 1269,
+          "rice": 507,
           "ln": 762,
-          "single": 910,
+          "single": 909,
           "jump": 180,
           "hand": 0,
           "quad": 0
@@ -443,7 +441,6 @@
       "beatmapSetId": "850118",
       "hp": "7",
       "od": "7",
-      "length": null,
       "scores": [
         {
           "userId": "13942150",
@@ -659,12 +656,12 @@
       "category": "ln2",
       "counts": {
         "bpm": 1,
-        "sv": 2,
+        "sv": 0,
         "notes": {
-          "total": 727,
-          "rice": 195,
+          "total": 726,
+          "rice": 194,
           "ln": 532,
-          "single": 342,
+          "single": 341,
           "jump": 171,
           "hand": 13,
           "quad": 1
@@ -678,7 +675,6 @@
       "beatmapSetId": "1063420",
       "hp": "7",
       "od": "6",
-      "length": null,
       "scores": [
         {
           "userId": "15844415",
@@ -816,12 +812,12 @@
       "category": "acc1",
       "counts": {
         "bpm": 4,
-        "sv": 3,
+        "sv": 1,
         "notes": {
-          "total": 1990,
-          "rice": 1903,
+          "total": 1989,
+          "rice": 1902,
           "ln": 87,
-          "single": 931,
+          "single": 930,
           "jump": 420,
           "hand": 73,
           "quad": 0
@@ -835,7 +831,6 @@
       "beatmapSetId": "712241",
       "hp": "8",
       "od": "8",
-      "length": null,
       "scores": [
         {
           "userId": "7849422",
@@ -960,12 +955,12 @@
       "category": "acc2",
       "counts": {
         "bpm": 1,
-        "sv": 8,
+        "sv": 6,
         "notes": {
-          "total": 1045,
-          "rice": 1023,
+          "total": 1044,
+          "rice": 1022,
           "ln": 22,
-          "single": 382,
+          "single": 381,
           "jump": 306,
           "hand": 17,
           "quad": 0
@@ -979,7 +974,6 @@
       "beatmapSetId": "565431",
       "hp": "8",
       "od": "8",
-      "length": null,
       "scores": [
         {
           "userId": "7317377",
@@ -1260,12 +1254,12 @@
       "category": "speed1",
       "counts": {
         "bpm": 1,
-        "sv": 2,
+        "sv": 0,
         "notes": {
-          "total": 971,
-          "rice": 944,
+          "total": 970,
+          "rice": 943,
           "ln": 27,
-          "single": 551,
+          "single": 550,
           "jump": 210,
           "hand": 0,
           "quad": 0
@@ -1279,7 +1273,6 @@
       "beatmapSetId": "747277",
       "hp": "7",
       "od": "7",
-      "length": null,
       "scores": [
         {
           "userId": "8642224",
@@ -1586,12 +1579,12 @@
       "category": "speed2",
       "counts": {
         "bpm": 1,
-        "sv": 2,
+        "sv": 0,
         "notes": {
-          "total": 980,
-          "rice": 925,
+          "total": 979,
+          "rice": 924,
           "ln": 55,
-          "single": 745,
+          "single": 744,
           "jump": 116,
           "hand": 1,
           "quad": 0
@@ -1605,7 +1598,6 @@
       "beatmapSetId": "740015",
       "hp": "7.5",
       "od": "7.5",
-      "length": null,
       "scores": [
         {
           "userId": "1375479",
@@ -1860,7 +1852,7 @@
       "category": "tech1",
       "counts": {
         "bpm": 1,
-        "sv": 2,
+        "sv": 0,
         "notes": {
           "total": 2141,
           "rice": 2020,
@@ -1879,7 +1871,6 @@
       "beatmapSetId": "859797",
       "hp": "8",
       "od": "8",
-      "length": 222613,
       "scores": [
         {
           "userId": "1375479",
@@ -2134,12 +2125,12 @@
       "category": "tech2",
       "counts": {
         "bpm": 1,
-        "sv": 6,
+        "sv": 4,
         "notes": {
-          "total": 1483,
-          "rice": 1321,
+          "total": 1482,
+          "rice": 1320,
           "ln": 162,
-          "single": 439,
+          "single": 438,
           "jump": 244,
           "hand": 180,
           "quad": 4
@@ -2153,7 +2144,6 @@
       "beatmapSetId": "693544",
       "hp": "6",
       "od": "7",
-      "length": null,
       "scores": [
         {
           "userId": "12214401",
@@ -2187,12 +2177,12 @@
       "category": "hybrid",
       "counts": {
         "bpm": 1,
-        "sv": 18,
+        "sv": 16,
         "notes": {
-          "total": 1162,
-          "rice": 824,
+          "total": 1161,
+          "rice": 823,
           "ln": 338,
-          "single": 615,
+          "single": 614,
           "jump": 272,
           "hand": 1,
           "quad": 0
@@ -2206,7 +2196,6 @@
       "beatmapSetId": "923032",
       "hp": "7.5",
       "od": "7.5",
-      "length": null,
       "scores": [
         {
           "userId": "8642224",
@@ -2448,12 +2437,12 @@
       "category": "tb",
       "counts": {
         "bpm": 48,
-        "sv": 215,
+        "sv": 213,
         "notes": {
-          "total": 2751,
-          "rice": 2177,
+          "total": 2750,
+          "rice": 2176,
           "ln": 574,
-          "single": 1116,
+          "single": 1115,
           "jump": 641,
           "hand": 111,
           "quad": 5
@@ -2467,7 +2456,6 @@
       "beatmapSetId": "1175949",
       "hp": "8",
       "od": "8",
-      "length": null,
       "scores": [
         {
           "userId": "9113955",
