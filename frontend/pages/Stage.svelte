@@ -1,11 +1,13 @@
 <script>
   import { onMount } from 'svelte';
   import { tournament, stage } from '../stores';
+  import RollList from '../components/organisms/RollList.svelte';
   import ScoreList from '../components/organisms/ScoreList.svelte';
   import MapCard from '../components/molecules/MapCard.svelte';
 
   export let id;
   export let tournamentId;
+  let loading = true;
 
   onMount(async () => {
     if (!$tournament || $tournament.id != tournamentId) {
@@ -29,13 +31,18 @@
         location.hash = `#/tournaments/${tournamentId}`;
       }
     }
+    loading = false;
   });
 </script>
 
 <main>
-  {#if $stage}
+  {#if !loading}
     <a href={`#/tournaments/${tournamentId}`}>&lt;&nbsp;Back</a>
     <h1>{$stage.name}</h1>
+    {#if $stage.rolls}
+      <h2>Rolls</h2>
+      <RollList rolls={$stage.rolls} players={$tournament.players} />
+    {/if}
     <h2>{$stage.maps.length} maps</h2>
     <div class="maps">
       {#each $stage.maps as map (map.beatmapId)}
