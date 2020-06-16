@@ -2,3 +2,6 @@
 auth.json
 node_modules
 .DS_Store
+
+# Specific scripts for particular tournaments
+scripts/specific/

@@ -3,11 +3,14 @@
 
   export let players;
   export let scores;
+  export let bans;
+  export let matchCount;
   let groupScores = true;
   let displayScores = true;
 
   const playerScores = {};
   const rankedPlayers = [];
+  let average = 0;
   scores.forEach(score => {
     // Ignore scores from non-tournament players
     if (!players[score.userId]) return;
@@ -22,7 +25,17 @@
         scores: playerScores[score.userId]
       });
     }
+    average += score.score;
     playerScores[score.userId].push(score);
+  });
+  average /= scores.length;
+
+  // Group bans
+  const groupedBans = {};
+  bans.forEach(playerId => {
+    if (!players[playerId]) return;
+    if (!groupedBans[playerId]) groupedBans[playerId] = 0;
+    ++groupedBans[playerId];
   });
 
   function handleGroup() {
@@ -35,6 +48,29 @@
 </script>
 
 <div class="root">
+  <div class="stats">
+    <div class="average">
+      Average score: <b>{average ? average.toFixed(0) : 'N/A'}</b>
+    </div>
+    {#if bans}
+      <div class="picks">
+        Picked <b>{scores.length / 2}/{matchCount}</b> ({(50 * scores.length / matchCount).toFixed(2)}%) times
+      </div>
+      <div class="bans">
+        Banned <b>{bans.length}/{matchCount}</b> times{#if bans.length}{' by:'}{/if}
+        {#each Object.keys(groupedBans) as playerId, i}
+          {#if i},{/if}
+          <span>{
+            players[playerId].name
+            + (groupedBans[playerId] > 1 ? ` (${groupedBans[playerId]}x)` : '')
+          }</span>
+        {/each}
+      </div>
+      <div class="relevancy">
+        Relevancy rate: <b>{bans.length + scores.length / 2}/{matchCount}</b> ({(100 * (bans.length + scores.length / 2) / matchCount).toFixed(2)}%)
+      </div>
+    {/if}
+  </div>
   <button on:click={handleToggle}>{displayScores ? 'Hide' : 'Show'} scores</button>
   <button on:click={handleGroup}>{groupScores ? 'Show all player scores' : 'Only best scores'}</button>
   {#if displayScores}
@@ -57,5 +93,8 @@
 <style>
   .scores {
     margin-top: .5em;
+  }
+  .stats {
+    margin-bottom: 1em;
   }
 </style>

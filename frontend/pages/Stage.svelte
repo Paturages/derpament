@@ -41,7 +41,12 @@
       {#each $stage.maps as map (map.beatmapId)}
         <div class="map">
           <MapCard {...map} />
-          <ScoreList players={$tournament.players} scores={map.scores} />
+          <ScoreList
+            players={$tournament.players}
+            scores={map.scores}
+            bans={map.bans}
+            matchCount={$stage.matchCount}
+          />
         </div>
       {/each}
     </div>
