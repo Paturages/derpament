@@ -4,10 +4,11 @@
 .root.svelte-i1dpsp{display:flex;flex-direction:row;align-items:center;max-width:800px;border-bottom:1px solid #eee}.name.svelte-i1dpsp{font-size:1.5em;flex:1}.info.svelte-i1dpsp{margin-left:1em;display:flex;flex-direction:column;align-items:flex-end}.score.svelte-i1dpsp{width:4em;margin-left:1em;font-size:1.5em;text-align:right}.counts.svelte-i1dpsp{font-size:.8em}@media(max-width: 600px){.root.svelte-i1dpsp{flex-direction:column}.info.svelte-i1dpsp{order:2;align-items:center}.score.svelte-i1dpsp{order:1;text-align:center}}
 .root.svelte-b5fgg6{display:flex;flex-direction:row;align-items:center;justify-content:space-between;max-width:800px;border-bottom:1px solid #eee}.name.svelte-b5fgg6{font-size:1.5em}.maps.svelte-b5fgg6{margin-left:1em}
 .root.svelte-1lh8f59{display:flex;flex-direction:row;align-items:center;justify-content:space-between;max-width:800px;border-bottom:1px solid #eee}.name.svelte-1lh8f59{font-size:1.5em}.players.svelte-1lh8f59{margin-left:1em}
+.root.svelte-bldqmu{background:var(--background-color);padding:1em;position:fixed;top:0;left:0;right:0;z-index:1}.inner.svelte-bldqmu{margin:0 auto;padding:0 2em;width:calc(100% - 1rem);max-width:var(--max-body-width)}
 .players.svelte-xa7zg9>*{margin:.5em 0}
-.root.svelte-bosm85{margin-bottom:1em}
+.rolls.svelte-wqk9m7{margin:1em 0 2em}
 .scores.svelte-106ytg1{margin-top:.5em}.stats.svelte-106ytg1{margin-bottom:1em}
-main.svelte-1uwsjf2{margin:2em}.map.svelte-1uwsjf2{margin:1em 0 3em}.map.svelte-1uwsjf2>*{margin:1em 0}
+main.svelte-5q3wk3{margin:2em}.map.svelte-5q3wk3{margin:1em 0 3em}.map.svelte-5q3wk3>*{margin:1em 0}
 main.svelte-11u6ss8{margin:2em}.stages.svelte-11u6ss8{margin-bottom:2em}.stages.svelte-11u6ss8>*{margin:1em 0}
 main.svelte-saxtqp{margin:2em}.tournaments.svelte-saxtqp>*{margin:1em 0}
 

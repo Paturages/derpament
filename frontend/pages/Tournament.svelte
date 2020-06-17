@@ -1,6 +1,7 @@
 <script>
   import { onMount } from 'svelte';
   import { tournament } from '../stores';
+  import Header from '../components/organisms/Header.svelte';
   import PlayerList from '../components/organisms/PlayerList.svelte';
   import StageRow from '../components/molecules/StageRow.svelte';
 
@@ -21,7 +22,7 @@
 
 <main>
   {#if $tournament}
-    <a href="#/">&lt;&nbsp;Back</a>
+    <Header backHref="#/" />
     <h1>{$tournament.name}</h1>
     <h2>{$tournament.stages.length} stages</h2>
     <div class="stages">

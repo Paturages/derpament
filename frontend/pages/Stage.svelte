@@ -1,6 +1,7 @@
 <script>
   import { onMount } from 'svelte';
   import { tournament, stage } from '../stores';
+  import Header from '../components/organisms/Header.svelte';
   import RollList from '../components/organisms/RollList.svelte';
   import ScoreList from '../components/organisms/ScoreList.svelte';
   import MapCard from '../components/molecules/MapCard.svelte';
@@ -37,7 +38,7 @@
 
 <main>
   {#if !loading}
-    <a href={`#/tournaments/${tournamentId}`}>&lt;&nbsp;Back</a>
+    <Header backHref={`#/tournaments/${tournamentId}`} />
     <h1>{$stage.name}</h1>
     {#if $stage.rolls}
       <h2>Rolls</h2>
@@ -52,6 +53,7 @@
             players={$tournament.players}
             scores={map.scores}
             bans={map.bans}
+            pickCount={map.pickCount}
             matchCount={$stage.matchCount}
           />
         </div>
@@ -63,6 +65,10 @@
 </main>
 
 <style>
+  .header {
+    position: fixed;
+    top: 0;
+  }
   main {
     margin: 2em;
   }

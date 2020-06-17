@@ -4,6 +4,7 @@
   export let players;
   export let scores;
   export let bans;
+  export let pickCount;
   export let matchCount;
   let groupScores = true;
   let displayScores = true;
@@ -56,10 +57,12 @@
     </div>
     {#if bans}
       <div class="picks">
-        Picked <b>{scores.length / 2}/{matchCount}</b> ({(50 * scores.length / matchCount).toFixed(2)}%) times
+        Picked <b>{pickCount}/{matchCount}</b> ({(100 * pickCount / matchCount).toFixed(2)}%) times
       </div>
       <div class="bans">
-        Banned <b>{bans.length}/{matchCount}</b> times{#if bans.length}{' by:'}{/if}
+        Banned <b>{bans.length}/{matchCount}</b> times
+        ({(100 * bans.length / matchCount).toFixed(2)}%)
+        {#if bans.length}{' by:'}{/if}
         {#each Object.keys(groupedBans) as playerId, i}
           {#if i},{/if}
           <span>{
@@ -69,7 +72,7 @@
         {/each}
       </div>
       <div class="relevancy">
-        Relevancy rate: <b>{bans.length + scores.length / 2}/{matchCount}</b> ({(100 * (bans.length + scores.length / 2) / matchCount).toFixed(2)}%)
+        Relevancy: <b>{bans.length + pickCount}/{matchCount}</b> ({(100 * (bans.length + pickCount) / matchCount).toFixed(2)}%)
       </div>
     {/if}
   </div>

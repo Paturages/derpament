@@ -4,6 +4,7 @@
   export let players;
   export let rolls;
   
+  let displayRolls = true;
   let rollsArray = [];
   let count = 0;
   let sum = 0;
@@ -22,20 +23,29 @@
   rollsArray.forEach((roll, i) => {
     roll.index = i && rollsArray[i-1].value === roll.value ? rollsArray[i-1].index : i+1;
   });
+  
+  function handleToggle() {
+    displayRolls = !displayRolls;
+  }
 </script>
 
 <div class="root">
-  {#each rollsArray as roll}
-    <RollRow
-      index={roll.index}
-      player={roll.player}
-      roll={roll.value}
-    />
-  {/each}
+  <button on:click={handleToggle}>{displayRolls ? 'Hide' : 'Show'} rolls</button>
+  {#if displayRolls}
+    <div class="rolls">
+      {#each rollsArray as roll}
+        <RollRow
+          index={roll.index}
+          player={roll.player}
+          roll={roll.value}
+        />
+      {/each}
+    </div>
+  {/if}
 </div>
 
 <style>
-  .root {
-    margin-bottom: 1em;
+  .rolls {
+    margin: 1em 0 2em;
   }
 </style>

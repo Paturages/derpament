@@ -1301,7 +1301,8 @@
             "max": 0
           }
         }
-      ]
+      ],
+      "pickCount": 14
     },
     {
       "category": "acc",
@@ -2562,7 +2563,8 @@
             "max": 0
           }
         }
-      ]
+      ],
+      "pickCount": 14
     },
     {
       "category": "ln",
@@ -3849,7 +3851,8 @@
             "max": 0
           }
         }
-      ]
+      ],
+      "pickCount": 14
     },
     {
       "category": "speed",
@@ -5123,7 +5126,8 @@
             "max": 0
           }
         }
-      ]
+      ],
+      "pickCount": 14
     },
     {
       "category": "tech-hybrid",
@@ -6397,7 +6401,8 @@
             "max": 0
           }
         }
-      ]
+      ],
+      "pickCount": 14
     }
   ]
 }

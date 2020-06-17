@@ -50,11 +50,21 @@ const docsDataPath = path.resolve(__dirname, "..", "..", "docs", "data");
       await readTxt(path.resolve(inputPath, "matches", `${stage.id}.txt`))
     ).split(/\r?\n/);
     const scores = {};
+    const picks = {};
 
     for (const matchId of matchIds) {
       const { games } = require(`${generatedPath}/matches/${matchId}.json`);
+      // Matches should pick a song only once, so we keep track of them
+      const matchPicks = new Set();
+
       for (const game of games) {
         if (!scores[game.beatmap_id]) scores[game.beatmap_id] = [];
+        if (!picks[game.beatmap_id]) picks[game.beatmap_id] = 0;
+        if (!matchPicks.has(game.beatmap_id)) {
+          matchPicks.add(game.beatmap_id);
+          ++picks[game.beatmap_id];
+        }
+
         for (const {
           user_id,
           score,
@@ -98,10 +108,12 @@ const docsDataPath = path.resolve(__dirname, "..", "..", "docs", "data");
           }.json`);
           if (!scores[map.beatmapId]) {
             map.scores = [];
+            map.pickCount = 0;
           } else {
             map.scores = scores[map.beatmapId].sort((a, b) =>
               a.score < b.score ? 1 : -1
             );
+            map.pickCount = picks[map.beatmapId];
           }
           return map;
         }
