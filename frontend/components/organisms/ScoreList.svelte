@@ -60,9 +60,9 @@
         Picked <b>{pickCount}/{matchCount}</b> ({(100 * pickCount / matchCount).toFixed(2)}%) times
       </div>
       <div class="bans">
-        Banned <b>{bans.length}/{matchCount}</b> times
+        Banned <b>{bans.length}/{matchCount}</b>
         ({(100 * bans.length / matchCount).toFixed(2)}%)
-        {#if bans.length}{' by:'}{/if}
+        times{#if bans.length}{' by:'}{/if}
         {#each Object.keys(groupedBans) as playerId, i}
           {#if i},{/if}
           <span>{
