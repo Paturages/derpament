@@ -32,11 +32,13 @@
 
   // Group bans
   const groupedBans = {};
-  bans.forEach(playerId => {
-    if (!players[playerId]) return;
-    if (!groupedBans[playerId]) groupedBans[playerId] = 0;
-    ++groupedBans[playerId];
-  });
+  if (bans) {
+    bans.forEach(playerId => {
+      if (!players[playerId]) return;
+      if (!groupedBans[playerId]) groupedBans[playerId] = 0;
+      ++groupedBans[playerId];
+    });
+  }
 
   function handleGroup() {
     groupScores = !groupScores;
