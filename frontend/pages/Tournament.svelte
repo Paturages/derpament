@@ -8,6 +8,7 @@
   export let id;
   let playerValues;
   let displayPlayers;
+  let loading = true;
 
   function handleSearch(event) {
     const text = event.detail;
@@ -25,17 +26,18 @@
         tournament.set(null);
         const res = await fetch(`data/${id}.json`);
         tournament.set(await res.json());
-        playerValues = Object.values($tournament.players);
-        displayPlayers = playerValues;
       } catch {
         location.hash = '';
       }
     }
+    playerValues = Object.values($tournament.players);
+    displayPlayers = playerValues;
+    loading = false;
   });
 </script>
 
 <main>
-  {#if $tournament}
+  {#if !loading}
     <Header backHref="#/" on:search={handleSearch} />
     <h1>{$tournament.name}</h1>
     <h2>{$tournament.stages.length} stages</h2>
