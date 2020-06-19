@@ -6,6 +6,18 @@
   import StageRow from '../components/molecules/StageRow.svelte';
 
   export let id;
+  let playerValues;
+  let displayPlayers;
+
+  function handleSearch(event) {
+    const text = event.detail;
+    if (!text) displayPlayers = playerValues;
+    else {
+      displayPlayers = playerValues.filter(
+        player => player.name.toLowerCase().includes(text.toLowerCase())
+      );
+    }
+  }
 
   onMount(async () => {
     if (!$tournament || $tournament.id != id) {
@@ -13,6 +25,8 @@
         tournament.set(null);
         const res = await fetch(`data/${id}.json`);
         tournament.set(await res.json());
+        playerValues = Object.values($tournament.players);
+        displayPlayers = playerValues;
       } catch {
         location.hash = '';
       }
@@ -22,7 +36,7 @@
 
 <main>
   {#if $tournament}
-    <Header backHref="#/" />
+    <Header backHref="#/" on:search={handleSearch} />
     <h1>{$tournament.name}</h1>
     <h2>{$tournament.stages.length} stages</h2>
     <div class="stages">
@@ -32,7 +46,7 @@
     </div>
     <h2>{Object.keys($tournament.players).length} players</h2>
     <div class="players">
-      <PlayerList players={Object.values($tournament.players)} />
+      <PlayerList players={displayPlayers} />
     </div>
   {:else}
     <p>Loading tournament data...</p>
@@ -41,6 +55,7 @@
 
 <style>
   main {
+    padding-top: 1em;
     margin: 2em;
   }
   .stages {

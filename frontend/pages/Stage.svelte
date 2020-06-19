@@ -9,6 +9,11 @@
   export let id;
   export let tournamentId;
   let loading = true;
+  let filter = null;
+
+  function handleSearch(event) {
+    filter = event.detail;
+  }
 
   onMount(async () => {
     if (!$tournament || $tournament.id != tournamentId) {
@@ -38,11 +43,15 @@
 
 <main>
   {#if !loading}
-    <Header backHref={`#/tournaments/${tournamentId}`} />
+    <Header backHref={`#/tournaments/${tournamentId}`} on:search={handleSearch} />
     <h1>{$stage.name}</h1>
     {#if $stage.rolls}
       <h2>Rolls</h2>
-      <RollList rolls={$stage.rolls} players={$tournament.players} />
+      <RollList
+        rolls={$stage.rolls}
+        players={$tournament.players}
+        {filter}
+      />
     {/if}
     <h2>{$stage.maps.length} maps</h2>
     <div class="maps">
@@ -55,6 +64,7 @@
             bans={map.bans}
             pickCount={map.pickCount}
             matchCount={$stage.matchCount}
+            {filter}
           />
         </div>
       {/each}
@@ -65,11 +75,8 @@
 </main>
 
 <style>
-  .header {
-    position: fixed;
-    top: 0;
-  }
   main {
+    padding-top: 1em;
     margin: 2em;
   }
   .map {

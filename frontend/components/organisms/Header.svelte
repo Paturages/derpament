@@ -1,10 +1,29 @@
 <script>
+  import { createEventDispatcher } from 'svelte';
+
+  const dispatch = createEventDispatcher();
+
   export let backHref;
+
+  let timeout;
+  function handleSearch($event) {
+    // 500 ms debounce
+    if (timeout) clearTimeout(timeout);
+    timeout = setTimeout(
+      () => dispatch('search', $event.target.value),
+      500
+    );
+  }
 </script>
 
 <div class="root">
   <div class="inner">
     <a href={backHref}>&lt;&nbsp;Back</a>
+    <input
+      type="search"
+      placeholder="Filter on players"
+      on:input={handleSearch}
+    />
   </div>
 </div>
 
@@ -23,5 +42,11 @@
     padding: 0 2em;
     width: calc(100% - 1rem);
     max-width: var(--max-body-width);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+  }
+  .inner input {
+    margin-left: 1em;
   }
 </style>

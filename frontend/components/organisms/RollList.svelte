@@ -3,6 +3,7 @@
 
   export let players;
   export let rolls;
+  export let filter;
   
   let displayRolls = true;
   let rollsArray = [];
@@ -34,11 +35,13 @@
   {#if displayRolls}
     <div class="rolls">
       {#each rollsArray as roll}
-        <RollRow
-          index={roll.index}
-          player={roll.player}
-          roll={roll.value}
-        />
+        {#if !filter || roll.player.name.toLowerCase().includes(filter.toLowerCase())}
+          <RollRow
+            index={roll.index}
+            player={roll.player}
+            roll={roll.value}
+          />
+        {/if}
       {/each}
     </div>
   {/if}

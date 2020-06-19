@@ -6,6 +6,7 @@
   export let bans;
   export let pickCount;
   export let matchCount;
+  export let filter;
   let groupScores = true;
   let displayScores = true;
 
@@ -65,7 +66,7 @@
         times{#if bans.length}{' by:'}{/if}
         {#each Object.keys(groupedBans) as playerId, i}
           {#if i},{/if}
-          <span>{
+          <span class={filter && players[playerId].name.toLowerCase().includes(filter.toLowerCase()) && 'ban-highlighted'}>{
             players[playerId].name
             + (groupedBans[playerId] > 1 ? ` (${groupedBans[playerId]}x)` : '')
           }</span>
@@ -82,11 +83,15 @@
     <div class="scores">
       {#if groupScores}
         {#each rankedPlayers as { player, scores }, i}
-          <ScoreRow index={i+1} player={player} {...scores[0]} />
+          {#if !filter || player.name.toLowerCase().includes(filter.toLowerCase())}
+            <ScoreRow index={i+1} player={player} {...scores[0]} />
+          {/if}
         {/each}
       {:else}
         {#each scores as score, i}
-          {#if players[score.userId]}
+          {#if players[score.userId]
+            && (!filter || players[score.userId].name.toLowerCase().includes(filter.toLowerCase()))
+          }
             <ScoreRow index={i+1} player={players[score.userId]} {...score} />
           {/if}
         {/each}
@@ -101,5 +106,10 @@
   }
   .stats {
     margin-bottom: 1em;
+  }
+  .ban-highlighted {
+    text-decoration: underline;
+    color: #ffb300;
+    font-weight: bold;
   }
 </style>
