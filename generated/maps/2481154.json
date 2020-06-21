@@ -1,0 +1,24 @@
+{
+  "category": "acc1",
+  "counts": {
+    "bpm": 186,
+    "sv": 186,
+    "notes": {
+      "total": 938,
+      "rice": 840,
+      "ln": 98,
+      "single": 567,
+      "jump": 110,
+      "hand": 49,
+      "quad": 1
+    }
+  },
+  "title": "Firth of Fifth",
+  "artist": "Genesis",
+  "mapper": "XeoStyle",
+  "difficulty": "The river of constant change",
+  "beatmapId": "2481154",
+  "beatmapSetId": "1190846",
+  "hp": "8",
+  "od": "8"
+}

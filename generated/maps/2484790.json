@@ -1,0 +1,24 @@
+{
+  "category": "tb",
+  "counts": {
+    "bpm": 50,
+    "sv": 1587,
+    "notes": {
+      "total": 2825,
+      "rice": 2293,
+      "ln": 532,
+      "single": 1033,
+      "jump": 621,
+      "hand": 174,
+      "quad": 7
+    }
+  },
+  "title": "I",
+  "artist": "Leaf",
+  "mapper": "Cunu",
+  "difficulty": "Diserved",
+  "beatmapId": "2484790",
+  "beatmapSetId": "1192444",
+  "hp": "8",
+  "od": "8"
+}

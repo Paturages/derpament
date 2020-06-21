@@ -1,0 +1,24 @@
+{
+  "category": "speed2",
+  "counts": {
+    "bpm": 1,
+    "sv": 0,
+    "notes": {
+      "total": 2009,
+      "rice": 2009,
+      "ln": 0,
+      "single": 1755,
+      "jump": 127,
+      "hand": 0,
+      "quad": 0
+    }
+  },
+  "title": "~ Speed Battle",
+  "artist": "Xi",
+  "mapper": "Cunu",
+  "difficulty": "Hard [1,2x Rate]",
+  "beatmapId": "2482045",
+  "beatmapSetId": "1191252",
+  "hp": "8",
+  "od": "8"
+}

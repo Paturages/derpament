@@ -1,0 +1,24 @@
+{
+  "category": "tech2",
+  "counts": {
+    "bpm": 1,
+    "sv": 0,
+    "notes": {
+      "total": 891,
+      "rice": 826,
+      "ln": 65,
+      "single": 440,
+      "jump": 197,
+      "hand": 19,
+      "quad": 0
+    }
+  },
+  "title": "Sakura",
+  "artist": "RevenG",
+  "mapper": "Vortex-",
+  "difficulty": "Cherry Blossom [NO SLOWJAMS]",
+  "beatmapId": "2116953",
+  "beatmapSetId": "1011359",
+  "hp": "8",
+  "od": "8"
+}

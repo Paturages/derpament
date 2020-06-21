@@ -1,0 +1,24 @@
+{
+  "category": "acc2",
+  "counts": {
+    "bpm": 1,
+    "sv": 0,
+    "notes": {
+      "total": 785,
+      "rice": 777,
+      "ln": 8,
+      "single": 106,
+      "jump": 114,
+      "hand": 89,
+      "quad": 46
+    }
+  },
+  "title": "Timeless",
+  "artist": "Viilo",
+  "mapper": "Skochan",
+  "difficulty": "Jacks",
+  "beatmapId": "1191660",
+  "beatmapSetId": "563558",
+  "hp": "8.2",
+  "od": "7.8"
+}

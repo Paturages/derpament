@@ -1,0 +1,24 @@
+{
+  "category": "sv1",
+  "counts": {
+    "bpm": 24,
+    "sv": 25,
+    "notes": {
+      "total": 582,
+      "rice": 582,
+      "ln": 0,
+      "single": 255,
+      "jump": 115,
+      "hand": 31,
+      "quad": 1
+    }
+  },
+  "title": "Sakura Kairou",
+  "artist": "a_hisa",
+  "mapper": "Tidek",
+  "difficulty": "Cherry Blossom Corridor",
+  "beatmapId": "1406197",
+  "beatmapSetId": "664379",
+  "hp": "8",
+  "od": "8.5"
+}

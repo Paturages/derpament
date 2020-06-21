@@ -1,0 +1,24 @@
+{
+  "category": "ln2",
+  "counts": {
+    "bpm": 1,
+    "sv": 0,
+    "notes": {
+      "total": 1600,
+      "rice": 511,
+      "ln": 1089,
+      "single": 429,
+      "jump": 286,
+      "hand": 197,
+      "quad": 2
+    }
+  },
+  "title": "Tokyo Night Flyght (Moe Shop Remix)",
+  "artist": "TiMEMAXERAS",
+  "mapper": "Percyqaz",
+  "difficulty": "groove NSV",
+  "beatmapId": "2189082",
+  "beatmapSetId": "951564",
+  "hp": "8",
+  "od": "8"
+}

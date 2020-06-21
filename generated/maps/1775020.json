@@ -1,0 +1,24 @@
+{
+  "category": "hybrid1",
+  "counts": {
+    "bpm": 1,
+    "sv": 70,
+    "notes": {
+      "total": 1365,
+      "rice": 918,
+      "ln": 447,
+      "single": 967,
+      "jump": 196,
+      "hand": 2,
+      "quad": 0
+    }
+  },
+  "title": "10 of Swords",
+  "artist": "Moth",
+  "mapper": "Trovv",
+  "difficulty": "10 of Swords",
+  "beatmapId": "1775020",
+  "beatmapSetId": "848828",
+  "hp": "8",
+  "od": "8"
+}

@@ -1,0 +1,24 @@
+{
+  "category": "hybrid2",
+  "counts": {
+    "bpm": 1,
+    "sv": 6,
+    "notes": {
+      "total": 1549,
+      "rice": 1055,
+      "ln": 494,
+      "single": 593,
+      "jump": 350,
+      "hand": 84,
+      "quad": 1
+    }
+  },
+  "title": "Kiss and Make Up",
+  "artist": "Dua Lipa & BLACKPINK",
+  "mapper": "SitekX",
+  "difficulty": "Break",
+  "beatmapId": "2009306",
+  "beatmapSetId": "959695",
+  "hp": "8",
+  "od": "8"
+}

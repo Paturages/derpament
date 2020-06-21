@@ -1041,7 +1041,8 @@
             "max": 168
           }
         }
-      ]
+      ],
+      "pickCount": 10
     },
     {
       "category": "acc",
@@ -2055,7 +2056,8 @@
             "max": 335
           }
         }
-      ]
+      ],
+      "pickCount": 10
     },
     {
       "category": "ln",
@@ -3056,7 +3058,8 @@
             "max": 236
           }
         }
-      ]
+      ],
+      "pickCount": 10
     },
     {
       "category": "speed",
@@ -4031,7 +4034,8 @@
             "max": 0
           }
         }
-      ]
+      ],
+      "pickCount": 10
     },
     {
       "category": "tech",
@@ -5032,7 +5036,8 @@
             "max": 475
           }
         }
-      ]
+      ],
+      "pickCount": 10
     }
   ]
 }

@@ -1,0 +1,24 @@
+{
+  "category": "tech1",
+  "counts": {
+    "bpm": 2,
+    "sv": 0,
+    "notes": {
+      "total": 1366,
+      "rice": 1243,
+      "ln": 123,
+      "single": 588,
+      "jump": 320,
+      "hand": 38,
+      "quad": 6
+    }
+  },
+  "title": "Exhaust Hype",
+  "artist": "DJ Noriken",
+  "mapper": "Azubeur",
+  "difficulty": "Heavy",
+  "beatmapId": "1711461",
+  "beatmapSetId": "816106",
+  "hp": "8",
+  "od": "6"
+}

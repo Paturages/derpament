@@ -1,0 +1,24 @@
+{
+  "category": "sv2",
+  "counts": {
+    "bpm": 1,
+    "sv": 1488,
+    "notes": {
+      "total": 966,
+      "rice": 796,
+      "ln": 170,
+      "single": 286,
+      "jump": 279,
+      "hand": 34,
+      "quad": 5
+    }
+  },
+  "title": "LOVE THIS MOMENT",
+  "artist": "q/stol",
+  "mapper": "RuleBlazing",
+  "difficulty": "Night Club",
+  "beatmapId": "2335013",
+  "beatmapSetId": "1117809",
+  "hp": "8",
+  "od": "7.4"
+}
