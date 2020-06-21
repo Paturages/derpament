@@ -1,0 +1,24 @@
+{
+  "category": "sv2",
+  "counts": {
+    "bpm": 1,
+    "sv": 1419,
+    "notes": {
+      "total": 1026,
+      "rice": 941,
+      "ln": 85,
+      "single": 347,
+      "jump": 224,
+      "hand": 77,
+      "quad": 0
+    }
+  },
+  "title": "Breakout (feat. Foreign Beggars)",
+  "artist": "Noisestorm",
+  "mapper": "Leniane",
+  "difficulty": "The Great Escape",
+  "beatmapId": "1807423",
+  "beatmapSetId": "864158",
+  "hp": "8",
+  "od": "8"
+}

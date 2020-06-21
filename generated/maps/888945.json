@@ -1,0 +1,24 @@
+{
+  "category": "acc2",
+  "counts": {
+    "bpm": 1,
+    "sv": 9,
+    "notes": {
+      "total": 1554,
+      "rice": 1501,
+      "ln": 53,
+      "single": 401,
+      "jump": 362,
+      "hand": 143,
+      "quad": 0
+    }
+  },
+  "title": "artcore JINJA",
+  "artist": "An",
+  "mapper": "Abraxos",
+  "difficulty": "Tranquility_Lv.18",
+  "beatmapId": "888945",
+  "beatmapSetId": "409503",
+  "hp": "8.3",
+  "od": "8"
+}

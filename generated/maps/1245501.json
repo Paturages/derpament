@@ -1,0 +1,24 @@
+{
+  "category": "ln1",
+  "counts": {
+    "bpm": 1,
+    "sv": 0,
+    "notes": {
+      "total": 998,
+      "rice": 264,
+      "ln": 734,
+      "single": 444,
+      "jump": 239,
+      "hand": 24,
+      "quad": 1
+    }
+  },
+  "title": "Human",
+  "artist": "Rag'n'Bone Man",
+  "mapper": "Hydria",
+  "difficulty": "LN",
+  "beatmapId": "1245501",
+  "beatmapSetId": "588277",
+  "hp": "8",
+  "od": "8"
+}

@@ -1,0 +1,24 @@
+{
+  "category": "speed2",
+  "counts": {
+    "bpm": 5,
+    "sv": 0,
+    "notes": {
+      "total": 1202,
+      "rice": 1197,
+      "ln": 5,
+      "single": 1010,
+      "jump": 96,
+      "hand": 0,
+      "quad": 0
+    }
+  },
+  "title": "Metheus",
+  "artist": "ARForest",
+  "mapper": "ZayyKen",
+  "difficulty": "BulleBoot's Normal 8 [MBS 2 Edit]",
+  "beatmapId": "2486874",
+  "beatmapSetId": "1193585",
+  "hp": "6",
+  "od": "7"
+}

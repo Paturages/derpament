@@ -1,2 +1,6012 @@
-var derpament=function(){"use strict";function t(){}function e(t,e){for(const n in e)t[n]=e[n];return t}function n(t){return t()}function s(){return Object.create(null)}function o(t){t.forEach(n)}function r(t){return"function"==typeof t}function l(t,e){return t!=t?e==e:t!==e||t&&"object"==typeof t||"function"==typeof t}function c(e,n,s){e.$$.on_destroy.push(function(e,...n){if(null==e)return t;const s=e.subscribe(...n);return s.unsubscribe?()=>s.unsubscribe():s}(n,s))}function a(t){return null==t?"":t}function i(t,e){t.appendChild(e)}function u(t,e,n){t.insertBefore(e,n||null)}function f(t){t.parentNode.removeChild(t)}function p(t,e){for(let n=0;n<t.length;n+=1)t[n]&&t[n].d(e)}function d(t){return document.createElement(t)}function m(t){return document.createTextNode(t)}function h(){return m(" ")}function g(){return m("")}function $(t,e,n,s){return t.addEventListener(e,n,s),()=>t.removeEventListener(e,n,s)}function y(t,e,n){null==n?t.removeAttribute(e):t.getAttribute(e)!==n&&t.setAttribute(e,n)}function v(t,e){e=""+e,t.data!==e&&(t.data=e)}let b;function w(t){b=t}function x(){if(!b)throw new Error("Function called outside component initialization");return b}function k(t){x().$$.on_mount.push(t)}function C(){const t=x();return(e,n)=>{const s=t.$$.callbacks[e];if(s){const o=function(t,e){const n=document.createEvent("CustomEvent");return n.initCustomEvent(t,!1,!1,e),n}(e,n);s.slice().forEach(e=>{e.call(t,o)})}}}const L=[],I=[],j=[],_=[],E=Promise.resolve();let S=!1;function N(t){j.push(t)}let H=!1;const O=new Set;function B(){if(!H){H=!0;do{for(let t=0;t<L.length;t+=1){const e=L[t];w(e),F(e.$$)}for(L.length=0;I.length;)I.pop()();for(let t=0;t<j.length;t+=1){const e=j[t];O.has(e)||(O.add(e),e())}j.length=0}while(L.length);for(;_.length;)_.pop()();S=!1,H=!1,O.clear()}}function F(t){if(null!==t.fragment){t.update(),o(t.before_update);const e=t.dirty;t.dirty=[-1],t.fragment&&t.fragment.p(t.ctx,e),t.after_update.forEach(N)}}const A=new Set;let q;function R(){q={r:0,c:[],p:q}}function M(){q.r||o(q.c),q=q.p}function z(t,e){t&&t.i&&(A.delete(t),t.i(e))}function P(t,e,n,s){if(t&&t.o){if(A.has(t))return;A.add(t),q.c.push(()=>{A.delete(t),s&&(n&&t.d(1),s())}),t.o(e)}}function T(t,e){P(t,1,1,()=>{e.delete(t.key)})}function D(t,e){const n={},s={},o={$$scope:1};let r=t.length;for(;r--;){const l=t[r],c=e[r];if(c){for(const t in l)t in c||(s[t]=1);for(const t in c)o[t]||(n[t]=c[t],o[t]=1);t[r]=c}else for(const t in l)o[t]=1}for(const t in s)t in n||(n[t]=void 0);return n}function V(t){return"object"==typeof t&&null!==t?t:{}}function W(t){t&&t.c()}function G(t,e,s){const{fragment:l,on_mount:c,on_destroy:a,after_update:i}=t.$$;l&&l.m(e,s),N(()=>{const e=c.map(n).filter(r);a?a.push(...e):o(e),t.$$.on_mount=[]}),i.forEach(N)}function J(t,e){const n=t.$$;null!==n.fragment&&(o(n.on_destroy),n.fragment&&n.fragment.d(e),n.on_destroy=n.fragment=null,n.ctx=[])}function K(t,e){-1===t.$$.dirty[0]&&(L.push(t),S||(S=!0,E.then(B)),t.$$.dirty.fill(0)),t.$$.dirty[e/31|0]|=1<<e%31}function Q(e,n,r,l,c,a,i=[-1]){const u=b;w(e);const p=n.props||{},d=e.$$={fragment:null,ctx:null,props:a,update:t,not_equal:c,bound:s(),on_mount:[],on_destroy:[],before_update:[],after_update:[],context:new Map(u?u.$$.context:[]),callbacks:s(),dirty:i};let m=!1;if(d.ctx=r?r(e,p,(t,n,...s)=>{const o=s.length?s[0]:n;return d.ctx&&c(d.ctx[t],d.ctx[t]=o)&&(d.bound[t]&&d.bound[t](o),m&&K(e,t)),n}):[],d.update(),m=!0,o(d.before_update),d.fragment=!!l&&l(d.ctx),n.target){if(n.hydrate){const t=function(t){return Array.from(t.childNodes)}(n.target);d.fragment&&d.fragment.l(t),t.forEach(f)}else d.fragment&&d.fragment.c();n.intro&&z(e.$$.fragment),G(e,n.target,n.anchor),B()}w(u)}class U{$destroy(){J(this,1),this.$destroy=t}$on(t,e){const n=this.$$.callbacks[t]||(this.$$.callbacks[t]=[]);return n.push(e),()=>{const t=n.indexOf(e);-1!==t&&n.splice(t,1)}}$set(){}}const X=[];function Y(e,n=t){let s;const o=[];function r(t){if(l(e,t)&&(e=t,s)){const t=!X.length;for(let t=0;t<o.length;t+=1){const n=o[t];n[1](),X.push(n,e)}if(t){for(let t=0;t<X.length;t+=2)X[t][0](X[t+1]);X.length=0}}}return{set:r,update:function(t){r(t(e))},subscribe:function(l,c=t){const a=[l,c];return o.push(a),1===o.length&&(s=n(r)||t),l(e),()=>{const t=o.indexOf(a);-1!==t&&o.splice(t,1),0===o.length&&(s(),s=null)}}}}const Z=Y([]),tt=Y(null),et=Y(null);function nt(e){let n,s,o,r,l,c,a,p;return{c(){n=d("div"),s=d("div"),o=d("a"),r=m("< Back"),l=h(),c=d("input"),y(o,"href",e[0]),y(c,"type","search"),y(c,"placeholder","Filter on players"),y(c,"class","svelte-g01nhw"),y(s,"class","inner svelte-g01nhw"),y(n,"class","root svelte-g01nhw")},m(t,f){u(t,n,f),i(n,s),i(s,o),i(o,r),i(s,l),i(s,c),a||(p=$(c,"input",e[1]),a=!0)},p(t,[e]){1&e&&y(o,"href",t[0])},i:t,o:t,d(t){t&&f(n),a=!1,p()}}}function st(t,e,n){const s=C();let o,{backHref:r}=e;return t.$set=t=>{"backHref"in t&&n(0,r=t.backHref)},[r,function(t){o&&clearTimeout(o),o=setTimeout(()=>s("search",t.target.value),500)}]}class ot extends U{constructor(t){super(),Q(this,t,st,nt,l,{backHref:0})}}function rt(e){let n,s,o,r,l,c,a,p,g,$,b=e[0].name+"";return{c(){n=d("div"),s=d("div"),o=m(e[2]),r=m(".\r\n    "),l=d("a"),c=m(b),p=h(),g=d("div"),$=m(e[1]),y(l,"href",a="https://osu.ppy.sh/users/"+e[0].id),y(l,"target","_blank"),y(s,"class","name svelte-22sxgw"),y(g,"class","roll svelte-22sxgw"),y(n,"class","root svelte-22sxgw")},m(t,e){u(t,n,e),i(n,s),i(s,o),i(s,r),i(s,l),i(l,c),i(n,p),i(n,g),i(g,$)},p(t,[e]){4&e&&v(o,t[2]),1&e&&b!==(b=t[0].name+"")&&v(c,b),1&e&&a!==(a="https://osu.ppy.sh/users/"+t[0].id)&&y(l,"href",a),2&e&&v($,t[1])},i:t,o:t,d(t){t&&f(n)}}}function lt(t,e,n){let{player:s}=e,{roll:o}=e,{index:r}=e;return t.$set=t=>{"player"in t&&n(0,s=t.player),"roll"in t&&n(1,o=t.roll),"index"in t&&n(2,r=t.index)},[s,o,r]}class ct extends U{constructor(t){super(),Q(this,t,lt,rt,l,{player:0,roll:1,index:2})}}function at(t,e,n){const s=t.slice();return s[9]=e[n],s}function it(t){let e,n,s=t[2],o=[];for(let e=0;e<s.length;e+=1)o[e]=ft(at(t,s,e));const r=t=>P(o[t],1,1,()=>{o[t]=null});return{c(){e=d("div");for(let t=0;t<o.length;t+=1)o[t].c();y(e,"class","rolls svelte-wqk9m7")},m(t,s){u(t,e,s);for(let t=0;t<o.length;t+=1)o[t].m(e,null);n=!0},p(t,n){if(5&n){let l;for(s=t[2],l=0;l<s.length;l+=1){const r=at(t,s,l);o[l]?(o[l].p(r,n),z(o[l],1)):(o[l]=ft(r),o[l].c(),z(o[l],1),o[l].m(e,null))}for(R(),l=s.length;l<o.length;l+=1)r(l);M()}},i(t){if(!n){for(let t=0;t<s.length;t+=1)z(o[t]);n=!0}},o(t){o=o.filter(Boolean);for(let t=0;t<o.length;t+=1)P(o[t]);n=!1},d(t){t&&f(e),p(o,t)}}}function ut(t){let e;const n=new ct({props:{index:t[9].index,player:t[9].player,roll:t[9].value}});return{c(){W(n.$$.fragment)},m(t,s){G(n,t,s),e=!0},p(t,e){const s={};4&e&&(s.index=t[9].index),4&e&&(s.player=t[9].player),4&e&&(s.roll=t[9].value),n.$set(s)},i(t){e||(z(n.$$.fragment,t),e=!0)},o(t){P(n.$$.fragment,t),e=!1},d(t){J(n,t)}}}function ft(t){let e,n,s=!t[0]||t[9].player.name.toLowerCase().includes(t[0].toLowerCase()),o=s&&ut(t);return{c(){o&&o.c(),e=g()},m(t,s){o&&o.m(t,s),u(t,e,s),n=!0},p(t,n){5&n&&(s=!t[0]||t[9].player.name.toLowerCase().includes(t[0].toLowerCase())),s?o?(o.p(t,n),5&n&&z(o,1)):(o=ut(t),o.c(),z(o,1),o.m(e.parentNode,e)):o&&(R(),P(o,1,1,()=>{o=null}),M())},i(t){n||(z(o),n=!0)},o(t){P(o),n=!1},d(t){o&&o.d(t),t&&f(e)}}}function pt(t){let e,n,s,o,r,l,c,a,p=t[1]?"Hide":"Show",g=t[1]&&it(t);return{c(){e=d("div"),n=d("button"),s=m(p),o=m(" rolls"),r=h(),g&&g.c(),y(e,"class","root")},m(f,p){u(f,e,p),i(e,n),i(n,s),i(n,o),i(e,r),g&&g.m(e,null),l=!0,c||(a=$(n,"click",t[3]),c=!0)},p(t,[n]){(!l||2&n)&&p!==(p=t[1]?"Hide":"Show")&&v(s,p),t[1]?g?(g.p(t,n),2&n&&z(g,1)):(g=it(t),g.c(),z(g,1),g.m(e,null)):g&&(R(),P(g,1,1,()=>{g=null}),M())},i(t){l||(z(g),l=!0)},o(t){P(g),l=!1},d(t){t&&f(e),g&&g.d(),c=!1,a()}}}function dt(t,e,n){let{players:s}=e,{rolls:o}=e,{filter:r}=e,l=!0,c=[],a=0,i=0;Object.keys(o).forEach(t=>{o[t].forEach(e=>{++a,i+=e,c.push({player:s[t],value:e})})});(i/a).toFixed(2);return c=c.sort((t,e)=>t.value<e.value?1:-1),c.forEach((t,e)=>{t.index=e&&c[e-1].value===t.value?c[e-1].index:e+1}),t.$set=t=>{"players"in t&&n(4,s=t.players),"rolls"in t&&n(5,o=t.rolls),"filter"in t&&n(0,r=t.filter)},[r,l,c,function(){n(1,l=!l)},s,o]}class mt extends U{constructor(t){super(),Q(this,t,dt,pt,l,{players:4,rolls:5,filter:0})}}function ht(e){let n,s,o,r,l,c,a,p,g,$,b,w,x,k,C,L,I,j,_,E,S,N,H,O,B,F,A,q,R=e[0].name+"",M=e[3].max+"",z=e[3][300]+"",P=e[3][200]+"",T=e[3][100]+"",D=e[3][50]+"",V=e[3].miss+"",W=e[1].toLocaleString()+"";return{c(){n=d("div"),s=d("div"),o=m(e[4]),r=m(".\r\n    "),l=d("a"),c=m(R),p=h(),g=d("div"),$=d("div"),b=m(e[2]),w=m(" max combo"),x=h(),k=d("div"),C=m(M),L=m(" |\r\n      "),I=m(z),j=m(" |\r\n      "),_=m(P),E=m(" |\r\n      "),S=m(T),N=m(" |\r\n      "),H=m(D),O=m(" |\r\n      "),B=m(V),F=h(),A=d("div"),q=m(W),y(l,"href",a="https://osu.ppy.sh/users/"+e[0].id),y(l,"target","_blank"),y(s,"class","name svelte-i1dpsp"),y($,"class","combo"),y(k,"class","counts svelte-i1dpsp"),y(g,"class","info svelte-i1dpsp"),y(A,"class","score svelte-i1dpsp"),y(n,"class","root svelte-i1dpsp")},m(t,e){u(t,n,e),i(n,s),i(s,o),i(s,r),i(s,l),i(l,c),i(n,p),i(n,g),i(g,$),i($,b),i($,w),i(g,x),i(g,k),i(k,C),i(k,L),i(k,I),i(k,j),i(k,_),i(k,E),i(k,S),i(k,N),i(k,H),i(k,O),i(k,B),i(n,F),i(n,A),i(A,q)},p(t,[e]){16&e&&v(o,t[4]),1&e&&R!==(R=t[0].name+"")&&v(c,R),1&e&&a!==(a="https://osu.ppy.sh/users/"+t[0].id)&&y(l,"href",a),4&e&&v(b,t[2]),8&e&&M!==(M=t[3].max+"")&&v(C,M),8&e&&z!==(z=t[3][300]+"")&&v(I,z),8&e&&P!==(P=t[3][200]+"")&&v(_,P),8&e&&T!==(T=t[3][100]+"")&&v(S,T),8&e&&D!==(D=t[3][50]+"")&&v(H,D),8&e&&V!==(V=t[3].miss+"")&&v(B,V),2&e&&W!==(W=t[1].toLocaleString()+"")&&v(q,W)},i:t,o:t,d(t){t&&f(n)}}}function gt(t,e,n){let{player:s}=e,{score:o}=e,{combo:r}=e,{counts:l}=e,{index:c}=e;return t.$set=t=>{"player"in t&&n(0,s=t.player),"score"in t&&n(1,o=t.score),"combo"in t&&n(2,r=t.combo),"counts"in t&&n(3,l=t.counts),"index"in t&&n(4,c=t.index)},[s,o,r,l,c]}class $t extends U{constructor(t){super(),Q(this,t,gt,ht,l,{player:0,score:1,combo:2,counts:3,index:4})}}function yt(t,e,n){const s=t.slice();return s[17]=e[n],s[16]=n,s}function vt(t,e,n){const s=t.slice();return s[14]=e[n].player,s[5]=e[n].scores,s[16]=n,s}function bt(t,e,n){const s=t.slice();return s[19]=e[n],s[16]=n,s}function wt(t){let e,n,s,o,r,l,c,a,g,$,b,w,x,k,C,L,I,j,_,E,S,N,H,O,B,F,A,q,R,M,z=(100*t[2]/t[3]).toFixed(2)+"",P=t[1].length+"",T=(100*t[1].length/t[3]).toFixed(2)+"",D=t[1].length+t[2]+"",V=(100*(t[1].length+t[2])/t[3]).toFixed(2)+"",W=t[1].length&&xt(),G=Object.keys(t[9]),J=[];for(let e=0;e<G.length;e+=1)J[e]=kt(bt(t,G,e));return{c(){e=d("div"),n=m("Picked "),s=d("b"),o=m(t[2]),r=m("/"),l=m(t[3]),c=m(" ("),a=m(z),g=m("%) times"),$=h(),b=d("div"),w=m("Banned "),x=d("b"),k=m(P),C=m("/"),L=m(t[3]),I=m("\r\n        ("),j=m(T),_=m("%)\r\n        times"),W&&W.c(),E=h();for(let t=0;t<J.length;t+=1)J[t].c();S=h(),N=d("div"),H=m("Relevancy: "),O=d("b"),B=m(D),F=m("/"),A=m(t[3]),q=m(" ("),R=m(V),M=m("%)"),y(e,"class","picks"),y(b,"class","bans"),y(N,"class","relevancy")},m(t,f){u(t,e,f),i(e,n),i(e,s),i(s,o),i(s,r),i(s,l),i(e,c),i(e,a),i(e,g),u(t,$,f),u(t,b,f),i(b,w),i(b,x),i(x,k),i(x,C),i(x,L),i(b,I),i(b,j),i(b,_),W&&W.m(b,null),i(b,E);for(let t=0;t<J.length;t+=1)J[t].m(b,null);u(t,S,f),u(t,N,f),i(N,H),i(N,O),i(O,B),i(O,F),i(O,A),i(N,q),i(N,R),i(N,M)},p(t,e){if(4&e&&v(o,t[2]),8&e&&v(l,t[3]),12&e&&z!==(z=(100*t[2]/t[3]).toFixed(2)+"")&&v(a,z),2&e&&P!==(P=t[1].length+"")&&v(k,P),8&e&&v(L,t[3]),10&e&&T!==(T=(100*t[1].length/t[3]).toFixed(2)+"")&&v(j,T),t[1].length?W||(W=xt(),W.c(),W.m(b,E)):W&&(W.d(1),W=null),529&e){let n;for(G=Object.keys(t[9]),n=0;n<G.length;n+=1){const s=bt(t,G,n);J[n]?J[n].p(s,e):(J[n]=kt(s),J[n].c(),J[n].m(b,null))}for(;n<J.length;n+=1)J[n].d(1);J.length=G.length}6&e&&D!==(D=t[1].length+t[2]+"")&&v(B,D),8&e&&v(A,t[3]),14&e&&V!==(V=(100*(t[1].length+t[2])/t[3]).toFixed(2)+"")&&v(R,V)},d(t){t&&f(e),t&&f($),t&&f(b),W&&W.d(),p(J,t),t&&f(S),t&&f(N)}}}function xt(t){let e;return{c(){e=m(" by:")},m(t,n){u(t,e,n)},d(t){t&&f(e)}}}function kt(t){let e,n,s,o,r=t[0][t[19]].name+(t[9][t[19]]>1?` (${t[9][t[19]]}x)`:""),l=t[16]&&function(t){let e;return{c(){e=m(",")},m(t,n){u(t,e,n)},d(t){t&&f(e)}}}();return{c(){l&&l.c(),e=h(),n=d("span"),s=m(r),y(n,"class",o=a(t[4]&&t[0][t[19]].name.toLowerCase().includes(t[4].toLowerCase())&&"ban-highlighted")+" svelte-1plw7g3")},m(t,o){l&&l.m(t,o),u(t,e,o),u(t,n,o),i(n,s)},p(t,e){513&e&&r!==(r=t[0][t[19]].name+(t[9][t[19]]>1?` (${t[9][t[19]]}x)`:""))&&v(s,r),529&e&&o!==(o=a(t[4]&&t[0][t[19]].name.toLowerCase().includes(t[4].toLowerCase())&&"ban-highlighted")+" svelte-1plw7g3")&&y(n,"class",o)},d(t){l&&l.d(t),t&&f(e),t&&f(n)}}}function Ct(t){let e,n,s,o;const r=[It,Lt],l=[];function c(t,e){return t[6]?0:1}return n=c(t),s=l[n]=r[n](t),{c(){e=d("div"),s.c(),y(e,"class","scores svelte-1plw7g3")},m(t,s){u(t,e,s),l[n].m(e,null),o=!0},p(t,o){let a=n;n=c(t),n===a?l[n].p(t,o):(R(),P(l[a],1,1,()=>{l[a]=null}),M(),s=l[n],s||(s=l[n]=r[n](t),s.c()),z(s,1),s.m(e,null))},i(t){o||(z(s),o=!0)},o(t){P(s),o=!1},d(t){t&&f(e),l[n].d()}}}function Lt(t){let e,n,s=t[5],o=[];for(let e=0;e<s.length;e+=1)o[e]=_t(yt(t,s,e));const r=t=>P(o[t],1,1,()=>{o[t]=null});return{c(){for(let t=0;t<o.length;t+=1)o[t].c();e=g()},m(t,s){for(let e=0;e<o.length;e+=1)o[e].m(t,s);u(t,e,s),n=!0},p(t,n){if(49&n){let l;for(s=t[5],l=0;l<s.length;l+=1){const r=yt(t,s,l);o[l]?(o[l].p(r,n),z(o[l],1)):(o[l]=_t(r),o[l].c(),z(o[l],1),o[l].m(e.parentNode,e))}for(R(),l=s.length;l<o.length;l+=1)r(l);M()}},i(t){if(!n){for(let t=0;t<s.length;t+=1)z(o[t]);n=!0}},o(t){o=o.filter(Boolean);for(let t=0;t<o.length;t+=1)P(o[t]);n=!1},d(t){p(o,t),t&&f(e)}}}function It(t){let e,n,s=t[10],o=[];for(let e=0;e<s.length;e+=1)o[e]=St(vt(t,s,e));const r=t=>P(o[t],1,1,()=>{o[t]=null});return{c(){for(let t=0;t<o.length;t+=1)o[t].c();e=g()},m(t,s){for(let e=0;e<o.length;e+=1)o[e].m(t,s);u(t,e,s),n=!0},p(t,n){if(1040&n){let l;for(s=t[10],l=0;l<s.length;l+=1){const r=vt(t,s,l);o[l]?(o[l].p(r,n),z(o[l],1)):(o[l]=St(r),o[l].c(),z(o[l],1),o[l].m(e.parentNode,e))}for(R(),l=s.length;l<o.length;l+=1)r(l);M()}},i(t){if(!n){for(let t=0;t<s.length;t+=1)z(o[t]);n=!0}},o(t){o=o.filter(Boolean);for(let t=0;t<o.length;t+=1)P(o[t]);n=!1},d(t){p(o,t),t&&f(e)}}}function jt(t){let n;const s=[{index:t[16]+1},{player:t[0][t[17].userId]},t[17]];let o={};for(let t=0;t<s.length;t+=1)o=e(o,s[t]);const r=new $t({props:o});return{c(){W(r.$$.fragment)},m(t,e){G(r,t,e),n=!0},p(t,e){const n=33&e?D(s,[s[0],{player:t[0][t[17].userId]},32&e&&V(t[17])]):{};r.$set(n)},i(t){n||(z(r.$$.fragment,t),n=!0)},o(t){P(r.$$.fragment,t),n=!1},d(t){J(r,t)}}}function _t(t){let e,n,s=t[0][t[17].userId]&&(!t[4]||t[0][t[17].userId].name.toLowerCase().includes(t[4].toLowerCase())),o=s&&jt(t);return{c(){o&&o.c(),e=g()},m(t,s){o&&o.m(t,s),u(t,e,s),n=!0},p(t,n){49&n&&(s=t[0][t[17].userId]&&(!t[4]||t[0][t[17].userId].name.toLowerCase().includes(t[4].toLowerCase()))),s?o?(o.p(t,n),49&n&&z(o,1)):(o=jt(t),o.c(),z(o,1),o.m(e.parentNode,e)):o&&(R(),P(o,1,1,()=>{o=null}),M())},i(t){n||(z(o),n=!0)},o(t){P(o),n=!1},d(t){o&&o.d(t),t&&f(e)}}}function Et(t){let n;const s=[{index:t[16]+1},{player:t[14]},t[5][0]];let o={};for(let t=0;t<s.length;t+=1)o=e(o,s[t]);const r=new $t({props:o});return{c(){W(r.$$.fragment)},m(t,e){G(r,t,e),n=!0},p(t,e){const n=1024&e?D(s,[s[0],{player:t[14]},V(t[5][0])]):{};r.$set(n)},i(t){n||(z(r.$$.fragment,t),n=!0)},o(t){P(r.$$.fragment,t),n=!1},d(t){J(r,t)}}}function St(t){let e,n,s=!t[4]||t[14].name.toLowerCase().includes(t[4].toLowerCase()),o=s&&Et(t);return{c(){o&&o.c(),e=g()},m(t,s){o&&o.m(t,s),u(t,e,s),n=!0},p(t,n){16&n&&(s=!t[4]||t[14].name.toLowerCase().includes(t[4].toLowerCase())),s?o?(o.p(t,n),16&n&&z(o,1)):(o=Et(t),o.c(),z(o,1),o.m(e.parentNode,e)):o&&(R(),P(o,1,1,()=>{o=null}),M())},i(t){n||(z(o),n=!0)},o(t){P(o),n=!1},d(t){o&&o.d(t),t&&f(e)}}}function Nt(t){let e,n,s,r,l,c,a,p,g,b,w,x,k,C,L,I,j,_,E=(t[8]?t[8].toFixed(0):"N/A")+"",S=t[7]?"Hide":"Show",N=t[6]?"Show all player scores":"Only best scores",H=t[1]&&wt(t),O=t[7]&&Ct(t);return{c(){e=d("div"),n=d("div"),s=d("div"),r=m("Average score: "),l=d("b"),c=m(E),a=h(),H&&H.c(),p=h(),g=d("button"),b=m(S),w=m(" scores"),x=h(),k=d("button"),C=m(N),L=h(),O&&O.c(),y(s,"class","average"),y(n,"class","stats svelte-1plw7g3"),y(e,"class","root")},m(o,f){u(o,e,f),i(e,n),i(n,s),i(s,r),i(s,l),i(l,c),i(n,a),H&&H.m(n,null),i(e,p),i(e,g),i(g,b),i(g,w),i(e,x),i(e,k),i(k,C),i(e,L),O&&O.m(e,null),I=!0,j||(_=[$(g,"click",t[12]),$(k,"click",t[11])],j=!0)},p(t,[s]){(!I||256&s)&&E!==(E=(t[8]?t[8].toFixed(0):"N/A")+"")&&v(c,E),t[1]?H?H.p(t,s):(H=wt(t),H.c(),H.m(n,null)):H&&(H.d(1),H=null),(!I||128&s)&&S!==(S=t[7]?"Hide":"Show")&&v(b,S),(!I||64&s)&&N!==(N=t[6]?"Show all player scores":"Only best scores")&&v(C,N),t[7]?O?(O.p(t,s),128&s&&z(O,1)):(O=Ct(t),O.c(),z(O,1),O.m(e,null)):O&&(R(),P(O,1,1,()=>{O=null}),M())},i(t){I||(z(O),I=!0)},o(t){P(O),I=!1},d(t){t&&f(e),H&&H.d(),O&&O.d(),j=!1,o(_)}}}function Ht(t,e,n){let{players:s}=e,{scores:o}=e,{bans:r}=e,{pickCount:l}=e,{matchCount:c}=e,{filter:a}=e,i=!0,u=!0;const f={},p=[];let d=0;o.forEach(t=>{s[t.userId]&&(f[t.userId]||(f[t.userId]=[],p.push({player:s[t.userId],scores:f[t.userId]})),n(8,d+=t.score),f[t.userId].push(t))}),d/=o.length;const m={};return r&&r.forEach(t=>{s[t]&&(m[t]||n(9,m[t]=0,m),n(9,++m[t],m))}),t.$set=t=>{"players"in t&&n(0,s=t.players),"scores"in t&&n(5,o=t.scores),"bans"in t&&n(1,r=t.bans),"pickCount"in t&&n(2,l=t.pickCount),"matchCount"in t&&n(3,c=t.matchCount),"filter"in t&&n(4,a=t.filter)},[s,r,l,c,a,o,i,u,d,m,p,function(){n(6,i=!i)},function(){n(7,u=!u)}]}class Ot extends U{constructor(t){super(),Q(this,t,Ht,Nt,l,{players:0,scores:5,bans:1,pickCount:2,matchCount:3,filter:4})}}function Bt(e){let n,s,o,r,l,c,a,p,g,$,b,w,x,k,C,L,I,j,_,E,S,N,H,O,B,F,A,q,R,M,z,P,T,D,V,W,G,J,K,Q,U,X,Y,Z,tt,et,nt,st,ot,rt,lt,ct,at,it,ut,ft,pt,dt,mt,ht,gt,$t,yt=e[9].notes.total+"",vt=e[9].notes.rice+"",bt=e[9].notes.ln+"",wt=e[9].bpm+"",xt=e[9].sv+"",kt=e[9].notes.single+"",Ct=e[9].notes.jump+"",Lt=e[9].notes.hand+"",It=e[9].notes.quad+"";return{c(){n=d("div"),s=d("div"),o=d("a"),r=d("div"),l=m(e[1]),c=h(),a=d("div"),p=m(e[0]),$=h(),b=d("div"),w=d("b"),x=m("["),k=m(e[3]),C=m("]"),L=d("br"),I=m("beatmap set by "),j=d("b"),_=m(e[2]),E=h(),S=d("div"),N=m("HP "),H=m(e[6]),O=m(", OD "),B=m(e[7]),F=h(),A=d("div"),q=m(e[8]),R=h(),M=d("div"),z=m(yt),P=m(" notes"),T=d("br"),D=m("("),V=m(vt),W=m(" rice, "),G=m(bt),J=m(" LNs)"),K=d("br"),Q=h(),U=m(wt),X=m(" BPM events"),Y=d("br"),Z=h(),tt=m(xt),et=m(" SV events"),nt=d("br"),st=h(),ot=m(kt),rt=m(" singles"),lt=d("br"),ct=h(),at=m(Ct),it=m(" jumps"),ut=d("br"),ft=h(),pt=m(Lt),dt=m(" hands"),mt=d("br"),ht=h(),gt=m(It),$t=m(" quads"),y(r,"class","artist"),y(a,"class","name svelte-wc7mb7"),y(a,"title",e[0]),y(o,"href",g=`https://osu.ppy.sh/beatmapsets/${e[5]}#mania/${e[4]}`),y(o,"target","_blank"),y(b,"class","mapper"),y(S,"class","metrics svelte-wc7mb7"),y(s,"class","title svelte-wc7mb7"),y(A,"class","category svelte-wc7mb7"),y(M,"class","counts svelte-wc7mb7"),y(n,"class","root svelte-wc7mb7")},m(t,e){u(t,n,e),i(n,s),i(s,o),i(o,r),i(r,l),i(o,c),i(o,a),i(a,p),i(s,$),i(s,b),i(b,w),i(w,x),i(w,k),i(w,C),i(b,L),i(b,I),i(b,j),i(j,_),i(s,E),i(s,S),i(S,N),i(S,H),i(S,O),i(S,B),i(n,F),i(n,A),i(A,q),i(n,R),i(n,M),i(M,z),i(M,P),i(M,T),i(M,D),i(M,V),i(M,W),i(M,G),i(M,J),i(M,K),i(M,Q),i(M,U),i(M,X),i(M,Y),i(M,Z),i(M,tt),i(M,et),i(M,nt),i(M,st),i(M,ot),i(M,rt),i(M,lt),i(M,ct),i(M,at),i(M,it),i(M,ut),i(M,ft),i(M,pt),i(M,dt),i(M,mt),i(M,ht),i(M,gt),i(M,$t)},p(t,[e]){2&e&&v(l,t[1]),1&e&&v(p,t[0]),1&e&&y(a,"title",t[0]),48&e&&g!==(g=`https://osu.ppy.sh/beatmapsets/${t[5]}#mania/${t[4]}`)&&y(o,"href",g),8&e&&v(k,t[3]),4&e&&v(_,t[2]),64&e&&v(H,t[6]),128&e&&v(B,t[7]),256&e&&v(q,t[8]),512&e&&yt!==(yt=t[9].notes.total+"")&&v(z,yt),512&e&&vt!==(vt=t[9].notes.rice+"")&&v(V,vt),512&e&&bt!==(bt=t[9].notes.ln+"")&&v(G,bt),512&e&&wt!==(wt=t[9].bpm+"")&&v(U,wt),512&e&&xt!==(xt=t[9].sv+"")&&v(tt,xt),512&e&&kt!==(kt=t[9].notes.single+"")&&v(ot,kt),512&e&&Ct!==(Ct=t[9].notes.jump+"")&&v(at,Ct),512&e&&Lt!==(Lt=t[9].notes.hand+"")&&v(pt,Lt),512&e&&It!==(It=t[9].notes.quad+"")&&v(gt,It)},i:t,o:t,d(t){t&&f(n)}}}function Ft(t,e,n){let{title:s}=e,{artist:o}=e,{mapper:r}=e,{difficulty:l}=e,{beatmapId:c}=e,{beatmapSetId:a}=e,{hp:i}=e,{od:u}=e,{category:f}=e,{counts:p}=e;return t.$set=t=>{"title"in t&&n(0,s=t.title),"artist"in t&&n(1,o=t.artist),"mapper"in t&&n(2,r=t.mapper),"difficulty"in t&&n(3,l=t.difficulty),"beatmapId"in t&&n(4,c=t.beatmapId),"beatmapSetId"in t&&n(5,a=t.beatmapSetId),"hp"in t&&n(6,i=t.hp),"od"in t&&n(7,u=t.od),"category"in t&&n(8,f=t.category),"counts"in t&&n(9,p=t.counts)},[s,o,r,l,c,a,i,u,f,p]}class At extends U{constructor(t){super(),Q(this,t,Ft,Bt,l,{title:0,artist:1,mapper:2,difficulty:3,beatmapId:4,beatmapSetId:5,hp:6,od:7,category:8,counts:9})}}function qt(t,e,n){const s=t.slice();return s[7]=e[n],s}function Rt(e){let n;return{c(){n=d("p"),n.textContent="Loading tournament data..."},m(t,e){u(t,n,e)},p:t,i:t,o:t,d(t){t&&f(n)}}}function Mt(t){let e,n,s,o,r,l,c,a,p,g,$,b=t[4].name+"",w=t[4].maps.length+"",x=[],k=new Map;const C=new ot({props:{backHref:"#/tournaments/"+t[0]}});C.$on("search",t[5]);let L=t[4].rolls&&zt(t),I=t[4].maps;const j=t=>t[7].beatmapId;for(let e=0;e<I.length;e+=1){let n=qt(t,I,e),s=j(n);k.set(s,x[e]=Pt(s,n))}return{c(){W(C.$$.fragment),e=h(),n=d("h1"),s=m(b),o=h(),L&&L.c(),r=h(),l=d("h2"),c=m(w),a=m(" maps"),p=h(),g=d("div");for(let t=0;t<x.length;t+=1)x[t].c();y(g,"class","maps")},m(t,f){G(C,t,f),u(t,e,f),u(t,n,f),i(n,s),u(t,o,f),L&&L.m(t,f),u(t,r,f),u(t,l,f),i(l,c),i(l,a),u(t,p,f),u(t,g,f);for(let t=0;t<x.length;t+=1)x[t].m(g,null);$=!0},p(t,e){const n={};if(1&e&&(n.backHref="#/tournaments/"+t[0]),C.$set(n),(!$||16&e)&&b!==(b=t[4].name+"")&&v(s,b),t[4].rolls?L?(L.p(t,e),16&e&&z(L,1)):(L=zt(t),L.c(),z(L,1),L.m(r.parentNode,r)):L&&(R(),P(L,1,1,()=>{L=null}),M()),(!$||16&e)&&w!==(w=t[4].maps.length+"")&&v(c,w),28&e){const n=t[4].maps;R(),x=function(t,e,n,s,o,r,l,c,a,i,u,f){let p=t.length,d=r.length,m=p;const h={};for(;m--;)h[t[m].key]=m;const g=[],$=new Map,y=new Map;for(m=d;m--;){const t=f(o,r,m),c=n(t);let a=l.get(c);a?s&&a.p(t,e):(a=i(c,t),a.c()),$.set(c,g[m]=a),c in h&&y.set(c,Math.abs(m-h[c]))}const v=new Set,b=new Set;function w(t){z(t,1),t.m(c,u),l.set(t.key,t),u=t.first,d--}for(;p&&d;){const e=g[d-1],n=t[p-1],s=e.key,o=n.key;e===n?(u=e.first,p--,d--):$.has(o)?!l.has(s)||v.has(s)?w(e):b.has(o)?p--:y.get(s)>y.get(o)?(b.add(s),w(e)):(v.add(o),p--):(a(n,l),p--)}for(;p--;){const e=t[p];$.has(e.key)||a(e,l)}for(;d;)w(g[d-1]);return g}(x,e,j,1,t,n,k,g,T,Pt,null,qt),M()}},i(t){if(!$){z(C.$$.fragment,t),z(L);for(let t=0;t<I.length;t+=1)z(x[t]);$=!0}},o(t){P(C.$$.fragment,t),P(L);for(let t=0;t<x.length;t+=1)P(x[t]);$=!1},d(t){J(C,t),t&&f(e),t&&f(n),t&&f(o),L&&L.d(t),t&&f(r),t&&f(l),t&&f(p),t&&f(g);for(let t=0;t<x.length;t+=1)x[t].d()}}}function zt(t){let e,n,s;const o=new mt({props:{rolls:t[4].rolls,players:t[3].players,filter:t[2]}});return{c(){e=d("h2"),e.textContent="Rolls",n=h(),W(o.$$.fragment)},m(t,r){u(t,e,r),u(t,n,r),G(o,t,r),s=!0},p(t,e){const n={};16&e&&(n.rolls=t[4].rolls),8&e&&(n.players=t[3].players),4&e&&(n.filter=t[2]),o.$set(n)},i(t){s||(z(o.$$.fragment,t),s=!0)},o(t){P(o.$$.fragment,t),s=!1},d(t){t&&f(e),t&&f(n),J(o,t)}}}function Pt(t,n){let s,o,r,l;const c=[n[7]];let a={};for(let t=0;t<c.length;t+=1)a=e(a,c[t]);const p=new At({props:a}),m=new Ot({props:{players:n[3].players,scores:n[7].scores,bans:n[7].bans,pickCount:n[7].pickCount,matchCount:n[4].matchCount,filter:n[2]}});return{key:t,first:null,c(){s=d("div"),W(p.$$.fragment),o=h(),W(m.$$.fragment),r=h(),y(s,"class","map svelte-ztog05"),this.first=s},m(t,e){u(t,s,e),G(p,s,null),i(s,o),G(m,s,null),i(s,r),l=!0},p(t,e){const n=16&e?D(c,[V(t[7])]):{};p.$set(n);const s={};8&e&&(s.players=t[3].players),16&e&&(s.scores=t[7].scores),16&e&&(s.bans=t[7].bans),16&e&&(s.pickCount=t[7].pickCount),16&e&&(s.matchCount=t[4].matchCount),4&e&&(s.filter=t[2]),m.$set(s)},i(t){l||(z(p.$$.fragment,t),z(m.$$.fragment,t),l=!0)},o(t){P(p.$$.fragment,t),P(m.$$.fragment,t),l=!1},d(t){t&&f(s),J(p),J(m)}}}function Tt(t){let e,n,s,o;const r=[Mt,Rt],l=[];function c(t,e){return t[1]?1:0}return n=c(t),s=l[n]=r[n](t),{c(){e=d("main"),s.c(),y(e,"class","svelte-ztog05")},m(t,s){u(t,e,s),l[n].m(e,null),o=!0},p(t,[o]){let a=n;n=c(t),n===a?l[n].p(t,o):(R(),P(l[a],1,1,()=>{l[a]=null}),M(),s=l[n],s||(s=l[n]=r[n](t),s.c()),z(s,1),s.m(e,null))},i(t){o||(z(s),o=!0)},o(t){P(s),o=!1},d(t){t&&f(e),l[n].d()}}}function Dt(t,e,n){let s,o;c(t,tt,t=>n(3,s=t)),c(t,et,t=>n(4,o=t));let{id:r}=e,{tournamentId:l}=e,a=!0,i=null;return k(async()=>{if(!s||s.id!=l)try{tt.set(null),et.set(null);const t=await fetch(`data/${l}.json`);tt.set(await t.json());const e=await fetch(`data/${l}.${r}.json`);et.set(await e.json())}catch{location.hash=""}if(!o||o.id!=r)try{et.set(null);const t=await fetch(`data/${l}.${r}.json`);et.set(await t.json())}catch{location.hash="#/tournaments/"+l}n(1,a=!1)}),t.$set=t=>{"id"in t&&n(6,r=t.id),"tournamentId"in t&&n(0,l=t.tournamentId)},[l,a,i,s,o,function(t){n(2,i=t.detail)},r]}class Vt extends U{constructor(t){super(),Q(this,t,Dt,Tt,l,{id:6,tournamentId:0})}}function Wt(e){let n,s,o,r,l,c,a,p,g,$,b,w,x,k,C,L,I,j,_,E,S,N;return{c(){n=d("div"),s=d("div"),o=d("img"),l=h(),c=d("div"),a=d("a"),p=m(e[1]),$=h(),b=d("div"),w=m("#"),x=m(e[5]),k=m(" ("),C=m(e[4]),L=m(" pp)"),I=d("br"),j=h(),_=m(e[3]),E=m(" (#"),S=m(e[6]),N=m(")"),o.src!==(r=e[2])&&y(o,"src",r),y(o,"alt",""),y(o,"class","svelte-ot3nx9"),y(s,"class","avatar svelte-ot3nx9"),y(a,"href",g="https://osu.ppy.sh/users/"+e[0]),y(a,"target","_blank"),y(c,"class","name svelte-ot3nx9"),y(b,"class","info svelte-ot3nx9"),y(n,"class","root svelte-ot3nx9")},m(t,e){u(t,n,e),i(n,s),i(s,o),i(n,l),i(n,c),i(c,a),i(a,p),i(n,$),i(n,b),i(b,w),i(b,x),i(b,k),i(b,C),i(b,L),i(b,I),i(b,j),i(b,_),i(b,E),i(b,S),i(b,N)},p(t,[e]){4&e&&o.src!==(r=t[2])&&y(o,"src",r),2&e&&v(p,t[1]),1&e&&g!==(g="https://osu.ppy.sh/users/"+t[0])&&y(a,"href",g),32&e&&v(x,t[5]),16&e&&v(C,t[4]),8&e&&v(_,t[3]),64&e&&v(S,t[6])},i:t,o:t,d(t){t&&f(n)}}}function Gt(t,e,n){let{id:s}=e,{name:o}=e,{avatar:r}=e,{country:l}=e,{pp:c}=e,{rank:a}=e,{countryRank:i}=e;return t.$set=t=>{"id"in t&&n(0,s=t.id),"name"in t&&n(1,o=t.name),"avatar"in t&&n(2,r=t.avatar),"country"in t&&n(3,l=t.country),"pp"in t&&n(4,c=t.pp),"rank"in t&&n(5,a=t.rank),"countryRank"in t&&n(6,i=t.countryRank)},[s,o,r,l,c,a,i]}class Jt extends U{constructor(t){super(),Q(this,t,Gt,Wt,l,{id:0,name:1,avatar:2,country:3,pp:4,rank:5,countryRank:6})}}function Kt(t,e,n){const s=t.slice();return s[7]=e[n],s}function Qt(t){let n;const s=[t[7]];let o={};for(let t=0;t<s.length;t+=1)o=e(o,s[t]);const r=new Jt({props:o});return{c(){W(r.$$.fragment)},m(t,e){G(r,t,e),n=!0},p(t,e){const n=1&e?D(s,[V(t[7])]):{};r.$set(n)},i(t){n||(z(r.$$.fragment,t),n=!0)},o(t){P(r.$$.fragment,t),n=!1},d(t){J(r,t)}}}function Ut(t){let e,n,s,r,l,c,a,m,g,v=t[0],b=[];for(let e=0;e<v.length;e+=1)b[e]=Qt(Kt(t,v,e));const w=t=>P(b[t],1,1,()=>{b[t]=null});return{c(){e=d("div"),n=d("button"),n.textContent="Alphabetical",s=h(),r=d("button"),r.textContent="Rank",l=h(),c=d("div");for(let t=0;t<b.length;t+=1)b[t].c();y(c,"class","players svelte-xa7zg9"),y(e,"class","root")},m(o,f){u(o,e,f),i(e,n),i(e,s),i(e,r),i(e,l),i(e,c);for(let t=0;t<b.length;t+=1)b[t].m(c,null);a=!0,m||(g=[$(n,"click",t[1]),$(r,"click",t[2])],m=!0)},p(t,[e]){if(1&e){let n;for(v=t[0],n=0;n<v.length;n+=1){const s=Kt(t,v,n);b[n]?(b[n].p(s,e),z(b[n],1)):(b[n]=Qt(s),b[n].c(),z(b[n],1),b[n].m(c,null))}for(R(),n=v.length;n<b.length;n+=1)w(n);M()}},i(t){if(!a){for(let t=0;t<v.length;t+=1)z(b[t]);a=!0}},o(t){b=b.filter(Boolean);for(let t=0;t<b.length;t+=1)P(b[t]);a=!1},d(t){t&&f(e),p(b,t),m=!1,o(g)}}}function Xt(t,e,n){let s,{players:o}=e,{sort:r="rank"}=e;const l=t=>t.sort((t,e)=>t.name.toLowerCase()<e.name.toLowerCase()?-1:1),c=t=>t.sort((t,e)=>t.rank<e.rank?-1:1);return t.$set=t=>{"players"in t&&n(3,o=t.players),"sort"in t&&n(4,r=t.sort)},t.$$.update=()=>{24&t.$$.dirty&&n(0,s="rank"===r?c(o):l(o))},[s,function(){n(0,s=l(o))},function(){n(0,s=c(o))},o,r]}class Yt extends U{constructor(t){super(),Q(this,t,Xt,Ut,l,{players:3,sort:4})}}function Zt(e){let n,s,o,r,l,c,a,p;return{c(){n=d("div"),s=d("div"),o=d("a"),r=m(e[0]),l=h(),c=d("div"),a=m(e[1]),p=m(" maps"),y(o,"href",e[2]),y(s,"class","name svelte-b5fgg6"),y(c,"class","maps svelte-b5fgg6"),y(n,"class","root svelte-b5fgg6")},m(t,e){u(t,n,e),i(n,s),i(s,o),i(o,r),i(n,l),i(n,c),i(c,a),i(c,p)},p(t,[e]){1&e&&v(r,t[0]),4&e&&y(o,"href",t[2]),2&e&&v(a,t[1])},i:t,o:t,d(t){t&&f(n)}}}function te(t,e,n){let{name:s}=e,{mapCount:o}=e,{href:r}=e;return t.$set=t=>{"name"in t&&n(0,s=t.name),"mapCount"in t&&n(1,o=t.mapCount),"href"in t&&n(2,r=t.href)},[s,o,r]}class ee extends U{constructor(t){super(),Q(this,t,te,Zt,l,{name:0,mapCount:1,href:2})}}function ne(t,e,n){const s=t.slice();return s[6]=e[n],s}function se(e){let n;return{c(){n=d("p"),n.textContent="Loading tournament data..."},m(t,e){u(t,n,e)},p:t,i:t,o:t,d(t){t&&f(n)}}}function oe(t){let e,n,s,o,r,l,c,a,g,$,b,w,x,k,C,L,I=t[3].name+"",j=t[3].stages.length+"",_=Object.keys(t[3].players).length+"";const E=new ot({props:{backHref:"#/"}});E.$on("search",t[4]);let S=t[3].stages,N=[];for(let e=0;e<S.length;e+=1)N[e]=re(ne(t,S,e));const H=t=>P(N[t],1,1,()=>{N[t]=null}),O=new Yt({props:{players:t[1]}});return{c(){W(E.$$.fragment),e=h(),n=d("h1"),s=m(I),o=h(),r=d("h2"),l=m(j),c=m(" stages"),a=h(),g=d("div");for(let t=0;t<N.length;t+=1)N[t].c();$=h(),b=d("h2"),w=m(_),x=m(" players"),k=h(),C=d("div"),W(O.$$.fragment),y(g,"class","stages svelte-wv5a2v"),y(C,"class","players")},m(t,f){G(E,t,f),u(t,e,f),u(t,n,f),i(n,s),u(t,o,f),u(t,r,f),i(r,l),i(r,c),u(t,a,f),u(t,g,f);for(let t=0;t<N.length;t+=1)N[t].m(g,null);u(t,$,f),u(t,b,f),i(b,w),i(b,x),u(t,k,f),u(t,C,f),G(O,C,null),L=!0},p(t,e){if((!L||8&e)&&I!==(I=t[3].name+"")&&v(s,I),(!L||8&e)&&j!==(j=t[3].stages.length+"")&&v(l,j),9&e){let n;for(S=t[3].stages,n=0;n<S.length;n+=1){const s=ne(t,S,n);N[n]?(N[n].p(s,e),z(N[n],1)):(N[n]=re(s),N[n].c(),z(N[n],1),N[n].m(g,null))}for(R(),n=S.length;n<N.length;n+=1)H(n);M()}(!L||8&e)&&_!==(_=Object.keys(t[3].players).length+"")&&v(w,_);const n={};2&e&&(n.players=t[1]),O.$set(n)},i(t){if(!L){z(E.$$.fragment,t);for(let t=0;t<S.length;t+=1)z(N[t]);z(O.$$.fragment,t),L=!0}},o(t){P(E.$$.fragment,t),N=N.filter(Boolean);for(let t=0;t<N.length;t+=1)P(N[t]);P(O.$$.fragment,t),L=!1},d(t){J(E,t),t&&f(e),t&&f(n),t&&f(o),t&&f(r),t&&f(a),t&&f(g),p(N,t),t&&f($),t&&f(b),t&&f(k),t&&f(C),J(O)}}}function re(t){let n;const s=[t[6],{href:`#/tournaments/${t[0]}/stages/${t[6].id}`}];let o={};for(let t=0;t<s.length;t+=1)o=e(o,s[t]);const r=new ee({props:o});return{c(){W(r.$$.fragment)},m(t,e){G(r,t,e),n=!0},p(t,e){const n=9&e?D(s,[8&e&&V(t[6]),{href:`#/tournaments/${t[0]}/stages/${t[6].id}`}]):{};r.$set(n)},i(t){n||(z(r.$$.fragment,t),n=!0)},o(t){P(r.$$.fragment,t),n=!1},d(t){J(r,t)}}}function le(t){let e,n,s,o;const r=[oe,se],l=[];function c(t,e){return t[2]?1:0}return n=c(t),s=l[n]=r[n](t),{c(){e=d("main"),s.c(),y(e,"class","svelte-wv5a2v")},m(t,s){u(t,e,s),l[n].m(e,null),o=!0},p(t,[o]){let a=n;n=c(t),n===a?l[n].p(t,o):(R(),P(l[a],1,1,()=>{l[a]=null}),M(),s=l[n],s||(s=l[n]=r[n](t),s.c()),z(s,1),s.m(e,null))},i(t){o||(z(s),o=!0)},o(t){P(s),o=!1},d(t){t&&f(e),l[n].d()}}}function ce(t,e,n){let s;c(t,tt,t=>n(3,s=t));let o,r,{id:l}=e,a=!0;return k(async()=>{if(!s||s.id!=l)try{tt.set(null);const t=await fetch(`data/${l}.json`);tt.set(await t.json())}catch{location.hash=""}o=Object.values(s.players),n(1,r=o),n(2,a=!1)}),t.$set=t=>{"id"in t&&n(0,l=t.id)},[l,r,a,s,function(t){const e=t.detail;n(1,r=e?o.filter(t=>t.name.toLowerCase().includes(e.toLowerCase())):o)}]}class ae extends U{constructor(t){super(),Q(this,t,ce,le,l,{id:0})}}function ie(e){let n,s,o,r,l,c,a,p,g;return{c(){n=d("div"),s=d("div"),o=d("a"),r=m(e[0]),c=h(),a=d("div"),p=m(e[2]),g=m(" players"),y(o,"href",l="#/tournaments/"+e[1]),y(s,"class","name svelte-1lh8f59"),y(a,"class","players svelte-1lh8f59"),y(n,"class","root svelte-1lh8f59")},m(t,e){u(t,n,e),i(n,s),i(s,o),i(o,r),i(n,c),i(n,a),i(a,p),i(a,g)},p(t,[e]){1&e&&v(r,t[0]),2&e&&l!==(l="#/tournaments/"+t[1])&&y(o,"href",l),4&e&&v(p,t[2])},i:t,o:t,d(t){t&&f(n)}}}function ue(t,e,n){let{name:s}=e,{id:o}=e,{playersCount:r}=e;return t.$set=t=>{"name"in t&&n(0,s=t.name),"id"in t&&n(1,o=t.id),"playersCount"in t&&n(2,r=t.playersCount)},[s,o,r]}class fe extends U{constructor(t){super(),Q(this,t,ue,ie,l,{name:0,id:1,playersCount:2})}}function pe(t,e,n){const s=t.slice();return s[1]=e[n],s}function de(t){let e;return{c(){e=d("p"),e.textContent="Loading tournaments..."},m(t,n){u(t,e,n)},d(t){t&&f(e)}}}function me(t){let n;const s=[t[1]];let o={};for(let t=0;t<s.length;t+=1)o=e(o,s[t]);const r=new fe({props:o});return{c(){W(r.$$.fragment)},m(t,e){G(r,t,e),n=!0},p(t,e){const n=1&e?D(s,[V(t[1])]):{};r.$set(n)},i(t){n||(z(r.$$.fragment,t),n=!0)},o(t){P(r.$$.fragment,t),n=!1},d(t){J(r,t)}}}function he(t){let e,n,s,o,r,l,c,a=t[0],m=[];for(let e=0;e<a.length;e+=1)m[e]=me(pe(t,a,e));const g=t=>P(m[t],1,1,()=>{m[t]=null});let $=null;return a.length||($=de()),{c(){e=d("main"),n=d("h1"),n.textContent="Welcome!",s=h(),o=d("p"),o.textContent="Below are the available tournaments",r=h(),l=d("div");for(let t=0;t<m.length;t+=1)m[t].c();$&&$.c(),y(l,"class","tournaments svelte-saxtqp"),y(e,"class","svelte-saxtqp")},m(t,a){u(t,e,a),i(e,n),i(e,s),i(e,o),i(e,r),i(e,l);for(let t=0;t<m.length;t+=1)m[t].m(l,null);$&&$.m(l,null),c=!0},p(t,[e]){if(1&e){let n;for(a=t[0],n=0;n<a.length;n+=1){const s=pe(t,a,n);m[n]?(m[n].p(s,e),z(m[n],1)):(m[n]=me(s),m[n].c(),z(m[n],1),m[n].m(l,null))}for(R(),n=a.length;n<m.length;n+=1)g(n);M(),a.length?$&&($.d(1),$=null):$||($=de(),$.c(),$.m(l,null))}},i(t){if(!c){for(let t=0;t<a.length;t+=1)z(m[t]);c=!0}},o(t){m=m.filter(Boolean);for(let t=0;t<m.length;t+=1)P(m[t]);c=!1},d(t){t&&f(e),p(m,t),$&&$.d()}}}function ge(t,e,n){let s;return c(t,Z,t=>n(0,s=t)),k(async()=>{if(!s.length){const t=await fetch("data/tournaments.json");Z.set(await t.json())}}),[s]}class $e extends U{constructor(t){super(),Q(this,t,ge,he,l,{})}}function ye(e){let n;const s=new $e({});return{c(){W(s.$$.fragment)},m(t,e){G(s,t,e),n=!0},p:t,i(t){n||(z(s.$$.fragment,t),n=!0)},o(t){P(s.$$.fragment,t),n=!1},d(t){J(s,t)}}}function ve(t){let e;const n=new ae({props:{id:t[1]}});return{c(){W(n.$$.fragment)},m(t,s){G(n,t,s),e=!0},p(t,e){const s={};2&e&&(s.id=t[1]),n.$set(s)},i(t){e||(z(n.$$.fragment,t),e=!0)},o(t){P(n.$$.fragment,t),e=!1},d(t){J(n,t)}}}function be(t){let e;const n=new Vt({props:{id:t[2],tournamentId:t[1]}});return{c(){W(n.$$.fragment)},m(t,s){G(n,t,s),e=!0},p(t,e){const s={};4&e&&(s.id=t[2]),2&e&&(s.tournamentId=t[1]),n.$set(s)},i(t){e||(z(n.$$.fragment,t),e=!0)},o(t){P(n.$$.fragment,t),e=!1},d(t){J(n,t)}}}function we(t){let e,n,s,o;const r=[be,ve,ye],l=[];function c(t,e){return t[1]&&t[2]?0:t[1]?1:t[0]?2:-1}return~(e=c(t))&&(n=l[e]=r[e](t)),{c(){n&&n.c(),s=g()},m(t,n){~e&&l[e].m(t,n),u(t,s,n),o=!0},p(t,[o]){let a=e;e=c(t),e===a?~e&&l[e].p(t,o):(n&&(R(),P(l[a],1,1,()=>{l[a]=null}),M()),~e?(n=l[e],n||(n=l[e]=r[e](t),n.c()),z(n,1),n.m(s.parentNode,s)):n=null)},i(t){o||(z(n),o=!0)},o(t){P(n),o=!1},d(t){~e&&l[e].d(t),t&&f(s)}}}function xe(t,e,n){let s,o,r;const l=()=>{n(0,s=location.hash.slice(1)||"/");const[,t,e,l,c]=s.split("/");n(1,o="tournaments"===t?e:null),n(2,r="stages"===l?c:null)};var c;return k(()=>{l(),window.addEventListener("hashchange",l)}),c=()=>{window.removeEventListener("hashchange",l)},x().$$.on_destroy.push(c),[s,o,r]}return new class extends U{constructor(t){super(),Q(this,t,xe,we,l,{})}}({target:document.body})}();
+
+(function(l, r) { if (l.getElementById('livereloadscript')) return; r = l.createElement('script'); r.async = 1; r.src = '//' + (window.location.host || 'localhost').split(':')[0] + ':35729/livereload.js?snipver=1'; r.id = 'livereloadscript'; l.getElementsByTagName('head')[0].appendChild(r) })(window.document);
+var derpament = (function () {
+    'use strict';
+
+    function noop() { }
+    function assign(tar, src) {
+        // @ts-ignore
+        for (const k in src)
+            tar[k] = src[k];
+        return tar;
+    }
+    function add_location(element, file, line, column, char) {
+        element.__svelte_meta = {
+            loc: { file, line, column, char }
+        };
+    }
+    function run(fn) {
+        return fn();
+    }
+    function blank_object() {
+        return Object.create(null);
+    }
+    function run_all(fns) {
+        fns.forEach(run);
+    }
+    function is_function(thing) {
+        return typeof thing === 'function';
+    }
+    function safe_not_equal(a, b) {
+        return a != a ? b == b : a !== b || ((a && typeof a === 'object') || typeof a === 'function');
+    }
+    function validate_store(store, name) {
+        if (store != null && typeof store.subscribe !== 'function') {
+            throw new Error(`'${name}' is not a store with a 'subscribe' method`);
+        }
+    }
+    function subscribe(store, ...callbacks) {
+        if (store == null) {
+            return noop;
+        }
+        const unsub = store.subscribe(...callbacks);
+        return unsub.unsubscribe ? () => unsub.unsubscribe() : unsub;
+    }
+    function component_subscribe(component, store, callback) {
+        component.$$.on_destroy.push(subscribe(store, callback));
+    }
+    function null_to_empty(value) {
+        return value == null ? '' : value;
+    }
+
+    function append(target, node) {
+        target.appendChild(node);
+    }
+    function insert(target, node, anchor) {
+        target.insertBefore(node, anchor || null);
+    }
+    function detach(node) {
+        node.parentNode.removeChild(node);
+    }
+    function destroy_each(iterations, detaching) {
+        for (let i = 0; i < iterations.length; i += 1) {
+            if (iterations[i])
+                iterations[i].d(detaching);
+        }
+    }
+    function element(name) {
+        return document.createElement(name);
+    }
+    function text(data) {
+        return document.createTextNode(data);
+    }
+    function space() {
+        return text(' ');
+    }
+    function empty() {
+        return text('');
+    }
+    function listen(node, event, handler, options) {
+        node.addEventListener(event, handler, options);
+        return () => node.removeEventListener(event, handler, options);
+    }
+    function attr(node, attribute, value) {
+        if (value == null)
+            node.removeAttribute(attribute);
+        else if (node.getAttribute(attribute) !== value)
+            node.setAttribute(attribute, value);
+    }
+    function children(element) {
+        return Array.from(element.childNodes);
+    }
+    function custom_event(type, detail) {
+        const e = document.createEvent('CustomEvent');
+        e.initCustomEvent(type, false, false, detail);
+        return e;
+    }
+
+    let current_component;
+    function set_current_component(component) {
+        current_component = component;
+    }
+    function get_current_component() {
+        if (!current_component)
+            throw new Error(`Function called outside component initialization`);
+        return current_component;
+    }
+    function onMount(fn) {
+        get_current_component().$$.on_mount.push(fn);
+    }
+    function onDestroy(fn) {
+        get_current_component().$$.on_destroy.push(fn);
+    }
+    function createEventDispatcher() {
+        const component = get_current_component();
+        return (type, detail) => {
+            const callbacks = component.$$.callbacks[type];
+            if (callbacks) {
+                // TODO are there situations where events could be dispatched
+                // in a server (non-DOM) environment?
+                const event = custom_event(type, detail);
+                callbacks.slice().forEach(fn => {
+                    fn.call(component, event);
+                });
+            }
+        };
+    }
+
+    const dirty_components = [];
+    const binding_callbacks = [];
+    const render_callbacks = [];
+    const flush_callbacks = [];
+    const resolved_promise = Promise.resolve();
+    let update_scheduled = false;
+    function schedule_update() {
+        if (!update_scheduled) {
+            update_scheduled = true;
+            resolved_promise.then(flush);
+        }
+    }
+    function add_render_callback(fn) {
+        render_callbacks.push(fn);
+    }
+    let flushing = false;
+    const seen_callbacks = new Set();
+    function flush() {
+        if (flushing)
+            return;
+        flushing = true;
+        do {
+            // first, call beforeUpdate functions
+            // and update components
+            for (let i = 0; i < dirty_components.length; i += 1) {
+                const component = dirty_components[i];
+                set_current_component(component);
+                update(component.$$);
+            }
+            dirty_components.length = 0;
+            while (binding_callbacks.length)
+                binding_callbacks.pop()();
+            // then, once components are updated, call
+            // afterUpdate functions. This may cause
+            // subsequent updates...
+            for (let i = 0; i < render_callbacks.length; i += 1) {
+                const callback = render_callbacks[i];
+                if (!seen_callbacks.has(callback)) {
+                    // ...so guard against infinite loops
+                    seen_callbacks.add(callback);
+                    callback();
+                }
+            }
+            render_callbacks.length = 0;
+        } while (dirty_components.length);
+        while (flush_callbacks.length) {
+            flush_callbacks.pop()();
+        }
+        update_scheduled = false;
+        flushing = false;
+        seen_callbacks.clear();
+    }
+    function update($$) {
+        if ($$.fragment !== null) {
+            $$.update();
+            run_all($$.before_update);
+            const dirty = $$.dirty;
+            $$.dirty = [-1];
+            $$.fragment && $$.fragment.p($$.ctx, dirty);
+            $$.after_update.forEach(add_render_callback);
+        }
+    }
+    const outroing = new Set();
+    let outros;
+    function group_outros() {
+        outros = {
+            r: 0,
+            c: [],
+            p: outros // parent group
+        };
+    }
+    function check_outros() {
+        if (!outros.r) {
+            run_all(outros.c);
+        }
+        outros = outros.p;
+    }
+    function transition_in(block, local) {
+        if (block && block.i) {
+            outroing.delete(block);
+            block.i(local);
+        }
+    }
+    function transition_out(block, local, detach, callback) {
+        if (block && block.o) {
+            if (outroing.has(block))
+                return;
+            outroing.add(block);
+            outros.c.push(() => {
+                outroing.delete(block);
+                if (callback) {
+                    if (detach)
+                        block.d(1);
+                    callback();
+                }
+            });
+            block.o(local);
+        }
+    }
+
+    const globals = (typeof window !== 'undefined'
+        ? window
+        : typeof globalThis !== 'undefined'
+            ? globalThis
+            : global);
+    function outro_and_destroy_block(block, lookup) {
+        transition_out(block, 1, 1, () => {
+            lookup.delete(block.key);
+        });
+    }
+    function update_keyed_each(old_blocks, dirty, get_key, dynamic, ctx, list, lookup, node, destroy, create_each_block, next, get_context) {
+        let o = old_blocks.length;
+        let n = list.length;
+        let i = o;
+        const old_indexes = {};
+        while (i--)
+            old_indexes[old_blocks[i].key] = i;
+        const new_blocks = [];
+        const new_lookup = new Map();
+        const deltas = new Map();
+        i = n;
+        while (i--) {
+            const child_ctx = get_context(ctx, list, i);
+            const key = get_key(child_ctx);
+            let block = lookup.get(key);
+            if (!block) {
+                block = create_each_block(key, child_ctx);
+                block.c();
+            }
+            else if (dynamic) {
+                block.p(child_ctx, dirty);
+            }
+            new_lookup.set(key, new_blocks[i] = block);
+            if (key in old_indexes)
+                deltas.set(key, Math.abs(i - old_indexes[key]));
+        }
+        const will_move = new Set();
+        const did_move = new Set();
+        function insert(block) {
+            transition_in(block, 1);
+            block.m(node, next);
+            lookup.set(block.key, block);
+            next = block.first;
+            n--;
+        }
+        while (o && n) {
+            const new_block = new_blocks[n - 1];
+            const old_block = old_blocks[o - 1];
+            const new_key = new_block.key;
+            const old_key = old_block.key;
+            if (new_block === old_block) {
+                // do nothing
+                next = new_block.first;
+                o--;
+                n--;
+            }
+            else if (!new_lookup.has(old_key)) {
+                // remove old block
+                destroy(old_block, lookup);
+                o--;
+            }
+            else if (!lookup.has(new_key) || will_move.has(new_key)) {
+                insert(new_block);
+            }
+            else if (did_move.has(old_key)) {
+                o--;
+            }
+            else if (deltas.get(new_key) > deltas.get(old_key)) {
+                did_move.add(new_key);
+                insert(new_block);
+            }
+            else {
+                will_move.add(old_key);
+                o--;
+            }
+        }
+        while (o--) {
+            const old_block = old_blocks[o];
+            if (!new_lookup.has(old_block.key))
+                destroy(old_block, lookup);
+        }
+        while (n)
+            insert(new_blocks[n - 1]);
+        return new_blocks;
+    }
+    function validate_each_keys(ctx, list, get_context, get_key) {
+        const keys = new Set();
+        for (let i = 0; i < list.length; i++) {
+            const key = get_key(get_context(ctx, list, i));
+            if (keys.has(key)) {
+                throw new Error(`Cannot have duplicate keys in a keyed each`);
+            }
+            keys.add(key);
+        }
+    }
+
+    function get_spread_update(levels, updates) {
+        const update = {};
+        const to_null_out = {};
+        const accounted_for = { $$scope: 1 };
+        let i = levels.length;
+        while (i--) {
+            const o = levels[i];
+            const n = updates[i];
+            if (n) {
+                for (const key in o) {
+                    if (!(key in n))
+                        to_null_out[key] = 1;
+                }
+                for (const key in n) {
+                    if (!accounted_for[key]) {
+                        update[key] = n[key];
+                        accounted_for[key] = 1;
+                    }
+                }
+                levels[i] = n;
+            }
+            else {
+                for (const key in o) {
+                    accounted_for[key] = 1;
+                }
+            }
+        }
+        for (const key in to_null_out) {
+            if (!(key in update))
+                update[key] = undefined;
+        }
+        return update;
+    }
+    function get_spread_object(spread_props) {
+        return typeof spread_props === 'object' && spread_props !== null ? spread_props : {};
+    }
+    function create_component(block) {
+        block && block.c();
+    }
+    function mount_component(component, target, anchor) {
+        const { fragment, on_mount, on_destroy, after_update } = component.$$;
+        fragment && fragment.m(target, anchor);
+        // onMount happens before the initial afterUpdate
+        add_render_callback(() => {
+            const new_on_destroy = on_mount.map(run).filter(is_function);
+            if (on_destroy) {
+                on_destroy.push(...new_on_destroy);
+            }
+            else {
+                // Edge case - component was destroyed immediately,
+                // most likely as a result of a binding initialising
+                run_all(new_on_destroy);
+            }
+            component.$$.on_mount = [];
+        });
+        after_update.forEach(add_render_callback);
+    }
+    function destroy_component(component, detaching) {
+        const $$ = component.$$;
+        if ($$.fragment !== null) {
+            run_all($$.on_destroy);
+            $$.fragment && $$.fragment.d(detaching);
+            // TODO null out other refs, including component.$$ (but need to
+            // preserve final state?)
+            $$.on_destroy = $$.fragment = null;
+            $$.ctx = [];
+        }
+    }
+    function make_dirty(component, i) {
+        if (component.$$.dirty[0] === -1) {
+            dirty_components.push(component);
+            schedule_update();
+            component.$$.dirty.fill(0);
+        }
+        component.$$.dirty[(i / 31) | 0] |= (1 << (i % 31));
+    }
+    function init(component, options, instance, create_fragment, not_equal, props, dirty = [-1]) {
+        const parent_component = current_component;
+        set_current_component(component);
+        const prop_values = options.props || {};
+        const $$ = component.$$ = {
+            fragment: null,
+            ctx: null,
+            // state
+            props,
+            update: noop,
+            not_equal,
+            bound: blank_object(),
+            // lifecycle
+            on_mount: [],
+            on_destroy: [],
+            before_update: [],
+            after_update: [],
+            context: new Map(parent_component ? parent_component.$$.context : []),
+            // everything else
+            callbacks: blank_object(),
+            dirty
+        };
+        let ready = false;
+        $$.ctx = instance
+            ? instance(component, prop_values, (i, ret, ...rest) => {
+                const value = rest.length ? rest[0] : ret;
+                if ($$.ctx && not_equal($$.ctx[i], $$.ctx[i] = value)) {
+                    if ($$.bound[i])
+                        $$.bound[i](value);
+                    if (ready)
+                        make_dirty(component, i);
+                }
+                return ret;
+            })
+            : [];
+        $$.update();
+        ready = true;
+        run_all($$.before_update);
+        // `false` as a special case of no DOM component
+        $$.fragment = create_fragment ? create_fragment($$.ctx) : false;
+        if (options.target) {
+            if (options.hydrate) {
+                const nodes = children(options.target);
+                // eslint-disable-next-line @typescript-eslint/no-non-null-assertion
+                $$.fragment && $$.fragment.l(nodes);
+                nodes.forEach(detach);
+            }
+            else {
+                // eslint-disable-next-line @typescript-eslint/no-non-null-assertion
+                $$.fragment && $$.fragment.c();
+            }
+            if (options.intro)
+                transition_in(component.$$.fragment);
+            mount_component(component, options.target, options.anchor);
+            flush();
+        }
+        set_current_component(parent_component);
+    }
+    class SvelteComponent {
+        $destroy() {
+            destroy_component(this, 1);
+            this.$destroy = noop;
+        }
+        $on(type, callback) {
+            const callbacks = (this.$$.callbacks[type] || (this.$$.callbacks[type] = []));
+            callbacks.push(callback);
+            return () => {
+                const index = callbacks.indexOf(callback);
+                if (index !== -1)
+                    callbacks.splice(index, 1);
+            };
+        }
+        $set() {
+            // overridden by instance, if it has props
+        }
+    }
+
+    function dispatch_dev(type, detail) {
+        document.dispatchEvent(custom_event(type, Object.assign({ version: '3.23.1' }, detail)));
+    }
+    function append_dev(target, node) {
+        dispatch_dev("SvelteDOMInsert", { target, node });
+        append(target, node);
+    }
+    function insert_dev(target, node, anchor) {
+        dispatch_dev("SvelteDOMInsert", { target, node, anchor });
+        insert(target, node, anchor);
+    }
+    function detach_dev(node) {
+        dispatch_dev("SvelteDOMRemove", { node });
+        detach(node);
+    }
+    function listen_dev(node, event, handler, options, has_prevent_default, has_stop_propagation) {
+        const modifiers = options === true ? ["capture"] : options ? Array.from(Object.keys(options)) : [];
+        if (has_prevent_default)
+            modifiers.push('preventDefault');
+        if (has_stop_propagation)
+            modifiers.push('stopPropagation');
+        dispatch_dev("SvelteDOMAddEventListener", { node, event, handler, modifiers });
+        const dispose = listen(node, event, handler, options);
+        return () => {
+            dispatch_dev("SvelteDOMRemoveEventListener", { node, event, handler, modifiers });
+            dispose();
+        };
+    }
+    function attr_dev(node, attribute, value) {
+        attr(node, attribute, value);
+        if (value == null)
+            dispatch_dev("SvelteDOMRemoveAttribute", { node, attribute });
+        else
+            dispatch_dev("SvelteDOMSetAttribute", { node, attribute, value });
+    }
+    function set_data_dev(text, data) {
+        data = '' + data;
+        if (text.data === data)
+            return;
+        dispatch_dev("SvelteDOMSetData", { node: text, data });
+        text.data = data;
+    }
+    function validate_each_argument(arg) {
+        if (typeof arg !== 'string' && !(arg && typeof arg === 'object' && 'length' in arg)) {
+            let msg = '{#each} only iterates over array-like objects.';
+            if (typeof Symbol === 'function' && arg && Symbol.iterator in arg) {
+                msg += ' You can use a spread to convert this iterable into an array.';
+            }
+            throw new Error(msg);
+        }
+    }
+    function validate_slots(name, slot, keys) {
+        for (const slot_key of Object.keys(slot)) {
+            if (!~keys.indexOf(slot_key)) {
+                console.warn(`<${name}> received an unexpected slot "${slot_key}".`);
+            }
+        }
+    }
+    class SvelteComponentDev extends SvelteComponent {
+        constructor(options) {
+            if (!options || (!options.target && !options.$$inline)) {
+                throw new Error(`'target' is a required option`);
+            }
+            super();
+        }
+        $destroy() {
+            super.$destroy();
+            this.$destroy = () => {
+                console.warn(`Component was already destroyed`); // eslint-disable-line no-console
+            };
+        }
+        $capture_state() { }
+        $inject_state() { }
+    }
+
+    const subscriber_queue = [];
+    /**
+     * Create a `Writable` store that allows both updating and reading by subscription.
+     * @param {*=}value initial value
+     * @param {StartStopNotifier=}start start and stop notifications for subscriptions
+     */
+    function writable(value, start = noop) {
+        let stop;
+        const subscribers = [];
+        function set(new_value) {
+            if (safe_not_equal(value, new_value)) {
+                value = new_value;
+                if (stop) { // store is ready
+                    const run_queue = !subscriber_queue.length;
+                    for (let i = 0; i < subscribers.length; i += 1) {
+                        const s = subscribers[i];
+                        s[1]();
+                        subscriber_queue.push(s, value);
+                    }
+                    if (run_queue) {
+                        for (let i = 0; i < subscriber_queue.length; i += 2) {
+                            subscriber_queue[i][0](subscriber_queue[i + 1]);
+                        }
+                        subscriber_queue.length = 0;
+                    }
+                }
+            }
+        }
+        function update(fn) {
+            set(fn(value));
+        }
+        function subscribe(run, invalidate = noop) {
+            const subscriber = [run, invalidate];
+            subscribers.push(subscriber);
+            if (subscribers.length === 1) {
+                stop = start(set) || noop;
+            }
+            run(value);
+            return () => {
+                const index = subscribers.indexOf(subscriber);
+                if (index !== -1) {
+                    subscribers.splice(index, 1);
+                }
+                if (subscribers.length === 0) {
+                    stop();
+                    stop = null;
+                }
+            };
+        }
+        return { set, update, subscribe };
+    }
+
+    const tournaments = writable([]);
+    const tournament = writable(null);
+    const stage = writable(null);
+
+    /* frontend\components\organisms\Header.svelte generated by Svelte v3.23.1 */
+    const file = "frontend\\components\\organisms\\Header.svelte";
+
+    function create_fragment(ctx) {
+    	let div1;
+    	let div0;
+    	let a;
+    	let t0;
+    	let t1;
+    	let input;
+    	let mounted;
+    	let dispose;
+
+    	const block = {
+    		c: function create() {
+    			div1 = element("div");
+    			div0 = element("div");
+    			a = element("a");
+    			t0 = text("< Back");
+    			t1 = space();
+    			input = element("input");
+    			attr_dev(a, "href", /*backHref*/ ctx[0]);
+    			add_location(a, file, 20, 4, 417);
+    			attr_dev(input, "type", "search");
+    			attr_dev(input, "placeholder", "Filter on players");
+    			attr_dev(input, "class", "svelte-g01nhw");
+    			add_location(input, file, 21, 4, 460);
+    			attr_dev(div0, "class", "inner svelte-g01nhw");
+    			add_location(div0, file, 19, 2, 392);
+    			attr_dev(div1, "class", "root svelte-g01nhw");
+    			add_location(div1, file, 18, 0, 370);
+    		},
+    		l: function claim(nodes) {
+    			throw new Error("options.hydrate only works if the component was compiled with the `hydratable: true` option");
+    		},
+    		m: function mount(target, anchor) {
+    			insert_dev(target, div1, anchor);
+    			append_dev(div1, div0);
+    			append_dev(div0, a);
+    			append_dev(a, t0);
+    			append_dev(div0, t1);
+    			append_dev(div0, input);
+
+    			if (!mounted) {
+    				dispose = listen_dev(input, "input", /*handleSearch*/ ctx[1], false, false, false);
+    				mounted = true;
+    			}
+    		},
+    		p: function update(ctx, [dirty]) {
+    			if (dirty & /*backHref*/ 1) {
+    				attr_dev(a, "href", /*backHref*/ ctx[0]);
+    			}
+    		},
+    		i: noop,
+    		o: noop,
+    		d: function destroy(detaching) {
+    			if (detaching) detach_dev(div1);
+    			mounted = false;
+    			dispose();
+    		}
+    	};
+
+    	dispatch_dev("SvelteRegisterBlock", {
+    		block,
+    		id: create_fragment.name,
+    		type: "component",
+    		source: "",
+    		ctx
+    	});
+
+    	return block;
+    }
+
+    function instance($$self, $$props, $$invalidate) {
+    	const dispatch = createEventDispatcher();
+    	let { backHref } = $$props;
+    	let timeout;
+
+    	function handleSearch($event) {
+    		// 500 ms debounce
+    		if (timeout) clearTimeout(timeout);
+
+    		timeout = setTimeout(() => dispatch("search", $event.target.value), 500);
+    	}
+
+    	const writable_props = ["backHref"];
+
+    	Object.keys($$props).forEach(key => {
+    		if (!~writable_props.indexOf(key) && key.slice(0, 2) !== "$$") console.warn(`<Header> was created with unknown prop '${key}'`);
+    	});
+
+    	let { $$slots = {}, $$scope } = $$props;
+    	validate_slots("Header", $$slots, []);
+
+    	$$self.$set = $$props => {
+    		if ("backHref" in $$props) $$invalidate(0, backHref = $$props.backHref);
+    	};
+
+    	$$self.$capture_state = () => ({
+    		createEventDispatcher,
+    		dispatch,
+    		backHref,
+    		timeout,
+    		handleSearch
+    	});
+
+    	$$self.$inject_state = $$props => {
+    		if ("backHref" in $$props) $$invalidate(0, backHref = $$props.backHref);
+    		if ("timeout" in $$props) timeout = $$props.timeout;
+    	};
+
+    	if ($$props && "$$inject" in $$props) {
+    		$$self.$inject_state($$props.$$inject);
+    	}
+
+    	return [backHref, handleSearch];
+    }
+
+    class Header extends SvelteComponentDev {
+    	constructor(options) {
+    		super(options);
+    		init(this, options, instance, create_fragment, safe_not_equal, { backHref: 0 });
+
+    		dispatch_dev("SvelteRegisterComponent", {
+    			component: this,
+    			tagName: "Header",
+    			options,
+    			id: create_fragment.name
+    		});
+
+    		const { ctx } = this.$$;
+    		const props = options.props || {};
+
+    		if (/*backHref*/ ctx[0] === undefined && !("backHref" in props)) {
+    			console.warn("<Header> was created without expected prop 'backHref'");
+    		}
+    	}
+
+    	get backHref() {
+    		throw new Error("<Header>: Props cannot be read directly from the component instance unless compiling with 'accessors: true' or '<svelte:options accessors/>'");
+    	}
+
+    	set backHref(value) {
+    		throw new Error("<Header>: Props cannot be set directly on the component instance unless compiling with 'accessors: true' or '<svelte:options accessors/>'");
+    	}
+    }
+
+    /* frontend\components\molecules\RollRow.svelte generated by Svelte v3.23.1 */
+
+    const file$1 = "frontend\\components\\molecules\\RollRow.svelte";
+
+    function create_fragment$1(ctx) {
+    	let div2;
+    	let div0;
+    	let t0;
+    	let t1;
+    	let a;
+    	let t2_value = /*player*/ ctx[0].name + "";
+    	let t2;
+    	let a_href_value;
+    	let t3;
+    	let div1;
+    	let t4;
+
+    	const block = {
+    		c: function create() {
+    			div2 = element("div");
+    			div0 = element("div");
+    			t0 = text(/*index*/ ctx[2]);
+    			t1 = text(".\r\n    ");
+    			a = element("a");
+    			t2 = text(t2_value);
+    			t3 = space();
+    			div1 = element("div");
+    			t4 = text(/*roll*/ ctx[1]);
+    			attr_dev(a, "href", a_href_value = `https://osu.ppy.sh/users/${/*player*/ ctx[0].id}`);
+    			attr_dev(a, "target", "_blank");
+    			add_location(a, file$1, 9, 4, 146);
+    			attr_dev(div0, "class", "name svelte-22sxgw");
+    			add_location(div0, file$1, 7, 2, 108);
+    			attr_dev(div1, "class", "roll svelte-22sxgw");
+    			add_location(div1, file$1, 13, 2, 257);
+    			attr_dev(div2, "class", "root svelte-22sxgw");
+    			add_location(div2, file$1, 6, 0, 86);
+    		},
+    		l: function claim(nodes) {
+    			throw new Error("options.hydrate only works if the component was compiled with the `hydratable: true` option");
+    		},
+    		m: function mount(target, anchor) {
+    			insert_dev(target, div2, anchor);
+    			append_dev(div2, div0);
+    			append_dev(div0, t0);
+    			append_dev(div0, t1);
+    			append_dev(div0, a);
+    			append_dev(a, t2);
+    			append_dev(div2, t3);
+    			append_dev(div2, div1);
+    			append_dev(div1, t4);
+    		},
+    		p: function update(ctx, [dirty]) {
+    			if (dirty & /*index*/ 4) set_data_dev(t0, /*index*/ ctx[2]);
+    			if (dirty & /*player*/ 1 && t2_value !== (t2_value = /*player*/ ctx[0].name + "")) set_data_dev(t2, t2_value);
+
+    			if (dirty & /*player*/ 1 && a_href_value !== (a_href_value = `https://osu.ppy.sh/users/${/*player*/ ctx[0].id}`)) {
+    				attr_dev(a, "href", a_href_value);
+    			}
+
+    			if (dirty & /*roll*/ 2) set_data_dev(t4, /*roll*/ ctx[1]);
+    		},
+    		i: noop,
+    		o: noop,
+    		d: function destroy(detaching) {
+    			if (detaching) detach_dev(div2);
+    		}
+    	};
+
+    	dispatch_dev("SvelteRegisterBlock", {
+    		block,
+    		id: create_fragment$1.name,
+    		type: "component",
+    		source: "",
+    		ctx
+    	});
+
+    	return block;
+    }
+
+    function instance$1($$self, $$props, $$invalidate) {
+    	let { player } = $$props;
+    	let { roll } = $$props;
+    	let { index } = $$props;
+    	const writable_props = ["player", "roll", "index"];
+
+    	Object.keys($$props).forEach(key => {
+    		if (!~writable_props.indexOf(key) && key.slice(0, 2) !== "$$") console.warn(`<RollRow> was created with unknown prop '${key}'`);
+    	});
+
+    	let { $$slots = {}, $$scope } = $$props;
+    	validate_slots("RollRow", $$slots, []);
+
+    	$$self.$set = $$props => {
+    		if ("player" in $$props) $$invalidate(0, player = $$props.player);
+    		if ("roll" in $$props) $$invalidate(1, roll = $$props.roll);
+    		if ("index" in $$props) $$invalidate(2, index = $$props.index);
+    	};
+
+    	$$self.$capture_state = () => ({ player, roll, index });
+
+    	$$self.$inject_state = $$props => {
+    		if ("player" in $$props) $$invalidate(0, player = $$props.player);
+    		if ("roll" in $$props) $$invalidate(1, roll = $$props.roll);
+    		if ("index" in $$props) $$invalidate(2, index = $$props.index);
+    	};
+
+    	if ($$props && "$$inject" in $$props) {
+    		$$self.$inject_state($$props.$$inject);
+    	}
+
+    	return [player, roll, index];
+    }
+
+    class RollRow extends SvelteComponentDev {
+    	constructor(options) {
+    		super(options);
+    		init(this, options, instance$1, create_fragment$1, safe_not_equal, { player: 0, roll: 1, index: 2 });
+
+    		dispatch_dev("SvelteRegisterComponent", {
+    			component: this,
+    			tagName: "RollRow",
+    			options,
+    			id: create_fragment$1.name
+    		});
+
+    		const { ctx } = this.$$;
+    		const props = options.props || {};
+
+    		if (/*player*/ ctx[0] === undefined && !("player" in props)) {
+    			console.warn("<RollRow> was created without expected prop 'player'");
+    		}
+
+    		if (/*roll*/ ctx[1] === undefined && !("roll" in props)) {
+    			console.warn("<RollRow> was created without expected prop 'roll'");
+    		}
+
+    		if (/*index*/ ctx[2] === undefined && !("index" in props)) {
+    			console.warn("<RollRow> was created without expected prop 'index'");
+    		}
+    	}
+
+    	get player() {
+    		throw new Error("<RollRow>: Props cannot be read directly from the component instance unless compiling with 'accessors: true' or '<svelte:options accessors/>'");
+    	}
+
+    	set player(value) {
+    		throw new Error("<RollRow>: Props cannot be set directly on the component instance unless compiling with 'accessors: true' or '<svelte:options accessors/>'");
+    	}
+
+    	get roll() {
+    		throw new Error("<RollRow>: Props cannot be read directly from the component instance unless compiling with 'accessors: true' or '<svelte:options accessors/>'");
+    	}
+
+    	set roll(value) {
+    		throw new Error("<RollRow>: Props cannot be set directly on the component instance unless compiling with 'accessors: true' or '<svelte:options accessors/>'");
+    	}
+
+    	get index() {
+    		throw new Error("<RollRow>: Props cannot be read directly from the component instance unless compiling with 'accessors: true' or '<svelte:options accessors/>'");
+    	}
+
+    	set index(value) {
+    		throw new Error("<RollRow>: Props cannot be set directly on the component instance unless compiling with 'accessors: true' or '<svelte:options accessors/>'");
+    	}
+    }
+
+    /* frontend\components\organisms\RollList.svelte generated by Svelte v3.23.1 */
+
+    const { Object: Object_1 } = globals;
+    const file$2 = "frontend\\components\\organisms\\RollList.svelte";
+
+    function get_each_context(ctx, list, i) {
+    	const child_ctx = ctx.slice();
+    	child_ctx[9] = list[i];
+    	return child_ctx;
+    }
+
+    // (35:2) {#if displayRolls}
+    function create_if_block(ctx) {
+    	let div;
+    	let current;
+    	let each_value = /*rollsArray*/ ctx[2];
+    	validate_each_argument(each_value);
+    	let each_blocks = [];
+
+    	for (let i = 0; i < each_value.length; i += 1) {
+    		each_blocks[i] = create_each_block(get_each_context(ctx, each_value, i));
+    	}
+
+    	const out = i => transition_out(each_blocks[i], 1, 1, () => {
+    		each_blocks[i] = null;
+    	});
+
+    	const block = {
+    		c: function create() {
+    			div = element("div");
+
+    			for (let i = 0; i < each_blocks.length; i += 1) {
+    				each_blocks[i].c();
+    			}
+
+    			attr_dev(div, "class", "rolls svelte-wqk9m7");
+    			add_location(div, file$2, 35, 4, 916);
+    		},
+    		m: function mount(target, anchor) {
+    			insert_dev(target, div, anchor);
+
+    			for (let i = 0; i < each_blocks.length; i += 1) {
+    				each_blocks[i].m(div, null);
+    			}
+
+    			current = true;
+    		},
+    		p: function update(ctx, dirty) {
+    			if (dirty & /*rollsArray, filter*/ 5) {
+    				each_value = /*rollsArray*/ ctx[2];
+    				validate_each_argument(each_value);
+    				let i;
+
+    				for (i = 0; i < each_value.length; i += 1) {
+    					const child_ctx = get_each_context(ctx, each_value, i);
+
+    					if (each_blocks[i]) {
+    						each_blocks[i].p(child_ctx, dirty);
+    						transition_in(each_blocks[i], 1);
+    					} else {
+    						each_blocks[i] = create_each_block(child_ctx);
+    						each_blocks[i].c();
+    						transition_in(each_blocks[i], 1);
+    						each_blocks[i].m(div, null);
+    					}
+    				}
+
+    				group_outros();
+
+    				for (i = each_value.length; i < each_blocks.length; i += 1) {
+    					out(i);
+    				}
+
+    				check_outros();
+    			}
+    		},
+    		i: function intro(local) {
+    			if (current) return;
+
+    			for (let i = 0; i < each_value.length; i += 1) {
+    				transition_in(each_blocks[i]);
+    			}
+
+    			current = true;
+    		},
+    		o: function outro(local) {
+    			each_blocks = each_blocks.filter(Boolean);
+
+    			for (let i = 0; i < each_blocks.length; i += 1) {
+    				transition_out(each_blocks[i]);
+    			}
+
+    			current = false;
+    		},
+    		d: function destroy(detaching) {
+    			if (detaching) detach_dev(div);
+    			destroy_each(each_blocks, detaching);
+    		}
+    	};
+
+    	dispatch_dev("SvelteRegisterBlock", {
+    		block,
+    		id: create_if_block.name,
+    		type: "if",
+    		source: "(35:2) {#if displayRolls}",
+    		ctx
+    	});
+
+    	return block;
+    }
+
+    // (38:8) {#if !filter || roll.player.name.toLowerCase().includes(filter.toLowerCase())}
+    function create_if_block_1(ctx) {
+    	let current;
+
+    	const rollrow = new RollRow({
+    			props: {
+    				index: /*roll*/ ctx[9].index,
+    				player: /*roll*/ ctx[9].player,
+    				roll: /*roll*/ ctx[9].value
+    			},
+    			$$inline: true
+    		});
+
+    	const block = {
+    		c: function create() {
+    			create_component(rollrow.$$.fragment);
+    		},
+    		m: function mount(target, anchor) {
+    			mount_component(rollrow, target, anchor);
+    			current = true;
+    		},
+    		p: function update(ctx, dirty) {
+    			const rollrow_changes = {};
+    			if (dirty & /*rollsArray*/ 4) rollrow_changes.index = /*roll*/ ctx[9].index;
+    			if (dirty & /*rollsArray*/ 4) rollrow_changes.player = /*roll*/ ctx[9].player;
+    			if (dirty & /*rollsArray*/ 4) rollrow_changes.roll = /*roll*/ ctx[9].value;
+    			rollrow.$set(rollrow_changes);
+    		},
+    		i: function intro(local) {
+    			if (current) return;
+    			transition_in(rollrow.$$.fragment, local);
+    			current = true;
+    		},
+    		o: function outro(local) {
+    			transition_out(rollrow.$$.fragment, local);
+    			current = false;
+    		},
+    		d: function destroy(detaching) {
+    			destroy_component(rollrow, detaching);
+    		}
+    	};
+
+    	dispatch_dev("SvelteRegisterBlock", {
+    		block,
+    		id: create_if_block_1.name,
+    		type: "if",
+    		source: "(38:8) {#if !filter || roll.player.name.toLowerCase().includes(filter.toLowerCase())}",
+    		ctx
+    	});
+
+    	return block;
+    }
+
+    // (37:6) {#each rollsArray as roll}
+    function create_each_block(ctx) {
+    	let show_if = !/*filter*/ ctx[0] || /*roll*/ ctx[9].player.name.toLowerCase().includes(/*filter*/ ctx[0].toLowerCase());
+    	let if_block_anchor;
+    	let current;
+    	let if_block = show_if && create_if_block_1(ctx);
+
+    	const block = {
+    		c: function create() {
+    			if (if_block) if_block.c();
+    			if_block_anchor = empty();
+    		},
+    		m: function mount(target, anchor) {
+    			if (if_block) if_block.m(target, anchor);
+    			insert_dev(target, if_block_anchor, anchor);
+    			current = true;
+    		},
+    		p: function update(ctx, dirty) {
+    			if (dirty & /*filter, rollsArray*/ 5) show_if = !/*filter*/ ctx[0] || /*roll*/ ctx[9].player.name.toLowerCase().includes(/*filter*/ ctx[0].toLowerCase());
+
+    			if (show_if) {
+    				if (if_block) {
+    					if_block.p(ctx, dirty);
+
+    					if (dirty & /*filter, rollsArray*/ 5) {
+    						transition_in(if_block, 1);
+    					}
+    				} else {
+    					if_block = create_if_block_1(ctx);
+    					if_block.c();
+    					transition_in(if_block, 1);
+    					if_block.m(if_block_anchor.parentNode, if_block_anchor);
+    				}
+    			} else if (if_block) {
+    				group_outros();
+
+    				transition_out(if_block, 1, 1, () => {
+    					if_block = null;
+    				});
+
+    				check_outros();
+    			}
+    		},
+    		i: function intro(local) {
+    			if (current) return;
+    			transition_in(if_block);
+    			current = true;
+    		},
+    		o: function outro(local) {
+    			transition_out(if_block);
+    			current = false;
+    		},
+    		d: function destroy(detaching) {
+    			if (if_block) if_block.d(detaching);
+    			if (detaching) detach_dev(if_block_anchor);
+    		}
+    	};
+
+    	dispatch_dev("SvelteRegisterBlock", {
+    		block,
+    		id: create_each_block.name,
+    		type: "each",
+    		source: "(37:6) {#each rollsArray as roll}",
+    		ctx
+    	});
+
+    	return block;
+    }
+
+    function create_fragment$2(ctx) {
+    	let div;
+    	let button;
+    	let t0_value = (/*displayRolls*/ ctx[1] ? "Hide" : "Show") + "";
+    	let t0;
+    	let t1;
+    	let t2;
+    	let current;
+    	let mounted;
+    	let dispose;
+    	let if_block = /*displayRolls*/ ctx[1] && create_if_block(ctx);
+
+    	const block = {
+    		c: function create() {
+    			div = element("div");
+    			button = element("button");
+    			t0 = text(t0_value);
+    			t1 = text(" rolls");
+    			t2 = space();
+    			if (if_block) if_block.c();
+    			add_location(button, file$2, 33, 2, 809);
+    			attr_dev(div, "class", "root");
+    			add_location(div, file$2, 32, 0, 787);
+    		},
+    		l: function claim(nodes) {
+    			throw new Error("options.hydrate only works if the component was compiled with the `hydratable: true` option");
+    		},
+    		m: function mount(target, anchor) {
+    			insert_dev(target, div, anchor);
+    			append_dev(div, button);
+    			append_dev(button, t0);
+    			append_dev(button, t1);
+    			append_dev(div, t2);
+    			if (if_block) if_block.m(div, null);
+    			current = true;
+
+    			if (!mounted) {
+    				dispose = listen_dev(button, "click", /*handleToggle*/ ctx[3], false, false, false);
+    				mounted = true;
+    			}
+    		},
+    		p: function update(ctx, [dirty]) {
+    			if ((!current || dirty & /*displayRolls*/ 2) && t0_value !== (t0_value = (/*displayRolls*/ ctx[1] ? "Hide" : "Show") + "")) set_data_dev(t0, t0_value);
+
+    			if (/*displayRolls*/ ctx[1]) {
+    				if (if_block) {
+    					if_block.p(ctx, dirty);
+
+    					if (dirty & /*displayRolls*/ 2) {
+    						transition_in(if_block, 1);
+    					}
+    				} else {
+    					if_block = create_if_block(ctx);
+    					if_block.c();
+    					transition_in(if_block, 1);
+    					if_block.m(div, null);
+    				}
+    			} else if (if_block) {
+    				group_outros();
+
+    				transition_out(if_block, 1, 1, () => {
+    					if_block = null;
+    				});
+
+    				check_outros();
+    			}
+    		},
+    		i: function intro(local) {
+    			if (current) return;
+    			transition_in(if_block);
+    			current = true;
+    		},
+    		o: function outro(local) {
+    			transition_out(if_block);
+    			current = false;
+    		},
+    		d: function destroy(detaching) {
+    			if (detaching) detach_dev(div);
+    			if (if_block) if_block.d();
+    			mounted = false;
+    			dispose();
+    		}
+    	};
+
+    	dispatch_dev("SvelteRegisterBlock", {
+    		block,
+    		id: create_fragment$2.name,
+    		type: "component",
+    		source: "",
+    		ctx
+    	});
+
+    	return block;
+    }
+
+    function instance$2($$self, $$props, $$invalidate) {
+    	let { players } = $$props;
+    	let { rolls } = $$props;
+    	let { filter } = $$props;
+    	let displayRolls = true;
+    	let rollsArray = [];
+    	let count = 0;
+    	let sum = 0;
+
+    	Object.keys(rolls).forEach(playerId => {
+    		rolls[playerId].forEach(roll => {
+    			++count;
+    			sum += roll;
+    			rollsArray.push({ player: players[playerId], value: roll });
+    		});
+    	});
+
+    	const average = (sum / count).toFixed(2);
+    	rollsArray = rollsArray.sort((a, b) => a.value < b.value ? 1 : -1);
+
+    	rollsArray.forEach((roll, i) => {
+    		roll.index = i && rollsArray[i - 1].value === roll.value
+    		? rollsArray[i - 1].index
+    		: i + 1;
+    	});
+
+    	function handleToggle() {
+    		$$invalidate(1, displayRolls = !displayRolls);
+    	}
+
+    	const writable_props = ["players", "rolls", "filter"];
+
+    	Object_1.keys($$props).forEach(key => {
+    		if (!~writable_props.indexOf(key) && key.slice(0, 2) !== "$$") console.warn(`<RollList> was created with unknown prop '${key}'`);
+    	});
+
+    	let { $$slots = {}, $$scope } = $$props;
+    	validate_slots("RollList", $$slots, []);
+
+    	$$self.$set = $$props => {
+    		if ("players" in $$props) $$invalidate(4, players = $$props.players);
+    		if ("rolls" in $$props) $$invalidate(5, rolls = $$props.rolls);
+    		if ("filter" in $$props) $$invalidate(0, filter = $$props.filter);
+    	};
+
+    	$$self.$capture_state = () => ({
+    		RollRow,
+    		players,
+    		rolls,
+    		filter,
+    		displayRolls,
+    		rollsArray,
+    		count,
+    		sum,
+    		average,
+    		handleToggle
+    	});
+
+    	$$self.$inject_state = $$props => {
+    		if ("players" in $$props) $$invalidate(4, players = $$props.players);
+    		if ("rolls" in $$props) $$invalidate(5, rolls = $$props.rolls);
+    		if ("filter" in $$props) $$invalidate(0, filter = $$props.filter);
+    		if ("displayRolls" in $$props) $$invalidate(1, displayRolls = $$props.displayRolls);
+    		if ("rollsArray" in $$props) $$invalidate(2, rollsArray = $$props.rollsArray);
+    		if ("count" in $$props) count = $$props.count;
+    		if ("sum" in $$props) sum = $$props.sum;
+    	};
+
+    	if ($$props && "$$inject" in $$props) {
+    		$$self.$inject_state($$props.$$inject);
+    	}
+
+    	return [filter, displayRolls, rollsArray, handleToggle, players, rolls];
+    }
+
+    class RollList extends SvelteComponentDev {
+    	constructor(options) {
+    		super(options);
+    		init(this, options, instance$2, create_fragment$2, safe_not_equal, { players: 4, rolls: 5, filter: 0 });
+
+    		dispatch_dev("SvelteRegisterComponent", {
+    			component: this,
+    			tagName: "RollList",
+    			options,
+    			id: create_fragment$2.name
+    		});
+
+    		const { ctx } = this.$$;
+    		const props = options.props || {};
+
+    		if (/*players*/ ctx[4] === undefined && !("players" in props)) {
+    			console.warn("<RollList> was created without expected prop 'players'");
+    		}
+
+    		if (/*rolls*/ ctx[5] === undefined && !("rolls" in props)) {
+    			console.warn("<RollList> was created without expected prop 'rolls'");
+    		}
+
+    		if (/*filter*/ ctx[0] === undefined && !("filter" in props)) {
+    			console.warn("<RollList> was created without expected prop 'filter'");
+    		}
+    	}
+
+    	get players() {
+    		throw new Error("<RollList>: Props cannot be read directly from the component instance unless compiling with 'accessors: true' or '<svelte:options accessors/>'");
+    	}
+
+    	set players(value) {
+    		throw new Error("<RollList>: Props cannot be set directly on the component instance unless compiling with 'accessors: true' or '<svelte:options accessors/>'");
+    	}
+
+    	get rolls() {
+    		throw new Error("<RollList>: Props cannot be read directly from the component instance unless compiling with 'accessors: true' or '<svelte:options accessors/>'");
+    	}
+
+    	set rolls(value) {
+    		throw new Error("<RollList>: Props cannot be set directly on the component instance unless compiling with 'accessors: true' or '<svelte:options accessors/>'");
+    	}
+
+    	get filter() {
+    		throw new Error("<RollList>: Props cannot be read directly from the component instance unless compiling with 'accessors: true' or '<svelte:options accessors/>'");
+    	}
+
+    	set filter(value) {
+    		throw new Error("<RollList>: Props cannot be set directly on the component instance unless compiling with 'accessors: true' or '<svelte:options accessors/>'");
+    	}
+    }
+
+    /* frontend\components\molecules\ScoreRow.svelte generated by Svelte v3.23.1 */
+
+    const file$3 = "frontend\\components\\molecules\\ScoreRow.svelte";
+
+    function create_fragment$3(ctx) {
+    	let div5;
+    	let div0;
+    	let t0;
+    	let t1;
+    	let a;
+    	let t2_value = /*player*/ ctx[0].name + "";
+    	let t2;
+    	let a_href_value;
+    	let t3;
+    	let div3;
+    	let div1;
+    	let t4;
+    	let t5;
+    	let t6;
+    	let div2;
+    	let t7_value = /*counts*/ ctx[3].max + "";
+    	let t7;
+    	let t8;
+    	let t9_value = /*counts*/ ctx[3][300] + "";
+    	let t9;
+    	let t10;
+    	let t11_value = /*counts*/ ctx[3][200] + "";
+    	let t11;
+    	let t12;
+    	let t13_value = /*counts*/ ctx[3][100] + "";
+    	let t13;
+    	let t14;
+    	let t15_value = /*counts*/ ctx[3][50] + "";
+    	let t15;
+    	let t16;
+    	let t17_value = /*counts*/ ctx[3].miss + "";
+    	let t17;
+    	let t18;
+    	let div4;
+    	let t19_value = /*score*/ ctx[1].toLocaleString() + "";
+    	let t19;
+
+    	const block = {
+    		c: function create() {
+    			div5 = element("div");
+    			div0 = element("div");
+    			t0 = text(/*index*/ ctx[4]);
+    			t1 = text(".\r\n    ");
+    			a = element("a");
+    			t2 = text(t2_value);
+    			t3 = space();
+    			div3 = element("div");
+    			div1 = element("div");
+    			t4 = text(/*combo*/ ctx[2]);
+    			t5 = text(" max combo");
+    			t6 = space();
+    			div2 = element("div");
+    			t7 = text(t7_value);
+    			t8 = text(" |\r\n      ");
+    			t9 = text(t9_value);
+    			t10 = text(" |\r\n      ");
+    			t11 = text(t11_value);
+    			t12 = text(" |\r\n      ");
+    			t13 = text(t13_value);
+    			t14 = text(" |\r\n      ");
+    			t15 = text(t15_value);
+    			t16 = text(" |\r\n      ");
+    			t17 = text(t17_value);
+    			t18 = space();
+    			div4 = element("div");
+    			t19 = text(t19_value);
+    			attr_dev(a, "href", a_href_value = `https://osu.ppy.sh/users/${/*player*/ ctx[0].id}`);
+    			attr_dev(a, "target", "_blank");
+    			add_location(a, file$3, 11, 4, 190);
+    			attr_dev(div0, "class", "name svelte-i1dpsp");
+    			add_location(div0, file$3, 9, 2, 152);
+    			attr_dev(div1, "class", "combo");
+    			add_location(div1, file$3, 16, 4, 325);
+    			attr_dev(div2, "class", "counts svelte-i1dpsp");
+    			add_location(div2, file$3, 17, 4, 373);
+    			attr_dev(div3, "class", "info svelte-i1dpsp");
+    			add_location(div3, file$3, 15, 2, 301);
+    			attr_dev(div4, "class", "score svelte-i1dpsp");
+    			add_location(div4, file$3, 26, 2, 553);
+    			attr_dev(div5, "class", "root svelte-i1dpsp");
+    			add_location(div5, file$3, 8, 0, 130);
+    		},
+    		l: function claim(nodes) {
+    			throw new Error("options.hydrate only works if the component was compiled with the `hydratable: true` option");
+    		},
+    		m: function mount(target, anchor) {
+    			insert_dev(target, div5, anchor);
+    			append_dev(div5, div0);
+    			append_dev(div0, t0);
+    			append_dev(div0, t1);
+    			append_dev(div0, a);
+    			append_dev(a, t2);
+    			append_dev(div5, t3);
+    			append_dev(div5, div3);
+    			append_dev(div3, div1);
+    			append_dev(div1, t4);
+    			append_dev(div1, t5);
+    			append_dev(div3, t6);
+    			append_dev(div3, div2);
+    			append_dev(div2, t7);
+    			append_dev(div2, t8);
+    			append_dev(div2, t9);
+    			append_dev(div2, t10);
+    			append_dev(div2, t11);
+    			append_dev(div2, t12);
+    			append_dev(div2, t13);
+    			append_dev(div2, t14);
+    			append_dev(div2, t15);
+    			append_dev(div2, t16);
+    			append_dev(div2, t17);
+    			append_dev(div5, t18);
+    			append_dev(div5, div4);
+    			append_dev(div4, t19);
+    		},
+    		p: function update(ctx, [dirty]) {
+    			if (dirty & /*index*/ 16) set_data_dev(t0, /*index*/ ctx[4]);
+    			if (dirty & /*player*/ 1 && t2_value !== (t2_value = /*player*/ ctx[0].name + "")) set_data_dev(t2, t2_value);
+
+    			if (dirty & /*player*/ 1 && a_href_value !== (a_href_value = `https://osu.ppy.sh/users/${/*player*/ ctx[0].id}`)) {
+    				attr_dev(a, "href", a_href_value);
+    			}
+
+    			if (dirty & /*combo*/ 4) set_data_dev(t4, /*combo*/ ctx[2]);
+    			if (dirty & /*counts*/ 8 && t7_value !== (t7_value = /*counts*/ ctx[3].max + "")) set_data_dev(t7, t7_value);
+    			if (dirty & /*counts*/ 8 && t9_value !== (t9_value = /*counts*/ ctx[3][300] + "")) set_data_dev(t9, t9_value);
+    			if (dirty & /*counts*/ 8 && t11_value !== (t11_value = /*counts*/ ctx[3][200] + "")) set_data_dev(t11, t11_value);
+    			if (dirty & /*counts*/ 8 && t13_value !== (t13_value = /*counts*/ ctx[3][100] + "")) set_data_dev(t13, t13_value);
+    			if (dirty & /*counts*/ 8 && t15_value !== (t15_value = /*counts*/ ctx[3][50] + "")) set_data_dev(t15, t15_value);
+    			if (dirty & /*counts*/ 8 && t17_value !== (t17_value = /*counts*/ ctx[3].miss + "")) set_data_dev(t17, t17_value);
+    			if (dirty & /*score*/ 2 && t19_value !== (t19_value = /*score*/ ctx[1].toLocaleString() + "")) set_data_dev(t19, t19_value);
+    		},
+    		i: noop,
+    		o: noop,
+    		d: function destroy(detaching) {
+    			if (detaching) detach_dev(div5);
+    		}
+    	};
+
+    	dispatch_dev("SvelteRegisterBlock", {
+    		block,
+    		id: create_fragment$3.name,
+    		type: "component",
+    		source: "",
+    		ctx
+    	});
+
+    	return block;
+    }
+
+    function instance$3($$self, $$props, $$invalidate) {
+    	let { player } = $$props;
+    	let { score } = $$props;
+    	let { combo } = $$props;
+    	let { counts } = $$props;
+    	let { index } = $$props;
+    	const writable_props = ["player", "score", "combo", "counts", "index"];
+
+    	Object.keys($$props).forEach(key => {
+    		if (!~writable_props.indexOf(key) && key.slice(0, 2) !== "$$") console.warn(`<ScoreRow> was created with unknown prop '${key}'`);
+    	});
+
+    	let { $$slots = {}, $$scope } = $$props;
+    	validate_slots("ScoreRow", $$slots, []);
+
+    	$$self.$set = $$props => {
+    		if ("player" in $$props) $$invalidate(0, player = $$props.player);
+    		if ("score" in $$props) $$invalidate(1, score = $$props.score);
+    		if ("combo" in $$props) $$invalidate(2, combo = $$props.combo);
+    		if ("counts" in $$props) $$invalidate(3, counts = $$props.counts);
+    		if ("index" in $$props) $$invalidate(4, index = $$props.index);
+    	};
+
+    	$$self.$capture_state = () => ({ player, score, combo, counts, index });
+
+    	$$self.$inject_state = $$props => {
+    		if ("player" in $$props) $$invalidate(0, player = $$props.player);
+    		if ("score" in $$props) $$invalidate(1, score = $$props.score);
+    		if ("combo" in $$props) $$invalidate(2, combo = $$props.combo);
+    		if ("counts" in $$props) $$invalidate(3, counts = $$props.counts);
+    		if ("index" in $$props) $$invalidate(4, index = $$props.index);
+    	};
+
+    	if ($$props && "$$inject" in $$props) {
+    		$$self.$inject_state($$props.$$inject);
+    	}
+
+    	return [player, score, combo, counts, index];
+    }
+
+    class ScoreRow extends SvelteComponentDev {
+    	constructor(options) {
+    		super(options);
+
+    		init(this, options, instance$3, create_fragment$3, safe_not_equal, {
+    			player: 0,
+    			score: 1,
+    			combo: 2,
+    			counts: 3,
+    			index: 4
+    		});
+
+    		dispatch_dev("SvelteRegisterComponent", {
+    			component: this,
+    			tagName: "ScoreRow",
+    			options,
+    			id: create_fragment$3.name
+    		});
+
+    		const { ctx } = this.$$;
+    		const props = options.props || {};
+
+    		if (/*player*/ ctx[0] === undefined && !("player" in props)) {
+    			console.warn("<ScoreRow> was created without expected prop 'player'");
+    		}
+
+    		if (/*score*/ ctx[1] === undefined && !("score" in props)) {
+    			console.warn("<ScoreRow> was created without expected prop 'score'");
+    		}
+
+    		if (/*combo*/ ctx[2] === undefined && !("combo" in props)) {
+    			console.warn("<ScoreRow> was created without expected prop 'combo'");
+    		}
+
+    		if (/*counts*/ ctx[3] === undefined && !("counts" in props)) {
+    			console.warn("<ScoreRow> was created without expected prop 'counts'");
+    		}
+
+    		if (/*index*/ ctx[4] === undefined && !("index" in props)) {
+    			console.warn("<ScoreRow> was created without expected prop 'index'");
+    		}
+    	}
+
+    	get player() {
+    		throw new Error("<ScoreRow>: Props cannot be read directly from the component instance unless compiling with 'accessors: true' or '<svelte:options accessors/>'");
+    	}
+
+    	set player(value) {
+    		throw new Error("<ScoreRow>: Props cannot be set directly on the component instance unless compiling with 'accessors: true' or '<svelte:options accessors/>'");
+    	}
+
+    	get score() {
+    		throw new Error("<ScoreRow>: Props cannot be read directly from the component instance unless compiling with 'accessors: true' or '<svelte:options accessors/>'");
+    	}
+
+    	set score(value) {
+    		throw new Error("<ScoreRow>: Props cannot be set directly on the component instance unless compiling with 'accessors: true' or '<svelte:options accessors/>'");
+    	}
+
+    	get combo() {
+    		throw new Error("<ScoreRow>: Props cannot be read directly from the component instance unless compiling with 'accessors: true' or '<svelte:options accessors/>'");
+    	}
+
+    	set combo(value) {
+    		throw new Error("<ScoreRow>: Props cannot be set directly on the component instance unless compiling with 'accessors: true' or '<svelte:options accessors/>'");
+    	}
+
+    	get counts() {
+    		throw new Error("<ScoreRow>: Props cannot be read directly from the component instance unless compiling with 'accessors: true' or '<svelte:options accessors/>'");
+    	}
+
+    	set counts(value) {
+    		throw new Error("<ScoreRow>: Props cannot be set directly on the component instance unless compiling with 'accessors: true' or '<svelte:options accessors/>'");
+    	}
+
+    	get index() {
+    		throw new Error("<ScoreRow>: Props cannot be read directly from the component instance unless compiling with 'accessors: true' or '<svelte:options accessors/>'");
+    	}
+
+    	set index(value) {
+    		throw new Error("<ScoreRow>: Props cannot be set directly on the component instance unless compiling with 'accessors: true' or '<svelte:options accessors/>'");
+    	}
+    }
+
+    /* frontend\components\organisms\ScoreList.svelte generated by Svelte v3.23.1 */
+
+    const { Object: Object_1$1 } = globals;
+    const file$4 = "frontend\\components\\organisms\\ScoreList.svelte";
+
+    function get_each_context_1(ctx, list, i) {
+    	const child_ctx = ctx.slice();
+    	child_ctx[17] = list[i];
+    	child_ctx[16] = i;
+    	return child_ctx;
+    }
+
+    function get_each_context$1(ctx, list, i) {
+    	const child_ctx = ctx.slice();
+    	child_ctx[14] = list[i].player;
+    	child_ctx[5] = list[i].scores;
+    	child_ctx[16] = i;
+    	return child_ctx;
+    }
+
+    function get_each_context_2(ctx, list, i) {
+    	const child_ctx = ctx.slice();
+    	child_ctx[19] = list[i];
+    	child_ctx[16] = i;
+    	return child_ctx;
+    }
+
+    // (59:4) {#if bans}
+    function create_if_block_4(ctx) {
+    	let div0;
+    	let t0;
+    	let b0;
+    	let t1;
+    	let t2;
+    	let t3;
+    	let t4;
+    	let t5_value = (100 * /*pickCount*/ ctx[2] / /*matchCount*/ ctx[3]).toFixed(2) + "";
+    	let t5;
+    	let t6;
+    	let t7;
+    	let div1;
+    	let t8;
+    	let b1;
+    	let t9_value = /*bans*/ ctx[1].length + "";
+    	let t9;
+    	let t10;
+    	let t11;
+    	let t12;
+    	let t13_value = (100 * /*bans*/ ctx[1].length / /*matchCount*/ ctx[3]).toFixed(2) + "";
+    	let t13;
+    	let t14;
+    	let t15;
+    	let t16;
+    	let div2;
+    	let t17;
+    	let b2;
+    	let t18_value = /*bans*/ ctx[1].length + /*pickCount*/ ctx[2] + "";
+    	let t18;
+    	let t19;
+    	let t20;
+    	let t21;
+    	let t22_value = (100 * (/*bans*/ ctx[1].length + /*pickCount*/ ctx[2]) / /*matchCount*/ ctx[3]).toFixed(2) + "";
+    	let t22;
+    	let t23;
+    	let if_block = /*bans*/ ctx[1].length && create_if_block_6(ctx);
+    	let each_value_2 = Object.keys(/*groupedBans*/ ctx[9]);
+    	validate_each_argument(each_value_2);
+    	let each_blocks = [];
+
+    	for (let i = 0; i < each_value_2.length; i += 1) {
+    		each_blocks[i] = create_each_block_2(get_each_context_2(ctx, each_value_2, i));
+    	}
+
+    	const block = {
+    		c: function create() {
+    			div0 = element("div");
+    			t0 = text("Picked ");
+    			b0 = element("b");
+    			t1 = text(/*pickCount*/ ctx[2]);
+    			t2 = text("/");
+    			t3 = text(/*matchCount*/ ctx[3]);
+    			t4 = text(" (");
+    			t5 = text(t5_value);
+    			t6 = text("%) times");
+    			t7 = space();
+    			div1 = element("div");
+    			t8 = text("Banned ");
+    			b1 = element("b");
+    			t9 = text(t9_value);
+    			t10 = text("/");
+    			t11 = text(/*matchCount*/ ctx[3]);
+    			t12 = text("\r\n        (");
+    			t13 = text(t13_value);
+    			t14 = text("%)\r\n        times");
+    			if (if_block) if_block.c();
+    			t15 = space();
+
+    			for (let i = 0; i < each_blocks.length; i += 1) {
+    				each_blocks[i].c();
+    			}
+
+    			t16 = space();
+    			div2 = element("div");
+    			t17 = text("Relevancy: ");
+    			b2 = element("b");
+    			t18 = text(t18_value);
+    			t19 = text("/");
+    			t20 = text(/*matchCount*/ ctx[3]);
+    			t21 = text(" (");
+    			t22 = text(t22_value);
+    			t23 = text("%)");
+    			add_location(b0, file$4, 60, 15, 1616);
+    			attr_dev(div0, "class", "picks");
+    			add_location(div0, file$4, 59, 6, 1580);
+    			add_location(b1, file$4, 63, 15, 1757);
+    			attr_dev(div1, "class", "bans");
+    			add_location(div1, file$4, 62, 6, 1722);
+    			add_location(b2, file$4, 75, 19, 2321);
+    			attr_dev(div2, "class", "relevancy");
+    			add_location(div2, file$4, 74, 6, 2277);
+    		},
+    		m: function mount(target, anchor) {
+    			insert_dev(target, div0, anchor);
+    			append_dev(div0, t0);
+    			append_dev(div0, b0);
+    			append_dev(b0, t1);
+    			append_dev(b0, t2);
+    			append_dev(b0, t3);
+    			append_dev(div0, t4);
+    			append_dev(div0, t5);
+    			append_dev(div0, t6);
+    			insert_dev(target, t7, anchor);
+    			insert_dev(target, div1, anchor);
+    			append_dev(div1, t8);
+    			append_dev(div1, b1);
+    			append_dev(b1, t9);
+    			append_dev(b1, t10);
+    			append_dev(b1, t11);
+    			append_dev(div1, t12);
+    			append_dev(div1, t13);
+    			append_dev(div1, t14);
+    			if (if_block) if_block.m(div1, null);
+    			append_dev(div1, t15);
+
+    			for (let i = 0; i < each_blocks.length; i += 1) {
+    				each_blocks[i].m(div1, null);
+    			}
+
+    			insert_dev(target, t16, anchor);
+    			insert_dev(target, div2, anchor);
+    			append_dev(div2, t17);
+    			append_dev(div2, b2);
+    			append_dev(b2, t18);
+    			append_dev(b2, t19);
+    			append_dev(b2, t20);
+    			append_dev(div2, t21);
+    			append_dev(div2, t22);
+    			append_dev(div2, t23);
+    		},
+    		p: function update(ctx, dirty) {
+    			if (dirty & /*pickCount*/ 4) set_data_dev(t1, /*pickCount*/ ctx[2]);
+    			if (dirty & /*matchCount*/ 8) set_data_dev(t3, /*matchCount*/ ctx[3]);
+    			if (dirty & /*pickCount, matchCount*/ 12 && t5_value !== (t5_value = (100 * /*pickCount*/ ctx[2] / /*matchCount*/ ctx[3]).toFixed(2) + "")) set_data_dev(t5, t5_value);
+    			if (dirty & /*bans*/ 2 && t9_value !== (t9_value = /*bans*/ ctx[1].length + "")) set_data_dev(t9, t9_value);
+    			if (dirty & /*matchCount*/ 8) set_data_dev(t11, /*matchCount*/ ctx[3]);
+    			if (dirty & /*bans, matchCount*/ 10 && t13_value !== (t13_value = (100 * /*bans*/ ctx[1].length / /*matchCount*/ ctx[3]).toFixed(2) + "")) set_data_dev(t13, t13_value);
+
+    			if (/*bans*/ ctx[1].length) {
+    				if (if_block) ; else {
+    					if_block = create_if_block_6(ctx);
+    					if_block.c();
+    					if_block.m(div1, t15);
+    				}
+    			} else if (if_block) {
+    				if_block.d(1);
+    				if_block = null;
+    			}
+
+    			if (dirty & /*filter, players, Object, groupedBans*/ 529) {
+    				each_value_2 = Object.keys(/*groupedBans*/ ctx[9]);
+    				validate_each_argument(each_value_2);
+    				let i;
+
+    				for (i = 0; i < each_value_2.length; i += 1) {
+    					const child_ctx = get_each_context_2(ctx, each_value_2, i);
+
+    					if (each_blocks[i]) {
+    						each_blocks[i].p(child_ctx, dirty);
+    					} else {
+    						each_blocks[i] = create_each_block_2(child_ctx);
+    						each_blocks[i].c();
+    						each_blocks[i].m(div1, null);
+    					}
+    				}
+
+    				for (; i < each_blocks.length; i += 1) {
+    					each_blocks[i].d(1);
+    				}
+
+    				each_blocks.length = each_value_2.length;
+    			}
+
+    			if (dirty & /*bans, pickCount*/ 6 && t18_value !== (t18_value = /*bans*/ ctx[1].length + /*pickCount*/ ctx[2] + "")) set_data_dev(t18, t18_value);
+    			if (dirty & /*matchCount*/ 8) set_data_dev(t20, /*matchCount*/ ctx[3]);
+    			if (dirty & /*bans, pickCount, matchCount*/ 14 && t22_value !== (t22_value = (100 * (/*bans*/ ctx[1].length + /*pickCount*/ ctx[2]) / /*matchCount*/ ctx[3]).toFixed(2) + "")) set_data_dev(t22, t22_value);
+    		},
+    		d: function destroy(detaching) {
+    			if (detaching) detach_dev(div0);
+    			if (detaching) detach_dev(t7);
+    			if (detaching) detach_dev(div1);
+    			if (if_block) if_block.d();
+    			destroy_each(each_blocks, detaching);
+    			if (detaching) detach_dev(t16);
+    			if (detaching) detach_dev(div2);
+    		}
+    	};
+
+    	dispatch_dev("SvelteRegisterBlock", {
+    		block,
+    		id: create_if_block_4.name,
+    		type: "if",
+    		source: "(59:4) {#if bans}",
+    		ctx
+    	});
+
+    	return block;
+    }
+
+    // (66:13) {#if bans.length}
+    function create_if_block_6(ctx) {
+    	let t_value = " by:" + "";
+    	let t;
+
+    	const block = {
+    		c: function create() {
+    			t = text(t_value);
+    		},
+    		m: function mount(target, anchor) {
+    			insert_dev(target, t, anchor);
+    		},
+    		d: function destroy(detaching) {
+    			if (detaching) detach_dev(t);
+    		}
+    	};
+
+    	dispatch_dev("SvelteRegisterBlock", {
+    		block,
+    		id: create_if_block_6.name,
+    		type: "if",
+    		source: "(66:13) {#if bans.length}",
+    		ctx
+    	});
+
+    	return block;
+    }
+
+    // (68:10) {#if i}
+    function create_if_block_5(ctx) {
+    	let t;
+
+    	const block = {
+    		c: function create() {
+    			t = text(",");
+    		},
+    		m: function mount(target, anchor) {
+    			insert_dev(target, t, anchor);
+    		},
+    		d: function destroy(detaching) {
+    			if (detaching) detach_dev(t);
+    		}
+    	};
+
+    	dispatch_dev("SvelteRegisterBlock", {
+    		block,
+    		id: create_if_block_5.name,
+    		type: "if",
+    		source: "(68:10) {#if i}",
+    		ctx
+    	});
+
+    	return block;
+    }
+
+    // (67:8) {#each Object.keys(groupedBans) as playerId, i}
+    function create_each_block_2(ctx) {
+    	let t0;
+    	let span;
+
+    	let t1_value = /*players*/ ctx[0][/*playerId*/ ctx[19]].name + (/*groupedBans*/ ctx[9][/*playerId*/ ctx[19]] > 1
+    	? ` (${/*groupedBans*/ ctx[9][/*playerId*/ ctx[19]]}x)`
+    	: "") + "";
+
+    	let t1;
+    	let span_class_value;
+    	let if_block = /*i*/ ctx[16] && create_if_block_5(ctx);
+
+    	const block = {
+    		c: function create() {
+    			if (if_block) if_block.c();
+    			t0 = space();
+    			span = element("span");
+    			t1 = text(t1_value);
+    			attr_dev(span, "class", span_class_value = "" + (null_to_empty(/*filter*/ ctx[4] && /*players*/ ctx[0][/*playerId*/ ctx[19]].name.toLowerCase().includes(/*filter*/ ctx[4].toLowerCase()) && "ban-highlighted") + " svelte-1plw7g3"));
+    			add_location(span, file$4, 68, 10, 1987);
+    		},
+    		m: function mount(target, anchor) {
+    			if (if_block) if_block.m(target, anchor);
+    			insert_dev(target, t0, anchor);
+    			insert_dev(target, span, anchor);
+    			append_dev(span, t1);
+    		},
+    		p: function update(ctx, dirty) {
+    			if (dirty & /*players, groupedBans*/ 513 && t1_value !== (t1_value = /*players*/ ctx[0][/*playerId*/ ctx[19]].name + (/*groupedBans*/ ctx[9][/*playerId*/ ctx[19]] > 1
+    			? ` (${/*groupedBans*/ ctx[9][/*playerId*/ ctx[19]]}x)`
+    			: "") + "")) set_data_dev(t1, t1_value);
+
+    			if (dirty & /*filter, players, groupedBans*/ 529 && span_class_value !== (span_class_value = "" + (null_to_empty(/*filter*/ ctx[4] && /*players*/ ctx[0][/*playerId*/ ctx[19]].name.toLowerCase().includes(/*filter*/ ctx[4].toLowerCase()) && "ban-highlighted") + " svelte-1plw7g3"))) {
+    				attr_dev(span, "class", span_class_value);
+    			}
+    		},
+    		d: function destroy(detaching) {
+    			if (if_block) if_block.d(detaching);
+    			if (detaching) detach_dev(t0);
+    			if (detaching) detach_dev(span);
+    		}
+    	};
+
+    	dispatch_dev("SvelteRegisterBlock", {
+    		block,
+    		id: create_each_block_2.name,
+    		type: "each",
+    		source: "(67:8) {#each Object.keys(groupedBans) as playerId, i}",
+    		ctx
+    	});
+
+    	return block;
+    }
+
+    // (82:2) {#if displayScores}
+    function create_if_block$1(ctx) {
+    	let div;
+    	let current_block_type_index;
+    	let if_block;
+    	let current;
+    	const if_block_creators = [create_if_block_1$1, create_else_block];
+    	const if_blocks = [];
+
+    	function select_block_type(ctx, dirty) {
+    		if (/*groupScores*/ ctx[6]) return 0;
+    		return 1;
+    	}
+
+    	current_block_type_index = select_block_type(ctx);
+    	if_block = if_blocks[current_block_type_index] = if_block_creators[current_block_type_index](ctx);
+
+    	const block = {
+    		c: function create() {
+    			div = element("div");
+    			if_block.c();
+    			attr_dev(div, "class", "scores svelte-1plw7g3");
+    			add_location(div, file$4, 82, 4, 2683);
+    		},
+    		m: function mount(target, anchor) {
+    			insert_dev(target, div, anchor);
+    			if_blocks[current_block_type_index].m(div, null);
+    			current = true;
+    		},
+    		p: function update(ctx, dirty) {
+    			let previous_block_index = current_block_type_index;
+    			current_block_type_index = select_block_type(ctx);
+
+    			if (current_block_type_index === previous_block_index) {
+    				if_blocks[current_block_type_index].p(ctx, dirty);
+    			} else {
+    				group_outros();
+
+    				transition_out(if_blocks[previous_block_index], 1, 1, () => {
+    					if_blocks[previous_block_index] = null;
+    				});
+
+    				check_outros();
+    				if_block = if_blocks[current_block_type_index];
+
+    				if (!if_block) {
+    					if_block = if_blocks[current_block_type_index] = if_block_creators[current_block_type_index](ctx);
+    					if_block.c();
+    				}
+
+    				transition_in(if_block, 1);
+    				if_block.m(div, null);
+    			}
+    		},
+    		i: function intro(local) {
+    			if (current) return;
+    			transition_in(if_block);
+    			current = true;
+    		},
+    		o: function outro(local) {
+    			transition_out(if_block);
+    			current = false;
+    		},
+    		d: function destroy(detaching) {
+    			if (detaching) detach_dev(div);
+    			if_blocks[current_block_type_index].d();
+    		}
+    	};
+
+    	dispatch_dev("SvelteRegisterBlock", {
+    		block,
+    		id: create_if_block$1.name,
+    		type: "if",
+    		source: "(82:2) {#if displayScores}",
+    		ctx
+    	});
+
+    	return block;
+    }
+
+    // (90:6) {:else}
+    function create_else_block(ctx) {
+    	let each_1_anchor;
+    	let current;
+    	let each_value_1 = /*scores*/ ctx[5];
+    	validate_each_argument(each_value_1);
+    	let each_blocks = [];
+
+    	for (let i = 0; i < each_value_1.length; i += 1) {
+    		each_blocks[i] = create_each_block_1(get_each_context_1(ctx, each_value_1, i));
+    	}
+
+    	const out = i => transition_out(each_blocks[i], 1, 1, () => {
+    		each_blocks[i] = null;
+    	});
+
+    	const block = {
+    		c: function create() {
+    			for (let i = 0; i < each_blocks.length; i += 1) {
+    				each_blocks[i].c();
+    			}
+
+    			each_1_anchor = empty();
+    		},
+    		m: function mount(target, anchor) {
+    			for (let i = 0; i < each_blocks.length; i += 1) {
+    				each_blocks[i].m(target, anchor);
+    			}
+
+    			insert_dev(target, each_1_anchor, anchor);
+    			current = true;
+    		},
+    		p: function update(ctx, dirty) {
+    			if (dirty & /*players, scores, filter*/ 49) {
+    				each_value_1 = /*scores*/ ctx[5];
+    				validate_each_argument(each_value_1);
+    				let i;
+
+    				for (i = 0; i < each_value_1.length; i += 1) {
+    					const child_ctx = get_each_context_1(ctx, each_value_1, i);
+
+    					if (each_blocks[i]) {
+    						each_blocks[i].p(child_ctx, dirty);
+    						transition_in(each_blocks[i], 1);
+    					} else {
+    						each_blocks[i] = create_each_block_1(child_ctx);
+    						each_blocks[i].c();
+    						transition_in(each_blocks[i], 1);
+    						each_blocks[i].m(each_1_anchor.parentNode, each_1_anchor);
+    					}
+    				}
+
+    				group_outros();
+
+    				for (i = each_value_1.length; i < each_blocks.length; i += 1) {
+    					out(i);
+    				}
+
+    				check_outros();
+    			}
+    		},
+    		i: function intro(local) {
+    			if (current) return;
+
+    			for (let i = 0; i < each_value_1.length; i += 1) {
+    				transition_in(each_blocks[i]);
+    			}
+
+    			current = true;
+    		},
+    		o: function outro(local) {
+    			each_blocks = each_blocks.filter(Boolean);
+
+    			for (let i = 0; i < each_blocks.length; i += 1) {
+    				transition_out(each_blocks[i]);
+    			}
+
+    			current = false;
+    		},
+    		d: function destroy(detaching) {
+    			destroy_each(each_blocks, detaching);
+    			if (detaching) detach_dev(each_1_anchor);
+    		}
+    	};
+
+    	dispatch_dev("SvelteRegisterBlock", {
+    		block,
+    		id: create_else_block.name,
+    		type: "else",
+    		source: "(90:6) {:else}",
+    		ctx
+    	});
+
+    	return block;
+    }
+
+    // (84:6) {#if groupScores}
+    function create_if_block_1$1(ctx) {
+    	let each_1_anchor;
+    	let current;
+    	let each_value = /*rankedPlayers*/ ctx[10];
+    	validate_each_argument(each_value);
+    	let each_blocks = [];
+
+    	for (let i = 0; i < each_value.length; i += 1) {
+    		each_blocks[i] = create_each_block$1(get_each_context$1(ctx, each_value, i));
+    	}
+
+    	const out = i => transition_out(each_blocks[i], 1, 1, () => {
+    		each_blocks[i] = null;
+    	});
+
+    	const block = {
+    		c: function create() {
+    			for (let i = 0; i < each_blocks.length; i += 1) {
+    				each_blocks[i].c();
+    			}
+
+    			each_1_anchor = empty();
+    		},
+    		m: function mount(target, anchor) {
+    			for (let i = 0; i < each_blocks.length; i += 1) {
+    				each_blocks[i].m(target, anchor);
+    			}
+
+    			insert_dev(target, each_1_anchor, anchor);
+    			current = true;
+    		},
+    		p: function update(ctx, dirty) {
+    			if (dirty & /*rankedPlayers, filter*/ 1040) {
+    				each_value = /*rankedPlayers*/ ctx[10];
+    				validate_each_argument(each_value);
+    				let i;
+
+    				for (i = 0; i < each_value.length; i += 1) {
+    					const child_ctx = get_each_context$1(ctx, each_value, i);
+
+    					if (each_blocks[i]) {
+    						each_blocks[i].p(child_ctx, dirty);
+    						transition_in(each_blocks[i], 1);
+    					} else {
+    						each_blocks[i] = create_each_block$1(child_ctx);
+    						each_blocks[i].c();
+    						transition_in(each_blocks[i], 1);
+    						each_blocks[i].m(each_1_anchor.parentNode, each_1_anchor);
+    					}
+    				}
+
+    				group_outros();
+
+    				for (i = each_value.length; i < each_blocks.length; i += 1) {
+    					out(i);
+    				}
+
+    				check_outros();
+    			}
+    		},
+    		i: function intro(local) {
+    			if (current) return;
+
+    			for (let i = 0; i < each_value.length; i += 1) {
+    				transition_in(each_blocks[i]);
+    			}
+
+    			current = true;
+    		},
+    		o: function outro(local) {
+    			each_blocks = each_blocks.filter(Boolean);
+
+    			for (let i = 0; i < each_blocks.length; i += 1) {
+    				transition_out(each_blocks[i]);
+    			}
+
+    			current = false;
+    		},
+    		d: function destroy(detaching) {
+    			destroy_each(each_blocks, detaching);
+    			if (detaching) detach_dev(each_1_anchor);
+    		}
+    	};
+
+    	dispatch_dev("SvelteRegisterBlock", {
+    		block,
+    		id: create_if_block_1$1.name,
+    		type: "if",
+    		source: "(84:6) {#if groupScores}",
+    		ctx
+    	});
+
+    	return block;
+    }
+
+    // (92:10) {#if players[score.userId]              && (!filter || players[score.userId].name.toLowerCase().includes(filter.toLowerCase()))            }
+    function create_if_block_3(ctx) {
+    	let current;
+
+    	const scorerow_spread_levels = [
+    		{ index: /*i*/ ctx[16] + 1 },
+    		{
+    			player: /*players*/ ctx[0][/*score*/ ctx[17].userId]
+    		},
+    		/*score*/ ctx[17]
+    	];
+
+    	let scorerow_props = {};
+
+    	for (let i = 0; i < scorerow_spread_levels.length; i += 1) {
+    		scorerow_props = assign(scorerow_props, scorerow_spread_levels[i]);
+    	}
+
+    	const scorerow = new ScoreRow({ props: scorerow_props, $$inline: true });
+
+    	const block = {
+    		c: function create() {
+    			create_component(scorerow.$$.fragment);
+    		},
+    		m: function mount(target, anchor) {
+    			mount_component(scorerow, target, anchor);
+    			current = true;
+    		},
+    		p: function update(ctx, dirty) {
+    			const scorerow_changes = (dirty & /*players, scores*/ 33)
+    			? get_spread_update(scorerow_spread_levels, [
+    					scorerow_spread_levels[0],
+    					{
+    						player: /*players*/ ctx[0][/*score*/ ctx[17].userId]
+    					},
+    					dirty & /*scores*/ 32 && get_spread_object(/*score*/ ctx[17])
+    				])
+    			: {};
+
+    			scorerow.$set(scorerow_changes);
+    		},
+    		i: function intro(local) {
+    			if (current) return;
+    			transition_in(scorerow.$$.fragment, local);
+    			current = true;
+    		},
+    		o: function outro(local) {
+    			transition_out(scorerow.$$.fragment, local);
+    			current = false;
+    		},
+    		d: function destroy(detaching) {
+    			destroy_component(scorerow, detaching);
+    		}
+    	};
+
+    	dispatch_dev("SvelteRegisterBlock", {
+    		block,
+    		id: create_if_block_3.name,
+    		type: "if",
+    		source: "(92:10) {#if players[score.userId]              && (!filter || players[score.userId].name.toLowerCase().includes(filter.toLowerCase()))            }",
+    		ctx
+    	});
+
+    	return block;
+    }
+
+    // (91:8) {#each scores as score, i}
+    function create_each_block_1(ctx) {
+    	let show_if = /*players*/ ctx[0][/*score*/ ctx[17].userId] && (!/*filter*/ ctx[4] || /*players*/ ctx[0][/*score*/ ctx[17].userId].name.toLowerCase().includes(/*filter*/ ctx[4].toLowerCase()));
+    	let if_block_anchor;
+    	let current;
+    	let if_block = show_if && create_if_block_3(ctx);
+
+    	const block = {
+    		c: function create() {
+    			if (if_block) if_block.c();
+    			if_block_anchor = empty();
+    		},
+    		m: function mount(target, anchor) {
+    			if (if_block) if_block.m(target, anchor);
+    			insert_dev(target, if_block_anchor, anchor);
+    			current = true;
+    		},
+    		p: function update(ctx, dirty) {
+    			if (dirty & /*players, scores, filter*/ 49) show_if = /*players*/ ctx[0][/*score*/ ctx[17].userId] && (!/*filter*/ ctx[4] || /*players*/ ctx[0][/*score*/ ctx[17].userId].name.toLowerCase().includes(/*filter*/ ctx[4].toLowerCase()));
+
+    			if (show_if) {
+    				if (if_block) {
+    					if_block.p(ctx, dirty);
+
+    					if (dirty & /*players, scores, filter*/ 49) {
+    						transition_in(if_block, 1);
+    					}
+    				} else {
+    					if_block = create_if_block_3(ctx);
+    					if_block.c();
+    					transition_in(if_block, 1);
+    					if_block.m(if_block_anchor.parentNode, if_block_anchor);
+    				}
+    			} else if (if_block) {
+    				group_outros();
+
+    				transition_out(if_block, 1, 1, () => {
+    					if_block = null;
+    				});
+
+    				check_outros();
+    			}
+    		},
+    		i: function intro(local) {
+    			if (current) return;
+    			transition_in(if_block);
+    			current = true;
+    		},
+    		o: function outro(local) {
+    			transition_out(if_block);
+    			current = false;
+    		},
+    		d: function destroy(detaching) {
+    			if (if_block) if_block.d(detaching);
+    			if (detaching) detach_dev(if_block_anchor);
+    		}
+    	};
+
+    	dispatch_dev("SvelteRegisterBlock", {
+    		block,
+    		id: create_each_block_1.name,
+    		type: "each",
+    		source: "(91:8) {#each scores as score, i}",
+    		ctx
+    	});
+
+    	return block;
+    }
+
+    // (86:10) {#if !filter || player.name.toLowerCase().includes(filter.toLowerCase())}
+    function create_if_block_2(ctx) {
+    	let current;
+
+    	const scorerow_spread_levels = [
+    		{ index: /*i*/ ctx[16] + 1 },
+    		{ player: /*player*/ ctx[14] },
+    		/*scores*/ ctx[5][0]
+    	];
+
+    	let scorerow_props = {};
+
+    	for (let i = 0; i < scorerow_spread_levels.length; i += 1) {
+    		scorerow_props = assign(scorerow_props, scorerow_spread_levels[i]);
+    	}
+
+    	const scorerow = new ScoreRow({ props: scorerow_props, $$inline: true });
+
+    	const block = {
+    		c: function create() {
+    			create_component(scorerow.$$.fragment);
+    		},
+    		m: function mount(target, anchor) {
+    			mount_component(scorerow, target, anchor);
+    			current = true;
+    		},
+    		p: function update(ctx, dirty) {
+    			const scorerow_changes = (dirty & /*rankedPlayers*/ 1024)
+    			? get_spread_update(scorerow_spread_levels, [
+    					scorerow_spread_levels[0],
+    					{ player: /*player*/ ctx[14] },
+    					get_spread_object(/*scores*/ ctx[5][0])
+    				])
+    			: {};
+
+    			scorerow.$set(scorerow_changes);
+    		},
+    		i: function intro(local) {
+    			if (current) return;
+    			transition_in(scorerow.$$.fragment, local);
+    			current = true;
+    		},
+    		o: function outro(local) {
+    			transition_out(scorerow.$$.fragment, local);
+    			current = false;
+    		},
+    		d: function destroy(detaching) {
+    			destroy_component(scorerow, detaching);
+    		}
+    	};
+
+    	dispatch_dev("SvelteRegisterBlock", {
+    		block,
+    		id: create_if_block_2.name,
+    		type: "if",
+    		source: "(86:10) {#if !filter || player.name.toLowerCase().includes(filter.toLowerCase())}",
+    		ctx
+    	});
+
+    	return block;
+    }
+
+    // (85:8) {#each rankedPlayers as { player, scores }
+    function create_each_block$1(ctx) {
+    	let show_if = !/*filter*/ ctx[4] || /*player*/ ctx[14].name.toLowerCase().includes(/*filter*/ ctx[4].toLowerCase());
+    	let if_block_anchor;
+    	let current;
+    	let if_block = show_if && create_if_block_2(ctx);
+
+    	const block = {
+    		c: function create() {
+    			if (if_block) if_block.c();
+    			if_block_anchor = empty();
+    		},
+    		m: function mount(target, anchor) {
+    			if (if_block) if_block.m(target, anchor);
+    			insert_dev(target, if_block_anchor, anchor);
+    			current = true;
+    		},
+    		p: function update(ctx, dirty) {
+    			if (dirty & /*filter*/ 16) show_if = !/*filter*/ ctx[4] || /*player*/ ctx[14].name.toLowerCase().includes(/*filter*/ ctx[4].toLowerCase());
+
+    			if (show_if) {
+    				if (if_block) {
+    					if_block.p(ctx, dirty);
+
+    					if (dirty & /*filter*/ 16) {
+    						transition_in(if_block, 1);
+    					}
+    				} else {
+    					if_block = create_if_block_2(ctx);
+    					if_block.c();
+    					transition_in(if_block, 1);
+    					if_block.m(if_block_anchor.parentNode, if_block_anchor);
+    				}
+    			} else if (if_block) {
+    				group_outros();
+
+    				transition_out(if_block, 1, 1, () => {
+    					if_block = null;
+    				});
+
+    				check_outros();
+    			}
+    		},
+    		i: function intro(local) {
+    			if (current) return;
+    			transition_in(if_block);
+    			current = true;
+    		},
+    		o: function outro(local) {
+    			transition_out(if_block);
+    			current = false;
+    		},
+    		d: function destroy(detaching) {
+    			if (if_block) if_block.d(detaching);
+    			if (detaching) detach_dev(if_block_anchor);
+    		}
+    	};
+
+    	dispatch_dev("SvelteRegisterBlock", {
+    		block,
+    		id: create_each_block$1.name,
+    		type: "each",
+    		source: "(85:8) {#each rankedPlayers as { player, scores }",
+    		ctx
+    	});
+
+    	return block;
+    }
+
+    function create_fragment$4(ctx) {
+    	let div2;
+    	let div1;
+    	let div0;
+    	let t0;
+    	let b;
+
+    	let t1_value = (/*average*/ ctx[8]
+    	? /*average*/ ctx[8].toFixed(0)
+    	: "N/A") + "";
+
+    	let t1;
+    	let t2;
+    	let t3;
+    	let button0;
+    	let t4_value = (/*displayScores*/ ctx[7] ? "Hide" : "Show") + "";
+    	let t4;
+    	let t5;
+    	let t6;
+    	let button1;
+
+    	let t7_value = (/*groupScores*/ ctx[6]
+    	? "Show all player scores"
+    	: "Only best scores") + "";
+
+    	let t7;
+    	let t8;
+    	let current;
+    	let mounted;
+    	let dispose;
+    	let if_block0 = /*bans*/ ctx[1] && create_if_block_4(ctx);
+    	let if_block1 = /*displayScores*/ ctx[7] && create_if_block$1(ctx);
+
+    	const block = {
+    		c: function create() {
+    			div2 = element("div");
+    			div1 = element("div");
+    			div0 = element("div");
+    			t0 = text("Average score: ");
+    			b = element("b");
+    			t1 = text(t1_value);
+    			t2 = space();
+    			if (if_block0) if_block0.c();
+    			t3 = space();
+    			button0 = element("button");
+    			t4 = text(t4_value);
+    			t5 = text(" scores");
+    			t6 = space();
+    			button1 = element("button");
+    			t7 = text(t7_value);
+    			t8 = space();
+    			if (if_block1) if_block1.c();
+    			add_location(b, file$4, 56, 21, 1499);
+    			attr_dev(div0, "class", "average");
+    			add_location(div0, file$4, 55, 4, 1455);
+    			attr_dev(div1, "class", "stats svelte-1plw7g3");
+    			add_location(div1, file$4, 54, 2, 1430);
+    			add_location(button0, file$4, 79, 2, 2468);
+    			add_location(button1, file$4, 80, 2, 2553);
+    			attr_dev(div2, "class", "root");
+    			add_location(div2, file$4, 53, 0, 1408);
+    		},
+    		l: function claim(nodes) {
+    			throw new Error("options.hydrate only works if the component was compiled with the `hydratable: true` option");
+    		},
+    		m: function mount(target, anchor) {
+    			insert_dev(target, div2, anchor);
+    			append_dev(div2, div1);
+    			append_dev(div1, div0);
+    			append_dev(div0, t0);
+    			append_dev(div0, b);
+    			append_dev(b, t1);
+    			append_dev(div1, t2);
+    			if (if_block0) if_block0.m(div1, null);
+    			append_dev(div2, t3);
+    			append_dev(div2, button0);
+    			append_dev(button0, t4);
+    			append_dev(button0, t5);
+    			append_dev(div2, t6);
+    			append_dev(div2, button1);
+    			append_dev(button1, t7);
+    			append_dev(div2, t8);
+    			if (if_block1) if_block1.m(div2, null);
+    			current = true;
+
+    			if (!mounted) {
+    				dispose = [
+    					listen_dev(button0, "click", /*handleToggle*/ ctx[12], false, false, false),
+    					listen_dev(button1, "click", /*handleGroup*/ ctx[11], false, false, false)
+    				];
+
+    				mounted = true;
+    			}
+    		},
+    		p: function update(ctx, [dirty]) {
+    			if ((!current || dirty & /*average*/ 256) && t1_value !== (t1_value = (/*average*/ ctx[8]
+    			? /*average*/ ctx[8].toFixed(0)
+    			: "N/A") + "")) set_data_dev(t1, t1_value);
+
+    			if (/*bans*/ ctx[1]) {
+    				if (if_block0) {
+    					if_block0.p(ctx, dirty);
+    				} else {
+    					if_block0 = create_if_block_4(ctx);
+    					if_block0.c();
+    					if_block0.m(div1, null);
+    				}
+    			} else if (if_block0) {
+    				if_block0.d(1);
+    				if_block0 = null;
+    			}
+
+    			if ((!current || dirty & /*displayScores*/ 128) && t4_value !== (t4_value = (/*displayScores*/ ctx[7] ? "Hide" : "Show") + "")) set_data_dev(t4, t4_value);
+
+    			if ((!current || dirty & /*groupScores*/ 64) && t7_value !== (t7_value = (/*groupScores*/ ctx[6]
+    			? "Show all player scores"
+    			: "Only best scores") + "")) set_data_dev(t7, t7_value);
+
+    			if (/*displayScores*/ ctx[7]) {
+    				if (if_block1) {
+    					if_block1.p(ctx, dirty);
+
+    					if (dirty & /*displayScores*/ 128) {
+    						transition_in(if_block1, 1);
+    					}
+    				} else {
+    					if_block1 = create_if_block$1(ctx);
+    					if_block1.c();
+    					transition_in(if_block1, 1);
+    					if_block1.m(div2, null);
+    				}
+    			} else if (if_block1) {
+    				group_outros();
+
+    				transition_out(if_block1, 1, 1, () => {
+    					if_block1 = null;
+    				});
+
+    				check_outros();
+    			}
+    		},
+    		i: function intro(local) {
+    			if (current) return;
+    			transition_in(if_block1);
+    			current = true;
+    		},
+    		o: function outro(local) {
+    			transition_out(if_block1);
+    			current = false;
+    		},
+    		d: function destroy(detaching) {
+    			if (detaching) detach_dev(div2);
+    			if (if_block0) if_block0.d();
+    			if (if_block1) if_block1.d();
+    			mounted = false;
+    			run_all(dispose);
+    		}
+    	};
+
+    	dispatch_dev("SvelteRegisterBlock", {
+    		block,
+    		id: create_fragment$4.name,
+    		type: "component",
+    		source: "",
+    		ctx
+    	});
+
+    	return block;
+    }
+
+    function instance$4($$self, $$props, $$invalidate) {
+    	let { players } = $$props;
+    	let { scores } = $$props;
+    	let { bans } = $$props;
+    	let { pickCount } = $$props;
+    	let { matchCount } = $$props;
+    	let { filter } = $$props;
+    	let groupScores = true;
+    	let displayScores = true;
+    	const playerScores = {};
+    	const rankedPlayers = [];
+    	let average = 0;
+
+    	scores.forEach(score => {
+    		// Ignore scores from non-tournament players
+    		if (!players[score.userId]) return;
+
+    		// The scores are already sorted beforehand,
+    		// so the pushed player scores should also end up sorted
+    		if (!playerScores[score.userId]) {
+    			playerScores[score.userId] = [];
+
+    			rankedPlayers.push({
+    				player: players[score.userId],
+    				// This is the reference to the array,
+    				// so we can just keep using the map to look for players below.
+    				scores: playerScores[score.userId]
+    			});
+    		}
+
+    		$$invalidate(8, average += score.score);
+    		playerScores[score.userId].push(score);
+    	});
+
+    	average /= scores.length;
+
+    	// Group bans
+    	const groupedBans = {};
+
+    	if (bans) {
+    		bans.forEach(playerId => {
+    			if (!players[playerId]) return;
+    			if (!groupedBans[playerId]) $$invalidate(9, groupedBans[playerId] = 0, groupedBans);
+    			$$invalidate(9, ++groupedBans[playerId], groupedBans);
+    		});
+    	}
+
+    	function handleGroup() {
+    		$$invalidate(6, groupScores = !groupScores);
+    	}
+
+    	function handleToggle() {
+    		$$invalidate(7, displayScores = !displayScores);
+    	}
+
+    	const writable_props = ["players", "scores", "bans", "pickCount", "matchCount", "filter"];
+
+    	Object_1$1.keys($$props).forEach(key => {
+    		if (!~writable_props.indexOf(key) && key.slice(0, 2) !== "$$") console.warn(`<ScoreList> was created with unknown prop '${key}'`);
+    	});
+
+    	let { $$slots = {}, $$scope } = $$props;
+    	validate_slots("ScoreList", $$slots, []);
+
+    	$$self.$set = $$props => {
+    		if ("players" in $$props) $$invalidate(0, players = $$props.players);
+    		if ("scores" in $$props) $$invalidate(5, scores = $$props.scores);
+    		if ("bans" in $$props) $$invalidate(1, bans = $$props.bans);
+    		if ("pickCount" in $$props) $$invalidate(2, pickCount = $$props.pickCount);
+    		if ("matchCount" in $$props) $$invalidate(3, matchCount = $$props.matchCount);
+    		if ("filter" in $$props) $$invalidate(4, filter = $$props.filter);
+    	};
+
+    	$$self.$capture_state = () => ({
+    		ScoreRow,
+    		players,
+    		scores,
+    		bans,
+    		pickCount,
+    		matchCount,
+    		filter,
+    		groupScores,
+    		displayScores,
+    		playerScores,
+    		rankedPlayers,
+    		average,
+    		groupedBans,
+    		handleGroup,
+    		handleToggle
+    	});
+
+    	$$self.$inject_state = $$props => {
+    		if ("players" in $$props) $$invalidate(0, players = $$props.players);
+    		if ("scores" in $$props) $$invalidate(5, scores = $$props.scores);
+    		if ("bans" in $$props) $$invalidate(1, bans = $$props.bans);
+    		if ("pickCount" in $$props) $$invalidate(2, pickCount = $$props.pickCount);
+    		if ("matchCount" in $$props) $$invalidate(3, matchCount = $$props.matchCount);
+    		if ("filter" in $$props) $$invalidate(4, filter = $$props.filter);
+    		if ("groupScores" in $$props) $$invalidate(6, groupScores = $$props.groupScores);
+    		if ("displayScores" in $$props) $$invalidate(7, displayScores = $$props.displayScores);
+    		if ("average" in $$props) $$invalidate(8, average = $$props.average);
+    	};
+
+    	if ($$props && "$$inject" in $$props) {
+    		$$self.$inject_state($$props.$$inject);
+    	}
+
+    	return [
+    		players,
+    		bans,
+    		pickCount,
+    		matchCount,
+    		filter,
+    		scores,
+    		groupScores,
+    		displayScores,
+    		average,
+    		groupedBans,
+    		rankedPlayers,
+    		handleGroup,
+    		handleToggle
+    	];
+    }
+
+    class ScoreList extends SvelteComponentDev {
+    	constructor(options) {
+    		super(options);
+
+    		init(this, options, instance$4, create_fragment$4, safe_not_equal, {
+    			players: 0,
+    			scores: 5,
+    			bans: 1,
+    			pickCount: 2,
+    			matchCount: 3,
+    			filter: 4
+    		});
+
+    		dispatch_dev("SvelteRegisterComponent", {
+    			component: this,
+    			tagName: "ScoreList",
+    			options,
+    			id: create_fragment$4.name
+    		});
+
+    		const { ctx } = this.$$;
+    		const props = options.props || {};
+
+    		if (/*players*/ ctx[0] === undefined && !("players" in props)) {
+    			console.warn("<ScoreList> was created without expected prop 'players'");
+    		}
+
+    		if (/*scores*/ ctx[5] === undefined && !("scores" in props)) {
+    			console.warn("<ScoreList> was created without expected prop 'scores'");
+    		}
+
+    		if (/*bans*/ ctx[1] === undefined && !("bans" in props)) {
+    			console.warn("<ScoreList> was created without expected prop 'bans'");
+    		}
+
+    		if (/*pickCount*/ ctx[2] === undefined && !("pickCount" in props)) {
+    			console.warn("<ScoreList> was created without expected prop 'pickCount'");
+    		}
+
+    		if (/*matchCount*/ ctx[3] === undefined && !("matchCount" in props)) {
+    			console.warn("<ScoreList> was created without expected prop 'matchCount'");
+    		}
+
+    		if (/*filter*/ ctx[4] === undefined && !("filter" in props)) {
+    			console.warn("<ScoreList> was created without expected prop 'filter'");
+    		}
+    	}
+
+    	get players() {
+    		throw new Error("<ScoreList>: Props cannot be read directly from the component instance unless compiling with 'accessors: true' or '<svelte:options accessors/>'");
+    	}
+
+    	set players(value) {
+    		throw new Error("<ScoreList>: Props cannot be set directly on the component instance unless compiling with 'accessors: true' or '<svelte:options accessors/>'");
+    	}
+
+    	get scores() {
+    		throw new Error("<ScoreList>: Props cannot be read directly from the component instance unless compiling with 'accessors: true' or '<svelte:options accessors/>'");
+    	}
+
+    	set scores(value) {
+    		throw new Error("<ScoreList>: Props cannot be set directly on the component instance unless compiling with 'accessors: true' or '<svelte:options accessors/>'");
+    	}
+
+    	get bans() {
+    		throw new Error("<ScoreList>: Props cannot be read directly from the component instance unless compiling with 'accessors: true' or '<svelte:options accessors/>'");
+    	}
+
+    	set bans(value) {
+    		throw new Error("<ScoreList>: Props cannot be set directly on the component instance unless compiling with 'accessors: true' or '<svelte:options accessors/>'");
+    	}
+
+    	get pickCount() {
+    		throw new Error("<ScoreList>: Props cannot be read directly from the component instance unless compiling with 'accessors: true' or '<svelte:options accessors/>'");
+    	}
+
+    	set pickCount(value) {
+    		throw new Error("<ScoreList>: Props cannot be set directly on the component instance unless compiling with 'accessors: true' or '<svelte:options accessors/>'");
+    	}
+
+    	get matchCount() {
+    		throw new Error("<ScoreList>: Props cannot be read directly from the component instance unless compiling with 'accessors: true' or '<svelte:options accessors/>'");
+    	}
+
+    	set matchCount(value) {
+    		throw new Error("<ScoreList>: Props cannot be set directly on the component instance unless compiling with 'accessors: true' or '<svelte:options accessors/>'");
+    	}
+
+    	get filter() {
+    		throw new Error("<ScoreList>: Props cannot be read directly from the component instance unless compiling with 'accessors: true' or '<svelte:options accessors/>'");
+    	}
+
+    	set filter(value) {
+    		throw new Error("<ScoreList>: Props cannot be set directly on the component instance unless compiling with 'accessors: true' or '<svelte:options accessors/>'");
+    	}
+    }
+
+    /* frontend\components\molecules\MapCard.svelte generated by Svelte v3.23.1 */
+
+    const file$5 = "frontend\\components\\molecules\\MapCard.svelte";
+
+    function create_fragment$5(ctx) {
+    	let div7;
+    	let div4;
+    	let a;
+    	let div0;
+    	let t0;
+    	let t1;
+    	let div1;
+    	let t2;
+    	let a_href_value;
+    	let t3;
+    	let div2;
+    	let b0;
+    	let t4;
+    	let t5;
+    	let t6;
+    	let br0;
+    	let t7;
+    	let b1;
+    	let t8;
+    	let t9;
+    	let div3;
+    	let t10;
+    	let t11;
+    	let t12;
+    	let t13;
+    	let t14;
+    	let div5;
+    	let t15;
+    	let t16;
+    	let div6;
+    	let t17_value = /*counts*/ ctx[9].notes.total + "";
+    	let t17;
+    	let t18;
+    	let br1;
+    	let t19;
+    	let t20_value = /*counts*/ ctx[9].notes.rice + "";
+    	let t20;
+    	let t21;
+    	let t22_value = /*counts*/ ctx[9].notes.ln + "";
+    	let t22;
+    	let t23;
+    	let br2;
+    	let t24;
+    	let t25_value = /*counts*/ ctx[9].bpm + "";
+    	let t25;
+    	let t26;
+    	let br3;
+    	let t27;
+    	let t28_value = /*counts*/ ctx[9].sv + "";
+    	let t28;
+    	let t29;
+    	let br4;
+    	let t30;
+    	let t31_value = /*counts*/ ctx[9].notes.single + "";
+    	let t31;
+    	let t32;
+    	let br5;
+    	let t33;
+    	let t34_value = /*counts*/ ctx[9].notes.jump + "";
+    	let t34;
+    	let t35;
+    	let br6;
+    	let t36;
+    	let t37_value = /*counts*/ ctx[9].notes.hand + "";
+    	let t37;
+    	let t38;
+    	let br7;
+    	let t39;
+    	let t40_value = /*counts*/ ctx[9].notes.quad + "";
+    	let t40;
+    	let t41;
+
+    	const block = {
+    		c: function create() {
+    			div7 = element("div");
+    			div4 = element("div");
+    			a = element("a");
+    			div0 = element("div");
+    			t0 = text(/*artist*/ ctx[1]);
+    			t1 = space();
+    			div1 = element("div");
+    			t2 = text(/*title*/ ctx[0]);
+    			t3 = space();
+    			div2 = element("div");
+    			b0 = element("b");
+    			t4 = text("[");
+    			t5 = text(/*difficulty*/ ctx[3]);
+    			t6 = text("]");
+    			br0 = element("br");
+    			t7 = text("beatmap set by ");
+    			b1 = element("b");
+    			t8 = text(/*mapper*/ ctx[2]);
+    			t9 = space();
+    			div3 = element("div");
+    			t10 = text("HP ");
+    			t11 = text(/*hp*/ ctx[6]);
+    			t12 = text(", OD ");
+    			t13 = text(/*od*/ ctx[7]);
+    			t14 = space();
+    			div5 = element("div");
+    			t15 = text(/*category*/ ctx[8]);
+    			t16 = space();
+    			div6 = element("div");
+    			t17 = text(t17_value);
+    			t18 = text(" notes");
+    			br1 = element("br");
+    			t19 = text("(");
+    			t20 = text(t20_value);
+    			t21 = text(" rice, ");
+    			t22 = text(t22_value);
+    			t23 = text(" LNs)");
+    			br2 = element("br");
+    			t24 = space();
+    			t25 = text(t25_value);
+    			t26 = text(" BPM events");
+    			br3 = element("br");
+    			t27 = space();
+    			t28 = text(t28_value);
+    			t29 = text(" SV events");
+    			br4 = element("br");
+    			t30 = space();
+    			t31 = text(t31_value);
+    			t32 = text(" singles");
+    			br5 = element("br");
+    			t33 = space();
+    			t34 = text(t34_value);
+    			t35 = text(" jumps");
+    			br6 = element("br");
+    			t36 = space();
+    			t37 = text(t37_value);
+    			t38 = text(" hands");
+    			br7 = element("br");
+    			t39 = space();
+    			t40 = text(t40_value);
+    			t41 = text(" quads");
+    			attr_dev(div0, "class", "artist");
+    			add_location(div0, file$5, 16, 6, 398);
+    			attr_dev(div1, "class", "name svelte-wc7mb7");
+    			attr_dev(div1, "title", /*title*/ ctx[0]);
+    			add_location(div1, file$5, 17, 6, 440);
+    			attr_dev(a, "href", a_href_value = `https://osu.ppy.sh/beatmapsets/${/*beatmapSetId*/ ctx[5]}#mania/${/*beatmapId*/ ctx[4]}`);
+    			attr_dev(a, "target", "_blank");
+    			add_location(a, file$5, 15, 4, 296);
+    			add_location(b0, file$5, 20, 6, 529);
+    			add_location(br0, file$5, 20, 27, 550);
+    			add_location(b1, file$5, 20, 48, 571);
+    			attr_dev(div2, "class", "mapper");
+    			add_location(div2, file$5, 19, 4, 501);
+    			attr_dev(div3, "class", "metrics svelte-wc7mb7");
+    			add_location(div3, file$5, 22, 4, 604);
+    			attr_dev(div4, "class", "title svelte-wc7mb7");
+    			add_location(div4, file$5, 14, 2, 271);
+    			attr_dev(div5, "class", "category svelte-wc7mb7");
+    			add_location(div5, file$5, 26, 2, 675);
+    			add_location(br1, file$5, 28, 30, 769);
+    			add_location(br2, file$5, 28, 85, 824);
+    			add_location(br3, file$5, 29, 27, 859);
+    			add_location(br4, file$5, 30, 25, 892);
+    			add_location(br5, file$5, 31, 33, 933);
+    			add_location(br6, file$5, 32, 29, 970);
+    			add_location(br7, file$5, 33, 29, 1007);
+    			attr_dev(div6, "class", "counts svelte-wc7mb7");
+    			add_location(div6, file$5, 27, 2, 717);
+    			attr_dev(div7, "class", "root svelte-wc7mb7");
+    			add_location(div7, file$5, 13, 0, 249);
+    		},
+    		l: function claim(nodes) {
+    			throw new Error("options.hydrate only works if the component was compiled with the `hydratable: true` option");
+    		},
+    		m: function mount(target, anchor) {
+    			insert_dev(target, div7, anchor);
+    			append_dev(div7, div4);
+    			append_dev(div4, a);
+    			append_dev(a, div0);
+    			append_dev(div0, t0);
+    			append_dev(a, t1);
+    			append_dev(a, div1);
+    			append_dev(div1, t2);
+    			append_dev(div4, t3);
+    			append_dev(div4, div2);
+    			append_dev(div2, b0);
+    			append_dev(b0, t4);
+    			append_dev(b0, t5);
+    			append_dev(b0, t6);
+    			append_dev(div2, br0);
+    			append_dev(div2, t7);
+    			append_dev(div2, b1);
+    			append_dev(b1, t8);
+    			append_dev(div4, t9);
+    			append_dev(div4, div3);
+    			append_dev(div3, t10);
+    			append_dev(div3, t11);
+    			append_dev(div3, t12);
+    			append_dev(div3, t13);
+    			append_dev(div7, t14);
+    			append_dev(div7, div5);
+    			append_dev(div5, t15);
+    			append_dev(div7, t16);
+    			append_dev(div7, div6);
+    			append_dev(div6, t17);
+    			append_dev(div6, t18);
+    			append_dev(div6, br1);
+    			append_dev(div6, t19);
+    			append_dev(div6, t20);
+    			append_dev(div6, t21);
+    			append_dev(div6, t22);
+    			append_dev(div6, t23);
+    			append_dev(div6, br2);
+    			append_dev(div6, t24);
+    			append_dev(div6, t25);
+    			append_dev(div6, t26);
+    			append_dev(div6, br3);
+    			append_dev(div6, t27);
+    			append_dev(div6, t28);
+    			append_dev(div6, t29);
+    			append_dev(div6, br4);
+    			append_dev(div6, t30);
+    			append_dev(div6, t31);
+    			append_dev(div6, t32);
+    			append_dev(div6, br5);
+    			append_dev(div6, t33);
+    			append_dev(div6, t34);
+    			append_dev(div6, t35);
+    			append_dev(div6, br6);
+    			append_dev(div6, t36);
+    			append_dev(div6, t37);
+    			append_dev(div6, t38);
+    			append_dev(div6, br7);
+    			append_dev(div6, t39);
+    			append_dev(div6, t40);
+    			append_dev(div6, t41);
+    		},
+    		p: function update(ctx, [dirty]) {
+    			if (dirty & /*artist*/ 2) set_data_dev(t0, /*artist*/ ctx[1]);
+    			if (dirty & /*title*/ 1) set_data_dev(t2, /*title*/ ctx[0]);
+
+    			if (dirty & /*title*/ 1) {
+    				attr_dev(div1, "title", /*title*/ ctx[0]);
+    			}
+
+    			if (dirty & /*beatmapSetId, beatmapId*/ 48 && a_href_value !== (a_href_value = `https://osu.ppy.sh/beatmapsets/${/*beatmapSetId*/ ctx[5]}#mania/${/*beatmapId*/ ctx[4]}`)) {
+    				attr_dev(a, "href", a_href_value);
+    			}
+
+    			if (dirty & /*difficulty*/ 8) set_data_dev(t5, /*difficulty*/ ctx[3]);
+    			if (dirty & /*mapper*/ 4) set_data_dev(t8, /*mapper*/ ctx[2]);
+    			if (dirty & /*hp*/ 64) set_data_dev(t11, /*hp*/ ctx[6]);
+    			if (dirty & /*od*/ 128) set_data_dev(t13, /*od*/ ctx[7]);
+    			if (dirty & /*category*/ 256) set_data_dev(t15, /*category*/ ctx[8]);
+    			if (dirty & /*counts*/ 512 && t17_value !== (t17_value = /*counts*/ ctx[9].notes.total + "")) set_data_dev(t17, t17_value);
+    			if (dirty & /*counts*/ 512 && t20_value !== (t20_value = /*counts*/ ctx[9].notes.rice + "")) set_data_dev(t20, t20_value);
+    			if (dirty & /*counts*/ 512 && t22_value !== (t22_value = /*counts*/ ctx[9].notes.ln + "")) set_data_dev(t22, t22_value);
+    			if (dirty & /*counts*/ 512 && t25_value !== (t25_value = /*counts*/ ctx[9].bpm + "")) set_data_dev(t25, t25_value);
+    			if (dirty & /*counts*/ 512 && t28_value !== (t28_value = /*counts*/ ctx[9].sv + "")) set_data_dev(t28, t28_value);
+    			if (dirty & /*counts*/ 512 && t31_value !== (t31_value = /*counts*/ ctx[9].notes.single + "")) set_data_dev(t31, t31_value);
+    			if (dirty & /*counts*/ 512 && t34_value !== (t34_value = /*counts*/ ctx[9].notes.jump + "")) set_data_dev(t34, t34_value);
+    			if (dirty & /*counts*/ 512 && t37_value !== (t37_value = /*counts*/ ctx[9].notes.hand + "")) set_data_dev(t37, t37_value);
+    			if (dirty & /*counts*/ 512 && t40_value !== (t40_value = /*counts*/ ctx[9].notes.quad + "")) set_data_dev(t40, t40_value);
+    		},
+    		i: noop,
+    		o: noop,
+    		d: function destroy(detaching) {
+    			if (detaching) detach_dev(div7);
+    		}
+    	};
+
+    	dispatch_dev("SvelteRegisterBlock", {
+    		block,
+    		id: create_fragment$5.name,
+    		type: "component",
+    		source: "",
+    		ctx
+    	});
+
+    	return block;
+    }
+
+    function instance$5($$self, $$props, $$invalidate) {
+    	let { title } = $$props;
+    	let { artist } = $$props;
+    	let { mapper } = $$props;
+    	let { difficulty } = $$props;
+    	let { beatmapId } = $$props;
+    	let { beatmapSetId } = $$props;
+    	let { hp } = $$props;
+    	let { od } = $$props;
+    	let { category } = $$props;
+    	let { counts } = $$props;
+
+    	const writable_props = [
+    		"title",
+    		"artist",
+    		"mapper",
+    		"difficulty",
+    		"beatmapId",
+    		"beatmapSetId",
+    		"hp",
+    		"od",
+    		"category",
+    		"counts"
+    	];
+
+    	Object.keys($$props).forEach(key => {
+    		if (!~writable_props.indexOf(key) && key.slice(0, 2) !== "$$") console.warn(`<MapCard> was created with unknown prop '${key}'`);
+    	});
+
+    	let { $$slots = {}, $$scope } = $$props;
+    	validate_slots("MapCard", $$slots, []);
+
+    	$$self.$set = $$props => {
+    		if ("title" in $$props) $$invalidate(0, title = $$props.title);
+    		if ("artist" in $$props) $$invalidate(1, artist = $$props.artist);
+    		if ("mapper" in $$props) $$invalidate(2, mapper = $$props.mapper);
+    		if ("difficulty" in $$props) $$invalidate(3, difficulty = $$props.difficulty);
+    		if ("beatmapId" in $$props) $$invalidate(4, beatmapId = $$props.beatmapId);
+    		if ("beatmapSetId" in $$props) $$invalidate(5, beatmapSetId = $$props.beatmapSetId);
+    		if ("hp" in $$props) $$invalidate(6, hp = $$props.hp);
+    		if ("od" in $$props) $$invalidate(7, od = $$props.od);
+    		if ("category" in $$props) $$invalidate(8, category = $$props.category);
+    		if ("counts" in $$props) $$invalidate(9, counts = $$props.counts);
+    	};
+
+    	$$self.$capture_state = () => ({
+    		title,
+    		artist,
+    		mapper,
+    		difficulty,
+    		beatmapId,
+    		beatmapSetId,
+    		hp,
+    		od,
+    		category,
+    		counts
+    	});
+
+    	$$self.$inject_state = $$props => {
+    		if ("title" in $$props) $$invalidate(0, title = $$props.title);
+    		if ("artist" in $$props) $$invalidate(1, artist = $$props.artist);
+    		if ("mapper" in $$props) $$invalidate(2, mapper = $$props.mapper);
+    		if ("difficulty" in $$props) $$invalidate(3, difficulty = $$props.difficulty);
+    		if ("beatmapId" in $$props) $$invalidate(4, beatmapId = $$props.beatmapId);
+    		if ("beatmapSetId" in $$props) $$invalidate(5, beatmapSetId = $$props.beatmapSetId);
+    		if ("hp" in $$props) $$invalidate(6, hp = $$props.hp);
+    		if ("od" in $$props) $$invalidate(7, od = $$props.od);
+    		if ("category" in $$props) $$invalidate(8, category = $$props.category);
+    		if ("counts" in $$props) $$invalidate(9, counts = $$props.counts);
+    	};
+
+    	if ($$props && "$$inject" in $$props) {
+    		$$self.$inject_state($$props.$$inject);
+    	}
+
+    	return [
+    		title,
+    		artist,
+    		mapper,
+    		difficulty,
+    		beatmapId,
+    		beatmapSetId,
+    		hp,
+    		od,
+    		category,
+    		counts
+    	];
+    }
+
+    class MapCard extends SvelteComponentDev {
+    	constructor(options) {
+    		super(options);
+
+    		init(this, options, instance$5, create_fragment$5, safe_not_equal, {
+    			title: 0,
+    			artist: 1,
+    			mapper: 2,
+    			difficulty: 3,
+    			beatmapId: 4,
+    			beatmapSetId: 5,
+    			hp: 6,
+    			od: 7,
+    			category: 8,
+    			counts: 9
+    		});
+
+    		dispatch_dev("SvelteRegisterComponent", {
+    			component: this,
+    			tagName: "MapCard",
+    			options,
+    			id: create_fragment$5.name
+    		});
+
+    		const { ctx } = this.$$;
+    		const props = options.props || {};
+
+    		if (/*title*/ ctx[0] === undefined && !("title" in props)) {
+    			console.warn("<MapCard> was created without expected prop 'title'");
+    		}
+
+    		if (/*artist*/ ctx[1] === undefined && !("artist" in props)) {
+    			console.warn("<MapCard> was created without expected prop 'artist'");
+    		}
+
+    		if (/*mapper*/ ctx[2] === undefined && !("mapper" in props)) {
+    			console.warn("<MapCard> was created without expected prop 'mapper'");
+    		}
+
+    		if (/*difficulty*/ ctx[3] === undefined && !("difficulty" in props)) {
+    			console.warn("<MapCard> was created without expected prop 'difficulty'");
+    		}
+
+    		if (/*beatmapId*/ ctx[4] === undefined && !("beatmapId" in props)) {
+    			console.warn("<MapCard> was created without expected prop 'beatmapId'");
+    		}
+
+    		if (/*beatmapSetId*/ ctx[5] === undefined && !("beatmapSetId" in props)) {
+    			console.warn("<MapCard> was created without expected prop 'beatmapSetId'");
+    		}
+
+    		if (/*hp*/ ctx[6] === undefined && !("hp" in props)) {
+    			console.warn("<MapCard> was created without expected prop 'hp'");
+    		}
+
+    		if (/*od*/ ctx[7] === undefined && !("od" in props)) {
+    			console.warn("<MapCard> was created without expected prop 'od'");
+    		}
+
+    		if (/*category*/ ctx[8] === undefined && !("category" in props)) {
+    			console.warn("<MapCard> was created without expected prop 'category'");
+    		}
+
+    		if (/*counts*/ ctx[9] === undefined && !("counts" in props)) {
+    			console.warn("<MapCard> was created without expected prop 'counts'");
+    		}
+    	}
+
+    	get title() {
+    		throw new Error("<MapCard>: Props cannot be read directly from the component instance unless compiling with 'accessors: true' or '<svelte:options accessors/>'");
+    	}
+
+    	set title(value) {
+    		throw new Error("<MapCard>: Props cannot be set directly on the component instance unless compiling with 'accessors: true' or '<svelte:options accessors/>'");
+    	}
+
+    	get artist() {
+    		throw new Error("<MapCard>: Props cannot be read directly from the component instance unless compiling with 'accessors: true' or '<svelte:options accessors/>'");
+    	}
+
+    	set artist(value) {
+    		throw new Error("<MapCard>: Props cannot be set directly on the component instance unless compiling with 'accessors: true' or '<svelte:options accessors/>'");
+    	}
+
+    	get mapper() {
+    		throw new Error("<MapCard>: Props cannot be read directly from the component instance unless compiling with 'accessors: true' or '<svelte:options accessors/>'");
+    	}
+
+    	set mapper(value) {
+    		throw new Error("<MapCard>: Props cannot be set directly on the component instance unless compiling with 'accessors: true' or '<svelte:options accessors/>'");
+    	}
+
+    	get difficulty() {
+    		throw new Error("<MapCard>: Props cannot be read directly from the component instance unless compiling with 'accessors: true' or '<svelte:options accessors/>'");
+    	}
+
+    	set difficulty(value) {
+    		throw new Error("<MapCard>: Props cannot be set directly on the component instance unless compiling with 'accessors: true' or '<svelte:options accessors/>'");
+    	}
+
+    	get beatmapId() {
+    		throw new Error("<MapCard>: Props cannot be read directly from the component instance unless compiling with 'accessors: true' or '<svelte:options accessors/>'");
+    	}
+
+    	set beatmapId(value) {
+    		throw new Error("<MapCard>: Props cannot be set directly on the component instance unless compiling with 'accessors: true' or '<svelte:options accessors/>'");
+    	}
+
+    	get beatmapSetId() {
+    		throw new Error("<MapCard>: Props cannot be read directly from the component instance unless compiling with 'accessors: true' or '<svelte:options accessors/>'");
+    	}
+
+    	set beatmapSetId(value) {
+    		throw new Error("<MapCard>: Props cannot be set directly on the component instance unless compiling with 'accessors: true' or '<svelte:options accessors/>'");
+    	}
+
+    	get hp() {
+    		throw new Error("<MapCard>: Props cannot be read directly from the component instance unless compiling with 'accessors: true' or '<svelte:options accessors/>'");
+    	}
+
+    	set hp(value) {
+    		throw new Error("<MapCard>: Props cannot be set directly on the component instance unless compiling with 'accessors: true' or '<svelte:options accessors/>'");
+    	}
+
+    	get od() {
+    		throw new Error("<MapCard>: Props cannot be read directly from the component instance unless compiling with 'accessors: true' or '<svelte:options accessors/>'");
+    	}
+
+    	set od(value) {
+    		throw new Error("<MapCard>: Props cannot be set directly on the component instance unless compiling with 'accessors: true' or '<svelte:options accessors/>'");
+    	}
+
+    	get category() {
+    		throw new Error("<MapCard>: Props cannot be read directly from the component instance unless compiling with 'accessors: true' or '<svelte:options accessors/>'");
+    	}
+
+    	set category(value) {
+    		throw new Error("<MapCard>: Props cannot be set directly on the component instance unless compiling with 'accessors: true' or '<svelte:options accessors/>'");
+    	}
+
+    	get counts() {
+    		throw new Error("<MapCard>: Props cannot be read directly from the component instance unless compiling with 'accessors: true' or '<svelte:options accessors/>'");
+    	}
+
+    	set counts(value) {
+    		throw new Error("<MapCard>: Props cannot be set directly on the component instance unless compiling with 'accessors: true' or '<svelte:options accessors/>'");
+    	}
+    }
+
+    /* frontend\pages\Stage.svelte generated by Svelte v3.23.1 */
+    const file$6 = "frontend\\pages\\Stage.svelte";
+
+    function get_each_context$2(ctx, list, i) {
+    	const child_ctx = ctx.slice();
+    	child_ctx[7] = list[i];
+    	return child_ctx;
+    }
+
+    // (72:2) {:else}
+    function create_else_block$1(ctx) {
+    	let p;
+
+    	const block = {
+    		c: function create() {
+    			p = element("p");
+    			p.textContent = "Loading tournament data...";
+    			add_location(p, file$6, 72, 4, 2062);
+    		},
+    		m: function mount(target, anchor) {
+    			insert_dev(target, p, anchor);
+    		},
+    		p: noop,
+    		i: noop,
+    		o: noop,
+    		d: function destroy(detaching) {
+    			if (detaching) detach_dev(p);
+    		}
+    	};
+
+    	dispatch_dev("SvelteRegisterBlock", {
+    		block,
+    		id: create_else_block$1.name,
+    		type: "else",
+    		source: "(72:2) {:else}",
+    		ctx
+    	});
+
+    	return block;
+    }
+
+    // (45:2) {#if !loading}
+    function create_if_block$2(ctx) {
+    	let t0;
+    	let h1;
+    	let t1_value = /*$stage*/ ctx[4].name + "";
+    	let t1;
+    	let t2;
+    	let t3;
+    	let h2;
+    	let t4_value = /*$stage*/ ctx[4].maps.length + "";
+    	let t4;
+    	let t5;
+    	let t6;
+    	let div;
+    	let each_blocks = [];
+    	let each_1_lookup = new Map();
+    	let current;
+
+    	const header = new Header({
+    			props: {
+    				backHref: `#/tournaments/${/*tournamentId*/ ctx[0]}`
+    			},
+    			$$inline: true
+    		});
+
+    	header.$on("search", /*handleSearch*/ ctx[5]);
+    	let if_block = /*$stage*/ ctx[4].rolls && create_if_block_1$2(ctx);
+    	let each_value = /*$stage*/ ctx[4].maps;
+    	validate_each_argument(each_value);
+    	const get_key = ctx => /*map*/ ctx[7].beatmapId;
+    	validate_each_keys(ctx, each_value, get_each_context$2, get_key);
+
+    	for (let i = 0; i < each_value.length; i += 1) {
+    		let child_ctx = get_each_context$2(ctx, each_value, i);
+    		let key = get_key(child_ctx);
+    		each_1_lookup.set(key, each_blocks[i] = create_each_block$2(key, child_ctx));
+    	}
+
+    	const block = {
+    		c: function create() {
+    			create_component(header.$$.fragment);
+    			t0 = space();
+    			h1 = element("h1");
+    			t1 = text(t1_value);
+    			t2 = space();
+    			if (if_block) if_block.c();
+    			t3 = space();
+    			h2 = element("h2");
+    			t4 = text(t4_value);
+    			t5 = text(" maps");
+    			t6 = space();
+    			div = element("div");
+
+    			for (let i = 0; i < each_blocks.length; i += 1) {
+    				each_blocks[i].c();
+    			}
+
+    			add_location(h1, file$6, 46, 4, 1390);
+    			add_location(h2, file$6, 55, 4, 1589);
+    			attr_dev(div, "class", "maps");
+    			add_location(div, file$6, 56, 4, 1629);
+    		},
+    		m: function mount(target, anchor) {
+    			mount_component(header, target, anchor);
+    			insert_dev(target, t0, anchor);
+    			insert_dev(target, h1, anchor);
+    			append_dev(h1, t1);
+    			insert_dev(target, t2, anchor);
+    			if (if_block) if_block.m(target, anchor);
+    			insert_dev(target, t3, anchor);
+    			insert_dev(target, h2, anchor);
+    			append_dev(h2, t4);
+    			append_dev(h2, t5);
+    			insert_dev(target, t6, anchor);
+    			insert_dev(target, div, anchor);
+
+    			for (let i = 0; i < each_blocks.length; i += 1) {
+    				each_blocks[i].m(div, null);
+    			}
+
+    			current = true;
+    		},
+    		p: function update(ctx, dirty) {
+    			const header_changes = {};
+    			if (dirty & /*tournamentId*/ 1) header_changes.backHref = `#/tournaments/${/*tournamentId*/ ctx[0]}`;
+    			header.$set(header_changes);
+    			if ((!current || dirty & /*$stage*/ 16) && t1_value !== (t1_value = /*$stage*/ ctx[4].name + "")) set_data_dev(t1, t1_value);
+
+    			if (/*$stage*/ ctx[4].rolls) {
+    				if (if_block) {
+    					if_block.p(ctx, dirty);
+
+    					if (dirty & /*$stage*/ 16) {
+    						transition_in(if_block, 1);
+    					}
+    				} else {
+    					if_block = create_if_block_1$2(ctx);
+    					if_block.c();
+    					transition_in(if_block, 1);
+    					if_block.m(t3.parentNode, t3);
+    				}
+    			} else if (if_block) {
+    				group_outros();
+
+    				transition_out(if_block, 1, 1, () => {
+    					if_block = null;
+    				});
+
+    				check_outros();
+    			}
+
+    			if ((!current || dirty & /*$stage*/ 16) && t4_value !== (t4_value = /*$stage*/ ctx[4].maps.length + "")) set_data_dev(t4, t4_value);
+
+    			if (dirty & /*$tournament, $stage, filter*/ 28) {
+    				const each_value = /*$stage*/ ctx[4].maps;
+    				validate_each_argument(each_value);
+    				group_outros();
+    				validate_each_keys(ctx, each_value, get_each_context$2, get_key);
+    				each_blocks = update_keyed_each(each_blocks, dirty, get_key, 1, ctx, each_value, each_1_lookup, div, outro_and_destroy_block, create_each_block$2, null, get_each_context$2);
+    				check_outros();
+    			}
+    		},
+    		i: function intro(local) {
+    			if (current) return;
+    			transition_in(header.$$.fragment, local);
+    			transition_in(if_block);
+
+    			for (let i = 0; i < each_value.length; i += 1) {
+    				transition_in(each_blocks[i]);
+    			}
+
+    			current = true;
+    		},
+    		o: function outro(local) {
+    			transition_out(header.$$.fragment, local);
+    			transition_out(if_block);
+
+    			for (let i = 0; i < each_blocks.length; i += 1) {
+    				transition_out(each_blocks[i]);
+    			}
+
+    			current = false;
+    		},
+    		d: function destroy(detaching) {
+    			destroy_component(header, detaching);
+    			if (detaching) detach_dev(t0);
+    			if (detaching) detach_dev(h1);
+    			if (detaching) detach_dev(t2);
+    			if (if_block) if_block.d(detaching);
+    			if (detaching) detach_dev(t3);
+    			if (detaching) detach_dev(h2);
+    			if (detaching) detach_dev(t6);
+    			if (detaching) detach_dev(div);
+
+    			for (let i = 0; i < each_blocks.length; i += 1) {
+    				each_blocks[i].d();
+    			}
+    		}
+    	};
+
+    	dispatch_dev("SvelteRegisterBlock", {
+    		block,
+    		id: create_if_block$2.name,
+    		type: "if",
+    		source: "(45:2) {#if !loading}",
+    		ctx
+    	});
+
+    	return block;
+    }
+
+    // (48:4) {#if $stage.rolls}
+    function create_if_block_1$2(ctx) {
+    	let h2;
+    	let t1;
+    	let current;
+
+    	const rolllist = new RollList({
+    			props: {
+    				rolls: /*$stage*/ ctx[4].rolls,
+    				players: /*$tournament*/ ctx[3].players,
+    				filter: /*filter*/ ctx[2]
+    			},
+    			$$inline: true
+    		});
+
+    	const block = {
+    		c: function create() {
+    			h2 = element("h2");
+    			h2.textContent = "Rolls";
+    			t1 = space();
+    			create_component(rolllist.$$.fragment);
+    			add_location(h2, file$6, 48, 6, 1444);
+    		},
+    		m: function mount(target, anchor) {
+    			insert_dev(target, h2, anchor);
+    			insert_dev(target, t1, anchor);
+    			mount_component(rolllist, target, anchor);
+    			current = true;
+    		},
+    		p: function update(ctx, dirty) {
+    			const rolllist_changes = {};
+    			if (dirty & /*$stage*/ 16) rolllist_changes.rolls = /*$stage*/ ctx[4].rolls;
+    			if (dirty & /*$tournament*/ 8) rolllist_changes.players = /*$tournament*/ ctx[3].players;
+    			if (dirty & /*filter*/ 4) rolllist_changes.filter = /*filter*/ ctx[2];
+    			rolllist.$set(rolllist_changes);
+    		},
+    		i: function intro(local) {
+    			if (current) return;
+    			transition_in(rolllist.$$.fragment, local);
+    			current = true;
+    		},
+    		o: function outro(local) {
+    			transition_out(rolllist.$$.fragment, local);
+    			current = false;
+    		},
+    		d: function destroy(detaching) {
+    			if (detaching) detach_dev(h2);
+    			if (detaching) detach_dev(t1);
+    			destroy_component(rolllist, detaching);
+    		}
+    	};
+
+    	dispatch_dev("SvelteRegisterBlock", {
+    		block,
+    		id: create_if_block_1$2.name,
+    		type: "if",
+    		source: "(48:4) {#if $stage.rolls}",
+    		ctx
+    	});
+
+    	return block;
+    }
+
+    // (58:6) {#each $stage.maps as map (map.beatmapId)}
+    function create_each_block$2(key_1, ctx) {
+    	let div;
+    	let t0;
+    	let t1;
+    	let current;
+    	const mapcard_spread_levels = [/*map*/ ctx[7]];
+    	let mapcard_props = {};
+
+    	for (let i = 0; i < mapcard_spread_levels.length; i += 1) {
+    		mapcard_props = assign(mapcard_props, mapcard_spread_levels[i]);
+    	}
+
+    	const mapcard = new MapCard({ props: mapcard_props, $$inline: true });
+
+    	const scorelist = new ScoreList({
+    			props: {
+    				players: /*$tournament*/ ctx[3].players,
+    				scores: /*map*/ ctx[7].scores,
+    				bans: /*map*/ ctx[7].bans,
+    				pickCount: /*map*/ ctx[7].pickCount,
+    				matchCount: /*$stage*/ ctx[4].matchCount,
+    				filter: /*filter*/ ctx[2]
+    			},
+    			$$inline: true
+    		});
+
+    	const block = {
+    		key: key_1,
+    		first: null,
+    		c: function create() {
+    			div = element("div");
+    			create_component(mapcard.$$.fragment);
+    			t0 = space();
+    			create_component(scorelist.$$.fragment);
+    			t1 = space();
+    			attr_dev(div, "class", "map svelte-ztog05");
+    			add_location(div, file$6, 58, 8, 1707);
+    			this.first = div;
+    		},
+    		m: function mount(target, anchor) {
+    			insert_dev(target, div, anchor);
+    			mount_component(mapcard, div, null);
+    			append_dev(div, t0);
+    			mount_component(scorelist, div, null);
+    			append_dev(div, t1);
+    			current = true;
+    		},
+    		p: function update(ctx, dirty) {
+    			const mapcard_changes = (dirty & /*$stage*/ 16)
+    			? get_spread_update(mapcard_spread_levels, [get_spread_object(/*map*/ ctx[7])])
+    			: {};
+
+    			mapcard.$set(mapcard_changes);
+    			const scorelist_changes = {};
+    			if (dirty & /*$tournament*/ 8) scorelist_changes.players = /*$tournament*/ ctx[3].players;
+    			if (dirty & /*$stage*/ 16) scorelist_changes.scores = /*map*/ ctx[7].scores;
+    			if (dirty & /*$stage*/ 16) scorelist_changes.bans = /*map*/ ctx[7].bans;
+    			if (dirty & /*$stage*/ 16) scorelist_changes.pickCount = /*map*/ ctx[7].pickCount;
+    			if (dirty & /*$stage*/ 16) scorelist_changes.matchCount = /*$stage*/ ctx[4].matchCount;
+    			if (dirty & /*filter*/ 4) scorelist_changes.filter = /*filter*/ ctx[2];
+    			scorelist.$set(scorelist_changes);
+    		},
+    		i: function intro(local) {
+    			if (current) return;
+    			transition_in(mapcard.$$.fragment, local);
+    			transition_in(scorelist.$$.fragment, local);
+    			current = true;
+    		},
+    		o: function outro(local) {
+    			transition_out(mapcard.$$.fragment, local);
+    			transition_out(scorelist.$$.fragment, local);
+    			current = false;
+    		},
+    		d: function destroy(detaching) {
+    			if (detaching) detach_dev(div);
+    			destroy_component(mapcard);
+    			destroy_component(scorelist);
+    		}
+    	};
+
+    	dispatch_dev("SvelteRegisterBlock", {
+    		block,
+    		id: create_each_block$2.name,
+    		type: "each",
+    		source: "(58:6) {#each $stage.maps as map (map.beatmapId)}",
+    		ctx
+    	});
+
+    	return block;
+    }
+
+    function create_fragment$6(ctx) {
+    	let main;
+    	let current_block_type_index;
+    	let if_block;
+    	let current;
+    	const if_block_creators = [create_if_block$2, create_else_block$1];
+    	const if_blocks = [];
+
+    	function select_block_type(ctx, dirty) {
+    		if (!/*loading*/ ctx[1]) return 0;
+    		return 1;
+    	}
+
+    	current_block_type_index = select_block_type(ctx);
+    	if_block = if_blocks[current_block_type_index] = if_block_creators[current_block_type_index](ctx);
+
+    	const block = {
+    		c: function create() {
+    			main = element("main");
+    			if_block.c();
+    			attr_dev(main, "class", "svelte-ztog05");
+    			add_location(main, file$6, 43, 0, 1276);
+    		},
+    		l: function claim(nodes) {
+    			throw new Error("options.hydrate only works if the component was compiled with the `hydratable: true` option");
+    		},
+    		m: function mount(target, anchor) {
+    			insert_dev(target, main, anchor);
+    			if_blocks[current_block_type_index].m(main, null);
+    			current = true;
+    		},
+    		p: function update(ctx, [dirty]) {
+    			let previous_block_index = current_block_type_index;
+    			current_block_type_index = select_block_type(ctx);
+
+    			if (current_block_type_index === previous_block_index) {
+    				if_blocks[current_block_type_index].p(ctx, dirty);
+    			} else {
+    				group_outros();
+
+    				transition_out(if_blocks[previous_block_index], 1, 1, () => {
+    					if_blocks[previous_block_index] = null;
+    				});
+
+    				check_outros();
+    				if_block = if_blocks[current_block_type_index];
+
+    				if (!if_block) {
+    					if_block = if_blocks[current_block_type_index] = if_block_creators[current_block_type_index](ctx);
+    					if_block.c();
+    				}
+
+    				transition_in(if_block, 1);
+    				if_block.m(main, null);
+    			}
+    		},
+    		i: function intro(local) {
+    			if (current) return;
+    			transition_in(if_block);
+    			current = true;
+    		},
+    		o: function outro(local) {
+    			transition_out(if_block);
+    			current = false;
+    		},
+    		d: function destroy(detaching) {
+    			if (detaching) detach_dev(main);
+    			if_blocks[current_block_type_index].d();
+    		}
+    	};
+
+    	dispatch_dev("SvelteRegisterBlock", {
+    		block,
+    		id: create_fragment$6.name,
+    		type: "component",
+    		source: "",
+    		ctx
+    	});
+
+    	return block;
+    }
+
+    function instance$6($$self, $$props, $$invalidate) {
+    	let $tournament;
+    	let $stage;
+    	validate_store(tournament, "tournament");
+    	component_subscribe($$self, tournament, $$value => $$invalidate(3, $tournament = $$value));
+    	validate_store(stage, "stage");
+    	component_subscribe($$self, stage, $$value => $$invalidate(4, $stage = $$value));
+    	let { id } = $$props;
+    	let { tournamentId } = $$props;
+    	let loading = true;
+    	let filter = null;
+
+    	function handleSearch(event) {
+    		$$invalidate(2, filter = event.detail);
+    	}
+
+    	onMount(async () => {
+    		if (!$tournament || $tournament.id != tournamentId) {
+    			try {
+    				tournament.set(null);
+    				stage.set(null);
+    				const res1 = await fetch(`data/${tournamentId}.json`);
+    				tournament.set(await res1.json());
+    				const res2 = await fetch(`data/${tournamentId}.${id}.json`);
+    				stage.set(await res2.json());
+    			} catch {
+    				location.hash = "";
+    			}
+    		}
+
+    		if (!$stage || $stage.id != id) {
+    			try {
+    				stage.set(null);
+    				const res = await fetch(`data/${tournamentId}.${id}.json`);
+    				stage.set(await res.json());
+    			} catch {
+    				location.hash = `#/tournaments/${tournamentId}`;
+    			}
+    		}
+
+    		$$invalidate(1, loading = false);
+    	});
+
+    	const writable_props = ["id", "tournamentId"];
+
+    	Object.keys($$props).forEach(key => {
+    		if (!~writable_props.indexOf(key) && key.slice(0, 2) !== "$$") console.warn(`<Stage> was created with unknown prop '${key}'`);
+    	});
+
+    	let { $$slots = {}, $$scope } = $$props;
+    	validate_slots("Stage", $$slots, []);
+
+    	$$self.$set = $$props => {
+    		if ("id" in $$props) $$invalidate(6, id = $$props.id);
+    		if ("tournamentId" in $$props) $$invalidate(0, tournamentId = $$props.tournamentId);
+    	};
+
+    	$$self.$capture_state = () => ({
+    		onMount,
+    		tournament,
+    		stage,
+    		Header,
+    		RollList,
+    		ScoreList,
+    		MapCard,
+    		id,
+    		tournamentId,
+    		loading,
+    		filter,
+    		handleSearch,
+    		$tournament,
+    		$stage
+    	});
+
+    	$$self.$inject_state = $$props => {
+    		if ("id" in $$props) $$invalidate(6, id = $$props.id);
+    		if ("tournamentId" in $$props) $$invalidate(0, tournamentId = $$props.tournamentId);
+    		if ("loading" in $$props) $$invalidate(1, loading = $$props.loading);
+    		if ("filter" in $$props) $$invalidate(2, filter = $$props.filter);
+    	};
+
+    	if ($$props && "$$inject" in $$props) {
+    		$$self.$inject_state($$props.$$inject);
+    	}
+
+    	return [tournamentId, loading, filter, $tournament, $stage, handleSearch, id];
+    }
+
+    class Stage extends SvelteComponentDev {
+    	constructor(options) {
+    		super(options);
+    		init(this, options, instance$6, create_fragment$6, safe_not_equal, { id: 6, tournamentId: 0 });
+
+    		dispatch_dev("SvelteRegisterComponent", {
+    			component: this,
+    			tagName: "Stage",
+    			options,
+    			id: create_fragment$6.name
+    		});
+
+    		const { ctx } = this.$$;
+    		const props = options.props || {};
+
+    		if (/*id*/ ctx[6] === undefined && !("id" in props)) {
+    			console.warn("<Stage> was created without expected prop 'id'");
+    		}
+
+    		if (/*tournamentId*/ ctx[0] === undefined && !("tournamentId" in props)) {
+    			console.warn("<Stage> was created without expected prop 'tournamentId'");
+    		}
+    	}
+
+    	get id() {
+    		throw new Error("<Stage>: Props cannot be read directly from the component instance unless compiling with 'accessors: true' or '<svelte:options accessors/>'");
+    	}
+
+    	set id(value) {
+    		throw new Error("<Stage>: Props cannot be set directly on the component instance unless compiling with 'accessors: true' or '<svelte:options accessors/>'");
+    	}
+
+    	get tournamentId() {
+    		throw new Error("<Stage>: Props cannot be read directly from the component instance unless compiling with 'accessors: true' or '<svelte:options accessors/>'");
+    	}
+
+    	set tournamentId(value) {
+    		throw new Error("<Stage>: Props cannot be set directly on the component instance unless compiling with 'accessors: true' or '<svelte:options accessors/>'");
+    	}
+    }
+
+    /* frontend\components\molecules\PlayerRow.svelte generated by Svelte v3.23.1 */
+
+    const file$7 = "frontend\\components\\molecules\\PlayerRow.svelte";
+
+    function create_fragment$7(ctx) {
+    	let div3;
+    	let div0;
+    	let img;
+    	let img_src_value;
+    	let t0;
+    	let div1;
+    	let a;
+    	let t1;
+    	let a_href_value;
+    	let t2;
+    	let div2;
+    	let t3;
+    	let t4;
+    	let t5;
+    	let t6;
+    	let t7;
+    	let br;
+    	let t8;
+    	let t9;
+    	let t10;
+    	let t11;
+    	let t12;
+
+    	const block = {
+    		c: function create() {
+    			div3 = element("div");
+    			div0 = element("div");
+    			img = element("img");
+    			t0 = space();
+    			div1 = element("div");
+    			a = element("a");
+    			t1 = text(/*name*/ ctx[1]);
+    			t2 = space();
+    			div2 = element("div");
+    			t3 = text("#");
+    			t4 = text(/*rank*/ ctx[5]);
+    			t5 = text(" (");
+    			t6 = text(/*pp*/ ctx[4]);
+    			t7 = text(" pp)");
+    			br = element("br");
+    			t8 = space();
+    			t9 = text(/*country*/ ctx[3]);
+    			t10 = text(" (#");
+    			t11 = text(/*countryRank*/ ctx[6]);
+    			t12 = text(")");
+    			if (img.src !== (img_src_value = /*avatar*/ ctx[2])) attr_dev(img, "src", img_src_value);
+    			attr_dev(img, "alt", "");
+    			attr_dev(img, "class", "svelte-ot3nx9");
+    			add_location(img, file$7, 12, 4, 219);
+    			attr_dev(div0, "class", "avatar svelte-ot3nx9");
+    			add_location(div0, file$7, 11, 2, 193);
+    			attr_dev(a, "href", a_href_value = `https://osu.ppy.sh/users/${/*id*/ ctx[0]}`);
+    			attr_dev(a, "target", "_blank");
+    			add_location(a, file$7, 15, 4, 284);
+    			attr_dev(div1, "class", "name svelte-ot3nx9");
+    			add_location(div1, file$7, 14, 2, 260);
+    			add_location(br, file$7, 20, 21, 422);
+    			attr_dev(div2, "class", "info svelte-ot3nx9");
+    			add_location(div2, file$7, 19, 2, 381);
+    			attr_dev(div3, "class", "root svelte-ot3nx9");
+    			add_location(div3, file$7, 10, 0, 171);
+    		},
+    		l: function claim(nodes) {
+    			throw new Error("options.hydrate only works if the component was compiled with the `hydratable: true` option");
+    		},
+    		m: function mount(target, anchor) {
+    			insert_dev(target, div3, anchor);
+    			append_dev(div3, div0);
+    			append_dev(div0, img);
+    			append_dev(div3, t0);
+    			append_dev(div3, div1);
+    			append_dev(div1, a);
+    			append_dev(a, t1);
+    			append_dev(div3, t2);
+    			append_dev(div3, div2);
+    			append_dev(div2, t3);
+    			append_dev(div2, t4);
+    			append_dev(div2, t5);
+    			append_dev(div2, t6);
+    			append_dev(div2, t7);
+    			append_dev(div2, br);
+    			append_dev(div2, t8);
+    			append_dev(div2, t9);
+    			append_dev(div2, t10);
+    			append_dev(div2, t11);
+    			append_dev(div2, t12);
+    		},
+    		p: function update(ctx, [dirty]) {
+    			if (dirty & /*avatar*/ 4 && img.src !== (img_src_value = /*avatar*/ ctx[2])) {
+    				attr_dev(img, "src", img_src_value);
+    			}
+
+    			if (dirty & /*name*/ 2) set_data_dev(t1, /*name*/ ctx[1]);
+
+    			if (dirty & /*id*/ 1 && a_href_value !== (a_href_value = `https://osu.ppy.sh/users/${/*id*/ ctx[0]}`)) {
+    				attr_dev(a, "href", a_href_value);
+    			}
+
+    			if (dirty & /*rank*/ 32) set_data_dev(t4, /*rank*/ ctx[5]);
+    			if (dirty & /*pp*/ 16) set_data_dev(t6, /*pp*/ ctx[4]);
+    			if (dirty & /*country*/ 8) set_data_dev(t9, /*country*/ ctx[3]);
+    			if (dirty & /*countryRank*/ 64) set_data_dev(t11, /*countryRank*/ ctx[6]);
+    		},
+    		i: noop,
+    		o: noop,
+    		d: function destroy(detaching) {
+    			if (detaching) detach_dev(div3);
+    		}
+    	};
+
+    	dispatch_dev("SvelteRegisterBlock", {
+    		block,
+    		id: create_fragment$7.name,
+    		type: "component",
+    		source: "",
+    		ctx
+    	});
+
+    	return block;
+    }
+
+    function instance$7($$self, $$props, $$invalidate) {
+    	let { id } = $$props;
+    	let { name } = $$props;
+    	let { avatar } = $$props;
+    	let { country } = $$props;
+    	let { pp } = $$props;
+    	let { rank } = $$props;
+    	let { countryRank } = $$props;
+    	const writable_props = ["id", "name", "avatar", "country", "pp", "rank", "countryRank"];
+
+    	Object.keys($$props).forEach(key => {
+    		if (!~writable_props.indexOf(key) && key.slice(0, 2) !== "$$") console.warn(`<PlayerRow> was created with unknown prop '${key}'`);
+    	});
+
+    	let { $$slots = {}, $$scope } = $$props;
+    	validate_slots("PlayerRow", $$slots, []);
+
+    	$$self.$set = $$props => {
+    		if ("id" in $$props) $$invalidate(0, id = $$props.id);
+    		if ("name" in $$props) $$invalidate(1, name = $$props.name);
+    		if ("avatar" in $$props) $$invalidate(2, avatar = $$props.avatar);
+    		if ("country" in $$props) $$invalidate(3, country = $$props.country);
+    		if ("pp" in $$props) $$invalidate(4, pp = $$props.pp);
+    		if ("rank" in $$props) $$invalidate(5, rank = $$props.rank);
+    		if ("countryRank" in $$props) $$invalidate(6, countryRank = $$props.countryRank);
+    	};
+
+    	$$self.$capture_state = () => ({
+    		id,
+    		name,
+    		avatar,
+    		country,
+    		pp,
+    		rank,
+    		countryRank
+    	});
+
+    	$$self.$inject_state = $$props => {
+    		if ("id" in $$props) $$invalidate(0, id = $$props.id);
+    		if ("name" in $$props) $$invalidate(1, name = $$props.name);
+    		if ("avatar" in $$props) $$invalidate(2, avatar = $$props.avatar);
+    		if ("country" in $$props) $$invalidate(3, country = $$props.country);
+    		if ("pp" in $$props) $$invalidate(4, pp = $$props.pp);
+    		if ("rank" in $$props) $$invalidate(5, rank = $$props.rank);
+    		if ("countryRank" in $$props) $$invalidate(6, countryRank = $$props.countryRank);
+    	};
+
+    	if ($$props && "$$inject" in $$props) {
+    		$$self.$inject_state($$props.$$inject);
+    	}
+
+    	return [id, name, avatar, country, pp, rank, countryRank];
+    }
+
+    class PlayerRow extends SvelteComponentDev {
+    	constructor(options) {
+    		super(options);
+
+    		init(this, options, instance$7, create_fragment$7, safe_not_equal, {
+    			id: 0,
+    			name: 1,
+    			avatar: 2,
+    			country: 3,
+    			pp: 4,
+    			rank: 5,
+    			countryRank: 6
+    		});
+
+    		dispatch_dev("SvelteRegisterComponent", {
+    			component: this,
+    			tagName: "PlayerRow",
+    			options,
+    			id: create_fragment$7.name
+    		});
+
+    		const { ctx } = this.$$;
+    		const props = options.props || {};
+
+    		if (/*id*/ ctx[0] === undefined && !("id" in props)) {
+    			console.warn("<PlayerRow> was created without expected prop 'id'");
+    		}
+
+    		if (/*name*/ ctx[1] === undefined && !("name" in props)) {
+    			console.warn("<PlayerRow> was created without expected prop 'name'");
+    		}
+
+    		if (/*avatar*/ ctx[2] === undefined && !("avatar" in props)) {
+    			console.warn("<PlayerRow> was created without expected prop 'avatar'");
+    		}
+
+    		if (/*country*/ ctx[3] === undefined && !("country" in props)) {
+    			console.warn("<PlayerRow> was created without expected prop 'country'");
+    		}
+
+    		if (/*pp*/ ctx[4] === undefined && !("pp" in props)) {
+    			console.warn("<PlayerRow> was created without expected prop 'pp'");
+    		}
+
+    		if (/*rank*/ ctx[5] === undefined && !("rank" in props)) {
+    			console.warn("<PlayerRow> was created without expected prop 'rank'");
+    		}
+
+    		if (/*countryRank*/ ctx[6] === undefined && !("countryRank" in props)) {
+    			console.warn("<PlayerRow> was created without expected prop 'countryRank'");
+    		}
+    	}
+
+    	get id() {
+    		throw new Error("<PlayerRow>: Props cannot be read directly from the component instance unless compiling with 'accessors: true' or '<svelte:options accessors/>'");
+    	}
+
+    	set id(value) {
+    		throw new Error("<PlayerRow>: Props cannot be set directly on the component instance unless compiling with 'accessors: true' or '<svelte:options accessors/>'");
+    	}
+
+    	get name() {
+    		throw new Error("<PlayerRow>: Props cannot be read directly from the component instance unless compiling with 'accessors: true' or '<svelte:options accessors/>'");
+    	}
+
+    	set name(value) {
+    		throw new Error("<PlayerRow>: Props cannot be set directly on the component instance unless compiling with 'accessors: true' or '<svelte:options accessors/>'");
+    	}
+
+    	get avatar() {
+    		throw new Error("<PlayerRow>: Props cannot be read directly from the component instance unless compiling with 'accessors: true' or '<svelte:options accessors/>'");
+    	}
+
+    	set avatar(value) {
+    		throw new Error("<PlayerRow>: Props cannot be set directly on the component instance unless compiling with 'accessors: true' or '<svelte:options accessors/>'");
+    	}
+
+    	get country() {
+    		throw new Error("<PlayerRow>: Props cannot be read directly from the component instance unless compiling with 'accessors: true' or '<svelte:options accessors/>'");
+    	}
+
+    	set country(value) {
+    		throw new Error("<PlayerRow>: Props cannot be set directly on the component instance unless compiling with 'accessors: true' or '<svelte:options accessors/>'");
+    	}
+
+    	get pp() {
+    		throw new Error("<PlayerRow>: Props cannot be read directly from the component instance unless compiling with 'accessors: true' or '<svelte:options accessors/>'");
+    	}
+
+    	set pp(value) {
+    		throw new Error("<PlayerRow>: Props cannot be set directly on the component instance unless compiling with 'accessors: true' or '<svelte:options accessors/>'");
+    	}
+
+    	get rank() {
+    		throw new Error("<PlayerRow>: Props cannot be read directly from the component instance unless compiling with 'accessors: true' or '<svelte:options accessors/>'");
+    	}
+
+    	set rank(value) {
+    		throw new Error("<PlayerRow>: Props cannot be set directly on the component instance unless compiling with 'accessors: true' or '<svelte:options accessors/>'");
+    	}
+
+    	get countryRank() {
+    		throw new Error("<PlayerRow>: Props cannot be read directly from the component instance unless compiling with 'accessors: true' or '<svelte:options accessors/>'");
+    	}
+
+    	set countryRank(value) {
+    		throw new Error("<PlayerRow>: Props cannot be set directly on the component instance unless compiling with 'accessors: true' or '<svelte:options accessors/>'");
+    	}
+    }
+
+    /* frontend\components\organisms\PlayerList.svelte generated by Svelte v3.23.1 */
+    const file$8 = "frontend\\components\\organisms\\PlayerList.svelte";
+
+    function get_each_context$3(ctx, list, i) {
+    	const child_ctx = ctx.slice();
+    	child_ctx[7] = list[i];
+    	return child_ctx;
+    }
+
+    // (32:4) {#each sortedPlayers as player}
+    function create_each_block$3(ctx) {
+    	let current;
+    	const playerrow_spread_levels = [/*player*/ ctx[7]];
+    	let playerrow_props = {};
+
+    	for (let i = 0; i < playerrow_spread_levels.length; i += 1) {
+    		playerrow_props = assign(playerrow_props, playerrow_spread_levels[i]);
+    	}
+
+    	const playerrow = new PlayerRow({ props: playerrow_props, $$inline: true });
+
+    	const block = {
+    		c: function create() {
+    			create_component(playerrow.$$.fragment);
+    		},
+    		m: function mount(target, anchor) {
+    			mount_component(playerrow, target, anchor);
+    			current = true;
+    		},
+    		p: function update(ctx, dirty) {
+    			const playerrow_changes = (dirty & /*sortedPlayers*/ 1)
+    			? get_spread_update(playerrow_spread_levels, [get_spread_object(/*player*/ ctx[7])])
+    			: {};
+
+    			playerrow.$set(playerrow_changes);
+    		},
+    		i: function intro(local) {
+    			if (current) return;
+    			transition_in(playerrow.$$.fragment, local);
+    			current = true;
+    		},
+    		o: function outro(local) {
+    			transition_out(playerrow.$$.fragment, local);
+    			current = false;
+    		},
+    		d: function destroy(detaching) {
+    			destroy_component(playerrow, detaching);
+    		}
+    	};
+
+    	dispatch_dev("SvelteRegisterBlock", {
+    		block,
+    		id: create_each_block$3.name,
+    		type: "each",
+    		source: "(32:4) {#each sortedPlayers as player}",
+    		ctx
+    	});
+
+    	return block;
+    }
+
+    function create_fragment$8(ctx) {
+    	let div1;
+    	let button0;
+    	let t1;
+    	let button1;
+    	let t3;
+    	let div0;
+    	let current;
+    	let mounted;
+    	let dispose;
+    	let each_value = /*sortedPlayers*/ ctx[0];
+    	validate_each_argument(each_value);
+    	let each_blocks = [];
+
+    	for (let i = 0; i < each_value.length; i += 1) {
+    		each_blocks[i] = create_each_block$3(get_each_context$3(ctx, each_value, i));
+    	}
+
+    	const out = i => transition_out(each_blocks[i], 1, 1, () => {
+    		each_blocks[i] = null;
+    	});
+
+    	const block = {
+    		c: function create() {
+    			div1 = element("div");
+    			button0 = element("button");
+    			button0.textContent = "Alphabetical";
+    			t1 = space();
+    			button1 = element("button");
+    			button1.textContent = "Rank";
+    			t3 = space();
+    			div0 = element("div");
+
+    			for (let i = 0; i < each_blocks.length; i += 1) {
+    				each_blocks[i].c();
+    			}
+
+    			add_location(button0, file$8, 28, 2, 719);
+    			add_location(button1, file$8, 29, 2, 786);
+    			attr_dev(div0, "class", "players svelte-xa7zg9");
+    			add_location(div0, file$8, 30, 2, 837);
+    			attr_dev(div1, "class", "root");
+    			add_location(div1, file$8, 27, 0, 697);
+    		},
+    		l: function claim(nodes) {
+    			throw new Error("options.hydrate only works if the component was compiled with the `hydratable: true` option");
+    		},
+    		m: function mount(target, anchor) {
+    			insert_dev(target, div1, anchor);
+    			append_dev(div1, button0);
+    			append_dev(div1, t1);
+    			append_dev(div1, button1);
+    			append_dev(div1, t3);
+    			append_dev(div1, div0);
+
+    			for (let i = 0; i < each_blocks.length; i += 1) {
+    				each_blocks[i].m(div0, null);
+    			}
+
+    			current = true;
+
+    			if (!mounted) {
+    				dispose = [
+    					listen_dev(button0, "click", /*handleAlphabeticalSort*/ ctx[1], false, false, false),
+    					listen_dev(button1, "click", /*handleRankSort*/ ctx[2], false, false, false)
+    				];
+
+    				mounted = true;
+    			}
+    		},
+    		p: function update(ctx, [dirty]) {
+    			if (dirty & /*sortedPlayers*/ 1) {
+    				each_value = /*sortedPlayers*/ ctx[0];
+    				validate_each_argument(each_value);
+    				let i;
+
+    				for (i = 0; i < each_value.length; i += 1) {
+    					const child_ctx = get_each_context$3(ctx, each_value, i);
+
+    					if (each_blocks[i]) {
+    						each_blocks[i].p(child_ctx, dirty);
+    						transition_in(each_blocks[i], 1);
+    					} else {
+    						each_blocks[i] = create_each_block$3(child_ctx);
+    						each_blocks[i].c();
+    						transition_in(each_blocks[i], 1);
+    						each_blocks[i].m(div0, null);
+    					}
+    				}
+
+    				group_outros();
+
+    				for (i = each_value.length; i < each_blocks.length; i += 1) {
+    					out(i);
+    				}
+
+    				check_outros();
+    			}
+    		},
+    		i: function intro(local) {
+    			if (current) return;
+
+    			for (let i = 0; i < each_value.length; i += 1) {
+    				transition_in(each_blocks[i]);
+    			}
+
+    			current = true;
+    		},
+    		o: function outro(local) {
+    			each_blocks = each_blocks.filter(Boolean);
+
+    			for (let i = 0; i < each_blocks.length; i += 1) {
+    				transition_out(each_blocks[i]);
+    			}
+
+    			current = false;
+    		},
+    		d: function destroy(detaching) {
+    			if (detaching) detach_dev(div1);
+    			destroy_each(each_blocks, detaching);
+    			mounted = false;
+    			run_all(dispose);
+    		}
+    	};
+
+    	dispatch_dev("SvelteRegisterBlock", {
+    		block,
+    		id: create_fragment$8.name,
+    		type: "component",
+    		source: "",
+    		ctx
+    	});
+
+    	return block;
+    }
+
+    function instance$8($$self, $$props, $$invalidate) {
+    	let { players } = $$props;
+    	let { sort = "rank" } = $$props;
+    	let sortedPlayers;
+    	const sortByAlphabetical = players => players.sort((a, b) => a.name.toLowerCase() < b.name.toLowerCase() ? -1 : 1);
+    	const sortByRank = players => players.sort((a, b) => a.rank < b.rank ? -1 : 1);
+
+    	function handleAlphabeticalSort() {
+    		$$invalidate(0, sortedPlayers = sortByAlphabetical(players));
+    	}
+
+    	function handleRankSort() {
+    		$$invalidate(0, sortedPlayers = sortByRank(players));
+    	}
+
+    	const writable_props = ["players", "sort"];
+
+    	Object.keys($$props).forEach(key => {
+    		if (!~writable_props.indexOf(key) && key.slice(0, 2) !== "$$") console.warn(`<PlayerList> was created with unknown prop '${key}'`);
+    	});
+
+    	let { $$slots = {}, $$scope } = $$props;
+    	validate_slots("PlayerList", $$slots, []);
+
+    	$$self.$set = $$props => {
+    		if ("players" in $$props) $$invalidate(3, players = $$props.players);
+    		if ("sort" in $$props) $$invalidate(4, sort = $$props.sort);
+    	};
+
+    	$$self.$capture_state = () => ({
+    		PlayerRow,
+    		players,
+    		sort,
+    		sortedPlayers,
+    		sortByAlphabetical,
+    		sortByRank,
+    		handleAlphabeticalSort,
+    		handleRankSort
+    	});
+
+    	$$self.$inject_state = $$props => {
+    		if ("players" in $$props) $$invalidate(3, players = $$props.players);
+    		if ("sort" in $$props) $$invalidate(4, sort = $$props.sort);
+    		if ("sortedPlayers" in $$props) $$invalidate(0, sortedPlayers = $$props.sortedPlayers);
+    	};
+
+    	if ($$props && "$$inject" in $$props) {
+    		$$self.$inject_state($$props.$$inject);
+    	}
+
+    	$$self.$$.update = () => {
+    		if ($$self.$$.dirty & /*sort, players*/ 24) {
+    			 {
+    				if (sort === "rank") {
+    					$$invalidate(0, sortedPlayers = sortByRank(players));
+    				} else {
+    					$$invalidate(0, sortedPlayers = sortByAlphabetical(players));
+    				}
+    			}
+    		}
+    	};
+
+    	return [sortedPlayers, handleAlphabeticalSort, handleRankSort, players, sort];
+    }
+
+    class PlayerList extends SvelteComponentDev {
+    	constructor(options) {
+    		super(options);
+    		init(this, options, instance$8, create_fragment$8, safe_not_equal, { players: 3, sort: 4 });
+
+    		dispatch_dev("SvelteRegisterComponent", {
+    			component: this,
+    			tagName: "PlayerList",
+    			options,
+    			id: create_fragment$8.name
+    		});
+
+    		const { ctx } = this.$$;
+    		const props = options.props || {};
+
+    		if (/*players*/ ctx[3] === undefined && !("players" in props)) {
+    			console.warn("<PlayerList> was created without expected prop 'players'");
+    		}
+    	}
+
+    	get players() {
+    		throw new Error("<PlayerList>: Props cannot be read directly from the component instance unless compiling with 'accessors: true' or '<svelte:options accessors/>'");
+    	}
+
+    	set players(value) {
+    		throw new Error("<PlayerList>: Props cannot be set directly on the component instance unless compiling with 'accessors: true' or '<svelte:options accessors/>'");
+    	}
+
+    	get sort() {
+    		throw new Error("<PlayerList>: Props cannot be read directly from the component instance unless compiling with 'accessors: true' or '<svelte:options accessors/>'");
+    	}
+
+    	set sort(value) {
+    		throw new Error("<PlayerList>: Props cannot be set directly on the component instance unless compiling with 'accessors: true' or '<svelte:options accessors/>'");
+    	}
+    }
+
+    /* frontend\components\molecules\StageRow.svelte generated by Svelte v3.23.1 */
+
+    const file$9 = "frontend\\components\\molecules\\StageRow.svelte";
+
+    function create_fragment$9(ctx) {
+    	let div2;
+    	let div0;
+    	let a;
+    	let t0;
+    	let t1;
+    	let div1;
+    	let t2;
+    	let t3;
+
+    	const block = {
+    		c: function create() {
+    			div2 = element("div");
+    			div0 = element("div");
+    			a = element("a");
+    			t0 = text(/*name*/ ctx[0]);
+    			t1 = space();
+    			div1 = element("div");
+    			t2 = text(/*mapCount*/ ctx[1]);
+    			t3 = text(" maps");
+    			attr_dev(a, "href", /*href*/ ctx[2]);
+    			add_location(a, file$9, 8, 4, 133);
+    			attr_dev(div0, "class", "name svelte-b5fgg6");
+    			add_location(div0, file$9, 7, 2, 109);
+    			attr_dev(div1, "class", "maps svelte-b5fgg6");
+    			add_location(div1, file$9, 12, 2, 186);
+    			attr_dev(div2, "class", "root svelte-b5fgg6");
+    			add_location(div2, file$9, 6, 0, 87);
+    		},
+    		l: function claim(nodes) {
+    			throw new Error("options.hydrate only works if the component was compiled with the `hydratable: true` option");
+    		},
+    		m: function mount(target, anchor) {
+    			insert_dev(target, div2, anchor);
+    			append_dev(div2, div0);
+    			append_dev(div0, a);
+    			append_dev(a, t0);
+    			append_dev(div2, t1);
+    			append_dev(div2, div1);
+    			append_dev(div1, t2);
+    			append_dev(div1, t3);
+    		},
+    		p: function update(ctx, [dirty]) {
+    			if (dirty & /*name*/ 1) set_data_dev(t0, /*name*/ ctx[0]);
+
+    			if (dirty & /*href*/ 4) {
+    				attr_dev(a, "href", /*href*/ ctx[2]);
+    			}
+
+    			if (dirty & /*mapCount*/ 2) set_data_dev(t2, /*mapCount*/ ctx[1]);
+    		},
+    		i: noop,
+    		o: noop,
+    		d: function destroy(detaching) {
+    			if (detaching) detach_dev(div2);
+    		}
+    	};
+
+    	dispatch_dev("SvelteRegisterBlock", {
+    		block,
+    		id: create_fragment$9.name,
+    		type: "component",
+    		source: "",
+    		ctx
+    	});
+
+    	return block;
+    }
+
+    function instance$9($$self, $$props, $$invalidate) {
+    	let { name } = $$props;
+    	let { mapCount } = $$props;
+    	let { href } = $$props;
+    	const writable_props = ["name", "mapCount", "href"];
+
+    	Object.keys($$props).forEach(key => {
+    		if (!~writable_props.indexOf(key) && key.slice(0, 2) !== "$$") console.warn(`<StageRow> was created with unknown prop '${key}'`);
+    	});
+
+    	let { $$slots = {}, $$scope } = $$props;
+    	validate_slots("StageRow", $$slots, []);
+
+    	$$self.$set = $$props => {
+    		if ("name" in $$props) $$invalidate(0, name = $$props.name);
+    		if ("mapCount" in $$props) $$invalidate(1, mapCount = $$props.mapCount);
+    		if ("href" in $$props) $$invalidate(2, href = $$props.href);
+    	};
+
+    	$$self.$capture_state = () => ({ name, mapCount, href });
+
+    	$$self.$inject_state = $$props => {
+    		if ("name" in $$props) $$invalidate(0, name = $$props.name);
+    		if ("mapCount" in $$props) $$invalidate(1, mapCount = $$props.mapCount);
+    		if ("href" in $$props) $$invalidate(2, href = $$props.href);
+    	};
+
+    	if ($$props && "$$inject" in $$props) {
+    		$$self.$inject_state($$props.$$inject);
+    	}
+
+    	return [name, mapCount, href];
+    }
+
+    class StageRow extends SvelteComponentDev {
+    	constructor(options) {
+    		super(options);
+    		init(this, options, instance$9, create_fragment$9, safe_not_equal, { name: 0, mapCount: 1, href: 2 });
+
+    		dispatch_dev("SvelteRegisterComponent", {
+    			component: this,
+    			tagName: "StageRow",
+    			options,
+    			id: create_fragment$9.name
+    		});
+
+    		const { ctx } = this.$$;
+    		const props = options.props || {};
+
+    		if (/*name*/ ctx[0] === undefined && !("name" in props)) {
+    			console.warn("<StageRow> was created without expected prop 'name'");
+    		}
+
+    		if (/*mapCount*/ ctx[1] === undefined && !("mapCount" in props)) {
+    			console.warn("<StageRow> was created without expected prop 'mapCount'");
+    		}
+
+    		if (/*href*/ ctx[2] === undefined && !("href" in props)) {
+    			console.warn("<StageRow> was created without expected prop 'href'");
+    		}
+    	}
+
+    	get name() {
+    		throw new Error("<StageRow>: Props cannot be read directly from the component instance unless compiling with 'accessors: true' or '<svelte:options accessors/>'");
+    	}
+
+    	set name(value) {
+    		throw new Error("<StageRow>: Props cannot be set directly on the component instance unless compiling with 'accessors: true' or '<svelte:options accessors/>'");
+    	}
+
+    	get mapCount() {
+    		throw new Error("<StageRow>: Props cannot be read directly from the component instance unless compiling with 'accessors: true' or '<svelte:options accessors/>'");
+    	}
+
+    	set mapCount(value) {
+    		throw new Error("<StageRow>: Props cannot be set directly on the component instance unless compiling with 'accessors: true' or '<svelte:options accessors/>'");
+    	}
+
+    	get href() {
+    		throw new Error("<StageRow>: Props cannot be read directly from the component instance unless compiling with 'accessors: true' or '<svelte:options accessors/>'");
+    	}
+
+    	set href(value) {
+    		throw new Error("<StageRow>: Props cannot be set directly on the component instance unless compiling with 'accessors: true' or '<svelte:options accessors/>'");
+    	}
+    }
+
+    /* frontend\pages\Tournament.svelte generated by Svelte v3.23.1 */
+
+    const { Object: Object_1$2 } = globals;
+    const file$a = "frontend\\pages\\Tournament.svelte";
+
+    function get_each_context$4(ctx, list, i) {
+    	const child_ctx = ctx.slice();
+    	child_ctx[6] = list[i];
+    	return child_ctx;
+    }
+
+    // (53:2) {:else}
+    function create_else_block$2(ctx) {
+    	let p;
+
+    	const block = {
+    		c: function create() {
+    			p = element("p");
+    			p.textContent = "Loading tournament data...";
+    			add_location(p, file$a, 53, 4, 1563);
+    		},
+    		m: function mount(target, anchor) {
+    			insert_dev(target, p, anchor);
+    		},
+    		p: noop,
+    		i: noop,
+    		o: noop,
+    		d: function destroy(detaching) {
+    			if (detaching) detach_dev(p);
+    		}
+    	};
+
+    	dispatch_dev("SvelteRegisterBlock", {
+    		block,
+    		id: create_else_block$2.name,
+    		type: "else",
+    		source: "(53:2) {:else}",
+    		ctx
+    	});
+
+    	return block;
+    }
+
+    // (40:2) {#if !loading}
+    function create_if_block$3(ctx) {
+    	let t0;
+    	let h1;
+    	let t1_value = /*$tournament*/ ctx[3].name + "";
+    	let t1;
+    	let t2;
+    	let h20;
+    	let t3_value = /*$tournament*/ ctx[3].stages.length + "";
+    	let t3;
+    	let t4;
+    	let t5;
+    	let div0;
+    	let t6;
+    	let h21;
+    	let t7_value = Object.keys(/*$tournament*/ ctx[3].players).length + "";
+    	let t7;
+    	let t8;
+    	let t9;
+    	let div1;
+    	let current;
+
+    	const header = new Header({
+    			props: { backHref: "#/" },
+    			$$inline: true
+    		});
+
+    	header.$on("search", /*handleSearch*/ ctx[4]);
+    	let each_value = /*$tournament*/ ctx[3].stages;
+    	validate_each_argument(each_value);
+    	let each_blocks = [];
+
+    	for (let i = 0; i < each_value.length; i += 1) {
+    		each_blocks[i] = create_each_block$4(get_each_context$4(ctx, each_value, i));
+    	}
+
+    	const out = i => transition_out(each_blocks[i], 1, 1, () => {
+    		each_blocks[i] = null;
+    	});
+
+    	const playerlist = new PlayerList({
+    			props: { players: /*displayPlayers*/ ctx[1] },
+    			$$inline: true
+    		});
+
+    	const block = {
+    		c: function create() {
+    			create_component(header.$$.fragment);
+    			t0 = space();
+    			h1 = element("h1");
+    			t1 = text(t1_value);
+    			t2 = space();
+    			h20 = element("h2");
+    			t3 = text(t3_value);
+    			t4 = text(" stages");
+    			t5 = space();
+    			div0 = element("div");
+
+    			for (let i = 0; i < each_blocks.length; i += 1) {
+    				each_blocks[i].c();
+    			}
+
+    			t6 = space();
+    			h21 = element("h2");
+    			t7 = text(t7_value);
+    			t8 = text(" players");
+    			t9 = space();
+    			div1 = element("div");
+    			create_component(playerlist.$$.fragment);
+    			add_location(h1, file$a, 41, 4, 1143);
+    			add_location(h20, file$a, 42, 4, 1176);
+    			attr_dev(div0, "class", "stages svelte-wv5a2v");
+    			add_location(div0, file$a, 43, 4, 1225);
+    			add_location(h21, file$a, 48, 4, 1402);
+    			attr_dev(div1, "class", "players");
+    			add_location(div1, file$a, 49, 4, 1466);
+    		},
+    		m: function mount(target, anchor) {
+    			mount_component(header, target, anchor);
+    			insert_dev(target, t0, anchor);
+    			insert_dev(target, h1, anchor);
+    			append_dev(h1, t1);
+    			insert_dev(target, t2, anchor);
+    			insert_dev(target, h20, anchor);
+    			append_dev(h20, t3);
+    			append_dev(h20, t4);
+    			insert_dev(target, t5, anchor);
+    			insert_dev(target, div0, anchor);
+
+    			for (let i = 0; i < each_blocks.length; i += 1) {
+    				each_blocks[i].m(div0, null);
+    			}
+
+    			insert_dev(target, t6, anchor);
+    			insert_dev(target, h21, anchor);
+    			append_dev(h21, t7);
+    			append_dev(h21, t8);
+    			insert_dev(target, t9, anchor);
+    			insert_dev(target, div1, anchor);
+    			mount_component(playerlist, div1, null);
+    			current = true;
+    		},
+    		p: function update(ctx, dirty) {
+    			if ((!current || dirty & /*$tournament*/ 8) && t1_value !== (t1_value = /*$tournament*/ ctx[3].name + "")) set_data_dev(t1, t1_value);
+    			if ((!current || dirty & /*$tournament*/ 8) && t3_value !== (t3_value = /*$tournament*/ ctx[3].stages.length + "")) set_data_dev(t3, t3_value);
+
+    			if (dirty & /*$tournament, id*/ 9) {
+    				each_value = /*$tournament*/ ctx[3].stages;
+    				validate_each_argument(each_value);
+    				let i;
+
+    				for (i = 0; i < each_value.length; i += 1) {
+    					const child_ctx = get_each_context$4(ctx, each_value, i);
+
+    					if (each_blocks[i]) {
+    						each_blocks[i].p(child_ctx, dirty);
+    						transition_in(each_blocks[i], 1);
+    					} else {
+    						each_blocks[i] = create_each_block$4(child_ctx);
+    						each_blocks[i].c();
+    						transition_in(each_blocks[i], 1);
+    						each_blocks[i].m(div0, null);
+    					}
+    				}
+
+    				group_outros();
+
+    				for (i = each_value.length; i < each_blocks.length; i += 1) {
+    					out(i);
+    				}
+
+    				check_outros();
+    			}
+
+    			if ((!current || dirty & /*$tournament*/ 8) && t7_value !== (t7_value = Object.keys(/*$tournament*/ ctx[3].players).length + "")) set_data_dev(t7, t7_value);
+    			const playerlist_changes = {};
+    			if (dirty & /*displayPlayers*/ 2) playerlist_changes.players = /*displayPlayers*/ ctx[1];
+    			playerlist.$set(playerlist_changes);
+    		},
+    		i: function intro(local) {
+    			if (current) return;
+    			transition_in(header.$$.fragment, local);
+
+    			for (let i = 0; i < each_value.length; i += 1) {
+    				transition_in(each_blocks[i]);
+    			}
+
+    			transition_in(playerlist.$$.fragment, local);
+    			current = true;
+    		},
+    		o: function outro(local) {
+    			transition_out(header.$$.fragment, local);
+    			each_blocks = each_blocks.filter(Boolean);
+
+    			for (let i = 0; i < each_blocks.length; i += 1) {
+    				transition_out(each_blocks[i]);
+    			}
+
+    			transition_out(playerlist.$$.fragment, local);
+    			current = false;
+    		},
+    		d: function destroy(detaching) {
+    			destroy_component(header, detaching);
+    			if (detaching) detach_dev(t0);
+    			if (detaching) detach_dev(h1);
+    			if (detaching) detach_dev(t2);
+    			if (detaching) detach_dev(h20);
+    			if (detaching) detach_dev(t5);
+    			if (detaching) detach_dev(div0);
+    			destroy_each(each_blocks, detaching);
+    			if (detaching) detach_dev(t6);
+    			if (detaching) detach_dev(h21);
+    			if (detaching) detach_dev(t9);
+    			if (detaching) detach_dev(div1);
+    			destroy_component(playerlist);
+    		}
+    	};
+
+    	dispatch_dev("SvelteRegisterBlock", {
+    		block,
+    		id: create_if_block$3.name,
+    		type: "if",
+    		source: "(40:2) {#if !loading}",
+    		ctx
+    	});
+
+    	return block;
+    }
+
+    // (45:6) {#each $tournament.stages as stage}
+    function create_each_block$4(ctx) {
+    	let current;
+
+    	const stagerow_spread_levels = [
+    		/*stage*/ ctx[6],
+    		{
+    			href: `#/tournaments/${/*id*/ ctx[0]}/stages/${/*stage*/ ctx[6].id}`
+    		}
+    	];
+
+    	let stagerow_props = {};
+
+    	for (let i = 0; i < stagerow_spread_levels.length; i += 1) {
+    		stagerow_props = assign(stagerow_props, stagerow_spread_levels[i]);
+    	}
+
+    	const stagerow = new StageRow({ props: stagerow_props, $$inline: true });
+
+    	const block = {
+    		c: function create() {
+    			create_component(stagerow.$$.fragment);
+    		},
+    		m: function mount(target, anchor) {
+    			mount_component(stagerow, target, anchor);
+    			current = true;
+    		},
+    		p: function update(ctx, dirty) {
+    			const stagerow_changes = (dirty & /*$tournament, id*/ 9)
+    			? get_spread_update(stagerow_spread_levels, [
+    					dirty & /*$tournament*/ 8 && get_spread_object(/*stage*/ ctx[6]),
+    					{
+    						href: `#/tournaments/${/*id*/ ctx[0]}/stages/${/*stage*/ ctx[6].id}`
+    					}
+    				])
+    			: {};
+
+    			stagerow.$set(stagerow_changes);
+    		},
+    		i: function intro(local) {
+    			if (current) return;
+    			transition_in(stagerow.$$.fragment, local);
+    			current = true;
+    		},
+    		o: function outro(local) {
+    			transition_out(stagerow.$$.fragment, local);
+    			current = false;
+    		},
+    		d: function destroy(detaching) {
+    			destroy_component(stagerow, detaching);
+    		}
+    	};
+
+    	dispatch_dev("SvelteRegisterBlock", {
+    		block,
+    		id: create_each_block$4.name,
+    		type: "each",
+    		source: "(45:6) {#each $tournament.stages as stage}",
+    		ctx
+    	});
+
+    	return block;
+    }
+
+    function create_fragment$a(ctx) {
+    	let main;
+    	let current_block_type_index;
+    	let if_block;
+    	let current;
+    	const if_block_creators = [create_if_block$3, create_else_block$2];
+    	const if_blocks = [];
+
+    	function select_block_type(ctx, dirty) {
+    		if (!/*loading*/ ctx[2]) return 0;
+    		return 1;
+    	}
+
+    	current_block_type_index = select_block_type(ctx);
+    	if_block = if_blocks[current_block_type_index] = if_block_creators[current_block_type_index](ctx);
+
+    	const block = {
+    		c: function create() {
+    			main = element("main");
+    			if_block.c();
+    			attr_dev(main, "class", "svelte-wv5a2v");
+    			add_location(main, file$a, 38, 0, 1058);
+    		},
+    		l: function claim(nodes) {
+    			throw new Error("options.hydrate only works if the component was compiled with the `hydratable: true` option");
+    		},
+    		m: function mount(target, anchor) {
+    			insert_dev(target, main, anchor);
+    			if_blocks[current_block_type_index].m(main, null);
+    			current = true;
+    		},
+    		p: function update(ctx, [dirty]) {
+    			let previous_block_index = current_block_type_index;
+    			current_block_type_index = select_block_type(ctx);
+
+    			if (current_block_type_index === previous_block_index) {
+    				if_blocks[current_block_type_index].p(ctx, dirty);
+    			} else {
+    				group_outros();
+
+    				transition_out(if_blocks[previous_block_index], 1, 1, () => {
+    					if_blocks[previous_block_index] = null;
+    				});
+
+    				check_outros();
+    				if_block = if_blocks[current_block_type_index];
+
+    				if (!if_block) {
+    					if_block = if_blocks[current_block_type_index] = if_block_creators[current_block_type_index](ctx);
+    					if_block.c();
+    				}
+
+    				transition_in(if_block, 1);
+    				if_block.m(main, null);
+    			}
+    		},
+    		i: function intro(local) {
+    			if (current) return;
+    			transition_in(if_block);
+    			current = true;
+    		},
+    		o: function outro(local) {
+    			transition_out(if_block);
+    			current = false;
+    		},
+    		d: function destroy(detaching) {
+    			if (detaching) detach_dev(main);
+    			if_blocks[current_block_type_index].d();
+    		}
+    	};
+
+    	dispatch_dev("SvelteRegisterBlock", {
+    		block,
+    		id: create_fragment$a.name,
+    		type: "component",
+    		source: "",
+    		ctx
+    	});
+
+    	return block;
+    }
+
+    function instance$a($$self, $$props, $$invalidate) {
+    	let $tournament;
+    	validate_store(tournament, "tournament");
+    	component_subscribe($$self, tournament, $$value => $$invalidate(3, $tournament = $$value));
+    	let { id } = $$props;
+    	let playerValues;
+    	let displayPlayers;
+    	let loading = true;
+
+    	function handleSearch(event) {
+    		const text = event.detail;
+
+    		if (!text) $$invalidate(1, displayPlayers = playerValues); else {
+    			$$invalidate(1, displayPlayers = playerValues.filter(player => player.name.toLowerCase().includes(text.toLowerCase())));
+    		}
+    	}
+
+    	onMount(async () => {
+    		if (!$tournament || $tournament.id != id) {
+    			try {
+    				tournament.set(null);
+    				const res = await fetch(`data/${id}.json`);
+    				tournament.set(await res.json());
+    			} catch {
+    				location.hash = "";
+    			}
+    		}
+
+    		playerValues = Object.values($tournament.players);
+    		$$invalidate(1, displayPlayers = playerValues);
+    		$$invalidate(2, loading = false);
+    	});
+
+    	const writable_props = ["id"];
+
+    	Object_1$2.keys($$props).forEach(key => {
+    		if (!~writable_props.indexOf(key) && key.slice(0, 2) !== "$$") console.warn(`<Tournament> was created with unknown prop '${key}'`);
+    	});
+
+    	let { $$slots = {}, $$scope } = $$props;
+    	validate_slots("Tournament", $$slots, []);
+
+    	$$self.$set = $$props => {
+    		if ("id" in $$props) $$invalidate(0, id = $$props.id);
+    	};
+
+    	$$self.$capture_state = () => ({
+    		onMount,
+    		tournament,
+    		Header,
+    		PlayerList,
+    		StageRow,
+    		id,
+    		playerValues,
+    		displayPlayers,
+    		loading,
+    		handleSearch,
+    		$tournament
+    	});
+
+    	$$self.$inject_state = $$props => {
+    		if ("id" in $$props) $$invalidate(0, id = $$props.id);
+    		if ("playerValues" in $$props) playerValues = $$props.playerValues;
+    		if ("displayPlayers" in $$props) $$invalidate(1, displayPlayers = $$props.displayPlayers);
+    		if ("loading" in $$props) $$invalidate(2, loading = $$props.loading);
+    	};
+
+    	if ($$props && "$$inject" in $$props) {
+    		$$self.$inject_state($$props.$$inject);
+    	}
+
+    	return [id, displayPlayers, loading, $tournament, handleSearch];
+    }
+
+    class Tournament extends SvelteComponentDev {
+    	constructor(options) {
+    		super(options);
+    		init(this, options, instance$a, create_fragment$a, safe_not_equal, { id: 0 });
+
+    		dispatch_dev("SvelteRegisterComponent", {
+    			component: this,
+    			tagName: "Tournament",
+    			options,
+    			id: create_fragment$a.name
+    		});
+
+    		const { ctx } = this.$$;
+    		const props = options.props || {};
+
+    		if (/*id*/ ctx[0] === undefined && !("id" in props)) {
+    			console.warn("<Tournament> was created without expected prop 'id'");
+    		}
+    	}
+
+    	get id() {
+    		throw new Error("<Tournament>: Props cannot be read directly from the component instance unless compiling with 'accessors: true' or '<svelte:options accessors/>'");
+    	}
+
+    	set id(value) {
+    		throw new Error("<Tournament>: Props cannot be set directly on the component instance unless compiling with 'accessors: true' or '<svelte:options accessors/>'");
+    	}
+    }
+
+    /* frontend\components\molecules\TournamentRow.svelte generated by Svelte v3.23.1 */
+
+    const file$b = "frontend\\components\\molecules\\TournamentRow.svelte";
+
+    function create_fragment$b(ctx) {
+    	let div2;
+    	let div0;
+    	let a;
+    	let t0;
+    	let a_href_value;
+    	let t1;
+    	let div1;
+    	let t2;
+    	let t3;
+
+    	const block = {
+    		c: function create() {
+    			div2 = element("div");
+    			div0 = element("div");
+    			a = element("a");
+    			t0 = text(/*name*/ ctx[0]);
+    			t1 = space();
+    			div1 = element("div");
+    			t2 = text(/*playersCount*/ ctx[2]);
+    			t3 = text(" players");
+    			attr_dev(a, "href", a_href_value = `#/tournaments/${/*id*/ ctx[1]}`);
+    			add_location(a, file$b, 8, 4, 135);
+    			attr_dev(div0, "class", "name svelte-1lh8f59");
+    			add_location(div0, file$b, 7, 2, 111);
+    			attr_dev(div1, "class", "players svelte-1lh8f59");
+    			add_location(div1, file$b, 12, 2, 205);
+    			attr_dev(div2, "class", "root svelte-1lh8f59");
+    			add_location(div2, file$b, 6, 0, 89);
+    		},
+    		l: function claim(nodes) {
+    			throw new Error("options.hydrate only works if the component was compiled with the `hydratable: true` option");
+    		},
+    		m: function mount(target, anchor) {
+    			insert_dev(target, div2, anchor);
+    			append_dev(div2, div0);
+    			append_dev(div0, a);
+    			append_dev(a, t0);
+    			append_dev(div2, t1);
+    			append_dev(div2, div1);
+    			append_dev(div1, t2);
+    			append_dev(div1, t3);
+    		},
+    		p: function update(ctx, [dirty]) {
+    			if (dirty & /*name*/ 1) set_data_dev(t0, /*name*/ ctx[0]);
+
+    			if (dirty & /*id*/ 2 && a_href_value !== (a_href_value = `#/tournaments/${/*id*/ ctx[1]}`)) {
+    				attr_dev(a, "href", a_href_value);
+    			}
+
+    			if (dirty & /*playersCount*/ 4) set_data_dev(t2, /*playersCount*/ ctx[2]);
+    		},
+    		i: noop,
+    		o: noop,
+    		d: function destroy(detaching) {
+    			if (detaching) detach_dev(div2);
+    		}
+    	};
+
+    	dispatch_dev("SvelteRegisterBlock", {
+    		block,
+    		id: create_fragment$b.name,
+    		type: "component",
+    		source: "",
+    		ctx
+    	});
+
+    	return block;
+    }
+
+    function instance$b($$self, $$props, $$invalidate) {
+    	let { name } = $$props;
+    	let { id } = $$props;
+    	let { playersCount } = $$props;
+    	const writable_props = ["name", "id", "playersCount"];
+
+    	Object.keys($$props).forEach(key => {
+    		if (!~writable_props.indexOf(key) && key.slice(0, 2) !== "$$") console.warn(`<TournamentRow> was created with unknown prop '${key}'`);
+    	});
+
+    	let { $$slots = {}, $$scope } = $$props;
+    	validate_slots("TournamentRow", $$slots, []);
+
+    	$$self.$set = $$props => {
+    		if ("name" in $$props) $$invalidate(0, name = $$props.name);
+    		if ("id" in $$props) $$invalidate(1, id = $$props.id);
+    		if ("playersCount" in $$props) $$invalidate(2, playersCount = $$props.playersCount);
+    	};
+
+    	$$self.$capture_state = () => ({ name, id, playersCount });
+
+    	$$self.$inject_state = $$props => {
+    		if ("name" in $$props) $$invalidate(0, name = $$props.name);
+    		if ("id" in $$props) $$invalidate(1, id = $$props.id);
+    		if ("playersCount" in $$props) $$invalidate(2, playersCount = $$props.playersCount);
+    	};
+
+    	if ($$props && "$$inject" in $$props) {
+    		$$self.$inject_state($$props.$$inject);
+    	}
+
+    	return [name, id, playersCount];
+    }
+
+    class TournamentRow extends SvelteComponentDev {
+    	constructor(options) {
+    		super(options);
+    		init(this, options, instance$b, create_fragment$b, safe_not_equal, { name: 0, id: 1, playersCount: 2 });
+
+    		dispatch_dev("SvelteRegisterComponent", {
+    			component: this,
+    			tagName: "TournamentRow",
+    			options,
+    			id: create_fragment$b.name
+    		});
+
+    		const { ctx } = this.$$;
+    		const props = options.props || {};
+
+    		if (/*name*/ ctx[0] === undefined && !("name" in props)) {
+    			console.warn("<TournamentRow> was created without expected prop 'name'");
+    		}
+
+    		if (/*id*/ ctx[1] === undefined && !("id" in props)) {
+    			console.warn("<TournamentRow> was created without expected prop 'id'");
+    		}
+
+    		if (/*playersCount*/ ctx[2] === undefined && !("playersCount" in props)) {
+    			console.warn("<TournamentRow> was created without expected prop 'playersCount'");
+    		}
+    	}
+
+    	get name() {
+    		throw new Error("<TournamentRow>: Props cannot be read directly from the component instance unless compiling with 'accessors: true' or '<svelte:options accessors/>'");
+    	}
+
+    	set name(value) {
+    		throw new Error("<TournamentRow>: Props cannot be set directly on the component instance unless compiling with 'accessors: true' or '<svelte:options accessors/>'");
+    	}
+
+    	get id() {
+    		throw new Error("<TournamentRow>: Props cannot be read directly from the component instance unless compiling with 'accessors: true' or '<svelte:options accessors/>'");
+    	}
+
+    	set id(value) {
+    		throw new Error("<TournamentRow>: Props cannot be set directly on the component instance unless compiling with 'accessors: true' or '<svelte:options accessors/>'");
+    	}
+
+    	get playersCount() {
+    		throw new Error("<TournamentRow>: Props cannot be read directly from the component instance unless compiling with 'accessors: true' or '<svelte:options accessors/>'");
+    	}
+
+    	set playersCount(value) {
+    		throw new Error("<TournamentRow>: Props cannot be set directly on the component instance unless compiling with 'accessors: true' or '<svelte:options accessors/>'");
+    	}
+    }
+
+    /* frontend\pages\Tournaments.svelte generated by Svelte v3.23.1 */
+    const file$c = "frontend\\pages\\Tournaments.svelte";
+
+    function get_each_context$5(ctx, list, i) {
+    	const child_ctx = ctx.slice();
+    	child_ctx[1] = list[i];
+    	return child_ctx;
+    }
+
+    // (20:4) {:else}
+    function create_else_block$3(ctx) {
+    	let p;
+
+    	const block = {
+    		c: function create() {
+    			p = element("p");
+    			p.textContent = "Loading tournaments...";
+    			add_location(p, file$c, 20, 6, 558);
+    		},
+    		m: function mount(target, anchor) {
+    			insert_dev(target, p, anchor);
+    		},
+    		d: function destroy(detaching) {
+    			if (detaching) detach_dev(p);
+    		}
+    	};
+
+    	dispatch_dev("SvelteRegisterBlock", {
+    		block,
+    		id: create_else_block$3.name,
+    		type: "else",
+    		source: "(20:4) {:else}",
+    		ctx
+    	});
+
+    	return block;
+    }
+
+    // (18:4) {#each $tournaments as tournament}
+    function create_each_block$5(ctx) {
+    	let current;
+    	const tournamentrow_spread_levels = [/*tournament*/ ctx[1]];
+    	let tournamentrow_props = {};
+
+    	for (let i = 0; i < tournamentrow_spread_levels.length; i += 1) {
+    		tournamentrow_props = assign(tournamentrow_props, tournamentrow_spread_levels[i]);
+    	}
+
+    	const tournamentrow = new TournamentRow({
+    			props: tournamentrow_props,
+    			$$inline: true
+    		});
+
+    	const block = {
+    		c: function create() {
+    			create_component(tournamentrow.$$.fragment);
+    		},
+    		m: function mount(target, anchor) {
+    			mount_component(tournamentrow, target, anchor);
+    			current = true;
+    		},
+    		p: function update(ctx, dirty) {
+    			const tournamentrow_changes = (dirty & /*$tournaments*/ 1)
+    			? get_spread_update(tournamentrow_spread_levels, [get_spread_object(/*tournament*/ ctx[1])])
+    			: {};
+
+    			tournamentrow.$set(tournamentrow_changes);
+    		},
+    		i: function intro(local) {
+    			if (current) return;
+    			transition_in(tournamentrow.$$.fragment, local);
+    			current = true;
+    		},
+    		o: function outro(local) {
+    			transition_out(tournamentrow.$$.fragment, local);
+    			current = false;
+    		},
+    		d: function destroy(detaching) {
+    			destroy_component(tournamentrow, detaching);
+    		}
+    	};
+
+    	dispatch_dev("SvelteRegisterBlock", {
+    		block,
+    		id: create_each_block$5.name,
+    		type: "each",
+    		source: "(18:4) {#each $tournaments as tournament}",
+    		ctx
+    	});
+
+    	return block;
+    }
+
+    function create_fragment$c(ctx) {
+    	let main;
+    	let h1;
+    	let t1;
+    	let p;
+    	let t3;
+    	let div;
+    	let current;
+    	let each_value = /*$tournaments*/ ctx[0];
+    	validate_each_argument(each_value);
+    	let each_blocks = [];
+
+    	for (let i = 0; i < each_value.length; i += 1) {
+    		each_blocks[i] = create_each_block$5(get_each_context$5(ctx, each_value, i));
+    	}
+
+    	const out = i => transition_out(each_blocks[i], 1, 1, () => {
+    		each_blocks[i] = null;
+    	});
+
+    	let each_1_else = null;
+
+    	if (!each_value.length) {
+    		each_1_else = create_else_block$3(ctx);
+    	}
+
+    	const block = {
+    		c: function create() {
+    			main = element("main");
+    			h1 = element("h1");
+    			h1.textContent = "Welcome!";
+    			t1 = space();
+    			p = element("p");
+    			p.textContent = "Below are the available tournaments";
+    			t3 = space();
+    			div = element("div");
+
+    			for (let i = 0; i < each_blocks.length; i += 1) {
+    				each_blocks[i].c();
+    			}
+
+    			if (each_1_else) {
+    				each_1_else.c();
+    			}
+
+    			add_location(h1, file$c, 14, 2, 364);
+    			add_location(p, file$c, 15, 2, 385);
+    			attr_dev(div, "class", "tournaments svelte-saxtqp");
+    			add_location(div, file$c, 16, 2, 431);
+    			attr_dev(main, "class", "svelte-saxtqp");
+    			add_location(main, file$c, 13, 0, 354);
+    		},
+    		l: function claim(nodes) {
+    			throw new Error("options.hydrate only works if the component was compiled with the `hydratable: true` option");
+    		},
+    		m: function mount(target, anchor) {
+    			insert_dev(target, main, anchor);
+    			append_dev(main, h1);
+    			append_dev(main, t1);
+    			append_dev(main, p);
+    			append_dev(main, t3);
+    			append_dev(main, div);
+
+    			for (let i = 0; i < each_blocks.length; i += 1) {
+    				each_blocks[i].m(div, null);
+    			}
+
+    			if (each_1_else) {
+    				each_1_else.m(div, null);
+    			}
+
+    			current = true;
+    		},
+    		p: function update(ctx, [dirty]) {
+    			if (dirty & /*$tournaments*/ 1) {
+    				each_value = /*$tournaments*/ ctx[0];
+    				validate_each_argument(each_value);
+    				let i;
+
+    				for (i = 0; i < each_value.length; i += 1) {
+    					const child_ctx = get_each_context$5(ctx, each_value, i);
+
+    					if (each_blocks[i]) {
+    						each_blocks[i].p(child_ctx, dirty);
+    						transition_in(each_blocks[i], 1);
+    					} else {
+    						each_blocks[i] = create_each_block$5(child_ctx);
+    						each_blocks[i].c();
+    						transition_in(each_blocks[i], 1);
+    						each_blocks[i].m(div, null);
+    					}
+    				}
+
+    				group_outros();
+
+    				for (i = each_value.length; i < each_blocks.length; i += 1) {
+    					out(i);
+    				}
+
+    				check_outros();
+
+    				if (each_value.length) {
+    					if (each_1_else) {
+    						each_1_else.d(1);
+    						each_1_else = null;
+    					}
+    				} else if (!each_1_else) {
+    					each_1_else = create_else_block$3(ctx);
+    					each_1_else.c();
+    					each_1_else.m(div, null);
+    				}
+    			}
+    		},
+    		i: function intro(local) {
+    			if (current) return;
+
+    			for (let i = 0; i < each_value.length; i += 1) {
+    				transition_in(each_blocks[i]);
+    			}
+
+    			current = true;
+    		},
+    		o: function outro(local) {
+    			each_blocks = each_blocks.filter(Boolean);
+
+    			for (let i = 0; i < each_blocks.length; i += 1) {
+    				transition_out(each_blocks[i]);
+    			}
+
+    			current = false;
+    		},
+    		d: function destroy(detaching) {
+    			if (detaching) detach_dev(main);
+    			destroy_each(each_blocks, detaching);
+    			if (each_1_else) each_1_else.d();
+    		}
+    	};
+
+    	dispatch_dev("SvelteRegisterBlock", {
+    		block,
+    		id: create_fragment$c.name,
+    		type: "component",
+    		source: "",
+    		ctx
+    	});
+
+    	return block;
+    }
+
+    function instance$c($$self, $$props, $$invalidate) {
+    	let $tournaments;
+    	validate_store(tournaments, "tournaments");
+    	component_subscribe($$self, tournaments, $$value => $$invalidate(0, $tournaments = $$value));
+
+    	onMount(async () => {
+    		if (!$tournaments.length) {
+    			const res = await fetch("data/tournaments.json");
+    			tournaments.set(await res.json());
+    		}
+    	});
+
+    	const writable_props = [];
+
+    	Object.keys($$props).forEach(key => {
+    		if (!~writable_props.indexOf(key) && key.slice(0, 2) !== "$$") console.warn(`<Tournaments> was created with unknown prop '${key}'`);
+    	});
+
+    	let { $$slots = {}, $$scope } = $$props;
+    	validate_slots("Tournaments", $$slots, []);
+
+    	$$self.$capture_state = () => ({
+    		onMount,
+    		tournaments,
+    		TournamentRow,
+    		$tournaments
+    	});
+
+    	return [$tournaments];
+    }
+
+    class Tournaments extends SvelteComponentDev {
+    	constructor(options) {
+    		super(options);
+    		init(this, options, instance$c, create_fragment$c, safe_not_equal, {});
+
+    		dispatch_dev("SvelteRegisterComponent", {
+    			component: this,
+    			tagName: "Tournaments",
+    			options,
+    			id: create_fragment$c.name
+    		});
+    	}
+    }
+
+    /* frontend\App.svelte generated by Svelte v3.23.1 */
+
+    // (32:14) 
+    function create_if_block_2$1(ctx) {
+    	let current;
+    	const tournaments = new Tournaments({ $$inline: true });
+
+    	const block = {
+    		c: function create() {
+    			create_component(tournaments.$$.fragment);
+    		},
+    		m: function mount(target, anchor) {
+    			mount_component(tournaments, target, anchor);
+    			current = true;
+    		},
+    		p: noop,
+    		i: function intro(local) {
+    			if (current) return;
+    			transition_in(tournaments.$$.fragment, local);
+    			current = true;
+    		},
+    		o: function outro(local) {
+    			transition_out(tournaments.$$.fragment, local);
+    			current = false;
+    		},
+    		d: function destroy(detaching) {
+    			destroy_component(tournaments, detaching);
+    		}
+    	};
+
+    	dispatch_dev("SvelteRegisterBlock", {
+    		block,
+    		id: create_if_block_2$1.name,
+    		type: "if",
+    		source: "(32:14) ",
+    		ctx
+    	});
+
+    	return block;
+    }
+
+    // (30:23) 
+    function create_if_block_1$3(ctx) {
+    	let current;
+
+    	const tournament = new Tournament({
+    			props: { id: /*tournamentId*/ ctx[1] },
+    			$$inline: true
+    		});
+
+    	const block = {
+    		c: function create() {
+    			create_component(tournament.$$.fragment);
+    		},
+    		m: function mount(target, anchor) {
+    			mount_component(tournament, target, anchor);
+    			current = true;
+    		},
+    		p: function update(ctx, dirty) {
+    			const tournament_changes = {};
+    			if (dirty & /*tournamentId*/ 2) tournament_changes.id = /*tournamentId*/ ctx[1];
+    			tournament.$set(tournament_changes);
+    		},
+    		i: function intro(local) {
+    			if (current) return;
+    			transition_in(tournament.$$.fragment, local);
+    			current = true;
+    		},
+    		o: function outro(local) {
+    			transition_out(tournament.$$.fragment, local);
+    			current = false;
+    		},
+    		d: function destroy(detaching) {
+    			destroy_component(tournament, detaching);
+    		}
+    	};
+
+    	dispatch_dev("SvelteRegisterBlock", {
+    		block,
+    		id: create_if_block_1$3.name,
+    		type: "if",
+    		source: "(30:23) ",
+    		ctx
+    	});
+
+    	return block;
+    }
+
+    // (28:0) {#if tournamentId && stageId}
+    function create_if_block$4(ctx) {
+    	let current;
+
+    	const stage = new Stage({
+    			props: {
+    				id: /*stageId*/ ctx[2],
+    				tournamentId: /*tournamentId*/ ctx[1]
+    			},
+    			$$inline: true
+    		});
+
+    	const block = {
+    		c: function create() {
+    			create_component(stage.$$.fragment);
+    		},
+    		m: function mount(target, anchor) {
+    			mount_component(stage, target, anchor);
+    			current = true;
+    		},
+    		p: function update(ctx, dirty) {
+    			const stage_changes = {};
+    			if (dirty & /*stageId*/ 4) stage_changes.id = /*stageId*/ ctx[2];
+    			if (dirty & /*tournamentId*/ 2) stage_changes.tournamentId = /*tournamentId*/ ctx[1];
+    			stage.$set(stage_changes);
+    		},
+    		i: function intro(local) {
+    			if (current) return;
+    			transition_in(stage.$$.fragment, local);
+    			current = true;
+    		},
+    		o: function outro(local) {
+    			transition_out(stage.$$.fragment, local);
+    			current = false;
+    		},
+    		d: function destroy(detaching) {
+    			destroy_component(stage, detaching);
+    		}
+    	};
+
+    	dispatch_dev("SvelteRegisterBlock", {
+    		block,
+    		id: create_if_block$4.name,
+    		type: "if",
+    		source: "(28:0) {#if tournamentId && stageId}",
+    		ctx
+    	});
+
+    	return block;
+    }
+
+    function create_fragment$d(ctx) {
+    	let current_block_type_index;
+    	let if_block;
+    	let if_block_anchor;
+    	let current;
+    	const if_block_creators = [create_if_block$4, create_if_block_1$3, create_if_block_2$1];
+    	const if_blocks = [];
+
+    	function select_block_type(ctx, dirty) {
+    		if (/*tournamentId*/ ctx[1] && /*stageId*/ ctx[2]) return 0;
+    		if (/*tournamentId*/ ctx[1]) return 1;
+    		if (/*url*/ ctx[0]) return 2;
+    		return -1;
+    	}
+
+    	if (~(current_block_type_index = select_block_type(ctx))) {
+    		if_block = if_blocks[current_block_type_index] = if_block_creators[current_block_type_index](ctx);
+    	}
+
+    	const block = {
+    		c: function create() {
+    			if (if_block) if_block.c();
+    			if_block_anchor = empty();
+    		},
+    		l: function claim(nodes) {
+    			throw new Error("options.hydrate only works if the component was compiled with the `hydratable: true` option");
+    		},
+    		m: function mount(target, anchor) {
+    			if (~current_block_type_index) {
+    				if_blocks[current_block_type_index].m(target, anchor);
+    			}
+
+    			insert_dev(target, if_block_anchor, anchor);
+    			current = true;
+    		},
+    		p: function update(ctx, [dirty]) {
+    			let previous_block_index = current_block_type_index;
+    			current_block_type_index = select_block_type(ctx);
+
+    			if (current_block_type_index === previous_block_index) {
+    				if (~current_block_type_index) {
+    					if_blocks[current_block_type_index].p(ctx, dirty);
+    				}
+    			} else {
+    				if (if_block) {
+    					group_outros();
+
+    					transition_out(if_blocks[previous_block_index], 1, 1, () => {
+    						if_blocks[previous_block_index] = null;
+    					});
+
+    					check_outros();
+    				}
+
+    				if (~current_block_type_index) {
+    					if_block = if_blocks[current_block_type_index];
+
+    					if (!if_block) {
+    						if_block = if_blocks[current_block_type_index] = if_block_creators[current_block_type_index](ctx);
+    						if_block.c();
+    					}
+
+    					transition_in(if_block, 1);
+    					if_block.m(if_block_anchor.parentNode, if_block_anchor);
+    				} else {
+    					if_block = null;
+    				}
+    			}
+    		},
+    		i: function intro(local) {
+    			if (current) return;
+    			transition_in(if_block);
+    			current = true;
+    		},
+    		o: function outro(local) {
+    			transition_out(if_block);
+    			current = false;
+    		},
+    		d: function destroy(detaching) {
+    			if (~current_block_type_index) {
+    				if_blocks[current_block_type_index].d(detaching);
+    			}
+
+    			if (detaching) detach_dev(if_block_anchor);
+    		}
+    	};
+
+    	dispatch_dev("SvelteRegisterBlock", {
+    		block,
+    		id: create_fragment$d.name,
+    		type: "component",
+    		source: "",
+    		ctx
+    	});
+
+    	return block;
+    }
+
+    function instance$d($$self, $$props, $$invalidate) {
+    	let url;
+    	let tournamentId;
+    	let stageId;
+
+    	const onHashChange = () => {
+    		$$invalidate(0, url = location.hash.slice(1) || "/");
+    		const [,p1, id1, p2, id2] = url.split("/");
+    		$$invalidate(1, tournamentId = p1 === "tournaments" ? id1 : null);
+    		$$invalidate(2, stageId = p2 === "stages" ? id2 : null);
+    	};
+
+    	onMount(() => {
+    		onHashChange();
+    		window.addEventListener("hashchange", onHashChange);
+    	});
+
+    	onDestroy(() => {
+    		window.removeEventListener("hashchange", onHashChange);
+    	});
+
+    	const writable_props = [];
+
+    	Object.keys($$props).forEach(key => {
+    		if (!~writable_props.indexOf(key) && key.slice(0, 2) !== "$$") console.warn(`<App> was created with unknown prop '${key}'`);
+    	});
+
+    	let { $$slots = {}, $$scope } = $$props;
+    	validate_slots("App", $$slots, []);
+
+    	$$self.$capture_state = () => ({
+    		onMount,
+    		onDestroy,
+    		Stage,
+    		Tournament,
+    		Tournaments,
+    		url,
+    		tournamentId,
+    		stageId,
+    		onHashChange
+    	});
+
+    	$$self.$inject_state = $$props => {
+    		if ("url" in $$props) $$invalidate(0, url = $$props.url);
+    		if ("tournamentId" in $$props) $$invalidate(1, tournamentId = $$props.tournamentId);
+    		if ("stageId" in $$props) $$invalidate(2, stageId = $$props.stageId);
+    	};
+
+    	if ($$props && "$$inject" in $$props) {
+    		$$self.$inject_state($$props.$$inject);
+    	}
+
+    	return [url, tournamentId, stageId];
+    }
+
+    class App extends SvelteComponentDev {
+    	constructor(options) {
+    		super(options);
+    		init(this, options, instance$d, create_fragment$d, safe_not_equal, {});
+
+    		dispatch_dev("SvelteRegisterComponent", {
+    			component: this,
+    			tagName: "App",
+    			options,
+    			id: create_fragment$d.name
+    		});
+    	}
+    }
+
+    const app = new App({
+      target: document.body,
+    });
+
+    return app;
+
+}());
 //# sourceMappingURL=bundle.js.map

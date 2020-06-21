@@ -1,0 +1,24 @@
+{
+  "category": "speed2",
+  "counts": {
+    "bpm": 1,
+    "sv": 12,
+    "notes": {
+      "total": 2133,
+      "rice": 2039,
+      "ln": 94,
+      "single": 976,
+      "jump": 517,
+      "hand": 41,
+      "quad": 0
+    }
+  },
+  "title": "Japanese Transformation",
+  "artist": "DJKurara",
+  "mapper": "XeoStyle",
+  "difficulty": "Todes' Hard",
+  "beatmapId": "1122649",
+  "beatmapSetId": "520438",
+  "hp": "7.5",
+  "od": "7.5"
+}

@@ -1,0 +1,24 @@
+{
+  "category": "acc3",
+  "counts": {
+    "bpm": 54,
+    "sv": 68,
+    "notes": {
+      "total": 1297,
+      "rice": 1255,
+      "ln": 42,
+      "single": 445,
+      "jump": 285,
+      "hand": 90,
+      "quad": 3
+    }
+  },
+  "title": "Malignant Narcissism",
+  "artist": "Rush",
+  "mapper": "Pope Gadget",
+  "difficulty": "R40",
+  "beatmapId": "954903",
+  "beatmapSetId": "444460",
+  "hp": "9",
+  "od": "8.5"
+}

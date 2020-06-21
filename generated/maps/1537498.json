@@ -1,0 +1,24 @@
+{
+  "category": "sv1",
+  "counts": {
+    "bpm": 528,
+    "sv": 393,
+    "notes": {
+      "total": 1504,
+      "rice": 1492,
+      "ln": 12,
+      "single": 248,
+      "jump": 308,
+      "hand": 212,
+      "quad": 1
+    }
+  },
+  "title": "Red Lips (Mendus Remix)",
+  "artist": "GTA feat. Sam Bruno",
+  "mapper": "Hydria",
+  "difficulty": "Hard (SV)",
+  "beatmapId": "1537498",
+  "beatmapSetId": "728227",
+  "hp": "8",
+  "od": "8"
+}

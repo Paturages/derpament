@@ -1,0 +1,24 @@
+{
+  "category": "speed3",
+  "counts": {
+    "bpm": 1,
+    "sv": 5,
+    "notes": {
+      "total": 1995,
+      "rice": 1989,
+      "ln": 6,
+      "single": 1036,
+      "jump": 424,
+      "hand": 37,
+      "quad": 0
+    }
+  },
+  "title": "AO-INFINITY",
+  "artist": "Seiryu",
+  "mapper": "Tailsdk",
+  "difficulty": "White Hard",
+  "beatmapId": "1951977",
+  "beatmapSetId": "934974",
+  "hp": "8.5",
+  "od": "8.2"
+}

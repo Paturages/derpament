@@ -1,0 +1,24 @@
+{
+  "category": "tech2",
+  "counts": {
+    "bpm": 1,
+    "sv": 2,
+    "notes": {
+      "total": 928,
+      "rice": 900,
+      "ln": 28,
+      "single": 482,
+      "jump": 193,
+      "hand": 20,
+      "quad": 0
+    }
+  },
+  "title": "Lunar Arrow",
+  "artist": "mmry",
+  "mapper": "IceDynamix",
+  "difficulty": "leaving a trail of light (HARD Lv.8)",
+  "beatmapId": "2035418",
+  "beatmapSetId": "972098",
+  "hp": "8",
+  "od": "8"
+}

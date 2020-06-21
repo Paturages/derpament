@@ -1,0 +1,24 @@
+{
+  "category": "tech2",
+  "counts": {
+    "bpm": 1,
+    "sv": 0,
+    "notes": {
+      "total": 1362,
+      "rice": 1267,
+      "ln": 95,
+      "single": 704,
+      "jump": 329,
+      "hand": 0,
+      "quad": 0
+    }
+  },
+  "title": "Celestial Horizon",
+  "artist": "Fractal Dreamers",
+  "mapper": "TheToaphster",
+  "difficulty": "Haven",
+  "beatmapId": "1601033",
+  "beatmapSetId": "761380",
+  "hp": "8",
+  "od": "8"
+}

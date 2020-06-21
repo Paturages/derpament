@@ -1,0 +1,24 @@
+{
+  "category": "tb1",
+  "counts": {
+    "bpm": 1,
+    "sv": 11,
+    "notes": {
+      "total": 1808,
+      "rice": 1419,
+      "ln": 389,
+      "single": 1060,
+      "jump": 374,
+      "hand": 0,
+      "quad": 0
+    }
+  },
+  "title": "Artificial Snow",
+  "artist": "Camellia",
+  "mapper": "Dergo",
+  "difficulty": "ash's hard",
+  "beatmapId": "2147852",
+  "beatmapSetId": "1026319",
+  "hp": "8",
+  "od": "7.2"
+}

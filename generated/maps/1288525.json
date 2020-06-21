@@ -1,0 +1,24 @@
+{
+  "category": "acc3",
+  "counts": {
+    "bpm": 1,
+    "sv": 4,
+    "notes": {
+      "total": 1036,
+      "rice": 983,
+      "ln": 53,
+      "single": 429,
+      "jump": 257,
+      "hand": 31,
+      "quad": 0
+    }
+  },
+  "title": "OVERDRIVERS",
+  "artist": "P*Light feat. mow*2",
+  "mapper": "Leonita",
+  "difficulty": "ADVANCED",
+  "beatmapId": "1288525",
+  "beatmapSetId": "563569",
+  "hp": "7.5",
+  "od": "7.5"
+}

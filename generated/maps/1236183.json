@@ -1,0 +1,24 @@
+{
+  "category": "hybrid12",
+  "counts": {
+    "bpm": 1,
+    "sv": 182,
+    "notes": {
+      "total": 2156,
+      "rice": 1733,
+      "ln": 423,
+      "single": 727,
+      "jump": 682,
+      "hand": 19,
+      "quad": 2
+    }
+  },
+  "title": "Los! Los! Los!",
+  "artist": "Tanya Degurechaff (CV: Yuki Aoi)",
+  "mapper": "arcwinolivirus",
+  "difficulty": "Insane",
+  "beatmapId": "1236183",
+  "beatmapSetId": "584316",
+  "hp": "7.5",
+  "od": "7.5"
+}

@@ -1,0 +1,24 @@
+{
+  "category": "ln2",
+  "counts": {
+    "bpm": 6,
+    "sv": 8,
+    "notes": {
+      "total": 1240,
+      "rice": 672,
+      "ln": 568,
+      "single": 684,
+      "jump": 275,
+      "hand": 2,
+      "quad": 0
+    }
+  },
+  "title": "Saigo",
+  "artist": "An",
+  "mapper": "juankristal",
+  "difficulty": "Hard",
+  "beatmapId": "1559658",
+  "beatmapSetId": "609463",
+  "hp": "6",
+  "od": "7"
+}

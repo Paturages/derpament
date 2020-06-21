@@ -1,0 +1,24 @@
+{
+  "category": "acc2",
+  "counts": {
+    "bpm": 1,
+    "sv": 0,
+    "notes": {
+      "total": 1328,
+      "rice": 1300,
+      "ln": 28,
+      "single": 369,
+      "jump": 157,
+      "hand": 215,
+      "quad": 0
+    }
+  },
+  "title": "MAX LOVE",
+  "artist": "DJ YOSHITAKA feat. Hoshino Kanako",
+  "mapper": "Frizu",
+  "difficulty": "S.Star's 4K HD",
+  "beatmapId": "1689408",
+  "beatmapSetId": "804753",
+  "hp": "8",
+  "od": "7"
+}

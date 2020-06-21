@@ -1,0 +1,24 @@
+{
+  "category": "sv1",
+  "counts": {
+    "bpm": 42,
+    "sv": 634,
+    "notes": {
+      "total": 371,
+      "rice": 290,
+      "ln": 81,
+      "single": 180,
+      "jump": 79,
+      "hand": 11,
+      "quad": 0
+    }
+  },
+  "title": "fly",
+  "artist": "MYTK",
+  "mapper": "Tantei B",
+  "difficulty": "Stylish Veery",
+  "beatmapId": "2324766",
+  "beatmapSetId": "1112778",
+  "hp": "8",
+  "od": "8"
+}

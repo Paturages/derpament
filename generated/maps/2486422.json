@@ -1,0 +1,24 @@
+{
+  "category": "sv2",
+  "counts": {
+    "bpm": 2,
+    "sv": 903,
+    "notes": {
+      "total": 1374,
+      "rice": 1269,
+      "ln": 105,
+      "single": 704,
+      "jump": 335,
+      "hand": 0,
+      "quad": 0
+    }
+  },
+  "title": "Agri",
+  "artist": "doxed",
+  "mapper": "ZayyKen",
+  "difficulty": "SVorzando",
+  "beatmapId": "2486422",
+  "beatmapSetId": "1193309",
+  "hp": "8",
+  "od": "7"
+}

@@ -1,0 +1,24 @@
+{
+  "category": "acc1",
+  "counts": {
+    "bpm": 1,
+    "sv": 6,
+    "notes": {
+      "total": 1793,
+      "rice": 1663,
+      "ln": 130,
+      "single": 495,
+      "jump": 574,
+      "hand": 50,
+      "quad": 0
+    }
+  },
+  "title": "Here For You",
+  "artist": "The Winking Owl",
+  "mapper": "[ A v a l o n ]",
+  "difficulty": "Hard",
+  "beatmapId": "1170740",
+  "beatmapSetId": "552862",
+  "hp": "8.2",
+  "od": "7.8"
+}

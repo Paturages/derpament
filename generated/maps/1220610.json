@@ -1,0 +1,24 @@
+{
+  "category": "acc1",
+  "counts": {
+    "bpm": 1,
+    "sv": 0,
+    "notes": {
+      "total": 2088,
+      "rice": 2084,
+      "ln": 4,
+      "single": 907,
+      "jump": 565,
+      "hand": 17,
+      "quad": 0
+    }
+  },
+  "title": "Ordinary World",
+  "artist": "Nakamura Meiko",
+  "mapper": "arcwinolivirus",
+  "difficulty": "4K Reminiscence",
+  "beatmapId": "1220610",
+  "beatmapSetId": "576568",
+  "hp": "8",
+  "od": "8"
+}

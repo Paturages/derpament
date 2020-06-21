@@ -1,0 +1,24 @@
+{
+  "category": "hybrid11",
+  "counts": {
+    "bpm": 1,
+    "sv": 6,
+    "notes": {
+      "total": 1595,
+      "rice": 1054,
+      "ln": 541,
+      "single": 443,
+      "jump": 340,
+      "hand": 156,
+      "quad": 1
+    }
+  },
+  "title": "Justice OR Voice",
+  "artist": "Genesis x Nemesis",
+  "mapper": "Ryu Sei",
+  "difficulty": "MEGA's Insane",
+  "beatmapId": "2333136",
+  "beatmapSetId": "1007489",
+  "hp": "8",
+  "od": "8"
+}

@@ -1,0 +1,24 @@
+{
+  "category": "tech1",
+  "counts": {
+    "bpm": 1,
+    "sv": 0,
+    "notes": {
+      "total": 1239,
+      "rice": 1214,
+      "ln": 25,
+      "single": 858,
+      "jump": 186,
+      "hand": 3,
+      "quad": 0
+    }
+  },
+  "title": "Messier 333",
+  "artist": "sun3",
+  "mapper": "inteliser",
+  "difficulty": "INTERMEDIATE",
+  "beatmapId": "781089",
+  "beatmapSetId": "354621",
+  "hp": "8",
+  "od": "6"
+}

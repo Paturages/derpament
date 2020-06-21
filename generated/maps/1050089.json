@@ -1,0 +1,24 @@
+{
+  "category": "speed3",
+  "counts": {
+    "bpm": 1,
+    "sv": 2,
+    "notes": {
+      "total": 1823,
+      "rice": 1744,
+      "ln": 79,
+      "single": 1134,
+      "jump": 331,
+      "hand": 9,
+      "quad": 0
+    }
+  },
+  "title": "K.Y.A.F.A.",
+  "artist": "Camellia",
+  "mapper": "Wonki",
+  "difficulty": "Song Hana's Hard",
+  "beatmapId": "1050089",
+  "beatmapSetId": "468440",
+  "hp": "7.5",
+  "od": "7.5"
+}

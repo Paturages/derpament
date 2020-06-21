@@ -1,0 +1,24 @@
+{
+  "category": "ln2",
+  "counts": {
+    "bpm": 1,
+    "sv": 4,
+    "notes": {
+      "total": 1017,
+      "rice": 340,
+      "ln": 677,
+      "single": 262,
+      "jump": 323,
+      "hand": 27,
+      "quad": 7
+    }
+  },
+  "title": "Cherry Bomb",
+  "artist": "Silent Siren",
+  "mapper": "Raveille",
+  "difficulty": "Exciting!!",
+  "beatmapId": "2380746",
+  "beatmapSetId": "1139729",
+  "hp": "7",
+  "od": "7"
+}

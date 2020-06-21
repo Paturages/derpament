@@ -1,0 +1,24 @@
+{
+  "category": "ln3",
+  "counts": {
+    "bpm": 1,
+    "sv": 2,
+    "notes": {
+      "total": 1366,
+      "rice": 403,
+      "ln": 963,
+      "single": 484,
+      "jump": 432,
+      "hand": 6,
+      "quad": 0
+    }
+  },
+  "title": "Internet bitch P*Light Remix",
+  "artist": "DJ'TEKINA//SOMETHING",
+  "mapper": "juankristal",
+  "difficulty": "Stage 3: E-girl",
+  "beatmapId": "2251585",
+  "beatmapSetId": "1076027",
+  "hp": "7",
+  "od": "6.6"
+}

@@ -1,0 +1,24 @@
+{
+  "category": "hybrid12",
+  "counts": {
+    "bpm": 1,
+    "sv": 9,
+    "notes": {
+      "total": 1195,
+      "rice": 980,
+      "ln": 215,
+      "single": 659,
+      "jump": 181,
+      "hand": 58,
+      "quad": 0
+    }
+  },
+  "title": "UMMU",
+  "artist": "t+pazolite",
+  "mapper": "Tofu1222",
+  "difficulty": "Stan's Hyper Lv.10",
+  "beatmapId": "1899828",
+  "beatmapSetId": "910428",
+  "hp": "7.5",
+  "od": "7.5"
+}

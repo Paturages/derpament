@@ -1,0 +1,24 @@
+{
+  "category": "hybrid11",
+  "counts": {
+    "bpm": 1,
+    "sv": 6,
+    "notes": {
+      "total": 1577,
+      "rice": 1235,
+      "ln": 342,
+      "single": 764,
+      "jump": 396,
+      "hand": 7,
+      "quad": 0
+    }
+  },
+  "title": "Blue Haven",
+  "artist": "Fractal Dreamers",
+  "mapper": "[ A v a l o n ]",
+  "difficulty": "4K Intermediate",
+  "beatmapId": "1895079",
+  "beatmapSetId": "908108",
+  "hp": "7.5",
+  "od": "7.5"
+}

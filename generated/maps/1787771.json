@@ -1,0 +1,24 @@
+{
+  "category": "tech1",
+  "counts": {
+    "bpm": 3,
+    "sv": 4,
+    "notes": {
+      "total": 1589,
+      "rice": 1492,
+      "ln": 97,
+      "single": 668,
+      "jump": 396,
+      "hand": 43,
+      "quad": 0
+    }
+  },
+  "title": "misery",
+  "artist": "hyi",
+  "mapper": "Janko",
+  "difficulty": "decompose",
+  "beatmapId": "1787771",
+  "beatmapSetId": "855631",
+  "hp": "8",
+  "od": "8"
+}

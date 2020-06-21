@@ -1,0 +1,24 @@
+{
+  "category": "tb1",
+  "counts": {
+    "bpm": 1,
+    "sv": 4,
+    "notes": {
+      "total": 2510,
+      "rice": 1723,
+      "ln": 787,
+      "single": 1982,
+      "jump": 258,
+      "hand": 4,
+      "quad": 0
+    }
+  },
+  "title": "8a55",
+  "artist": "Seiryu",
+  "mapper": "[Shana Lesus]",
+  "difficulty": "Undiscovered oasis",
+  "beatmapId": "2078111",
+  "beatmapSetId": "993817",
+  "hp": "8",
+  "od": "7.5"
+}

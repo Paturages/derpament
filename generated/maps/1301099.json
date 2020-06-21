@@ -1,0 +1,24 @@
+{
+  "category": "speed1",
+  "counts": {
+    "bpm": 1,
+    "sv": 0,
+    "notes": {
+      "total": 2057,
+      "rice": 2008,
+      "ln": 49,
+      "single": 874,
+      "jump": 455,
+      "hand": 91,
+      "quad": 0
+    }
+  },
+  "title": "Pack of Things",
+  "artist": "Various Artists",
+  "mapper": "Rus Tea",
+  "difficulty": "Beatmania IIDX (Cream Puff) - Mermaid Girl (Ryu* Remix)",
+  "beatmapId": "1301099",
+  "beatmapSetId": "601787",
+  "hp": "7",
+  "od": "8"
+}
