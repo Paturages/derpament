@@ -46,7 +46,7 @@
     align-items: flex-end;
   }
   .score {
-    width: 4em;
+    width: 4.5em;
     margin-left: 1em;
     font-size: 1.5em;
     text-align: right;
