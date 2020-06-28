@@ -1,0 +1,24 @@
+{
+  "category": "boss",
+  "counts": {
+    "bpm": 1,
+    "sv": 0,
+    "notes": {
+      "total": 4030,
+      "rice": 3911,
+      "ln": 119,
+      "single": 2576,
+      "jump": 538,
+      "hand": 106,
+      "quad": 15
+    }
+  },
+  "title": "Midwest Choppers 2",
+  "artist": "Tech N9ne feat. Krayzie Bone & K-Dean",
+  "mapper": "Kizuna",
+  "difficulty": "Challenge",
+  "beatmapId": "2495412",
+  "beatmapSetId": "1198025",
+  "hp": "8",
+  "od": "8"
+}
