@@ -1,0 +1,24 @@
+{
+  "category": "hybrid1",
+  "counts": {
+    "bpm": 1,
+    "sv": 0,
+    "notes": {
+      "total": 1428,
+      "rice": 780,
+      "ln": 648,
+      "single": 214,
+      "jump": 376,
+      "hand": 126,
+      "quad": 21
+    }
+  },
+  "title": "Stepper",
+  "artist": "PSYQUI",
+  "mapper": "Ticle",
+  "difficulty": "Step Off",
+  "beatmapId": "2190112",
+  "beatmapSetId": "1047769",
+  "hp": "8.1",
+  "od": "7.1"
+}

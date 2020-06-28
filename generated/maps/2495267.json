@@ -1,0 +1,24 @@
+{
+  "category": "speed1",
+  "counts": {
+    "bpm": 1,
+    "sv": 0,
+    "notes": {
+      "total": 1662,
+      "rice": 1652,
+      "ln": 10,
+      "single": 1261,
+      "jump": 154,
+      "hand": 31,
+      "quad": 0
+    }
+  },
+  "title": "Preserved Roses",
+  "artist": "T.M.Revolution X Nana Mizuki",
+  "mapper": "Kizuna",
+  "difficulty": "Skwid's Dump",
+  "beatmapId": "2495267",
+  "beatmapSetId": "1198021",
+  "hp": "8",
+  "od": "8"
+}

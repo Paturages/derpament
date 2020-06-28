@@ -1,0 +1,24 @@
+{
+  "category": "acc2",
+  "counts": {
+    "bpm": 1,
+    "sv": 2,
+    "notes": {
+      "total": 1293,
+      "rice": 1284,
+      "ln": 9,
+      "single": 518,
+      "jump": 320,
+      "hand": 45,
+      "quad": 0
+    }
+  },
+  "title": "S!ck",
+  "artist": "Eagle",
+  "mapper": "PreciousDays",
+  "difficulty": "Insane",
+  "beatmapId": "1748654",
+  "beatmapSetId": "834826",
+  "hp": "8",
+  "od": "8"
+}

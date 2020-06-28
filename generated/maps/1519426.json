@@ -1,0 +1,24 @@
+{
+  "category": "tb",
+  "counts": {
+    "bpm": 4,
+    "sv": 1684,
+    "notes": {
+      "total": 4288,
+      "rice": 3466,
+      "ln": 822,
+      "single": 1447,
+      "jump": 960,
+      "hand": 291,
+      "quad": 12
+    }
+  },
+  "title": "Discloze (Extended)",
+  "artist": "lapix",
+  "mapper": "Alternater",
+  "difficulty": "Sevillanas",
+  "beatmapId": "1519426",
+  "beatmapSetId": "719520",
+  "hp": "9",
+  "od": "8.2"
+}

@@ -1,0 +1,24 @@
+{
+  "category": "sv2",
+  "counts": {
+    "bpm": 1,
+    "sv": 1131,
+    "notes": {
+      "total": 1800,
+      "rice": 1560,
+      "ln": 240,
+      "single": 282,
+      "jump": 352,
+      "hand": 170,
+      "quad": 76
+    }
+  },
+  "title": "Enjoy This Time",
+  "artist": "DJ Noriken feat. yukacco",
+  "mapper": "dionzz99",
+  "difficulty": "M-F Hands Up!",
+  "beatmapId": "1359594",
+  "beatmapSetId": "641122",
+  "hp": "6",
+  "od": "6"
+}

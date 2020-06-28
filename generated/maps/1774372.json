@@ -1,0 +1,24 @@
+{
+  "category": "speed2",
+  "counts": {
+    "bpm": 17,
+    "sv": 17,
+    "notes": {
+      "total": 2531,
+      "rice": 2468,
+      "ln": 63,
+      "single": 1527,
+      "jump": 313,
+      "hand": 126,
+      "quad": 0
+    }
+  },
+  "title": "out of Blue",
+  "artist": "Betwixt & Between",
+  "mapper": "Shoegazer",
+  "difficulty": "Abyss 1.1x",
+  "beatmapId": "1774372",
+  "beatmapSetId": "846425",
+  "hp": "9",
+  "od": "9"
+}

@@ -1,0 +1,24 @@
+{
+  "category": "acc1",
+  "counts": {
+    "bpm": 1,
+    "sv": 0,
+    "notes": {
+      "total": 1321,
+      "rice": 1309,
+      "ln": 12,
+      "single": 43,
+      "jump": 303,
+      "hand": 216,
+      "quad": 6
+    }
+  },
+  "title": "I Like This Chart, LOL vol. 1",
+  "artist": "Various Artists",
+  "mapper": "Fullereneshift",
+  "difficulty": "MACROSS 82-99 feat. Kamei - City Lights (Marathon)",
+  "beatmapId": "1684527",
+  "beatmapSetId": "802510",
+  "hp": "7",
+  "od": "7"
+}

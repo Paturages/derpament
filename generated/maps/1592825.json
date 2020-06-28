@@ -1,0 +1,24 @@
+{
+  "category": "tech2",
+  "counts": {
+    "bpm": 1,
+    "sv": 0,
+    "notes": {
+      "total": 1572,
+      "rice": 1442,
+      "ln": 130,
+      "single": 661,
+      "jump": 394,
+      "hand": 41,
+      "quad": 0
+    }
+  },
+  "title": "Thermostat 7 (feat. Vladimir Bozar 'n' ze Sheraf Orkestar)",
+  "artist": "Igorrr",
+  "mapper": "Vortex-",
+  "difficulty": "Overheated",
+  "beatmapId": "1592825",
+  "beatmapSetId": "757092",
+  "hp": "8.2",
+  "od": "7.6"
+}

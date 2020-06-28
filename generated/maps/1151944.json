@@ -1,0 +1,24 @@
+{
+  "category": "tech1",
+  "counts": {
+    "bpm": 144,
+    "sv": 143,
+    "notes": {
+      "total": 3539,
+      "rice": 3379,
+      "ln": 160,
+      "single": 1321,
+      "jump": 935,
+      "hand": 108,
+      "quad": 6
+    }
+  },
+  "title": "Nightmare of Hornets Squad",
+  "artist": "Camellia",
+  "mapper": "Valedict",
+  "difficulty": "Breakdown",
+  "beatmapId": "1151944",
+  "beatmapSetId": "543489",
+  "hp": "9",
+  "od": "9"
+}

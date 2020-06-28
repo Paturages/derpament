@@ -1,0 +1,24 @@
+{
+  "category": "speed3",
+  "counts": {
+    "bpm": 1,
+    "sv": 0,
+    "notes": {
+      "total": 1946,
+      "rice": 1924,
+      "ln": 22,
+      "single": 1052,
+      "jump": 384,
+      "hand": 42,
+      "quad": 0
+    }
+  },
+  "title": "iterated",
+  "artist": "litmus*",
+  "mapper": "Elekton",
+  "difficulty": "versatile",
+  "beatmapId": "1642731",
+  "beatmapSetId": "782284",
+  "hp": "8",
+  "od": "8"
+}

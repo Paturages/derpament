@@ -1,0 +1,24 @@
+{
+  "category": "ln2",
+  "counts": {
+    "bpm": 1,
+    "sv": 35,
+    "notes": {
+      "total": 1414,
+      "rice": 247,
+      "ln": 1167,
+      "single": 493,
+      "jump": 273,
+      "hand": 125,
+      "quad": 0
+    }
+  },
+  "title": "ELPIS LN I",
+  "artist": "Various Artists",
+  "mapper": "ELPIS",
+  "difficulty": "Line 4 Ruin",
+  "beatmapId": "1595150",
+  "beatmapSetId": "758327",
+  "hp": "8",
+  "od": "8"
+}

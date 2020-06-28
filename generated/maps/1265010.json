@@ -1,0 +1,24 @@
+{
+  "category": "hybrid2",
+  "counts": {
+    "bpm": 1,
+    "sv": 204,
+    "notes": {
+      "total": 2628,
+      "rice": 2369,
+      "ln": 259,
+      "single": 849,
+      "jump": 331,
+      "hand": 259,
+      "quad": 85
+    }
+  },
+  "title": "Abrasion",
+  "artist": "Zekk",
+  "mapper": "Wonki",
+  "difficulty": "Insane",
+  "beatmapId": "1265010",
+  "beatmapSetId": "598419",
+  "hp": "8",
+  "od": "8"
+}

@@ -1,0 +1,24 @@
+{
+  "category": "sv1",
+  "counts": {
+    "bpm": 529,
+    "sv": 488,
+    "notes": {
+      "total": 1481,
+      "rice": 1355,
+      "ln": 126,
+      "single": 642,
+      "jump": 321,
+      "hand": 39,
+      "quad": 20
+    }
+  },
+  "title": "CO5M1C R4ILR0AD",
+  "artist": "kanone",
+  "mapper": "Lusty Platypus",
+  "difficulty": "4B50LUT3 0BL1T3R4T10N",
+  "beatmapId": "1153258",
+  "beatmapSetId": "544191",
+  "hp": "4.2",
+  "od": "4.2"
+}
