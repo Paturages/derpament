@@ -1,0 +1,24 @@
+{
+  "category": "tech2",
+  "counts": {
+    "bpm": 4,
+    "sv": 4,
+    "notes": {
+      "total": 1501,
+      "rice": 1411,
+      "ln": 90,
+      "single": 904,
+      "jump": 258,
+      "hand": 27,
+      "quad": 0
+    }
+  },
+  "title": "Xlo",
+  "artist": "sasakure.UK",
+  "mapper": "Valedict",
+  "difficulty": "Another",
+  "beatmapId": "2442125",
+  "beatmapSetId": "1170658",
+  "hp": "8",
+  "od": "8.5"
+}

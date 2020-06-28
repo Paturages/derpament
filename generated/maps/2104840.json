@@ -1,0 +1,24 @@
+{
+  "category": "sv2",
+  "counts": {
+    "bpm": 1,
+    "sv": 9990,
+    "notes": {
+      "total": 1095,
+      "rice": 1002,
+      "ln": 93,
+      "single": 469,
+      "jump": 292,
+      "hand": 14,
+      "quad": 0
+    }
+  },
+  "title": "Money Made Me Do It (Feat. 2 Chainz) (Okami Remix)",
+  "artist": "Post Malone",
+  "mapper": "Dergo",
+  "difficulty": "yuh",
+  "beatmapId": "2104840",
+  "beatmapSetId": "1005720",
+  "hp": "8",
+  "od": "8"
+}

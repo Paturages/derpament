@@ -1,0 +1,24 @@
+{
+  "category": "tb1",
+  "counts": {
+    "bpm": 19,
+    "sv": 75,
+    "notes": {
+      "total": 2914,
+      "rice": 2111,
+      "ln": 803,
+      "single": 1134,
+      "jump": 647,
+      "hand": 158,
+      "quad": 3
+    }
+  },
+  "title": "Youka to Yumeutsutsu",
+  "artist": "Shimotsuki Haruka",
+  "mapper": "diamant66",
+  "difficulty": "Camellia",
+  "beatmapId": "2011012",
+  "beatmapSetId": "960549",
+  "hp": "8",
+  "od": "7.8"
+}

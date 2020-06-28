@@ -1,0 +1,24 @@
+{
+  "category": "ln1",
+  "counts": {
+    "bpm": 2,
+    "sv": 6,
+    "notes": {
+      "total": 2155,
+      "rice": 1122,
+      "ln": 1033,
+      "single": 522,
+      "jump": 463,
+      "hand": 229,
+      "quad": 5
+    }
+  },
+  "title": "Acchi Muite",
+  "artist": "Swimy",
+  "mapper": "Raveille",
+  "difficulty": "This Way! NSV",
+  "beatmapId": "1687703",
+  "beatmapSetId": "744373",
+  "hp": "8.5",
+  "od": "7.7"
+}

@@ -1,0 +1,24 @@
+{
+  "category": "sv3",
+  "counts": {
+    "bpm": 7,
+    "sv": 1720,
+    "notes": {
+      "total": 2180,
+      "rice": 1715,
+      "ln": 465,
+      "single": 890,
+      "jump": 329,
+      "hand": 208,
+      "quad": 2
+    }
+  },
+  "title": "Bizzare Nation",
+  "artist": "lapix & Massive New Krew",
+  "mapper": "ecafree2",
+  "difficulty": "4K MX",
+  "beatmapId": "1892295",
+  "beatmapSetId": "906808",
+  "hp": "7",
+  "od": "5"
+}

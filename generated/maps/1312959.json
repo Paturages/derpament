@@ -1,0 +1,24 @@
+{
+  "category": "speed1",
+  "counts": {
+    "bpm": 2,
+    "sv": 0,
+    "notes": {
+      "total": 1678,
+      "rice": 1657,
+      "ln": 21,
+      "single": 779,
+      "jump": 419,
+      "hand": 19,
+      "quad": 1
+    }
+  },
+  "title": "Moon-gate",
+  "artist": "Shiraishi",
+  "mapper": "Wh1teh",
+  "difficulty": "k",
+  "beatmapId": "1312959",
+  "beatmapSetId": "622851",
+  "hp": "8.5",
+  "od": "8.5"
+}

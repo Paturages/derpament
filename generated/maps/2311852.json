@@ -1,0 +1,24 @@
+{
+  "category": "acc3",
+  "counts": {
+    "bpm": 1,
+    "sv": 0,
+    "notes": {
+      "total": 1213,
+      "rice": 1163,
+      "ln": 50,
+      "single": 494,
+      "jump": 271,
+      "hand": 59,
+      "quad": 0
+    }
+  },
+  "title": "Fire Blazing",
+  "artist": "Dropgun",
+  "mapper": "Logan636",
+  "difficulty": "Stage 2: Ignition",
+  "beatmapId": "2311852",
+  "beatmapSetId": "1106164",
+  "hp": "6",
+  "od": "9"
+}

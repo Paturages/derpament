@@ -1,0 +1,24 @@
+{
+  "category": "speed3",
+  "counts": {
+    "bpm": 1,
+    "sv": 4,
+    "notes": {
+      "total": 1947,
+      "rice": 1874,
+      "ln": 73,
+      "single": 1012,
+      "jump": 460,
+      "hand": 5,
+      "quad": 0
+    }
+  },
+  "title": "K.A.o.s",
+  "artist": "K.A",
+  "mapper": "Kernaus",
+  "difficulty": "HD",
+  "beatmapId": "972659",
+  "beatmapSetId": "445964",
+  "hp": "7",
+  "od": "6.5"
+}

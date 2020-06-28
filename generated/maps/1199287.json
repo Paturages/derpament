@@ -1,0 +1,24 @@
+{
+  "category": "speed2",
+  "counts": {
+    "bpm": 1,
+    "sv": 0,
+    "notes": {
+      "total": 1344,
+      "rice": 1270,
+      "ln": 74,
+      "single": 696,
+      "jump": 306,
+      "hand": 8,
+      "quad": 3
+    }
+  },
+  "title": "you can recover",
+  "artist": "hyi",
+  "mapper": "Valedict",
+  "difficulty": "restoration 1.1x",
+  "beatmapId": "1199287",
+  "beatmapSetId": "566156",
+  "hp": "8",
+  "od": "8"
+}

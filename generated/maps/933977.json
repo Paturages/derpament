@@ -1,0 +1,24 @@
+{
+  "category": "tech1",
+  "counts": {
+    "bpm": 1,
+    "sv": 0,
+    "notes": {
+      "total": 1102,
+      "rice": 1102,
+      "ln": 0,
+      "single": 1040,
+      "jump": 31,
+      "hand": 0,
+      "quad": 0
+    }
+  },
+  "title": "intel 4K Core Pack Vol.2",
+  "artist": "Various Artists",
+  "mapper": "inteliser",
+  "difficulty": "w_tre // Shannon's Theorem (HD)",
+  "beatmapId": "933977",
+  "beatmapSetId": "433249",
+  "hp": "8",
+  "od": "6"
+}

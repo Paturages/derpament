@@ -1,0 +1,24 @@
+{
+  "category": "tb1",
+  "counts": {
+    "bpm": 1,
+    "sv": 44,
+    "notes": {
+      "total": 2565,
+      "rice": 2295,
+      "ln": 270,
+      "single": 1123,
+      "jump": 544,
+      "hand": 118,
+      "quad": 0
+    }
+  },
+  "title": "Nanahira Collection Vol.2",
+  "artist": "Various",
+  "mapper": "Rinzler",
+  "difficulty": "Marathon",
+  "beatmapId": "744639",
+  "beatmapSetId": "334860",
+  "hp": "8",
+  "od": "8"
+}

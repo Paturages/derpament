@@ -1,0 +1,24 @@
+{
+  "category": "acc1",
+  "counts": {
+    "bpm": 1,
+    "sv": 6,
+    "notes": {
+      "total": 1699,
+      "rice": 1598,
+      "ln": 101,
+      "single": 626,
+      "jump": 496,
+      "hand": 27,
+      "quad": 0
+    }
+  },
+  "title": "Zetsubou no Fuchi",
+  "artist": "senya",
+  "mapper": "Virtue-",
+  "difficulty": "540's Hard",
+  "beatmapId": "1500034",
+  "beatmapSetId": "709521",
+  "hp": "8",
+  "od": "7.5"
+}

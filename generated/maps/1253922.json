@@ -1,0 +1,24 @@
+{
+  "category": "tech3",
+  "counts": {
+    "bpm": 3,
+    "sv": 3,
+    "notes": {
+      "total": 1390,
+      "rice": 1390,
+      "ln": 0,
+      "single": 742,
+      "jump": 324,
+      "hand": 0,
+      "quad": 0
+    }
+  },
+  "title": "Black Lawn Finale",
+  "artist": "The Flashbulb",
+  "mapper": "Night Bunny 7",
+  "difficulty": "Hayden's Lv.12 NSV",
+  "beatmapId": "1253922",
+  "beatmapSetId": "592633",
+  "hp": "8",
+  "od": "8"
+}

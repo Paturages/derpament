@@ -1,0 +1,24 @@
+{
+  "category": "hybrid3",
+  "counts": {
+    "bpm": 1,
+    "sv": 0,
+    "notes": {
+      "total": 2858,
+      "rice": 2269,
+      "ln": 589,
+      "single": 1184,
+      "jump": 617,
+      "hand": 136,
+      "quad": 8
+    }
+  },
+  "title": "Labyrinth",
+  "artist": "lapix",
+  "mapper": "PianoLuigi",
+  "difficulty": "Insane",
+  "beatmapId": "2015442",
+  "beatmapSetId": "962544",
+  "hp": "8",
+  "od": "8"
+}

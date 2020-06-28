@@ -1,0 +1,24 @@
+{
+  "category": "sv2",
+  "counts": {
+    "bpm": 61,
+    "sv": 666,
+    "notes": {
+      "total": 477,
+      "rice": 373,
+      "ln": 104,
+      "single": 177,
+      "jump": 71,
+      "hand": 50,
+      "quad": 2
+    }
+  },
+  "title": "thought of",
+  "artist": "ito.",
+  "mapper": "Couil",
+  "difficulty": "Original",
+  "beatmapId": "2132201",
+  "beatmapSetId": "1018932",
+  "hp": "8.5",
+  "od": "8"
+}

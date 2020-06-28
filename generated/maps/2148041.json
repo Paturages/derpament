@@ -1,0 +1,24 @@
+{
+  "category": "acc2",
+  "counts": {
+    "bpm": 1,
+    "sv": 12,
+    "notes": {
+      "total": 1903,
+      "rice": 1903,
+      "ln": 0,
+      "single": 707,
+      "jump": 598,
+      "hand": 0,
+      "quad": 0
+    }
+  },
+  "title": "Eternal Spring Dream",
+  "artist": "ZUN",
+  "mapper": "FAMoss",
+  "difficulty": "Hard",
+  "beatmapId": "2148041",
+  "beatmapSetId": "765951",
+  "hp": "8",
+  "od": "8"
+}

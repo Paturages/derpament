@@ -1,0 +1,24 @@
+{
+  "category": "sv1",
+  "counts": {
+    "bpm": 25,
+    "sv": 691,
+    "notes": {
+      "total": 451,
+      "rice": 315,
+      "ln": 136,
+      "single": 248,
+      "jump": 70,
+      "hand": 21,
+      "quad": 0
+    }
+  },
+  "title": "Le Petit Prince",
+  "artist": "cubesato + sweez + hsgn",
+  "mapper": "RuleBlazing",
+  "difficulty": "Stage 1 : Snowvy Vlazing",
+  "beatmapId": "2311662",
+  "beatmapSetId": "1106056",
+  "hp": "7",
+  "od": "7"
+}

@@ -1,0 +1,24 @@
+{
+  "category": "speed2",
+  "counts": {
+    "bpm": 3,
+    "sv": 4,
+    "notes": {
+      "total": 1212,
+      "rice": 1138,
+      "ln": 74,
+      "single": 831,
+      "jump": 168,
+      "hand": 15,
+      "quad": 0
+    }
+  },
+  "title": "Khionos TiARA",
+  "artist": "Ellim Gnirps vs. Yomi",
+  "mapper": "Murumoo",
+  "difficulty": "ADVANCED",
+  "beatmapId": "1483134",
+  "beatmapSetId": "700493",
+  "hp": "7.8",
+  "od": "7.6"
+}

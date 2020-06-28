@@ -1,0 +1,24 @@
+{
+  "category": "acc2",
+  "counts": {
+    "bpm": 1,
+    "sv": 6,
+    "notes": {
+      "total": 1231,
+      "rice": 1221,
+      "ln": 10,
+      "single": 531,
+      "jump": 299,
+      "hand": 34,
+      "quad": 0
+    }
+  },
+  "title": "New Gravity",
+  "artist": "Starving Trancer",
+  "mapper": "[ A v a l o n ]",
+  "difficulty": "StarCore's Expert",
+  "beatmapId": "770488",
+  "beatmapSetId": "349401",
+  "hp": "8",
+  "od": "8"
+}

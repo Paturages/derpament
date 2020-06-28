@@ -1,0 +1,24 @@
+{
+  "category": "hybrid3",
+  "counts": {
+    "bpm": 1,
+    "sv": 8,
+    "notes": {
+      "total": 1687,
+      "rice": 1533,
+      "ln": 154,
+      "single": 973,
+      "jump": 306,
+      "hand": 34,
+      "quad": 0
+    }
+  },
+  "title": "Astronomical Twilight (Extend Mix)",
+  "artist": "anubasu-anubasu / 6UT3 / SHU10 / U-hey / Lafale / CELLON. / Kankitsu",
+  "mapper": "[ A v a l o n ]",
+  "difficulty": "Wonki's Hyper",
+  "beatmapId": "1171493",
+  "beatmapSetId": "552863",
+  "hp": "7.5",
+  "od": "7.5"
+}

@@ -1,0 +1,24 @@
+{
+  "category": "hybrid1",
+  "counts": {
+    "bpm": 1,
+    "sv": 5,
+    "notes": {
+      "total": 1133,
+      "rice": 762,
+      "ln": 371,
+      "single": 295,
+      "jump": 227,
+      "hand": 116,
+      "quad": 9
+    }
+  },
+  "title": "Bokura no Jikan",
+  "artist": "Tezuka feat. Oonishi Amimi",
+  "mapper": "KeppSado",
+  "difficulty": "Lenfried's EXHAUST",
+  "beatmapId": "2062307",
+  "beatmapSetId": "985765",
+  "hp": "8",
+  "od": "8"
+}

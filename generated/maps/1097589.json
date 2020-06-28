@@ -1,0 +1,24 @@
+{
+  "category": "speed3",
+  "counts": {
+    "bpm": 1,
+    "sv": 6,
+    "notes": {
+      "total": 2976,
+      "rice": 2960,
+      "ln": 16,
+      "single": 2048,
+      "jump": 464,
+      "hand": 0,
+      "quad": 0
+    }
+  },
+  "title": "Over the Fullereneshift",
+  "artist": "DJ Sharpnel",
+  "mapper": "Veldmaarschalk",
+  "difficulty": "MX",
+  "beatmapId": "1097589",
+  "beatmapSetId": "516517",
+  "hp": "7",
+  "od": "8"
+}

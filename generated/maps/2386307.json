@@ -1,0 +1,24 @@
+{
+  "category": "hybrid2",
+  "counts": {
+    "bpm": 1,
+    "sv": 189,
+    "notes": {
+      "total": 1484,
+      "rice": 1347,
+      "ln": 137,
+      "single": 427,
+      "jump": 428,
+      "hand": 67,
+      "quad": 0
+    }
+  },
+  "title": "Libertas",
+  "artist": "Zekk",
+  "mapper": "Syadow-",
+  "difficulty": "Future",
+  "beatmapId": "2386307",
+  "beatmapSetId": "1137604",
+  "hp": "8",
+  "od": "8"
+}

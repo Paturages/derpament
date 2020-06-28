@@ -1,0 +1,24 @@
+{
+  "category": "tech3",
+  "counts": {
+    "bpm": 1,
+    "sv": 0,
+    "notes": {
+      "total": 2832,
+      "rice": 2545,
+      "ln": 287,
+      "single": 1604,
+      "jump": 518,
+      "hand": 64,
+      "quad": 0
+    }
+  },
+  "title": "Epidermis",
+  "artist": "Venetian Snares",
+  "mapper": "Shoegazer",
+  "difficulty": "Tribalism",
+  "beatmapId": "2209406",
+  "beatmapSetId": "898099",
+  "hp": "8.5",
+  "od": "8.5"
+}

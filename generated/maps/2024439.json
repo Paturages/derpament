@@ -1,0 +1,24 @@
+{
+  "category": "sv1",
+  "counts": {
+    "bpm": 40,
+    "sv": 1450,
+    "notes": {
+      "total": 712,
+      "rice": 564,
+      "ln": 148,
+      "single": 275,
+      "jump": 181,
+      "hand": 25,
+      "quad": 0
+    }
+  },
+  "title": "MilK",
+  "artist": "Morimori Atsushi",
+  "mapper": "Guilhermeziat",
+  "difficulty": "SilV",
+  "beatmapId": "2024439",
+  "beatmapSetId": "967318",
+  "hp": "8",
+  "od": "7.5"
+}

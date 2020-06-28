@@ -1,0 +1,24 @@
+{
+  "category": "hybrid2",
+  "counts": {
+    "bpm": 1,
+    "sv": 6,
+    "notes": {
+      "total": 1868,
+      "rice": 1505,
+      "ln": 363,
+      "single": 669,
+      "jump": 512,
+      "hand": 57,
+      "quad": 1
+    }
+  },
+  "title": "Spica",
+  "artist": "Endorfin.",
+  "mapper": "_Kobii",
+  "difficulty": "Amii vs. Sado's Hard",
+  "beatmapId": "1877513",
+  "beatmapSetId": "890271",
+  "hp": "7.5",
+  "od": "8"
+}

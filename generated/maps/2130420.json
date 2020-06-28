@@ -1,0 +1,24 @@
+{
+  "category": "sv3",
+  "counts": {
+    "bpm": 1,
+    "sv": 1041,
+    "notes": {
+      "total": 672,
+      "rice": 556,
+      "ln": 116,
+      "single": 285,
+      "jump": 174,
+      "hand": 13,
+      "quad": 0
+    }
+  },
+  "title": "Hyperactive",
+  "artist": "Mr. Fantastic",
+  "mapper": "zero2snow",
+  "difficulty": "Stage 1: Subtle",
+  "beatmapId": "2130420",
+  "beatmapSetId": "1017965",
+  "hp": "7",
+  "od": "7"
+}

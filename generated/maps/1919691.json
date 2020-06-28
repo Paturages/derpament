@@ -1,0 +1,24 @@
+{
+  "category": "ln2",
+  "counts": {
+    "bpm": 1,
+    "sv": 2,
+    "notes": {
+      "total": 449,
+      "rice": 120,
+      "ln": 329,
+      "single": 290,
+      "jump": 78,
+      "hand": 1,
+      "quad": 0
+    }
+  },
+  "title": "-.-. .- .-. --- .-.. / --- ..-. / .-.. .. ..-. .",
+  "artist": "KillerBlood",
+  "mapper": "Dergo",
+  "difficulty": "restoration",
+  "beatmapId": "1919691",
+  "beatmapSetId": "919414",
+  "hp": "8",
+  "od": "7.5"
+}

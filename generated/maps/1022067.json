@@ -1,0 +1,24 @@
+{
+  "category": "acc3",
+  "counts": {
+    "bpm": 2,
+    "sv": 24,
+    "notes": {
+      "total": 1524,
+      "rice": 1481,
+      "ln": 43,
+      "single": 908,
+      "jump": 242,
+      "hand": 44,
+      "quad": 0
+    }
+  },
+  "title": "Unmeiron",
+  "artist": "LUZE & Emew.",
+  "mapper": "snoverpk",
+  "difficulty": "Hyper",
+  "beatmapId": "1022067",
+  "beatmapSetId": "475927",
+  "hp": "8",
+  "od": "8"
+}

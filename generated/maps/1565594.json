@@ -1,0 +1,24 @@
+{
+  "category": "hybrid1",
+  "counts": {
+    "bpm": 1,
+    "sv": 5,
+    "notes": {
+      "total": 797,
+      "rice": 458,
+      "ln": 339,
+      "single": 331,
+      "jump": 188,
+      "hand": 30,
+      "quad": 0
+    }
+  },
+  "title": "Glorious morning",
+  "artist": "Waterflame",
+  "mapper": "newbandpro",
+  "difficulty": "Hard",
+  "beatmapId": "1565594",
+  "beatmapSetId": "742228",
+  "hp": "7.5",
+  "od": "7.5"
+}

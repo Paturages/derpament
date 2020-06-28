@@ -6,7 +6,8 @@
     { "id": "3.ro32", "name": "Round of 32", "mapCount": 12 },
     { "id": "4.ro16", "name": "Round of 16", "mapCount": 15 },
     { "id": "5.quarterfinals", "name": "Quarterfinals", "mapCount": 15 },
-    { "id": "6.semifinals", "name": "Semifinals", "mapCount": 17 }
+    { "id": "6.semifinals", "name": "Semifinals", "mapCount": 17 },
+    { "id": "7.finals", "name": "Finals", "mapCount": 19 }
   ],
   "players": {
     "868700": {

@@ -1,0 +1,24 @@
+{
+  "category": "tech2",
+  "counts": {
+    "bpm": 1,
+    "sv": 0,
+    "notes": {
+      "total": 1002,
+      "rice": 797,
+      "ln": 205,
+      "single": 682,
+      "jump": 148,
+      "hand": 8,
+      "quad": 0
+    }
+  },
+  "title": "No Answer",
+  "artist": "Tennyson",
+  "mapper": "ByeForNow",
+  "difficulty": "Silence",
+  "beatmapId": "2045881",
+  "beatmapSetId": "977509",
+  "hp": "9",
+  "od": "8.5"
+}

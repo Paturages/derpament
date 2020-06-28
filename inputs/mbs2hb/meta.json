@@ -24,6 +24,10 @@
     {
       "id": "6.semifinals",
       "name": "Semifinals"
+    },
+    {
+      "id": "7.finals",
+      "name": "Finals"
     }
   ]
 }

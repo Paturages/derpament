@@ -1,0 +1,24 @@
+{
+  "category": "ln3",
+  "counts": {
+    "bpm": 3,
+    "sv": 3,
+    "notes": {
+      "total": 622,
+      "rice": 261,
+      "ln": 361,
+      "single": 254,
+      "jump": 139,
+      "hand": 30,
+      "quad": 0
+    }
+  },
+  "title": "I Don't Want To Say Goodbye",
+  "artist": "Junichi Masuda and Satoshi Tajiri",
+  "mapper": "BossMadWolf",
+  "difficulty": "Don't leave me alone ;-;",
+  "beatmapId": "2313371",
+  "beatmapSetId": "1106856",
+  "hp": "8.4",
+  "od": "7.6"
+}

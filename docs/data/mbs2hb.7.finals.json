@@ -1,0 +1,1574 @@
+{
+  "id": "7.finals",
+  "name": "Finals",
+  "mapCount": 19,
+  "maps": [
+    {
+      "category": "sv1",
+      "counts": {
+        "bpm": 25,
+        "sv": 691,
+        "notes": {
+          "total": 451,
+          "rice": 315,
+          "ln": 136,
+          "single": 248,
+          "jump": 70,
+          "hand": 21,
+          "quad": 0
+        }
+      },
+      "title": "Le Petit Prince",
+      "artist": "cubesato + sweez + hsgn",
+      "mapper": "RuleBlazing",
+      "difficulty": "Stage 1 : Snowvy Vlazing",
+      "beatmapId": "2311662",
+      "beatmapSetId": "1106056",
+      "hp": "7",
+      "od": "7",
+      "scores": [
+        {
+          "userId": "8642224",
+          "score": 887426,
+          "combo": 587,
+          "counts": {
+            "50": 0,
+            "100": 3,
+            "200": 43,
+            "300": 257,
+            "miss": 0,
+            "max": 284
+          }
+        },
+        {
+          "userId": "1375479",
+          "score": 874102,
+          "combo": 383,
+          "counts": {
+            "50": 1,
+            "100": 2,
+            "200": 36,
+            "300": 181,
+            "miss": 1,
+            "max": 366
+          }
+        },
+        {
+          "userId": "8642224",
+          "score": 868125,
+          "combo": 587,
+          "counts": {
+            "50": 0,
+            "100": 3,
+            "200": 53,
+            "300": 286,
+            "miss": 0,
+            "max": 245
+          }
+        },
+        {
+          "userId": "12214401",
+          "score": 685799,
+          "combo": 180,
+          "counts": {
+            "50": 5,
+            "100": 13,
+            "200": 77,
+            "300": 209,
+            "miss": 10,
+            "max": 273
+          }
+        }
+      ],
+      "pickCount": 2,
+      "bans": [13942150, 12894120]
+    },
+    {
+      "category": "sv2",
+      "counts": {
+        "bpm": 1,
+        "sv": 9990,
+        "notes": {
+          "total": 1095,
+          "rice": 1002,
+          "ln": 93,
+          "single": 469,
+          "jump": 292,
+          "hand": 14,
+          "quad": 0
+        }
+      },
+      "title": "Money Made Me Do It (Feat. 2 Chainz) (Okami Remix)",
+      "artist": "Post Malone",
+      "mapper": "Dergo",
+      "difficulty": "yuh",
+      "beatmapId": "2104840",
+      "beatmapSetId": "1005720",
+      "hp": "8",
+      "od": "8",
+      "scores": [
+        {
+          "userId": "1375479",
+          "score": 979298,
+          "combo": 1188,
+          "counts": {
+            "50": 0,
+            "100": 1,
+            "200": 9,
+            "300": 230,
+            "miss": 0,
+            "max": 948
+          }
+        },
+        {
+          "userId": "1375479",
+          "score": 964042,
+          "combo": 726,
+          "counts": {
+            "50": 0,
+            "100": 2,
+            "200": 9,
+            "300": 208,
+            "miss": 1,
+            "max": 968
+          }
+        },
+        {
+          "userId": "8642224",
+          "score": 926291,
+          "combo": 903,
+          "counts": {
+            "50": 1,
+            "100": 2,
+            "200": 41,
+            "300": 419,
+            "miss": 0,
+            "max": 725
+          }
+        },
+        {
+          "userId": "12894120",
+          "score": 899971,
+          "combo": 459,
+          "counts": {
+            "50": 1,
+            "100": 4,
+            "200": 43,
+            "300": 313,
+            "miss": 3,
+            "max": 824
+          }
+        },
+        {
+          "userId": "13942150",
+          "score": 833809,
+          "combo": 935,
+          "counts": {
+            "50": 7,
+            "100": 18,
+            "200": 94,
+            "300": 375,
+            "miss": 2,
+            "max": 692
+          }
+        },
+        {
+          "userId": "5069913",
+          "score": 655941,
+          "combo": 286,
+          "counts": {
+            "50": 13,
+            "100": 50,
+            "200": 98,
+            "300": 311,
+            "miss": 33,
+            "max": 683
+          }
+        }
+      ],
+      "pickCount": 3,
+      "bans": [12214401]
+    },
+    {
+      "category": "sv3",
+      "counts": {
+        "bpm": 7,
+        "sv": 1720,
+        "notes": {
+          "total": 2180,
+          "rice": 1715,
+          "ln": 465,
+          "single": 890,
+          "jump": 329,
+          "hand": 208,
+          "quad": 2
+        }
+      },
+      "title": "Bizzare Nation",
+      "artist": "lapix & Massive New Krew",
+      "mapper": "ecafree2",
+      "difficulty": "4K MX",
+      "beatmapId": "1892295",
+      "beatmapSetId": "906808",
+      "hp": "7",
+      "od": "5",
+      "scores": [
+        {
+          "userId": "5069913",
+          "score": 940013,
+          "combo": 2073,
+          "counts": {
+            "50": 1,
+            "100": 1,
+            "200": 33,
+            "300": 654,
+            "miss": 16,
+            "max": 1940
+          }
+        },
+        {
+          "userId": "12894120",
+          "score": 939712,
+          "combo": 1754,
+          "counts": {
+            "50": 1,
+            "100": 2,
+            "200": 54,
+            "300": 776,
+            "miss": 4,
+            "max": 1808
+          }
+        },
+        {
+          "userId": "8642224",
+          "score": 922740,
+          "combo": 1849,
+          "counts": {
+            "50": 4,
+            "100": 5,
+            "200": 72,
+            "300": 945,
+            "miss": 8,
+            "max": 1611
+          }
+        },
+        {
+          "userId": "1375479",
+          "score": 901596,
+          "combo": 1015,
+          "counts": {
+            "50": 5,
+            "100": 16,
+            "200": 61,
+            "300": 766,
+            "miss": 12,
+            "max": 1785
+          }
+        },
+        {
+          "userId": "1375479",
+          "score": 882627,
+          "combo": 1306,
+          "counts": {
+            "50": 3,
+            "100": 12,
+            "200": 96,
+            "300": 768,
+            "miss": 19,
+            "max": 1747
+          }
+        },
+        {
+          "userId": "12214401",
+          "score": 823075,
+          "combo": 768,
+          "counts": {
+            "50": 10,
+            "100": 28,
+            "200": 182,
+            "300": 1120,
+            "miss": 13,
+            "max": 1292
+          }
+        },
+        {
+          "userId": "13942150",
+          "score": 764435,
+          "combo": 428,
+          "counts": {
+            "50": 26,
+            "100": 40,
+            "200": 209,
+            "300": 798,
+            "miss": 27,
+            "max": 1545
+          }
+        }
+      ],
+      "pickCount": 4,
+      "bans": []
+    },
+    {
+      "category": "ln1",
+      "counts": {
+        "bpm": 2,
+        "sv": 6,
+        "notes": {
+          "total": 2155,
+          "rice": 1122,
+          "ln": 1033,
+          "single": 522,
+          "jump": 463,
+          "hand": 229,
+          "quad": 5
+        }
+      },
+      "title": "Acchi Muite",
+      "artist": "Swimy",
+      "mapper": "Raveille",
+      "difficulty": "This Way! NSV",
+      "beatmapId": "1687703",
+      "beatmapSetId": "744373",
+      "hp": "8.5",
+      "od": "7.7",
+      "scores": [
+        {
+          "userId": "8642224",
+          "score": 935849,
+          "combo": 1819,
+          "counts": {
+            "50": 1,
+            "100": 5,
+            "200": 78,
+            "300": 1070,
+            "miss": 4,
+            "max": 2030
+          }
+        },
+        {
+          "userId": "1375479",
+          "score": 881996,
+          "combo": 733,
+          "counts": {
+            "50": 9,
+            "100": 10,
+            "200": 119,
+            "300": 761,
+            "miss": 12,
+            "max": 2277
+          }
+        }
+      ],
+      "pickCount": 1,
+      "bans": [1375479, 12214401]
+    },
+    {
+      "category": "ln2",
+      "counts": {
+        "bpm": 1,
+        "sv": 4,
+        "notes": {
+          "total": 1365,
+          "rice": 406,
+          "ln": 959,
+          "single": 467,
+          "jump": 282,
+          "hand": 106,
+          "quad": 4
+        }
+      },
+      "title": "Koborezu no Negaigoto",
+      "artist": "senya",
+      "mapper": "ZayyKen",
+      "difficulty": "souzirou1000's LN [MBS 2 Edit]",
+      "beatmapId": "2495668",
+      "beatmapSetId": "1198280",
+      "hp": "8",
+      "od": "7",
+      "scores": [
+        {
+          "userId": "8642224",
+          "score": 902717,
+          "combo": 523,
+          "counts": {
+            "50": 7,
+            "100": 4,
+            "200": 64,
+            "300": 602,
+            "miss": 7,
+            "max": 1640
+          }
+        },
+        {
+          "userId": "12214401",
+          "score": 816192,
+          "combo": 502,
+          "counts": {
+            "50": 13,
+            "100": 21,
+            "200": 125,
+            "300": 724,
+            "miss": 20,
+            "max": 1421
+          }
+        }
+      ],
+      "pickCount": 1,
+      "bans": [1375479]
+    },
+    {
+      "category": "ln3",
+      "counts": {
+        "bpm": 2,
+        "sv": 6,
+        "notes": {
+          "total": 1175,
+          "rice": 227,
+          "ln": 948,
+          "single": 422,
+          "jump": 303,
+          "hand": 45,
+          "quad": 3
+        }
+      },
+      "title": "Ten Thousand Tons of Anonymous Letters",
+      "artist": "Y..J",
+      "mapper": "zero2snow",
+      "difficulty": "A message",
+      "beatmapId": "1616973",
+      "beatmapSetId": "768928",
+      "hp": "7",
+      "od": "7",
+      "scores": [
+        {
+          "userId": "8642224",
+          "score": 918454,
+          "combo": 787,
+          "counts": {
+            "50": 3,
+            "100": 1,
+            "200": 47,
+            "300": 668,
+            "miss": 6,
+            "max": 1398
+          }
+        },
+        {
+          "userId": "8642224",
+          "score": 913449,
+          "combo": 743,
+          "counts": {
+            "50": 5,
+            "100": 6,
+            "200": 46,
+            "300": 577,
+            "miss": 4,
+            "max": 1485
+          }
+        },
+        {
+          "userId": "1375479",
+          "score": 875782,
+          "combo": 556,
+          "counts": {
+            "50": 6,
+            "100": 9,
+            "200": 83,
+            "300": 460,
+            "miss": 7,
+            "max": 1558
+          }
+        },
+        {
+          "userId": "12214401",
+          "score": 808203,
+          "combo": 416,
+          "counts": {
+            "50": 13,
+            "100": 18,
+            "200": 151,
+            "300": 527,
+            "miss": 16,
+            "max": 1398
+          }
+        }
+      ],
+      "pickCount": 2,
+      "bans": []
+    },
+    {
+      "category": "acc1",
+      "counts": {
+        "bpm": 1,
+        "sv": 0,
+        "notes": {
+          "total": 3168,
+          "rice": 3162,
+          "ln": 6,
+          "single": 439,
+          "jump": 590,
+          "hand": 363,
+          "quad": 115
+        }
+      },
+      "title": "Wagamama de Gomakasanaide",
+      "artist": "THE ORAL CIGARETTES",
+      "mapper": "Shirohara",
+      "difficulty": "Hallucination",
+      "beatmapId": "2153800",
+      "beatmapSetId": "1030033",
+      "hp": "8",
+      "od": "8",
+      "scores": [
+        {
+          "userId": "1375479",
+          "score": 994330,
+          "combo": 3174,
+          "counts": {
+            "50": 0,
+            "100": 0,
+            "200": 4,
+            "300": 255,
+            "miss": 0,
+            "max": 2915
+          }
+        },
+        {
+          "userId": "1375479",
+          "score": 992403,
+          "combo": 3174,
+          "counts": {
+            "50": 2,
+            "100": 0,
+            "200": 4,
+            "300": 264,
+            "miss": 0,
+            "max": 2904
+          }
+        },
+        {
+          "userId": "8642224",
+          "score": 988785,
+          "combo": 3174,
+          "counts": {
+            "50": 0,
+            "100": 0,
+            "200": 8,
+            "300": 506,
+            "miss": 0,
+            "max": 2660
+          }
+        },
+        {
+          "userId": "12214401",
+          "score": 988347,
+          "combo": 3174,
+          "counts": {
+            "50": 0,
+            "100": 0,
+            "200": 7,
+            "300": 554,
+            "miss": 0,
+            "max": 2613
+          }
+        },
+        {
+          "userId": "8642224",
+          "score": 984486,
+          "combo": 3174,
+          "counts": {
+            "50": 0,
+            "100": 0,
+            "200": 16,
+            "300": 593,
+            "miss": 0,
+            "max": 2565
+          }
+        },
+        {
+          "userId": "13942150",
+          "score": 973941,
+          "combo": 1486,
+          "counts": {
+            "50": 0,
+            "100": 2,
+            "200": 7,
+            "300": 375,
+            "miss": 3,
+            "max": 2787
+          }
+        }
+      ],
+      "pickCount": 3,
+      "bans": [5069913]
+    },
+    {
+      "category": "acc2",
+      "counts": {
+        "bpm": 1,
+        "sv": 6,
+        "notes": {
+          "total": 1231,
+          "rice": 1221,
+          "ln": 10,
+          "single": 531,
+          "jump": 299,
+          "hand": 34,
+          "quad": 0
+        }
+      },
+      "title": "New Gravity",
+      "artist": "Starving Trancer",
+      "mapper": "[ A v a l o n ]",
+      "difficulty": "StarCore's Expert",
+      "beatmapId": "770488",
+      "beatmapSetId": "349401",
+      "hp": "8",
+      "od": "8",
+      "scores": [
+        {
+          "userId": "1375479",
+          "score": 991656,
+          "combo": 1241,
+          "counts": {
+            "50": 0,
+            "100": 0,
+            "200": 4,
+            "300": 109,
+            "miss": 0,
+            "max": 1128
+          }
+        },
+        {
+          "userId": "8642224",
+          "score": 984998,
+          "combo": 1241,
+          "counts": {
+            "50": 0,
+            "100": 0,
+            "200": 5,
+            "300": 247,
+            "miss": 0,
+            "max": 989
+          }
+        },
+        {
+          "userId": "13942150",
+          "score": 984025,
+          "combo": 1241,
+          "counts": {
+            "50": 0,
+            "100": 0,
+            "200": 8,
+            "300": 203,
+            "miss": 0,
+            "max": 1030
+          }
+        },
+        {
+          "userId": "1375479",
+          "score": 974175,
+          "combo": 1025,
+          "counts": {
+            "50": 0,
+            "100": 0,
+            "200": 3,
+            "300": 116,
+            "miss": 3,
+            "max": 1119
+          }
+        },
+        {
+          "userId": "8642224",
+          "score": 972689,
+          "combo": 761,
+          "counts": {
+            "50": 0,
+            "100": 0,
+            "200": 3,
+            "300": 252,
+            "miss": 1,
+            "max": 985
+          }
+        },
+        {
+          "userId": "12214401",
+          "score": 963474,
+          "combo": 618,
+          "counts": {
+            "50": 0,
+            "100": 0,
+            "200": 2,
+            "300": 210,
+            "miss": 5,
+            "max": 1024
+          }
+        }
+      ],
+      "pickCount": 3,
+      "bans": []
+    },
+    {
+      "category": "acc3",
+      "counts": {
+        "bpm": 2,
+        "sv": 24,
+        "notes": {
+          "total": 1524,
+          "rice": 1481,
+          "ln": 43,
+          "single": 908,
+          "jump": 242,
+          "hand": 44,
+          "quad": 0
+        }
+      },
+      "title": "Unmeiron",
+      "artist": "LUZE & Emew.",
+      "mapper": "snoverpk",
+      "difficulty": "Hyper",
+      "beatmapId": "1022067",
+      "beatmapSetId": "475927",
+      "hp": "8",
+      "od": "8",
+      "scores": [
+        {
+          "userId": "12214401",
+          "score": 991188,
+          "combo": 1567,
+          "counts": {
+            "50": 0,
+            "100": 0,
+            "200": 2,
+            "300": 220,
+            "miss": 0,
+            "max": 1345
+          }
+        },
+        {
+          "userId": "8642224",
+          "score": 967727,
+          "combo": 1399,
+          "counts": {
+            "50": 0,
+            "100": 0,
+            "200": 11,
+            "300": 463,
+            "miss": 1,
+            "max": 1092
+          }
+        }
+      ],
+      "pickCount": 1,
+      "bans": [13942150]
+    },
+    {
+      "category": "speed1",
+      "counts": {
+        "bpm": 2,
+        "sv": 0,
+        "notes": {
+          "total": 1678,
+          "rice": 1657,
+          "ln": 21,
+          "single": 779,
+          "jump": 419,
+          "hand": 19,
+          "quad": 1
+        }
+      },
+      "title": "Moon-gate",
+      "artist": "Shiraishi",
+      "mapper": "Wh1teh",
+      "difficulty": "k",
+      "beatmapId": "1312959",
+      "beatmapSetId": "622851",
+      "hp": "8.5",
+      "od": "8.5",
+      "scores": [
+        {
+          "userId": "12894120",
+          "score": 988618,
+          "combo": 1699,
+          "counts": {
+            "50": 0,
+            "100": 0,
+            "200": 7,
+            "300": 215,
+            "miss": 0,
+            "max": 1477
+          }
+        },
+        {
+          "userId": "12214401",
+          "score": 982385,
+          "combo": 1699,
+          "counts": {
+            "50": 0,
+            "100": 0,
+            "200": 11,
+            "300": 331,
+            "miss": 0,
+            "max": 1357
+          }
+        },
+        {
+          "userId": "1375479",
+          "score": 982313,
+          "combo": 1699,
+          "counts": {
+            "50": 1,
+            "100": 0,
+            "200": 11,
+            "300": 279,
+            "miss": 0,
+            "max": 1408
+          }
+        },
+        {
+          "userId": "13942150",
+          "score": 980660,
+          "combo": 1699,
+          "counts": {
+            "50": 0,
+            "100": 0,
+            "200": 14,
+            "300": 322,
+            "miss": 0,
+            "max": 1363
+          }
+        },
+        {
+          "userId": "5069913",
+          "score": 970783,
+          "combo": 883,
+          "counts": {
+            "50": 0,
+            "100": 1,
+            "200": 12,
+            "300": 324,
+            "miss": 1,
+            "max": 1361
+          }
+        },
+        {
+          "userId": "8642224",
+          "score": 962667,
+          "combo": 1689,
+          "counts": {
+            "50": 0,
+            "100": 2,
+            "200": 20,
+            "300": 552,
+            "miss": 2,
+            "max": 1123
+          }
+        }
+      ],
+      "pickCount": 3,
+      "bans": []
+    },
+    {
+      "category": "speed2",
+      "counts": {
+        "bpm": 1,
+        "sv": 0,
+        "notes": {
+          "total": 1344,
+          "rice": 1270,
+          "ln": 74,
+          "single": 696,
+          "jump": 306,
+          "hand": 8,
+          "quad": 3
+        }
+      },
+      "title": "you can recover",
+      "artist": "hyi",
+      "mapper": "Valedict",
+      "difficulty": "restoration 1.1x",
+      "beatmapId": "1199287",
+      "beatmapSetId": "566156",
+      "hp": "8",
+      "od": "8",
+      "scores": [
+        {
+          "userId": "12214401",
+          "score": 985043,
+          "combo": 1418,
+          "counts": {
+            "50": 0,
+            "100": 0,
+            "200": 6,
+            "300": 274,
+            "miss": 0,
+            "max": 1138
+          }
+        },
+        {
+          "userId": "8642224",
+          "score": 971099,
+          "combo": 1418,
+          "counts": {
+            "50": 0,
+            "100": 0,
+            "200": 20,
+            "300": 353,
+            "miss": 0,
+            "max": 1045
+          }
+        }
+      ],
+      "pickCount": 1,
+      "bans": [1375479]
+    },
+    {
+      "category": "speed3",
+      "counts": {
+        "bpm": 1,
+        "sv": 6,
+        "notes": {
+          "total": 2976,
+          "rice": 2960,
+          "ln": 16,
+          "single": 2048,
+          "jump": 464,
+          "hand": 0,
+          "quad": 0
+        }
+      },
+      "title": "Over the Fullereneshift",
+      "artist": "DJ Sharpnel",
+      "mapper": "Veldmaarschalk",
+      "difficulty": "MX",
+      "beatmapId": "1097589",
+      "beatmapSetId": "516517",
+      "hp": "7",
+      "od": "8",
+      "scores": [
+        {
+          "userId": "12894120",
+          "score": 984497,
+          "combo": 2991,
+          "counts": {
+            "50": 0,
+            "100": 1,
+            "200": 13,
+            "300": 494,
+            "miss": 1,
+            "max": 2483
+          }
+        },
+        {
+          "userId": "12214401",
+          "score": 980488,
+          "combo": 2992,
+          "counts": {
+            "50": 0,
+            "100": 1,
+            "200": 21,
+            "300": 614,
+            "miss": 0,
+            "max": 2356
+          }
+        },
+        {
+          "userId": "1375479",
+          "score": 978652,
+          "combo": 2018,
+          "counts": {
+            "50": 1,
+            "100": 3,
+            "200": 12,
+            "300": 393,
+            "miss": 2,
+            "max": 2581
+          }
+        },
+        {
+          "userId": "1375479",
+          "score": 974312,
+          "combo": 2009,
+          "counts": {
+            "50": 0,
+            "100": 2,
+            "200": 18,
+            "300": 522,
+            "miss": 3,
+            "max": 2447
+          }
+        },
+        {
+          "userId": "8642224",
+          "score": 962231,
+          "combo": 1539,
+          "counts": {
+            "50": 0,
+            "100": 2,
+            "200": 39,
+            "300": 851,
+            "miss": 2,
+            "max": 2098
+          }
+        },
+        {
+          "userId": "8642224",
+          "score": 953778,
+          "combo": 1539,
+          "counts": {
+            "50": 0,
+            "100": 0,
+            "200": 48,
+            "300": 833,
+            "miss": 4,
+            "max": 2107
+          }
+        },
+        {
+          "userId": "5069913",
+          "score": 931720,
+          "combo": 1272,
+          "counts": {
+            "50": 2,
+            "100": 11,
+            "200": 45,
+            "300": 633,
+            "miss": 7,
+            "max": 2294
+          }
+        },
+        {
+          "userId": "13942150",
+          "score": 929236,
+          "combo": 952,
+          "counts": {
+            "50": 1,
+            "100": 5,
+            "200": 46,
+            "300": 757,
+            "miss": 7,
+            "max": 2176
+          }
+        }
+      ],
+      "pickCount": 4,
+      "bans": []
+    },
+    {
+      "category": "tech1",
+      "counts": {
+        "bpm": 1,
+        "sv": 0,
+        "notes": {
+          "total": 1525,
+          "rice": 1505,
+          "ln": 20,
+          "single": 1171,
+          "jump": 156,
+          "hand": 14,
+          "quad": 0
+        }
+      },
+      "title": "Monk2",
+      "artist": "DET",
+      "mapper": "Elekton",
+      "difficulty": "zen",
+      "beatmapId": "1279446",
+      "beatmapSetId": "605573",
+      "hp": "8",
+      "od": "8",
+      "scores": [
+        {
+          "userId": "12214401",
+          "score": 946826,
+          "combo": 716,
+          "counts": {
+            "50": 0,
+            "100": 4,
+            "200": 14,
+            "300": 322,
+            "miss": 4,
+            "max": 1201
+          }
+        },
+        {
+          "userId": "12894120",
+          "score": 918446,
+          "combo": 612,
+          "counts": {
+            "50": 0,
+            "100": 7,
+            "200": 25,
+            "300": 355,
+            "miss": 7,
+            "max": 1151
+          }
+        },
+        {
+          "userId": "1375479",
+          "score": 915953,
+          "combo": 867,
+          "counts": {
+            "50": 0,
+            "100": 4,
+            "200": 41,
+            "300": 283,
+            "miss": 5,
+            "max": 1212
+          }
+        },
+        {
+          "userId": "5069913",
+          "score": 905883,
+          "combo": 651,
+          "counts": {
+            "50": 2,
+            "100": 5,
+            "200": 37,
+            "300": 409,
+            "miss": 7,
+            "max": 1085
+          }
+        },
+        {
+          "userId": "8642224",
+          "score": 899903,
+          "combo": 706,
+          "counts": {
+            "50": 1,
+            "100": 3,
+            "200": 47,
+            "300": 558,
+            "miss": 7,
+            "max": 929
+          }
+        },
+        {
+          "userId": "13942150",
+          "score": 897995,
+          "combo": 702,
+          "counts": {
+            "50": 0,
+            "100": 6,
+            "200": 41,
+            "300": 310,
+            "miss": 9,
+            "max": 1179
+          }
+        }
+      ],
+      "pickCount": 3,
+      "bans": []
+    },
+    {
+      "category": "tech2",
+      "counts": {
+        "bpm": 4,
+        "sv": 4,
+        "notes": {
+          "total": 1501,
+          "rice": 1411,
+          "ln": 90,
+          "single": 904,
+          "jump": 258,
+          "hand": 27,
+          "quad": 0
+        }
+      },
+      "title": "Xlo",
+      "artist": "sasakure.UK",
+      "mapper": "Valedict",
+      "difficulty": "Another",
+      "beatmapId": "2442125",
+      "beatmapSetId": "1170658",
+      "hp": "8",
+      "od": "8.5",
+      "scores": [],
+      "pickCount": 0,
+      "bans": [12894120]
+    },
+    {
+      "category": "tech3",
+      "counts": {
+        "bpm": 1,
+        "sv": 0,
+        "notes": {
+          "total": 2832,
+          "rice": 2545,
+          "ln": 287,
+          "single": 1604,
+          "jump": 518,
+          "hand": 64,
+          "quad": 0
+        }
+      },
+      "title": "Epidermis",
+      "artist": "Venetian Snares",
+      "mapper": "Shoegazer",
+      "difficulty": "Tribalism",
+      "beatmapId": "2209406",
+      "beatmapSetId": "898099",
+      "hp": "8.5",
+      "od": "8.5",
+      "scores": [
+        {
+          "userId": "12894120",
+          "score": 946700,
+          "combo": 2728,
+          "counts": {
+            "50": 0,
+            "100": 8,
+            "200": 66,
+            "300": 738,
+            "miss": 4,
+            "max": 2303
+          }
+        },
+        {
+          "userId": "5069913",
+          "score": 907440,
+          "combo": 1269,
+          "counts": {
+            "50": 2,
+            "100": 6,
+            "200": 128,
+            "300": 918,
+            "miss": 7,
+            "max": 2058
+          }
+        }
+      ],
+      "pickCount": 1,
+      "bans": [8642224, 8642224]
+    },
+    {
+      "category": "hybrid1",
+      "counts": {
+        "bpm": 1,
+        "sv": 5,
+        "notes": {
+          "total": 1133,
+          "rice": 762,
+          "ln": 371,
+          "single": 295,
+          "jump": 227,
+          "hand": 116,
+          "quad": 9
+        }
+      },
+      "title": "Bokura no Jikan",
+      "artist": "Tezuka feat. Oonishi Amimi",
+      "mapper": "KeppSado",
+      "difficulty": "Lenfried's EXHAUST",
+      "beatmapId": "2062307",
+      "beatmapSetId": "985765",
+      "hp": "8",
+      "od": "8",
+      "scores": [
+        {
+          "userId": "8642224",
+          "score": 905000,
+          "combo": 788,
+          "counts": {
+            "50": 1,
+            "100": 3,
+            "200": 33,
+            "300": 439,
+            "miss": 10,
+            "max": 1018
+          }
+        },
+        {
+          "userId": "1375479",
+          "score": 893866,
+          "combo": 482,
+          "counts": {
+            "50": 2,
+            "100": 2,
+            "200": 48,
+            "300": 371,
+            "miss": 6,
+            "max": 1075
+          }
+        }
+      ],
+      "pickCount": 1,
+      "bans": [1375479, 5069913, 8642224]
+    },
+    {
+      "category": "hybrid2",
+      "counts": {
+        "bpm": 1,
+        "sv": 189,
+        "notes": {
+          "total": 1484,
+          "rice": 1347,
+          "ln": 137,
+          "single": 427,
+          "jump": 428,
+          "hand": 67,
+          "quad": 0
+        }
+      },
+      "title": "Libertas",
+      "artist": "Zekk",
+      "mapper": "Syadow-",
+      "difficulty": "Future",
+      "beatmapId": "2386307",
+      "beatmapSetId": "1137604",
+      "hp": "8",
+      "od": "8",
+      "scores": [
+        {
+          "userId": "12894120",
+          "score": 983523,
+          "combo": 1621,
+          "counts": {
+            "50": 0,
+            "100": 1,
+            "200": 9,
+            "300": 270,
+            "miss": 0,
+            "max": 1341
+          }
+        },
+        {
+          "userId": "5069913",
+          "score": 981302,
+          "combo": 1621,
+          "counts": {
+            "50": 0,
+            "100": 0,
+            "200": 10,
+            "300": 362,
+            "miss": 0,
+            "max": 1249
+          }
+        },
+        {
+          "userId": "12214401",
+          "score": 979622,
+          "combo": 1621,
+          "counts": {
+            "50": 0,
+            "100": 0,
+            "200": 12,
+            "300": 370,
+            "miss": 0,
+            "max": 1239
+          }
+        },
+        {
+          "userId": "1375479",
+          "score": 975879,
+          "combo": 1621,
+          "counts": {
+            "50": 0,
+            "100": 0,
+            "200": 20,
+            "300": 311,
+            "miss": 0,
+            "max": 1290
+          }
+        },
+        {
+          "userId": "13942150",
+          "score": 975220,
+          "combo": 1621,
+          "counts": {
+            "50": 0,
+            "100": 0,
+            "200": 21,
+            "300": 309,
+            "miss": 0,
+            "max": 1291
+          }
+        },
+        {
+          "userId": "8642224",
+          "score": 964491,
+          "combo": 1621,
+          "counts": {
+            "50": 0,
+            "100": 0,
+            "200": 22,
+            "300": 631,
+            "miss": 0,
+            "max": 968
+          }
+        },
+        {
+          "userId": "1375479",
+          "score": 961682,
+          "combo": 1114,
+          "counts": {
+            "50": 1,
+            "100": 1,
+            "200": 13,
+            "300": 209,
+            "miss": 2,
+            "max": 1395
+          }
+        },
+        {
+          "userId": "8642224",
+          "score": 957880,
+          "combo": 964,
+          "counts": {
+            "50": 2,
+            "100": 0,
+            "200": 12,
+            "300": 535,
+            "miss": 1,
+            "max": 1071
+          }
+        }
+      ],
+      "pickCount": 4,
+      "bans": []
+    },
+    {
+      "category": "hybrid3",
+      "counts": {
+        "bpm": 1,
+        "sv": 0,
+        "notes": {
+          "total": 2858,
+          "rice": 2269,
+          "ln": 589,
+          "single": 1184,
+          "jump": 617,
+          "hand": 136,
+          "quad": 8
+        }
+      },
+      "title": "Labyrinth",
+      "artist": "lapix",
+      "mapper": "PianoLuigi",
+      "difficulty": "Insane",
+      "beatmapId": "2015442",
+      "beatmapSetId": "962544",
+      "hp": "8",
+      "od": "8",
+      "scores": [
+        {
+          "userId": "12894120",
+          "score": 989339,
+          "combo": 3447,
+          "counts": {
+            "50": 0,
+            "100": 0,
+            "200": 11,
+            "300": 460,
+            "miss": 0,
+            "max": 2976
+          }
+        },
+        {
+          "userId": "13942150",
+          "score": 975730,
+          "combo": 2521,
+          "counts": {
+            "50": 2,
+            "100": 3,
+            "200": 24,
+            "300": 584,
+            "miss": 0,
+            "max": 2834
+          }
+        },
+        {
+          "userId": "1375479",
+          "score": 971561,
+          "combo": 2192,
+          "counts": {
+            "50": 2,
+            "100": 3,
+            "200": 35,
+            "300": 465,
+            "miss": 0,
+            "max": 2942
+          }
+        },
+        {
+          "userId": "5069913",
+          "score": 967328,
+          "combo": 2321,
+          "counts": {
+            "50": 0,
+            "100": 2,
+            "200": 35,
+            "300": 775,
+            "miss": 4,
+            "max": 2631
+          }
+        }
+      ],
+      "pickCount": 2,
+      "bans": [8642224]
+    },
+    {
+      "category": "tb1",
+      "counts": {
+        "bpm": 19,
+        "sv": 75,
+        "notes": {
+          "total": 2914,
+          "rice": 2111,
+          "ln": 803,
+          "single": 1134,
+          "jump": 647,
+          "hand": 158,
+          "quad": 3
+        }
+      },
+      "title": "Youka to Yumeutsutsu",
+      "artist": "Shimotsuki Haruka",
+      "mapper": "diamant66",
+      "difficulty": "Camellia",
+      "beatmapId": "2011012",
+      "beatmapSetId": "960549",
+      "hp": "8",
+      "od": "7.8",
+      "scores": [
+        {
+          "userId": "8642224",
+          "score": 925816,
+          "combo": 1435,
+          "counts": {
+            "50": 1,
+            "100": 6,
+            "200": 112,
+            "300": 1135,
+            "miss": 8,
+            "max": 2455
+          }
+        },
+        {
+          "userId": "12214401",
+          "score": 886150,
+          "combo": 581,
+          "counts": {
+            "50": 14,
+            "100": 7,
+            "200": 131,
+            "300": 917,
+            "miss": 10,
+            "max": 2638
+          }
+        }
+      ],
+      "pickCount": 1,
+      "bans": []
+    }
+  ],
+  "rolls": {
+    "1375479": [91, 96],
+    "5069913": [58],
+    "8642224": [90, 20],
+    "12214401": [26],
+    "12894120": [51],
+    "13942150": [81]
+  },
+  "matchCount": 4
+}

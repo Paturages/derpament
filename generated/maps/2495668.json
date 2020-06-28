@@ -1,0 +1,24 @@
+{
+  "category": "ln2",
+  "counts": {
+    "bpm": 1,
+    "sv": 4,
+    "notes": {
+      "total": 1365,
+      "rice": 406,
+      "ln": 959,
+      "single": 467,
+      "jump": 282,
+      "hand": 106,
+      "quad": 4
+    }
+  },
+  "title": "Koborezu no Negaigoto",
+  "artist": "senya",
+  "mapper": "ZayyKen",
+  "difficulty": "souzirou1000's LN [MBS 2 Edit]",
+  "beatmapId": "2495668",
+  "beatmapSetId": "1198280",
+  "hp": "8",
+  "od": "7"
+}

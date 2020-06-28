@@ -1,0 +1,24 @@
+{
+  "category": "tech1",
+  "counts": {
+    "bpm": 1,
+    "sv": 0,
+    "notes": {
+      "total": 1525,
+      "rice": 1505,
+      "ln": 20,
+      "single": 1171,
+      "jump": 156,
+      "hand": 14,
+      "quad": 0
+    }
+  },
+  "title": "Monk2",
+  "artist": "DET",
+  "mapper": "Elekton",
+  "difficulty": "zen",
+  "beatmapId": "1279446",
+  "beatmapSetId": "605573",
+  "hp": "8",
+  "od": "8"
+}
