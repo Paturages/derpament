@@ -4,6 +4,15 @@
   export let combo;
   export let counts;
   export let index;
+
+  const totalCount = counts.max + counts[300] + counts[200] + counts[100] + counts[50] + counts.miss;
+  const accuracy = (
+    (305 * counts.max) +
+    (300 * counts[300]) +
+    (200 * counts[200]) +
+    (100 * counts[100]) +
+    (50 * counts[50])
+  ) / (3.05 * totalCount);
 </script>
 
 <div class="root">
@@ -14,7 +23,7 @@
     </a>
   </div>
   <div class="info">
-    <div class="combo">{combo} max combo</div>
+    <div class="combo">{accuracy.toFixed(2)}%, {combo} combo</div>
     <div class="counts">
       {counts.max} |
       {counts[300]} |
