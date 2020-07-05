@@ -1,0 +1,24 @@
+{
+  "category": "tech3",
+  "counts": {
+    "bpm": 1,
+    "sv": 0,
+    "notes": {
+      "total": 2264,
+      "rice": 2035,
+      "ln": 229,
+      "single": 992,
+      "jump": 577,
+      "hand": 38,
+      "quad": 1
+    }
+  },
+  "title": "7C0",
+  "artist": "Ruby My Dear",
+  "mapper": "Civilization",
+  "difficulty": "Exposure",
+  "beatmapId": "1645555",
+  "beatmapSetId": "783677",
+  "hp": "8",
+  "od": "8"
+}

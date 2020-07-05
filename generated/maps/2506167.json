@@ -1,0 +1,24 @@
+{
+  "category": "tb1",
+  "counts": {
+    "bpm": 187,
+    "sv": 193,
+    "notes": {
+      "total": 6179,
+      "rice": 4350,
+      "ln": 1829,
+      "single": 2132,
+      "jump": 1138,
+      "hand": 561,
+      "quad": 22
+    }
+  },
+  "title": "Chromology",
+  "artist": "Thank You Scientist",
+  "mapper": "Davvy",
+  "difficulty": "Chromicles",
+  "beatmapId": "2506167",
+  "beatmapSetId": "1203542",
+  "hp": "8",
+  "od": "7.7"
+}

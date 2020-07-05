@@ -1,0 +1,24 @@
+{
+  "category": "ln3",
+  "counts": {
+    "bpm": 1,
+    "sv": 0,
+    "notes": {
+      "total": 905,
+      "rice": 237,
+      "ln": 668,
+      "single": 424,
+      "jump": 213,
+      "hand": 17,
+      "quad": 1
+    }
+  },
+  "title": "Blessing Snow",
+  "artist": "Memme",
+  "mapper": "Tantei B",
+  "difficulty": "Stage 3 : Melted",
+  "beatmapId": "2039701",
+  "beatmapSetId": "974449",
+  "hp": "8",
+  "od": "7"
+}

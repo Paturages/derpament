@@ -1,0 +1,24 @@
+{
+  "category": "hybrid13",
+  "counts": {
+    "bpm": 1,
+    "sv": 10,
+    "notes": {
+      "total": 1158,
+      "rice": 899,
+      "ln": 259,
+      "single": 523,
+      "jump": 313,
+      "hand": 3,
+      "quad": 0
+    }
+  },
+  "title": "ACCELERATE",
+  "artist": "Sota Fujimori",
+  "mapper": "_Stan",
+  "difficulty": "ExNeko's Hyper",
+  "beatmapId": "2020687",
+  "beatmapSetId": "924834",
+  "hp": "7.5",
+  "od": "7.5"
+}

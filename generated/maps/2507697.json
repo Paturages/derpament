@@ -1,0 +1,24 @@
+{
+  "category": "tb1",
+  "counts": {
+    "bpm": 12,
+    "sv": 10,
+    "notes": {
+      "total": 4290,
+      "rice": 3534,
+      "ln": 756,
+      "single": 1678,
+      "jump": 790,
+      "hand": 344,
+      "quad": 0
+    }
+  },
+  "title": "The Cave",
+  "artist": "Orphaned Lands",
+  "mapper": "Davvy",
+  "difficulty": "Abandoned by Light",
+  "beatmapId": "2507697",
+  "beatmapSetId": "1204307",
+  "hp": "8",
+  "od": "7"
+}

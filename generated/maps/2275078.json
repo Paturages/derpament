@@ -1,0 +1,24 @@
+{
+  "category": "speed1",
+  "counts": {
+    "bpm": 3,
+    "sv": 2,
+    "notes": {
+      "total": 1854,
+      "rice": 1849,
+      "ln": 5,
+      "single": 822,
+      "jump": 444,
+      "hand": 48,
+      "quad": 0
+    }
+  },
+  "title": "Conflict (VILA Remix)",
+  "artist": "siromaru + Cranky",
+  "mapper": "Eclipse-",
+  "difficulty": "Onslaught [1,1x Rate]",
+  "beatmapId": "2275078",
+  "beatmapSetId": "1087988",
+  "hp": "8.5",
+  "od": "8.3"
+}

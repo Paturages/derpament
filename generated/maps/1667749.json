@@ -1,0 +1,24 @@
+{
+  "category": "tech2",
+  "counts": {
+    "bpm": 1,
+    "sv": 4,
+    "notes": {
+      "total": 1256,
+      "rice": 1189,
+      "ln": 67,
+      "single": 783,
+      "jump": 235,
+      "hand": 1,
+      "quad": 0
+    }
+  },
+  "title": "Last Star In The Universe",
+  "artist": "The Ghost of 3.13",
+  "mapper": "Shoegazer",
+  "difficulty": "Serenade",
+  "beatmapId": "1667749",
+  "beatmapSetId": "302911",
+  "hp": "8",
+  "od": "8"
+}

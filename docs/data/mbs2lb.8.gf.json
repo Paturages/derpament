@@ -1,0 +1,923 @@
+{
+  "id": "8.gf",
+  "name": "Grand Finals",
+  "mapCount": 19,
+  "maps": [
+    {
+      "category": "sv1",
+      "counts": {
+        "bpm": 40,
+        "sv": 1450,
+        "notes": {
+          "total": 712,
+          "rice": 564,
+          "ln": 148,
+          "single": 275,
+          "jump": 181,
+          "hand": 25,
+          "quad": 0
+        }
+      },
+      "title": "MilK",
+      "artist": "Morimori Atsushi",
+      "mapper": "Guilhermeziat",
+      "difficulty": "SilV",
+      "beatmapId": "2024439",
+      "beatmapSetId": "967318",
+      "hp": "8",
+      "od": "7.5",
+      "scores": [
+        {
+          "userId": "16299729",
+          "score": 974739,
+          "combo": 860,
+          "counts": {
+            "50": 0,
+            "100": 0,
+            "200": 8,
+            "300": 243,
+            "miss": 0,
+            "max": 609
+          }
+        },
+        {
+          "userId": "4798263",
+          "score": 974340,
+          "combo": 860,
+          "counts": {
+            "50": 0,
+            "100": 0,
+            "200": 10,
+            "300": 205,
+            "miss": 0,
+            "max": 645
+          }
+        },
+        {
+          "userId": "4798263",
+          "score": 959018,
+          "combo": 860,
+          "counts": {
+            "50": 0,
+            "100": 1,
+            "200": 19,
+            "300": 220,
+            "miss": 0,
+            "max": 620
+          }
+        },
+        {
+          "userId": "4183406",
+          "score": 858381,
+          "combo": 417,
+          "counts": {
+            "50": 0,
+            "100": 3,
+            "200": 44,
+            "300": 277,
+            "miss": 7,
+            "max": 529
+          }
+        }
+      ],
+      "pickCount": 2,
+      "bans": []
+    },
+    {
+      "category": "sv2",
+      "counts": {
+        "bpm": 61,
+        "sv": 666,
+        "notes": {
+          "total": 477,
+          "rice": 373,
+          "ln": 104,
+          "single": 177,
+          "jump": 71,
+          "hand": 50,
+          "quad": 2
+        }
+      },
+      "title": "thought of",
+      "artist": "ito.",
+      "mapper": "Couil",
+      "difficulty": "Original",
+      "beatmapId": "2132201",
+      "beatmapSetId": "1018932",
+      "hp": "8.5",
+      "od": "8",
+      "scores": [
+        {
+          "userId": "4798263",
+          "score": 985379,
+          "combo": 581,
+          "counts": {
+            "50": 0,
+            "100": 0,
+            "200": 2,
+            "300": 119,
+            "miss": 0,
+            "max": 460
+          }
+        },
+        {
+          "userId": "4183406",
+          "score": 975061,
+          "combo": 581,
+          "counts": {
+            "50": 0,
+            "100": 0,
+            "200": 7,
+            "300": 124,
+            "miss": 0,
+            "max": 450
+          }
+        }
+      ],
+      "pickCount": 1,
+      "bans": [16299729]
+    },
+    {
+      "category": "sv3",
+      "counts": {
+        "bpm": 1,
+        "sv": 1041,
+        "notes": {
+          "total": 672,
+          "rice": 556,
+          "ln": 116,
+          "single": 285,
+          "jump": 174,
+          "hand": 13,
+          "quad": 0
+        }
+      },
+      "title": "Hyperactive",
+      "artist": "Mr. Fantastic",
+      "mapper": "zero2snow",
+      "difficulty": "Stage 1: Subtle",
+      "beatmapId": "2130420",
+      "beatmapSetId": "1017965",
+      "hp": "7",
+      "od": "7",
+      "scores": [
+        {
+          "userId": "16299729",
+          "score": 964900,
+          "combo": 788,
+          "counts": {
+            "50": 0,
+            "100": 1,
+            "200": 13,
+            "300": 204,
+            "miss": 0,
+            "max": 570
+          }
+        },
+        {
+          "userId": "4798263",
+          "score": 959294,
+          "combo": 788,
+          "counts": {
+            "50": 0,
+            "100": 1,
+            "200": 18,
+            "300": 180,
+            "miss": 0,
+            "max": 589
+          }
+        }
+      ],
+      "pickCount": 1,
+      "bans": []
+    },
+    {
+      "category": "ln1",
+      "counts": {
+        "bpm": 2,
+        "sv": 3,
+        "notes": {
+          "total": 995,
+          "rice": 233,
+          "ln": 762,
+          "single": 394,
+          "jump": 291,
+          "hand": 5,
+          "quad": 1
+        }
+      },
+      "title": "Unknown Mother-Goose feat. Hatsune Miku",
+      "artist": "wowaka",
+      "mapper": "Raveille",
+      "difficulty": "Stage 3: Unsung",
+      "beatmapId": "2218706",
+      "beatmapSetId": "1059509",
+      "hp": "7",
+      "od": "7",
+      "scores": [
+        {
+          "userId": "16299729",
+          "score": 987556,
+          "combo": 1757,
+          "counts": {
+            "50": 0,
+            "100": 0,
+            "200": 6,
+            "300": 286,
+            "miss": 0,
+            "max": 1465
+          }
+        },
+        {
+          "userId": "4798263",
+          "score": 899446,
+          "combo": 911,
+          "counts": {
+            "50": 2,
+            "100": 4,
+            "200": 65,
+            "300": 443,
+            "miss": 12,
+            "max": 1231
+          }
+        },
+        {
+          "userId": "4183406",
+          "score": 872356,
+          "combo": 548,
+          "counts": {
+            "50": 3,
+            "100": 7,
+            "200": 79,
+            "300": 483,
+            "miss": 7,
+            "max": 1178
+          }
+        },
+        {
+          "userId": "4798263",
+          "score": 348951,
+          "combo": 124,
+          "counts": {
+            "50": 26,
+            "100": 166,
+            "200": 795,
+            "300": 546,
+            "miss": 55,
+            "max": 169
+          }
+        }
+      ],
+      "pickCount": 2,
+      "bans": []
+    },
+    {
+      "category": "ln2",
+      "counts": {
+        "bpm": 1,
+        "sv": 2,
+        "notes": {
+          "total": 449,
+          "rice": 120,
+          "ln": 329,
+          "single": 290,
+          "jump": 78,
+          "hand": 1,
+          "quad": 0
+        }
+      },
+      "title": "-.-. .- .-. --- .-.. / --- ..-. / .-.. .. ..-. .",
+      "artist": "KillerBlood",
+      "mapper": "Dergo",
+      "difficulty": "restoration",
+      "beatmapId": "1919691",
+      "beatmapSetId": "919414",
+      "hp": "8",
+      "od": "7.5",
+      "scores": [
+        {
+          "userId": "4798263",
+          "score": 902282,
+          "combo": 258,
+          "counts": {
+            "50": 4,
+            "100": 2,
+            "200": 15,
+            "300": 162,
+            "miss": 0,
+            "max": 595
+          }
+        },
+        {
+          "userId": "4183406",
+          "score": 874468,
+          "combo": 208,
+          "counts": {
+            "50": 3,
+            "100": 6,
+            "200": 19,
+            "300": 205,
+            "miss": 2,
+            "max": 543
+          }
+        }
+      ],
+      "pickCount": 1,
+      "bans": [4798263]
+    },
+    {
+      "category": "ln3",
+      "counts": {
+        "bpm": 1,
+        "sv": 0,
+        "notes": {
+          "total": 905,
+          "rice": 237,
+          "ln": 668,
+          "single": 424,
+          "jump": 213,
+          "hand": 17,
+          "quad": 1
+        }
+      },
+      "title": "Blessing Snow",
+      "artist": "Memme",
+      "mapper": "Tantei B",
+      "difficulty": "Stage 3 : Melted",
+      "beatmapId": "2039701",
+      "beatmapSetId": "974449",
+      "hp": "8",
+      "od": "7",
+      "scores": [
+        {
+          "userId": "16299729",
+          "score": 986954,
+          "combo": 1573,
+          "counts": {
+            "50": 0,
+            "100": 0,
+            "200": 4,
+            "300": 305,
+            "miss": 0,
+            "max": 1264
+          }
+        },
+        {
+          "userId": "4798263",
+          "score": 921063,
+          "combo": 572,
+          "counts": {
+            "50": 5,
+            "100": 3,
+            "200": 20,
+            "300": 365,
+            "miss": 4,
+            "max": 1176
+          }
+        },
+        {
+          "userId": "4183406",
+          "score": 888696,
+          "combo": 574,
+          "counts": {
+            "50": 4,
+            "100": 8,
+            "200": 37,
+            "300": 415,
+            "miss": 8,
+            "max": 1101
+          }
+        },
+        {
+          "userId": "4798263",
+          "score": 863170,
+          "combo": 495,
+          "counts": {
+            "50": 12,
+            "100": 7,
+            "200": 56,
+            "300": 423,
+            "miss": 3,
+            "max": 1072
+          }
+        }
+      ],
+      "pickCount": 2,
+      "bans": []
+    },
+    {
+      "category": "acc1",
+      "counts": {
+        "bpm": 1,
+        "sv": 6,
+        "notes": {
+          "total": 1699,
+          "rice": 1598,
+          "ln": 101,
+          "single": 626,
+          "jump": 496,
+          "hand": 27,
+          "quad": 0
+        }
+      },
+      "title": "Zetsubou no Fuchi",
+      "artist": "senya",
+      "mapper": "Virtue-",
+      "difficulty": "540's Hard",
+      "beatmapId": "1500034",
+      "beatmapSetId": "709521",
+      "hp": "8",
+      "od": "7.5",
+      "scores": [
+        {
+          "userId": "4798263",
+          "score": 985047,
+          "combo": 1800,
+          "counts": {
+            "50": 0,
+            "100": 0,
+            "200": 10,
+            "300": 295,
+            "miss": 0,
+            "max": 1495
+          }
+        },
+        {
+          "userId": "4183406",
+          "score": 967635,
+          "combo": 1484,
+          "counts": {
+            "50": 0,
+            "100": 2,
+            "200": 16,
+            "300": 359,
+            "miss": 1,
+            "max": 1422
+          }
+        }
+      ],
+      "pickCount": 1,
+      "bans": [16299729]
+    },
+    {
+      "category": "acc2",
+      "counts": {
+        "bpm": 1,
+        "sv": 12,
+        "notes": {
+          "total": 1903,
+          "rice": 1903,
+          "ln": 0,
+          "single": 707,
+          "jump": 598,
+          "hand": 0,
+          "quad": 0
+        }
+      },
+      "title": "Eternal Spring Dream",
+      "artist": "ZUN",
+      "mapper": "FAMoss",
+      "difficulty": "Hard",
+      "beatmapId": "2148041",
+      "beatmapSetId": "765951",
+      "hp": "8",
+      "od": "8",
+      "scores": [],
+      "pickCount": 0,
+      "bans": []
+    },
+    {
+      "category": "acc3",
+      "counts": {
+        "bpm": 1,
+        "sv": 0,
+        "notes": {
+          "total": 1213,
+          "rice": 1163,
+          "ln": 50,
+          "single": 494,
+          "jump": 271,
+          "hand": 59,
+          "quad": 0
+        }
+      },
+      "title": "Fire Blazing",
+      "artist": "Dropgun",
+      "mapper": "Logan636",
+      "difficulty": "Stage 2: Ignition",
+      "beatmapId": "2311852",
+      "beatmapSetId": "1106164",
+      "hp": "6",
+      "od": "9",
+      "scores": [],
+      "pickCount": 0,
+      "bans": []
+    },
+    {
+      "category": "speed1",
+      "counts": {
+        "bpm": 1,
+        "sv": 0,
+        "notes": {
+          "total": 1463,
+          "rice": 1430,
+          "ln": 33,
+          "single": 1073,
+          "jump": 195,
+          "hand": 0,
+          "quad": 0
+        }
+      },
+      "title": "Collapse Remix",
+      "artist": "Kamex",
+      "mapper": "ZayyKen",
+      "difficulty": "Asherz007's Hard [MBS 2 Edit]",
+      "beatmapId": "2496127",
+      "beatmapSetId": "1198522",
+      "hp": "7.9",
+      "od": "7.8",
+      "scores": [],
+      "pickCount": 0,
+      "bans": [4798263]
+    },
+    {
+      "category": "speed2",
+      "counts": {
+        "bpm": 3,
+        "sv": 4,
+        "notes": {
+          "total": 1212,
+          "rice": 1138,
+          "ln": 74,
+          "single": 831,
+          "jump": 168,
+          "hand": 15,
+          "quad": 0
+        }
+      },
+      "title": "Khionos TiARA",
+      "artist": "Ellim Gnirps vs. Yomi",
+      "mapper": "Murumoo",
+      "difficulty": "ADVANCED",
+      "beatmapId": "1483134",
+      "beatmapSetId": "700493",
+      "hp": "7.8",
+      "od": "7.6",
+      "scores": [
+        {
+          "userId": "16299729",
+          "score": 986916,
+          "combo": 1286,
+          "counts": {
+            "50": 0,
+            "100": 0,
+            "200": 4,
+            "300": 234,
+            "miss": 0,
+            "max": 1048
+          }
+        },
+        {
+          "userId": "4798263",
+          "score": 947161,
+          "combo": 623,
+          "counts": {
+            "50": 1,
+            "100": 0,
+            "200": 14,
+            "300": 343,
+            "miss": 2,
+            "max": 926
+          }
+        },
+        {
+          "userId": "4183406",
+          "score": 937250,
+          "combo": 1056,
+          "counts": {
+            "50": 1,
+            "100": 3,
+            "200": 22,
+            "300": 358,
+            "miss": 3,
+            "max": 899
+          }
+        },
+        {
+          "userId": "4798263",
+          "score": 776062,
+          "combo": 433,
+          "counts": {
+            "50": 6,
+            "100": 17,
+            "200": 101,
+            "300": 382,
+            "miss": 21,
+            "max": 759
+          }
+        }
+      ],
+      "pickCount": 2,
+      "bans": []
+    },
+    {
+      "category": "speed3",
+      "counts": {
+        "bpm": 1,
+        "sv": 4,
+        "notes": {
+          "total": 1947,
+          "rice": 1874,
+          "ln": 73,
+          "single": 1012,
+          "jump": 460,
+          "hand": 5,
+          "quad": 0
+        }
+      },
+      "title": "K.A.o.s",
+      "artist": "K.A",
+      "mapper": "Kernaus",
+      "difficulty": "HD",
+      "beatmapId": "972659",
+      "beatmapSetId": "445964",
+      "hp": "7",
+      "od": "6.5",
+      "scores": [],
+      "pickCount": 0,
+      "bans": [4183406]
+    },
+    {
+      "category": "tech1",
+      "counts": {
+        "bpm": 1,
+        "sv": 0,
+        "notes": {
+          "total": 1102,
+          "rice": 1102,
+          "ln": 0,
+          "single": 1040,
+          "jump": 31,
+          "hand": 0,
+          "quad": 0
+        }
+      },
+      "title": "intel 4K Core Pack Vol.2",
+      "artist": "Various Artists",
+      "mapper": "inteliser",
+      "difficulty": "w_tre // Shannon's Theorem (HD)",
+      "beatmapId": "933977",
+      "beatmapSetId": "433249",
+      "hp": "8",
+      "od": "6",
+      "scores": [
+        {
+          "userId": "4183406",
+          "score": 984521,
+          "combo": 1102,
+          "counts": {
+            "50": 0,
+            "100": 0,
+            "200": 4,
+            "300": 239,
+            "miss": 0,
+            "max": 859
+          }
+        },
+        {
+          "userId": "4798263",
+          "score": 951341,
+          "combo": 1029,
+          "counts": {
+            "50": 0,
+            "100": 2,
+            "200": 21,
+            "300": 297,
+            "miss": 1,
+            "max": 781
+          }
+        }
+      ],
+      "pickCount": 1,
+      "bans": [4798263]
+    },
+    {
+      "category": "tech2",
+      "counts": {
+        "bpm": 1,
+        "sv": 4,
+        "notes": {
+          "total": 1256,
+          "rice": 1189,
+          "ln": 67,
+          "single": 783,
+          "jump": 235,
+          "hand": 1,
+          "quad": 0
+        }
+      },
+      "title": "Last Star In The Universe",
+      "artist": "The Ghost of 3.13",
+      "mapper": "Shoegazer",
+      "difficulty": "Serenade",
+      "beatmapId": "1667749",
+      "beatmapSetId": "302911",
+      "hp": "8",
+      "od": "8",
+      "scores": [],
+      "pickCount": 0,
+      "bans": []
+    },
+    {
+      "category": "tech3",
+      "counts": {
+        "bpm": 3,
+        "sv": 3,
+        "notes": {
+          "total": 1390,
+          "rice": 1390,
+          "ln": 0,
+          "single": 742,
+          "jump": 324,
+          "hand": 0,
+          "quad": 0
+        }
+      },
+      "title": "Black Lawn Finale",
+      "artist": "The Flashbulb",
+      "mapper": "Night Bunny 7",
+      "difficulty": "Hayden's Lv.12 NSV",
+      "beatmapId": "1253922",
+      "beatmapSetId": "592633",
+      "hp": "8",
+      "od": "8",
+      "scores": [],
+      "pickCount": 0,
+      "bans": [4798263]
+    },
+    {
+      "category": "hybrid11",
+      "counts": {
+        "bpm": 1,
+        "sv": 5,
+        "notes": {
+          "total": 797,
+          "rice": 458,
+          "ln": 339,
+          "single": 331,
+          "jump": 188,
+          "hand": 30,
+          "quad": 0
+        }
+      },
+      "title": "Glorious morning",
+      "artist": "Waterflame",
+      "mapper": "newbandpro",
+      "difficulty": "Hard",
+      "beatmapId": "1565594",
+      "beatmapSetId": "742228",
+      "hp": "7.5",
+      "od": "7.5",
+      "scores": [
+        {
+          "userId": "16299729",
+          "score": 988550,
+          "combo": 1136,
+          "counts": {
+            "50": 0,
+            "100": 0,
+            "200": 2,
+            "300": 205,
+            "miss": 0,
+            "max": 929
+          }
+        },
+        {
+          "userId": "4798263",
+          "score": 962032,
+          "combo": 941,
+          "counts": {
+            "50": 1,
+            "100": 2,
+            "200": 9,
+            "300": 269,
+            "miss": 0,
+            "max": 855
+          }
+        }
+      ],
+      "pickCount": 1,
+      "bans": []
+    },
+    {
+      "category": "hybrid12",
+      "counts": {
+        "bpm": 1,
+        "sv": 6,
+        "notes": {
+          "total": 1868,
+          "rice": 1505,
+          "ln": 363,
+          "single": 669,
+          "jump": 512,
+          "hand": 57,
+          "quad": 1
+        }
+      },
+      "title": "Spica",
+      "artist": "Endorfin.",
+      "mapper": "_Kobii",
+      "difficulty": "Amii vs. Sado's Hard",
+      "beatmapId": "1877513",
+      "beatmapSetId": "890271",
+      "hp": "7.5",
+      "od": "8",
+      "scores": [
+        {
+          "userId": "16299729",
+          "score": 985855,
+          "combo": 1215,
+          "counts": {
+            "50": 0,
+            "100": 0,
+            "200": 1,
+            "300": 257,
+            "miss": 1,
+            "max": 1972
+          }
+        },
+        {
+          "userId": "4798263",
+          "score": 854865,
+          "combo": 752,
+          "counts": {
+            "50": 4,
+            "100": 8,
+            "200": 42,
+            "300": 550,
+            "miss": 55,
+            "max": 1572
+          }
+        }
+      ],
+      "pickCount": 1,
+      "bans": []
+    },
+    {
+      "category": "hybrid13",
+      "counts": {
+        "bpm": 1,
+        "sv": 10,
+        "notes": {
+          "total": 1158,
+          "rice": 899,
+          "ln": 259,
+          "single": 523,
+          "jump": 313,
+          "hand": 3,
+          "quad": 0
+        }
+      },
+      "title": "ACCELERATE",
+      "artist": "Sota Fujimori",
+      "mapper": "_Stan",
+      "difficulty": "ExNeko's Hyper",
+      "beatmapId": "2020687",
+      "beatmapSetId": "924834",
+      "hp": "7.5",
+      "od": "7.5",
+      "scores": [],
+      "pickCount": 0,
+      "bans": []
+    },
+    {
+      "category": "tb1",
+      "counts": {
+        "bpm": 12,
+        "sv": 10,
+        "notes": {
+          "total": 4290,
+          "rice": 3534,
+          "ln": 756,
+          "single": 1678,
+          "jump": 790,
+          "hand": 344,
+          "quad": 0
+        }
+      },
+      "title": "The Cave",
+      "artist": "Orphaned Lands",
+      "mapper": "Davvy",
+      "difficulty": "Abandoned by Light",
+      "beatmapId": "2507697",
+      "beatmapSetId": "1204307",
+      "hp": "8",
+      "od": "7",
+      "scores": [],
+      "pickCount": 0,
+      "bans": []
+    }
+  ],
+  "rolls": { "4183406": [31], "4798263": [29, 6], "16299729": [23] },
+  "matchCount": 2
+}

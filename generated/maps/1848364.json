@@ -1,0 +1,24 @@
+{
+  "category": "hybrid1",
+  "counts": {
+    "bpm": 1,
+    "sv": 4,
+    "notes": {
+      "total": 1143,
+      "rice": 736,
+      "ln": 407,
+      "single": 550,
+      "jump": 256,
+      "hand": 27,
+      "quad": 0
+    }
+  },
+  "title": "L.F.O",
+  "artist": "aran",
+  "mapper": "-MysticEyes",
+  "difficulty": "Another",
+  "beatmapId": "1848364",
+  "beatmapSetId": "882805",
+  "hp": "8.5",
+  "od": "7.6"
+}
