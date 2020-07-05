@@ -1,0 +1,24 @@
+{
+  "category": "hybrid1",
+  "counts": {
+    "bpm": 1,
+    "sv": 714,
+    "notes": {
+      "total": 1936,
+      "rice": 1836,
+      "ln": 100,
+      "single": 995,
+      "jump": 277,
+      "hand": 129,
+      "quad": 0
+    }
+  },
+  "title": "Shiawase Transmission",
+  "artist": "you",
+  "mapper": "Cadmium-113",
+  "difficulty": "Act II. Departure",
+  "beatmapId": "1044356",
+  "beatmapSetId": "489902",
+  "hp": "8",
+  "od": "8"
+}

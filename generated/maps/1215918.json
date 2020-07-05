@@ -1,0 +1,24 @@
+{
+  "category": "speed2",
+  "counts": {
+    "bpm": 1,
+    "sv": 0,
+    "notes": {
+      "total": 2329,
+      "rice": 2272,
+      "ln": 57,
+      "single": 1451,
+      "jump": 352,
+      "hand": 54,
+      "quad": 3
+    }
+  },
+  "title": "Spring Break Anthem",
+  "artist": "The Lonely Island",
+  "mapper": "Alamanar",
+  "difficulty": "Skwids DUMP",
+  "beatmapId": "1215918",
+  "beatmapSetId": "574077",
+  "hp": "7",
+  "od": "7"
+}

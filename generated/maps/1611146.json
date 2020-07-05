@@ -1,0 +1,24 @@
+{
+  "category": "sv3",
+  "counts": {
+    "bpm": 1,
+    "sv": 1933,
+    "notes": {
+      "total": 1199,
+      "rice": 895,
+      "ln": 304,
+      "single": 467,
+      "jump": 277,
+      "hand": 58,
+      "quad": 1
+    }
+  },
+  "title": "Trainer's 4K Convert SV Pack",
+  "artist": "Trainer",
+  "mapper": "Trainer-",
+  "difficulty": "No Money Down, Low Monthly Payments",
+  "beatmapId": "1611146",
+  "beatmapSetId": "766391",
+  "hp": "7.6",
+  "od": "8"
+}

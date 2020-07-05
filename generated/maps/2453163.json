@@ -1,0 +1,24 @@
+{
+  "category": "sv1",
+  "counts": {
+    "bpm": 345,
+    "sv": 3041,
+    "notes": {
+      "total": 564,
+      "rice": 483,
+      "ln": 81,
+      "single": 330,
+      "jump": 117,
+      "hand": 0,
+      "quad": 0
+    }
+  },
+  "title": "serotonin",
+  "artist": "sakuraburst",
+  "mapper": "Sillyp",
+  "difficulty": "Injection",
+  "beatmapId": "2453163",
+  "beatmapSetId": "1176176",
+  "hp": "6",
+  "od": "8"
+}

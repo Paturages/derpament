@@ -1,0 +1,24 @@
+{
+  "category": "tb",
+  "counts": {
+    "bpm": 1,
+    "sv": 2599,
+    "notes": {
+      "total": 4485,
+      "rice": 3167,
+      "ln": 1318,
+      "single": 1644,
+      "jump": 824,
+      "hand": 211,
+      "quad": 140
+    }
+  },
+  "title": "GHOST",
+  "artist": "Camellia",
+  "mapper": "genkicho",
+  "difficulty": "Possessed",
+  "beatmapId": "1160913",
+  "beatmapSetId": "548181",
+  "hp": "8.5",
+  "od": "8.5"
+}

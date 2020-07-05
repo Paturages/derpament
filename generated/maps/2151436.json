@@ -1,0 +1,24 @@
+{
+  "category": "speed1",
+  "counts": {
+    "bpm": 1,
+    "sv": 0,
+    "notes": {
+      "total": 2977,
+      "rice": 2896,
+      "ln": 81,
+      "single": 1121,
+      "jump": 578,
+      "hand": 216,
+      "quad": 13
+    }
+  },
+  "title": "ACID",
+  "artist": "TEXAS",
+  "mapper": "KH_Supernova",
+  "difficulty": "Intoxication",
+  "beatmapId": "2151436",
+  "beatmapSetId": "1028918",
+  "hp": "8",
+  "od": "8"
+}

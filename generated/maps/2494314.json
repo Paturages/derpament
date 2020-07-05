@@ -1,0 +1,24 @@
+{
+  "category": "acc1",
+  "counts": {
+    "bpm": 1,
+    "sv": 0,
+    "notes": {
+      "total": 1756,
+      "rice": 1755,
+      "ln": 1,
+      "single": 110,
+      "jump": 284,
+      "hand": 190,
+      "quad": 127
+    }
+  },
+  "title": "Once in my life",
+  "artist": "Junk (Manaka Takane feat.Nananao)",
+  "mapper": "Elementaires",
+  "difficulty": "Euphoria",
+  "beatmapId": "2494314",
+  "beatmapSetId": "1197479",
+  "hp": "8",
+  "od": "8"
+}

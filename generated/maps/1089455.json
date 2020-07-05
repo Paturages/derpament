@@ -1,0 +1,24 @@
+{
+  "category": "tech2",
+  "counts": {
+    "bpm": 1,
+    "sv": 2,
+    "notes": {
+      "total": 1989,
+      "rice": 1984,
+      "ln": 5,
+      "single": 648,
+      "jump": 275,
+      "hand": 201,
+      "quad": 47
+    }
+  },
+  "title": "3.14 (TT mix)",
+  "artist": "LUZE",
+  "mapper": "snoverpk",
+  "difficulty": "Arcane Geometry",
+  "beatmapId": "1089455",
+  "beatmapSetId": "512580",
+  "hp": "8.5",
+  "od": "9"
+}

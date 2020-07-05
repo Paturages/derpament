@@ -1,0 +1,24 @@
+{
+  "category": "ln1",
+  "counts": {
+    "bpm": 1,
+    "sv": 0,
+    "notes": {
+      "total": 1607,
+      "rice": 876,
+      "ln": 731,
+      "single": 524,
+      "jump": 408,
+      "hand": 89,
+      "quad": 0
+    }
+  },
+  "title": "(BMS) She's An Esper -Esper Mode-",
+  "artist": "Mystinia",
+  "mapper": "Cunu",
+  "difficulty": "Terra",
+  "beatmapId": "2062144",
+  "beatmapSetId": "985681",
+  "hp": "8",
+  "od": "7"
+}

@@ -1,0 +1,24 @@
+{
+  "category": "ln3",
+  "counts": {
+    "bpm": 1,
+    "sv": 94,
+    "notes": {
+      "total": 5702,
+      "rice": 0,
+      "ln": 5702,
+      "single": 2187,
+      "jump": 1476,
+      "hand": 177,
+      "quad": 8
+    }
+  },
+  "title": "LA MD",
+  "artist": "Billx",
+  "mapper": "Night Bunny 7",
+  "difficulty": "[OD 8] LN MD",
+  "beatmapId": "1912757",
+  "beatmapSetId": "671698",
+  "hp": "5",
+  "od": "8"
+}

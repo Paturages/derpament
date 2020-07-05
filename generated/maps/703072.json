@@ -1,0 +1,24 @@
+{
+  "category": "speed3",
+  "counts": {
+    "bpm": 1,
+    "sv": 0,
+    "notes": {
+      "total": 2440,
+      "rice": 2414,
+      "ln": 26,
+      "single": 943,
+      "jump": 687,
+      "hand": 41,
+      "quad": 0
+    }
+  },
+  "title": "Cherry Blossoms and Broken Streams",
+  "artist": "Various Artists",
+  "mapper": "Shoegazer",
+  "difficulty": "403 ERROR - FORBIDDEN (17-)",
+  "beatmapId": "703072",
+  "beatmapSetId": "315311",
+  "hp": "9",
+  "od": "8"
+}

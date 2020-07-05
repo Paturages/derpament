@@ -1,0 +1,24 @@
+{
+  "category": "hybrid2",
+  "counts": {
+    "bpm": 1,
+    "sv": 246,
+    "notes": {
+      "total": 3691,
+      "rice": 2881,
+      "ln": 810,
+      "single": 1605,
+      "jump": 681,
+      "hand": 236,
+      "quad": 4
+    }
+  },
+  "title": "Barracuda + Lycanthropy Mashup",
+  "artist": "BillyWAR",
+  "mapper": "HowToPlayLN",
+  "difficulty": "Corrupted Illuminati",
+  "beatmapId": "2255155",
+  "beatmapSetId": "1077683",
+  "hp": "6",
+  "od": "9"
+}

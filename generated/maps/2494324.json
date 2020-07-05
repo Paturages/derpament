@@ -1,0 +1,24 @@
+{
+  "category": "ln2",
+  "counts": {
+    "bpm": 1,
+    "sv": 4,
+    "notes": {
+      "total": 1644,
+      "rice": 737,
+      "ln": 907,
+      "single": 651,
+      "jump": 341,
+      "hand": 101,
+      "quad": 2
+    }
+  },
+  "title": "H.S : Hadron Strike",
+  "artist": "zest:rave",
+  "mapper": "Elementaires",
+  "difficulty": "Last Dance",
+  "beatmapId": "2494324",
+  "beatmapSetId": "1197486",
+  "hp": "8",
+  "od": "8"
+}

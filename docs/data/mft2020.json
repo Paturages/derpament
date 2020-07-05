@@ -7,7 +7,8 @@
       "id": "3.week2",
       "name": "Week 2: Quarterfinals + Semifinals",
       "mapCount": 15
-    }
+    },
+    { "id": "4.week3", "name": "Week 3: Finals + Grand Finals", "mapCount": 17 }
   ],
   "players": {
     "1375479": {
@@ -309,7 +310,7 @@
     },
     "10015908": {
       "id": 10015908,
-      "name": "[Crz]Auraah",
+      "name": "Auraah",
       "avatar": "https://a.ppy.sh/10015908?1581688666.jpeg",
       "country": "France",
       "pp": 8686.25,
