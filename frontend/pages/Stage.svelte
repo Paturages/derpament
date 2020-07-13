@@ -3,6 +3,7 @@
   import { tournament, stage } from '../stores';
   import Header from '../components/organisms/Header.svelte';
   import RollList from '../components/organisms/RollList.svelte';
+  import QualifiersList from '../components/organisms/QualifiersList.svelte';
   import ScoreList from '../components/organisms/ScoreList.svelte';
   import MapCard from '../components/molecules/MapCard.svelte';
 
@@ -50,6 +51,14 @@
       <RollList
         rolls={$stage.rolls}
         players={$tournament.players}
+        {filter}
+      />
+    {/if}
+    {#if $stage.qualifiers}
+      <h2>Seeding</h2>
+      <QualifiersList
+        players={$tournament.players}
+        maps={$stage.maps}
         {filter}
       />
     {/if}

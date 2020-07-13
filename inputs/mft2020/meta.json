@@ -3,7 +3,8 @@
   "stages": [
     {
       "id": "1.qualifiers",
-      "name": "Qualifiers"
+      "name": "Qualifiers",
+      "qualifiers": true
     },
     {
       "id": "2.week1",

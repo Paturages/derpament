@@ -1,7 +1,7 @@
 {
   "name": "Mania French Tournament 2020",
   "stages": [
-    { "id": "1.qualifiers", "name": "Qualifiers", "mapCount": 5 },
+    { "id": "1.qualifiers", "qualifiers": true, "name": "Qualifiers", "mapCount": 5 },
     { "id": "2.week1", "name": "Week 1: RO32 + RO16", "mapCount": 13 },
     {
       "id": "3.week2",

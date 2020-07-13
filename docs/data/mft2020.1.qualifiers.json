@@ -1,6 +1,7 @@
 {
   "id": "1.qualifiers",
   "name": "Qualifiers",
+  "qualifiers": true,
   "mapCount": 5,
   "maps": [
     {

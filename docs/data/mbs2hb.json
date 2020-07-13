@@ -1,7 +1,7 @@
 {
   "name": "Mania Beginner's Showdown 2 (High Bracket)",
   "stages": [
-    { "id": "1.qualifiers", "name": "Qualifiers", "mapCount": 5 },
+    { "id": "1.qualifiers", "qualifiers": true, "name": "Qualifiers", "mapCount": 5 },
     { "id": "2.groups", "name": "Group Stage", "mapCount": 12 },
     { "id": "3.ro32", "name": "Round of 32", "mapCount": 12 },
     { "id": "4.ro16", "name": "Round of 16", "mapCount": 15 },
