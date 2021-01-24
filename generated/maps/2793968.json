@@ -1,0 +1,24 @@
+{
+  "category": "ln",
+  "counts": {
+    "bpm": 5,
+    "sv": 0,
+    "notes": {
+      "total": 1033,
+      "rice": 217,
+      "ln": 816,
+      "single": 448,
+      "jump": 165,
+      "hand": 85,
+      "quad": 0
+    }
+  },
+  "title": "Axeria",
+  "artist": "An",
+  "mapper": "[Crz]Crysarlene",
+  "difficulty": "Stage 3: Luminous",
+  "beatmapId": "2793968",
+  "beatmapSetId": "1349415",
+  "hp": "8",
+  "od": "7"
+}

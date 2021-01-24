@@ -1,0 +1,10 @@
+{
+  "name": "4-digits Mania World Cup 3",
+  "stages": [
+    {
+      "id": "1.qualifiers",
+      "name": "Qualifiers",
+      "qualifiers": true
+    }
+  ]
+}

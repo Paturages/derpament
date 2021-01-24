@@ -1,0 +1,24 @@
+{
+  "category": "sv",
+  "counts": {
+    "bpm": 1,
+    "sv": 1279,
+    "notes": {
+      "total": 869,
+      "rice": 773,
+      "ln": 96,
+      "single": 413,
+      "jump": 180,
+      "hand": 32,
+      "quad": 0
+    }
+  },
+  "title": "Blackorient",
+  "artist": "Sound Souler",
+  "mapper": "DannyPX",
+  "difficulty": "Stage 1: Black Rose",
+  "beatmapId": "2793977",
+  "beatmapSetId": "1349422",
+  "hp": "8",
+  "od": "7"
+}

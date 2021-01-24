@@ -1,0 +1,24 @@
+{
+  "category": "rice",
+  "counts": {
+    "bpm": 1,
+    "sv": 4,
+    "notes": {
+      "total": 2092,
+      "rice": 2092,
+      "ln": 0,
+      "single": 1264,
+      "jump": 338,
+      "hand": 48,
+      "quad": 2
+    }
+  },
+  "title": "Old Nothing",
+  "artist": "Rivers of Nihil",
+  "mapper": "Lerck",
+  "difficulty": "Stage 4: Rejoice, transcend",
+  "beatmapId": "2793960",
+  "beatmapSetId": "1349409",
+  "hp": "8.5",
+  "od": "8"
+}

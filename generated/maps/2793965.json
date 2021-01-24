@@ -1,0 +1,24 @@
+{
+  "category": "acc",
+  "counts": {
+    "bpm": 1,
+    "sv": 0,
+    "notes": {
+      "total": 1020,
+      "rice": 1014,
+      "ln": 6,
+      "single": 558,
+      "jump": 225,
+      "hand": 4,
+      "quad": 0
+    }
+  },
+  "title": "My Cloud",
+  "artist": "Grabbitz",
+  "mapper": "Logan636",
+  "difficulty": "Stage 2: Utopia",
+  "beatmapId": "2793965",
+  "beatmapSetId": "1349413",
+  "hp": "5",
+  "od": "9"
+}

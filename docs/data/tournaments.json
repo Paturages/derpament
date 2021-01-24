@@ -1,5 +1,13 @@
 [
   {
+    "name": "4-digits Mania World Cup 3",
+    "stages": [
+      { "id": "1.qualifiers", "name": "Qualifiers", "qualifiers": true }
+    ],
+    "id": "4dmwc3",
+    "playersCount": 186
+  },
+  {
     "name": "Mania Beginner's Showdown 2 (High Bracket)",
     "stages": [
       { "id": "1.qualifiers", "name": "Qualifiers", "qualifiers": true },

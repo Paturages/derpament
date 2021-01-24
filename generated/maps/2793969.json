@@ -1,0 +1,24 @@
+{
+  "category": "hybrid",
+  "counts": {
+    "bpm": 1,
+    "sv": 0,
+    "notes": {
+      "total": 1607,
+      "rice": 1048,
+      "ln": 559,
+      "single": 967,
+      "jump": 287,
+      "hand": 22,
+      "quad": 0
+    }
+  },
+  "title": "Mei Mode",
+  "artist": "IGLOOGHOST",
+  "mapper": "DannyPX",
+  "difficulty": "Stage 5: Incantation",
+  "beatmapId": "2793969",
+  "beatmapSetId": "1349416",
+  "hp": "7",
+  "od": "7.5"
+}
