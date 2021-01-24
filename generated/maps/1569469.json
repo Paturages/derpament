@@ -1,0 +1,24 @@
+{
+  "category": "tech",
+  "counts": {
+    "bpm": 1,
+    "sv": 0,
+    "notes": {
+      "total": 1570,
+      "rice": 1482,
+      "ln": 88,
+      "single": 1123,
+      "jump": 108,
+      "hand": 69,
+      "quad": 6
+    }
+  },
+  "title": "Monk2",
+  "artist": "DET",
+  "mapper": "bagginz",
+  "difficulty": "Hard",
+  "beatmapId": "1569469",
+  "beatmapSetId": "744344",
+  "hp": "8.2",
+  "od": "7"
+}

@@ -19,7 +19,7 @@ and create a `meta.json` and `players.txt` file.
 The scripts are ran by the following commands, assuming you have a command line at the root of this project.
 
 ```
-node scripts/players [refresh]
+node scripts/players <folder_name> [refresh]
 ```
 
 This requires you to fill in `players.txt` with the list of tournament participants' IDs, separated by line breaks.

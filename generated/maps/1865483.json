@@ -1,0 +1,24 @@
+{
+  "category": "ln",
+  "counts": {
+    "bpm": 1,
+    "sv": 15,
+    "notes": {
+      "total": 1499,
+      "rice": 335,
+      "ln": 1164,
+      "single": 359,
+      "jump": 308,
+      "hand": 107,
+      "quad": 31
+    }
+  },
+  "title": "Ikutoshitsuki",
+  "artist": "Mili",
+  "mapper": "eyucliwood",
+  "difficulty": "Hard",
+  "beatmapId": "1865483",
+  "beatmapSetId": "892422",
+  "hp": "8",
+  "od": "8"
+}

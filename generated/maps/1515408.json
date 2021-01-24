@@ -1,0 +1,24 @@
+{
+  "category": "ln",
+  "counts": {
+    "bpm": 5,
+    "sv": 8,
+    "notes": {
+      "total": 939,
+      "rice": 254,
+      "ln": 685,
+      "single": 331,
+      "jump": 186,
+      "hand": 76,
+      "quad": 2
+    }
+  },
+  "title": "Kikoemasu ka feat. Haruki <Youshouki> (CV: Koinu)",
+  "artist": "HoneyWorks",
+  "mapper": "SurfChu85",
+  "difficulty": "do you hear me?",
+  "beatmapId": "1515408",
+  "beatmapSetId": "717277",
+  "hp": "7.5",
+  "od": "7.5"
+}

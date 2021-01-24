@@ -1,0 +1,24 @@
+{
+  "category": "sv",
+  "counts": {
+    "bpm": 91,
+    "sv": 481,
+    "notes": {
+      "total": 829,
+      "rice": 437,
+      "ln": 392,
+      "single": 139,
+      "jump": 199,
+      "hand": 96,
+      "quad": 1
+    }
+  },
+  "title": "gum",
+  "artist": "she",
+  "mapper": "spoonguy",
+  "difficulty": "spoongum",
+  "beatmapId": "1546340",
+  "beatmapSetId": "732945",
+  "hp": "8",
+  "od": "8"
+}

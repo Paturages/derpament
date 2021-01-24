@@ -2,10 +2,14 @@
   {
     "name": "Mania Beginner's Showdown 2 (High Bracket)",
     "stages": [
-      { "id": "1.qualifiers", "name": "Qualifiers" },
+      { "id": "1.qualifiers", "name": "Qualifiers", "qualifiers": true },
       { "id": "2.groups", "name": "Group Stage" },
       { "id": "3.ro32", "name": "Round of 32" },
-      { "id": "4.ro16", "name": "Round of 16" }
+      { "id": "4.ro16", "name": "Round of 16" },
+      { "id": "5.quarterfinals", "name": "Quarterfinals" },
+      { "id": "6.semifinals", "name": "Semifinals" },
+      { "id": "7.finals", "name": "Finals" },
+      { "id": "8.gf", "name": "Grand Finals" }
     ],
     "id": "mbs2hb",
     "playersCount": 115
@@ -13,18 +17,33 @@
   {
     "name": "Mania Beginner's Showdown 2 (Low Bracket)",
     "stages": [
-      { "id": "1.qualifiers", "name": "Qualifiers" },
+      { "id": "1.qualifiers", "name": "Qualifiers", "qualifiers": true },
       { "id": "2.groups", "name": "Group Stage" },
       { "id": "3.ro32", "name": "Round of 32" },
-      { "id": "4.ro16", "name": "Round of 16" }
+      { "id": "4.ro16", "name": "Round of 16" },
+      { "id": "5.quarterfinals", "name": "Quarterfinals" },
+      { "id": "6.semifinals", "name": "Semifinals" },
+      { "id": "7.finals", "name": "Finals" },
+      { "id": "8.gf", "name": "Grand Finals" }
     ],
     "id": "mbs2lb",
     "playersCount": 57
   },
   {
     "name": "Mania French Tournament 2020",
-    "stages": [{ "id": "1.qualifiers", "name": "Qualifiers" }],
+    "stages": [
+      { "id": "1.qualifiers", "name": "Qualifiers", "qualifiers": true },
+      { "id": "2.week1", "name": "Week 1: RO32 + RO16" },
+      { "id": "3.week2", "name": "Week 2: Quarterfinals + Semifinals" },
+      { "id": "4.week3", "name": "Week 3: Finals + Grand Finals" }
+    ],
     "id": "mft2020",
     "playersCount": 56
+  },
+  {
+    "name": "Mania 7K French Tournament 2021",
+    "stages": [{ "id": "1.week1", "name": "Week 1: RO16 + Quarterfinals" }],
+    "id": "mft7k2021",
+    "playersCount": 18
   }
 ]

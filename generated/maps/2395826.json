@@ -1,0 +1,24 @@
+{
+  "category": "speed",
+  "counts": {
+    "bpm": 11,
+    "sv": 3,
+    "notes": {
+      "total": 1716,
+      "rice": 1675,
+      "ln": 41,
+      "single": 853,
+      "jump": 292,
+      "hand": 93,
+      "quad": 0
+    }
+  },
+  "title": "._Pulse",
+  "artist": "YZYX",
+  "mapper": "Kamikaze",
+  "difficulty": "Etlie's Hyper",
+  "beatmapId": "2395826",
+  "beatmapSetId": "809848",
+  "hp": "8",
+  "od": "8"
+}

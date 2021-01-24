@@ -1,0 +1,24 @@
+{
+  "category": "sv",
+  "counts": {
+    "bpm": 8,
+    "sv": 461,
+    "notes": {
+      "total": 426,
+      "rice": 374,
+      "ln": 52,
+      "single": 192,
+      "jump": 117,
+      "hand": 0,
+      "quad": 0
+    }
+  },
+  "title": "Scatter Brain",
+  "artist": "not",
+  "mapper": "Hydria",
+  "difficulty": "Confusion",
+  "beatmapId": "1921124",
+  "beatmapSetId": "919861",
+  "hp": "8",
+  "od": "8"
+}

@@ -1,0 +1,24 @@
+{
+  "category": "hybrid",
+  "counts": {
+    "bpm": 1,
+    "sv": 8,
+    "notes": {
+      "total": 1797,
+      "rice": 1315,
+      "ln": 482,
+      "single": 550,
+      "jump": 226,
+      "hand": 150,
+      "quad": 80
+    }
+  },
+  "title": "DrLou's 7K Pack Vol. 1",
+  "artist": "Various Artists",
+  "mapper": "DrLou",
+  "difficulty": "BlackY - Mirrorwall",
+  "beatmapId": "2684999",
+  "beatmapSetId": "1293898",
+  "hp": "7",
+  "od": "7"
+}

@@ -55,7 +55,9 @@
 
   const rankedPlayers = Object.values(playerScores)
     .sort((a, b) => {
-      if (a.totalRank == b.totalRank) return 0;
+      if (a.totalRank == b.totalRank) {
+        return a.totalScore < b.totalScore ? -1 : 1;
+      };
       return a.totalRank < b.totalRank ? -1 : 1;
     });
 

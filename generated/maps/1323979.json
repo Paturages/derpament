@@ -1,0 +1,24 @@
+{
+  "category": "acc",
+  "counts": {
+    "bpm": 4,
+    "sv": 0,
+    "notes": {
+      "total": 1160,
+      "rice": 1160,
+      "ln": 0,
+      "single": 360,
+      "jump": 0,
+      "hand": 60,
+      "quad": 0
+    }
+  },
+  "title": "Pike's 7K Piano Pack",
+  "artist": "Various Artists",
+  "mapper": "pikechu",
+  "difficulty": "Romance",
+  "beatmapId": "1323979",
+  "beatmapSetId": "624289",
+  "hp": "8",
+  "od": "8"
+}

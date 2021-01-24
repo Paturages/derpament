@@ -1,0 +1,24 @@
+{
+  "category": "jack-cstream",
+  "counts": {
+    "bpm": 1,
+    "sv": 0,
+    "notes": {
+      "total": 1491,
+      "rice": 1491,
+      "ln": 0,
+      "single": 95,
+      "jump": 254,
+      "hand": 176,
+      "quad": 36
+    }
+  },
+  "title": "Accumula Town (BMS copy)",
+  "artist": "AAAA",
+  "mapper": "qodtjr",
+  "difficulty": "Lassitude",
+  "beatmapId": "2068682",
+  "beatmapSetId": "988974",
+  "hp": "8",
+  "od": "8"
+}

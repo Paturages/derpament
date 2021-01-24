@@ -1,0 +1,170 @@
+{
+  "name": "Mania 7K French Tournament 2021",
+  "stages": [
+    { "id": "1.week1", "name": "Week 1: RO16 + Quarterfinals", "mapCount": 13 }
+  ],
+  "players": {
+    "251683": {
+      "id": 251683,
+      "name": "Musty",
+      "avatar": "https://a.ppy.sh/251683?1590003521.jpeg",
+      "country": "France",
+      "pp": 4638.06,
+      "rank": 11630,
+      "countryRank": 254
+    },
+    "1271018": {
+      "id": 1271018,
+      "name": "PouletFurtif",
+      "avatar": "https://a.ppy.sh/1271018?1580849840.png",
+      "country": "France",
+      "pp": 4952.85,
+      "rank": 9679,
+      "countryRank": 204
+    },
+    "2144273": {
+      "id": 2144273,
+      "name": "adrien062FanBoy",
+      "avatar": "https://a.ppy.sh/2144273?1491740003.png",
+      "country": "France",
+      "pp": 5192.21,
+      "rank": 8430,
+      "countryRank": 174
+    },
+    "2284328": {
+      "id": 2284328,
+      "name": "Elementaires",
+      "avatar": "https://a.ppy.sh/2284328?1568812598.png",
+      "country": "France",
+      "pp": 11181.5,
+      "rank": 226,
+      "countryRank": 2
+    },
+    "2573716": {
+      "id": 2573716,
+      "name": "Akayro",
+      "avatar": "https://a.ppy.sh/2573716?1478285457.png",
+      "country": "Switzerland",
+      "pp": 11593.3,
+      "rank": 183,
+      "countryRank": 2
+    },
+    "2735466": {
+      "id": 2735466,
+      "name": "Exilfaker",
+      "avatar": "https://a.ppy.sh/2735466?1552218780.jpeg",
+      "country": "France",
+      "pp": 5799.87,
+      "rank": 6035,
+      "countryRank": 118
+    },
+    "2863607": {
+      "id": 2863607,
+      "name": "CharlisMadCut",
+      "avatar": "https://a.ppy.sh/2863607?1607180409.jpeg",
+      "country": "France",
+      "pp": 7837.76,
+      "rank": 1780,
+      "countryRank": 25
+    },
+    "4089441": {
+      "id": 4089441,
+      "name": "Kyzoid",
+      "avatar": "https://a.ppy.sh/4089441?1606066703.jpeg",
+      "country": "France",
+      "pp": 8103.45,
+      "rank": 1473,
+      "countryRank": 21
+    },
+    "4295434": {
+      "id": 4295434,
+      "name": "Elvendir",
+      "avatar": "https://a.ppy.sh/4295434?1398098642.png",
+      "country": "France",
+      "pp": 7842.27,
+      "rank": 1775,
+      "countryRank": 24
+    },
+    "4579132": {
+      "id": 4579132,
+      "name": "Adri",
+      "avatar": "https://a.ppy.sh/4579132?1594553960.png",
+      "country": "France",
+      "pp": 7773.59,
+      "rank": 1877,
+      "countryRank": 27
+    },
+    "6264519": {
+      "id": 6264519,
+      "name": "MillaMaxwelle",
+      "avatar": "https://a.ppy.sh/6264519?1488985058.png",
+      "country": "France",
+      "pp": 8860.51,
+      "rank": 859,
+      "countryRank": 12
+    },
+    "7190228": {
+      "id": 7190228,
+      "name": "Cunu",
+      "avatar": "https://a.ppy.sh/7190228?1568755242.png",
+      "country": "France",
+      "pp": 9696.48,
+      "rank": 535,
+      "countryRank": 5
+    },
+    "8479894": {
+      "id": 8479894,
+      "name": "MarsJackson",
+      "avatar": "https://a.ppy.sh/8479894?1606604935.jpeg",
+      "country": "France",
+      "pp": 8108.45,
+      "rank": 1465,
+      "countryRank": 20
+    },
+    "10015908": {
+      "id": 10015908,
+      "name": "Auraah",
+      "avatar": "https://a.ppy.sh/10015908?1605794218.jpeg",
+      "country": "France",
+      "pp": 9032.71,
+      "rank": 775,
+      "countryRank": 9
+    },
+    "11370189": {
+      "id": 11370189,
+      "name": "vlucas2",
+      "avatar": "https://a.ppy.sh/11370189?1600462191.jpeg",
+      "country": "France",
+      "pp": 7873.69,
+      "rank": 1737,
+      "countryRank": 23
+    },
+    "11404841": {
+      "id": 11404841,
+      "name": "Mokip",
+      "avatar": "https://a.ppy.sh/11404841?1611503433.jpeg",
+      "country": "France",
+      "pp": 3582.86,
+      "rank": 22192,
+      "countryRank": 529
+    },
+    "14797411": {
+      "id": 14797411,
+      "name": "KewaiiGames",
+      "avatar": "https://a.ppy.sh/14797411?1581538596.png",
+      "country": "France",
+      "pp": 7641.04,
+      "rank": 2092,
+      "countryRank": 37
+    },
+    "15452628": {
+      "id": 15452628,
+      "name": "Celeste",
+      "avatar": "https://a.ppy.sh/15452628?1603144543.jpeg",
+      "country": "France",
+      "pp": 6175.93,
+      "rank": 4927,
+      "countryRank": 100
+    }
+  }
+}

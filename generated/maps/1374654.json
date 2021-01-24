@@ -1,0 +1,24 @@
+{
+  "category": "hybrid",
+  "counts": {
+    "bpm": 1,
+    "sv": 2,
+    "notes": {
+      "total": 1219,
+      "rice": 1150,
+      "ln": 69,
+      "single": 343,
+      "jump": 125,
+      "hand": 122,
+      "quad": 60
+    }
+  },
+  "title": "Stellar",
+  "artist": "M2U & Nicode",
+  "mapper": "Murumoo",
+  "difficulty": "Insane",
+  "beatmapId": "1374654",
+  "beatmapSetId": "648875",
+  "hp": "8",
+  "od": "7"
+}

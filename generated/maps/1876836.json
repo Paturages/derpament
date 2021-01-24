@@ -1,0 +1,24 @@
+{
+  "category": "tb",
+  "counts": {
+    "bpm": 1,
+    "sv": 4,
+    "notes": {
+      "total": 3878,
+      "rice": 3751,
+      "ln": 127,
+      "single": 1340,
+      "jump": 495,
+      "hand": 134,
+      "quad": 269
+    }
+  },
+  "title": "You are the Miserable",
+  "artist": "t+pazolite",
+  "mapper": "DarthSkrill",
+  "difficulty": "Revenge",
+  "beatmapId": "1876836",
+  "beatmapSetId": "898474",
+  "hp": "8",
+  "od": "8"
+}

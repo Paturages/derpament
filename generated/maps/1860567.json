@@ -1,0 +1,24 @@
+{
+  "category": "boss",
+  "counts": {
+    "bpm": 1,
+    "sv": 375,
+    "notes": {
+      "total": 4571,
+      "rice": 3352,
+      "ln": 1219,
+      "single": 688,
+      "jump": 207,
+      "hand": 151,
+      "quad": 234
+    }
+  },
+  "title": "Moskau (Camellia's Handzup Bootleg)",
+  "artist": "Dschinghis Khan",
+  "mapper": "Flexo123",
+  "difficulty": "=(@v@)=",
+  "beatmapId": "1860567",
+  "beatmapSetId": "890070",
+  "hp": "8",
+  "od": "8"
+}

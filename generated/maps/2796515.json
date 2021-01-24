@@ -1,0 +1,24 @@
+{
+  "category": "bracket",
+  "counts": {
+    "bpm": 1,
+    "sv": 0,
+    "notes": {
+      "total": 1977,
+      "rice": 1977,
+      "ln": 0,
+      "single": 605,
+      "jump": 618,
+      "hand": 44,
+      "quad": 1
+    }
+  },
+  "title": "Loki",
+  "artist": "Shiraishi",
+  "mapper": "Kizuna",
+  "difficulty": "Lv.02 7ANOTHER",
+  "beatmapId": "2796515",
+  "beatmapSetId": "1350711",
+  "hp": "7",
+  "od": "7"
+}
