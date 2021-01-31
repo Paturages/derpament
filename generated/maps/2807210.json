@@ -1,0 +1,24 @@
+{
+  "category": "sv",
+  "counts": {
+    "bpm": 1,
+    "sv": 1298,
+    "notes": {
+      "total": 378,
+      "rice": 290,
+      "ln": 88,
+      "single": 198,
+      "jump": 90,
+      "hand": 0,
+      "quad": 0
+    }
+  },
+  "title": "sleeping with you",
+  "artist": "dark cat",
+  "mapper": "RuleBlazing",
+  "difficulty": "cuddle",
+  "beatmapId": "2807210",
+  "beatmapSetId": "1356415",
+  "hp": "8",
+  "od": "6.5"
+}

@@ -6,7 +6,8 @@
       "name": "Qualifiers",
       "qualifiers": true,
       "mapCount": 5
-    }
+    },
+    { "id": "2.groups", "name": "Group stage", "mapCount": 10 }
   ],
   "players": {
     "65724": {

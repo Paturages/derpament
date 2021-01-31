@@ -1,0 +1,24 @@
+{
+  "category": "ln",
+  "counts": {
+    "bpm": 4,
+    "sv": 2,
+    "notes": {
+      "total": 786,
+      "rice": 272,
+      "ln": 514,
+      "single": 264,
+      "jump": 131,
+      "hand": 84,
+      "quad": 2
+    }
+  },
+  "title": "Ending Credits",
+  "artist": "Opeth",
+  "mapper": "Davvy",
+  "difficulty": "Doloroso",
+  "beatmapId": "2172822",
+  "beatmapSetId": "1039463",
+  "hp": "8",
+  "od": "7.5"
+}

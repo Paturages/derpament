@@ -1,0 +1,24 @@
+{
+  "category": "tiebreaker",
+  "counts": {
+    "bpm": 1,
+    "sv": 0,
+    "notes": {
+      "total": 2480,
+      "rice": 2068,
+      "ln": 412,
+      "single": 1174,
+      "jump": 407,
+      "hand": 164,
+      "quad": 0
+    }
+  },
+  "title": "Night Sky (feat. Mashilo & ichika)",
+  "artist": "Neko Hacker",
+  "mapper": "HowToPlayLN",
+  "difficulty": "LoliSerenade's Starry Night",
+  "beatmapId": "2400063",
+  "beatmapSetId": "1149641",
+  "hp": "7",
+  "od": "7.5"
+}

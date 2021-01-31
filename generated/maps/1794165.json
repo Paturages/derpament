@@ -1,0 +1,24 @@
+{
+  "category": "rice",
+  "counts": {
+    "bpm": 1,
+    "sv": 2,
+    "notes": {
+      "total": 1208,
+      "rice": 1196,
+      "ln": 12,
+      "single": 598,
+      "jump": 305,
+      "hand": 0,
+      "quad": 0
+    }
+  },
+  "title": "8th:Planet (Guitar Ver. feat. BlueArpeggio)",
+  "artist": "P4koo",
+  "mapper": "Asherz007",
+  "difficulty": "Another",
+  "beatmapId": "1794165",
+  "beatmapSetId": "858501",
+  "hp": "8.2",
+  "od": "8.5"
+}

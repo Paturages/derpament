@@ -1,0 +1,24 @@
+{
+  "category": "rice",
+  "counts": {
+    "bpm": 3,
+    "sv": 6,
+    "notes": {
+      "total": 1862,
+      "rice": 1848,
+      "ln": 14,
+      "single": 391,
+      "jump": 455,
+      "hand": 187,
+      "quad": 0
+    }
+  },
+  "title": "Stay by my side",
+  "artist": "Draw the Emotional & Foreground Eclipse",
+  "mapper": "Herkkupala",
+  "difficulty": "Hard",
+  "beatmapId": "961240",
+  "beatmapSetId": "447784",
+  "hp": "8",
+  "od": "8"
+}

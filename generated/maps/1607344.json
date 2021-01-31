@@ -1,0 +1,24 @@
+{
+  "category": "rice",
+  "counts": {
+    "bpm": 1,
+    "sv": 4,
+    "notes": {
+      "total": 872,
+      "rice": 823,
+      "ln": 49,
+      "single": 603,
+      "jump": 121,
+      "hand": 9,
+      "quad": 0
+    }
+  },
+  "title": "White Rose",
+  "artist": "M2U",
+  "mapper": "Meowstic",
+  "difficulty": "HD",
+  "beatmapId": "1607344",
+  "beatmapSetId": "764367",
+  "hp": "7",
+  "od": "7"
+}

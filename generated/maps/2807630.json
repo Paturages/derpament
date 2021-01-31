@@ -1,0 +1,24 @@
+{
+  "category": "sv",
+  "counts": {
+    "bpm": 1,
+    "sv": 648,
+    "notes": {
+      "total": 481,
+      "rice": 434,
+      "ln": 47,
+      "single": 217,
+      "jump": 129,
+      "hand": 2,
+      "quad": 0
+    }
+  },
+  "title": "Main Heroine",
+  "artist": "Cute Girls Doing Cute Things",
+  "mapper": "Mestro",
+  "difficulty": "Episode",
+  "beatmapId": "2807630",
+  "beatmapSetId": "1356641",
+  "hp": "8",
+  "od": "7"
+}
