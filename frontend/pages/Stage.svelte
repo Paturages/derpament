@@ -9,11 +9,13 @@
 
   export let id;
   export let tournamentId;
+  export let query;
   let loading = true;
-  let filter = null;
+  let filter = query || null;
 
   function handleSearch(event) {
     filter = event.detail;
+    location.hash = location.hash.split('?')[0] + (filter ? `?q=${filter}` : '');
   }
 
   onMount(async () => {
@@ -44,7 +46,7 @@
 
 <main>
   {#if !loading}
-    <Header backHref={`#/tournaments/${tournamentId}`} on:search={handleSearch} />
+    <Header initialValue={query} backHref={`#/tournaments/${tournamentId}`} on:search={handleSearch} />
     <h1>{$stage.name}</h1>
     {#if $stage.rolls}
       <h2>Rolls</h2>

@@ -28,6 +28,13 @@
   function handleToggle() {
     displayRolls = !displayRolls;
   }
+
+  function rollMatchesFilter(roll, filter) {
+    if (!filter) return true;
+    let [, country] = filter.match(/country=(.*)/i) || [];
+    if (country) return roll.player.country.toLowerCase().includes(country.toLowerCase());
+    return roll.player.name.toLowerCase().includes(filter.toLowerCase());
+  }
 </script>
 
 <div class="root">
@@ -35,7 +42,7 @@
   {#if displayRolls}
     <div class="rolls">
       {#each rollsArray as roll}
-        {#if !filter || roll.player.name.toLowerCase().includes(filter.toLowerCase())}
+        {#if rollMatchesFilter(roll, filter)}
           <RollRow
             index={roll.index}
             player={roll.player}

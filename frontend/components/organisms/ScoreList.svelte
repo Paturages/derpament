@@ -49,6 +49,13 @@
   function handleToggle() {
     displayScores = !displayScores;
   }
+  
+  function playerMatchesFilter(player, filter) {
+    if (!filter) return true;
+    let [, country] = filter.match(/country=(.*)/i) || [];
+    if (country) return player.country.toLowerCase().includes(country.toLowerCase());
+    return player.name.toLowerCase().includes(filter.toLowerCase());
+  }
 </script>
 
 <div class="root">
@@ -83,15 +90,13 @@
     <div class="scores">
       {#if groupScores}
         {#each rankedPlayers as { player, scores }, i}
-          {#if !filter || player.name.toLowerCase().includes(filter.toLowerCase())}
+          {#if playerMatchesFilter(player, filter)}
             <ScoreRow index={i+1} player={player} {...scores[0]} />
           {/if}
         {/each}
       {:else}
         {#each scores as score, i}
-          {#if players[score.userId]
-            && (!filter || players[score.userId].name.toLowerCase().includes(filter.toLowerCase()))
-          }
+          {#if players[score.userId] && playerMatchesFilter(players[score.userId], filter)}
             <ScoreRow index={i+1} player={players[score.userId]} {...score} />
           {/if}
         {/each}

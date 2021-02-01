@@ -4,7 +4,9 @@
   const dispatch = createEventDispatcher();
 
   export let backHref;
+  export let initialValue = '';
 
+  let value = initialValue;
   let timeout;
   function handleSearch($event) {
     // 500 ms debounce
@@ -20,8 +22,9 @@
   <div class="inner">
     <a href={backHref}>&lt;&nbsp;Back</a>
     <input
+      {value}
       type="search"
-      placeholder="Filter on players"
+      placeholder="Filter on players (or try country=France)"
       on:input={handleSearch}
     />
   </div>

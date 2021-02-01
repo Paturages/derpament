@@ -21,6 +21,7 @@
     <a href={`https://osu.ppy.sh/users/${player.id}`} target="_blank">
       {player.name}
     </a>
+    <small>{player.country}</small>
   </div>
   <div class="info">
     <div class="combo">{accuracy.toFixed(2)}%, {combo} combo</div>
@@ -47,6 +48,9 @@
   .name {
     font-size: 1.5em;
     flex: 1;
+  }
+  .name small {
+    font-size: .5em;
   }
   .info {
     margin-left: 1em;

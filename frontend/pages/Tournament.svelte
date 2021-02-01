@@ -6,6 +6,7 @@
   import StageRow from '../components/molecules/StageRow.svelte';
 
   export let id;
+  export let query;
   let playerValues;
   let displayPlayers;
   let loading = true;
@@ -14,9 +15,16 @@
     const text = event.detail;
     if (!text) displayPlayers = playerValues;
     else {
-      displayPlayers = playerValues.filter(
-        player => player.name.toLowerCase().includes(text.toLowerCase())
-      );
+      let [, country] = text.match(/country=(.*)/i) || [];
+      if (country) {
+        displayPlayers = playerValues.filter(
+          player => player.country.toLowerCase().includes(text.toLowerCase())
+        );
+      } else {
+        displayPlayers = playerValues.filter(
+          player => player.name.toLowerCase().includes(text.toLowerCase())
+        );
+      }
     }
   }
 
@@ -32,6 +40,7 @@
     }
     playerValues = Object.values($tournament.players);
     displayPlayers = playerValues;
+    if (query) handleSearch(query);
     loading = false;
   });
 </script>
