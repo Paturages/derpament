@@ -18,7 +18,7 @@
       let [, country] = text.match(/country=(.*)/i) || [];
       if (country) {
         displayPlayers = playerValues.filter(
-          player => player.country.toLowerCase().includes(text.toLowerCase())
+          player => player.country.toLowerCase().includes(country.toLowerCase())
         );
       } else {
         displayPlayers = playerValues.filter(

@@ -12,7 +12,7 @@
   const onHashChange = () => {
     url = location.hash.slice(1) || '/';
     const [, p1, id1, p2, part2] = url.split('/');
-    const [id2, search] = part2.split('?');
+    const [id2, search] = (part2 || '').split('?');
     [, query] = (search || '').split('q=');
     tournamentId = p1 === 'tournaments' ? id1 : null;
     stageId = p2 === 'stages' ? id2 : null; 
