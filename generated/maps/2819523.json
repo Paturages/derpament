@@ -1,0 +1,24 @@
+{
+  "category": "rice",
+  "counts": {
+    "bpm": 1,
+    "sv": 4,
+    "notes": {
+      "total": 2313,
+      "rice": 2282,
+      "ln": 31,
+      "single": 1485,
+      "jump": 414,
+      "hand": 0,
+      "quad": 0
+    }
+  },
+  "title": "Knife",
+  "artist": "Acrnym",
+  "mapper": "Logan636",
+  "difficulty": "Cokiiplay's Hard (edit)",
+  "beatmapId": "2819523",
+  "beatmapSetId": "1362824",
+  "hp": "8",
+  "od": "8"
+}

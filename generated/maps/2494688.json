@@ -1,0 +1,24 @@
+{
+  "category": "rice",
+  "counts": {
+    "bpm": 1,
+    "sv": 0,
+    "notes": {
+      "total": 2109,
+      "rice": 1965,
+      "ln": 144,
+      "single": 1327,
+      "jump": 352,
+      "hand": 26,
+      "quad": 0
+    }
+  },
+  "title": "Watercolour",
+  "artist": "Pendulum",
+  "mapper": "Shoegazer",
+  "difficulty": "Immersion",
+  "beatmapId": "2494688",
+  "beatmapSetId": "1074192",
+  "hp": "8.5",
+  "od": "8.5"
+}

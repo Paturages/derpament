@@ -1,0 +1,24 @@
+{
+  "category": "tiebreaker",
+  "counts": {
+    "bpm": 1,
+    "sv": 4,
+    "notes": {
+      "total": 2675,
+      "rice": 1914,
+      "ln": 761,
+      "single": 950,
+      "jump": 581,
+      "hand": 153,
+      "quad": 26
+    }
+  },
+  "title": "Quality Control",
+  "artist": "Mameyudoufu",
+  "mapper": "DannyPX",
+  "difficulty": "Distance",
+  "beatmapId": "2768929",
+  "beatmapSetId": "1336570",
+  "hp": "8",
+  "od": "7.5"
+}

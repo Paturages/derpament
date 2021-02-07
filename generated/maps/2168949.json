@@ -1,0 +1,24 @@
+{
+  "category": "sv",
+  "counts": {
+    "bpm": 2,
+    "sv": 1017,
+    "notes": {
+      "total": 626,
+      "rice": 537,
+      "ln": 89,
+      "single": 278,
+      "jump": 126,
+      "hand": 32,
+      "quad": 0
+    }
+  },
+  "title": "Forsaken",
+  "artist": "Jioyi",
+  "mapper": "zero2snow",
+  "difficulty": "Stage 1: Abandoned",
+  "beatmapId": "2168949",
+  "beatmapSetId": "1037446",
+  "hp": "7",
+  "od": "7"
+}

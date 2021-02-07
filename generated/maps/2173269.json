@@ -1,0 +1,24 @@
+{
+  "category": "ln",
+  "counts": {
+    "bpm": 22,
+    "sv": 20,
+    "notes": {
+      "total": 814,
+      "rice": 14,
+      "ln": 800,
+      "single": 574,
+      "jump": 84,
+      "hand": 24,
+      "quad": 0
+    }
+  },
+  "title": "Eleven Eight",
+  "artist": "Levi Niha",
+  "mapper": "HowToPlayLN",
+  "difficulty": "Irrational 1.1x (242bpm) OD7",
+  "beatmapId": "2173269",
+  "beatmapSetId": "1039719",
+  "hp": "8",
+  "od": "7"
+}

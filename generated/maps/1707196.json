@@ -1,0 +1,24 @@
+{
+  "category": "hybrid",
+  "counts": {
+    "bpm": 1,
+    "sv": 4,
+    "notes": {
+      "total": 1175,
+      "rice": 895,
+      "ln": 280,
+      "single": 546,
+      "jump": 215,
+      "hand": 65,
+      "quad": 1
+    }
+  },
+  "title": "Left Behind",
+  "artist": "VINXIS",
+  "mapper": "Leniane",
+  "difficulty": "In The Past",
+  "beatmapId": "1707196",
+  "beatmapSetId": "814020",
+  "hp": "8",
+  "od": "8.2"
+}

@@ -1,0 +1,24 @@
+{
+  "category": "sv",
+  "counts": {
+    "bpm": 1,
+    "sv": 883,
+    "notes": {
+      "total": 847,
+      "rice": 802,
+      "ln": 45,
+      "single": 694,
+      "jump": 69,
+      "hand": 5,
+      "quad": 0
+    }
+  },
+  "title": "Fjarlaegur (Cypix Remix)",
+  "artist": "Oskar Schuster",
+  "mapper": "TheToaphster",
+  "difficulty": "Isolation",
+  "beatmapId": "1727090",
+  "beatmapSetId": "824249",
+  "hp": "7",
+  "od": "7"
+}

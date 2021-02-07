@@ -1,0 +1,24 @@
+{
+  "category": "ln",
+  "counts": {
+    "bpm": 1,
+    "sv": 2,
+    "notes": {
+      "total": 1370,
+      "rice": 443,
+      "ln": 927,
+      "single": 480,
+      "jump": 442,
+      "hand": 2,
+      "quad": 0
+    }
+  },
+  "title": "The Queen",
+  "artist": "M2U",
+  "mapper": "RuleBlazing",
+  "difficulty": "edit for my queen",
+  "beatmapId": "2818665",
+  "beatmapSetId": "1193918",
+  "hp": "8",
+  "od": "7"
+}

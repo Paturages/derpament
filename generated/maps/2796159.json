@@ -1,0 +1,24 @@
+{
+  "category": "rice",
+  "counts": {
+    "bpm": 1,
+    "sv": 0,
+    "notes": {
+      "total": 1274,
+      "rice": 1267,
+      "ln": 7,
+      "single": 230,
+      "jump": 282,
+      "hand": 160,
+      "quad": 0
+    }
+  },
+  "title": "Murderswarm",
+  "artist": "DM DOKURO",
+  "mapper": "riktoi",
+  "difficulty": "edit",
+  "beatmapId": "2796159",
+  "beatmapSetId": "1031388",
+  "hp": "8",
+  "od": "8.5"
+}

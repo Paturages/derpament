@@ -1,0 +1,24 @@
+{
+  "category": "rice",
+  "counts": {
+    "bpm": 1,
+    "sv": 0,
+    "notes": {
+      "total": 1288,
+      "rice": 1288,
+      "ln": 0,
+      "single": 760,
+      "jump": 264,
+      "hand": 0,
+      "quad": 0
+    }
+  },
+  "title": "Electra Vulva",
+  "artist": "Blitz Lunar",
+  "mapper": "riktoi",
+  "difficulty": "edit",
+  "beatmapId": "2796156",
+  "beatmapSetId": "842914",
+  "hp": "8",
+  "od": "8"
+}

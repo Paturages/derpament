@@ -9,6 +9,10 @@
     {
       "id": "2.groups",
       "name": "Group stage"
+    },
+    {
+      "id": "3.ro16",
+      "name": "Round of 16"
     }
   ]
 }
