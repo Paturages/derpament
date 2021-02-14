@@ -1,0 +1,24 @@
+{
+  "category": "hybrid",
+  "counts": {
+    "bpm": 6,
+    "sv": 4,
+    "notes": {
+      "total": 2198,
+      "rice": 1785,
+      "ln": 413,
+      "single": 762,
+      "jump": 454,
+      "hand": 176,
+      "quad": 0
+    }
+  },
+  "title": "Tenohira de Odoru",
+  "artist": "Soko ni Naru",
+  "mapper": "Lacrima",
+  "difficulty": "Insane",
+  "beatmapId": "2813702",
+  "beatmapSetId": "1015107",
+  "hp": "8",
+  "od": "7.5"
+}

@@ -1,0 +1,24 @@
+{
+  "category": "rice",
+  "counts": {
+    "bpm": 1,
+    "sv": 0,
+    "notes": {
+      "total": 2061,
+      "rice": 2046,
+      "ln": 15,
+      "single": 1276,
+      "jump": 382,
+      "hand": 7,
+      "quad": 0
+    }
+  },
+  "title": "In Torture (feat. Eclise)",
+  "artist": "Jan Amit",
+  "mapper": "Logan636",
+  "difficulty": "Elekton's sinking (edit)",
+  "beatmapId": "2830743",
+  "beatmapSetId": "1368981",
+  "hp": "8",
+  "od": "8"
+}

@@ -1,0 +1,24 @@
+{
+  "category": "tiebreaker",
+  "counts": {
+    "bpm": 1,
+    "sv": 314,
+    "notes": {
+      "total": 3968,
+      "rice": 3150,
+      "ln": 818,
+      "single": 2215,
+      "jump": 667,
+      "hand": 129,
+      "quad": 8
+    }
+  },
+  "title": "Exit This Earth's Atomosphere (Camellia's 'PLANETARY//200STEP' Remix)",
+  "artist": "Camellia",
+  "mapper": "-MysticEyes",
+  "difficulty": "-Mystic vs. Leni's Thermosphere",
+  "beatmapId": "1801089",
+  "beatmapSetId": "860846",
+  "hp": "8",
+  "od": "8"
+}

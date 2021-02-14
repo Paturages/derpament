@@ -1,0 +1,24 @@
+{
+  "category": "rice",
+  "counts": {
+    "bpm": 1,
+    "sv": 0,
+    "notes": {
+      "total": 1674,
+      "rice": 1674,
+      "ln": 0,
+      "single": 1504,
+      "jump": 73,
+      "hand": 8,
+      "quad": 0
+    }
+  },
+  "title": "Disconnected Trance",
+  "artist": "DJ Banzai",
+  "mapper": "Logan636",
+  "difficulty": "GammaBlaster's Hard 0.85x",
+  "beatmapId": "2830734",
+  "beatmapSetId": "1368974",
+  "hp": "8",
+  "od": "8"
+}

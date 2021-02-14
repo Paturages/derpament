@@ -1,0 +1,24 @@
+{
+  "category": "sv",
+  "counts": {
+    "bpm": 146,
+    "sv": 2111,
+    "notes": {
+      "total": 775,
+      "rice": 775,
+      "ln": 0,
+      "single": 302,
+      "jump": 219,
+      "hand": 5,
+      "quad": 5
+    }
+  },
+  "title": "When Acting As A Wave",
+  "artist": "The Dillinger Escape Plan",
+  "mapper": "Pope Gadget",
+  "difficulty": "Panasonic",
+  "beatmapId": "2060892",
+  "beatmapSetId": "984989",
+  "hp": "8",
+  "od": "8.5"
+}

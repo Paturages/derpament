@@ -1,0 +1,24 @@
+{
+  "category": "hybrid",
+  "counts": {
+    "bpm": 1,
+    "sv": 0,
+    "notes": {
+      "total": 1305,
+      "rice": 803,
+      "ln": 502,
+      "single": 640,
+      "jump": 257,
+      "hand": 49,
+      "quad": 1
+    }
+  },
+  "title": "Rocky Buinne",
+  "artist": "BilliumMoto",
+  "mapper": "DannyPX",
+  "difficulty": "Edit",
+  "beatmapId": "2830226",
+  "beatmapSetId": "1216913",
+  "hp": "8",
+  "od": "7"
+}

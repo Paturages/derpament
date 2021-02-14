@@ -1,0 +1,24 @@
+{
+  "category": "rice",
+  "counts": {
+    "bpm": 1,
+    "sv": 0,
+    "notes": {
+      "total": 2297,
+      "rice": 2284,
+      "ln": 13,
+      "single": 474,
+      "jump": 343,
+      "hand": 379,
+      "quad": 0
+    }
+  },
+  "title": "Cyberia lyr3",
+  "artist": "Sewerslvt",
+  "mapper": "DannyPX",
+  "difficulty": "Scalpels [1.1x Rate]",
+  "beatmapId": "2675341",
+  "beatmapSetId": "1225254",
+  "hp": "8",
+  "od": "9"
+}

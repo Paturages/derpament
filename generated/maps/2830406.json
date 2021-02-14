@@ -1,0 +1,24 @@
+{
+  "category": "sv",
+  "counts": {
+    "bpm": 1,
+    "sv": 823,
+    "notes": {
+      "total": 900,
+      "rice": 897,
+      "ln": 3,
+      "single": 571,
+      "jump": 163,
+      "hand": 1,
+      "quad": 0
+    }
+  },
+  "title": "Data Loss",
+  "artist": "JKuch & Adam Tell",
+  "mapper": "Percyqaz",
+  "difficulty": "edit",
+  "beatmapId": "2830406",
+  "beatmapSetId": "1088360",
+  "hp": "9.8",
+  "od": "8"
+}

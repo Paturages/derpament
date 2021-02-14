@@ -1,0 +1,24 @@
+{
+  "category": "ln",
+  "counts": {
+    "bpm": 1,
+    "sv": 0,
+    "notes": {
+      "total": 1338,
+      "rice": 524,
+      "ln": 814,
+      "single": 660,
+      "jump": 198,
+      "hand": 94,
+      "quad": 0
+    }
+  },
+  "title": "Aventyr",
+  "artist": "Grand Thaw",
+  "mapper": "cheewee10",
+  "difficulty": "edit",
+  "beatmapId": "2830356",
+  "beatmapSetId": "1184590",
+  "hp": "8.5",
+  "od": "7"
+}

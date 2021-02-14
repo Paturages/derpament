@@ -1,0 +1,24 @@
+{
+  "category": "rice",
+  "counts": {
+    "bpm": 1,
+    "sv": 0,
+    "notes": {
+      "total": 1321,
+      "rice": 1321,
+      "ln": 0,
+      "single": 615,
+      "jump": 347,
+      "hand": 4,
+      "quad": 0
+    }
+  },
+  "title": "Sunk",
+  "artist": "Bethas",
+  "mapper": "Logan636",
+  "difficulty": "Cokiiplay's 1.05x (edit)",
+  "beatmapId": "2831875",
+  "beatmapSetId": "1369527",
+  "hp": "8",
+  "od": "8"
+}

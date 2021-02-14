@@ -1,0 +1,24 @@
+{
+  "category": "rice",
+  "counts": {
+    "bpm": 1,
+    "sv": 0,
+    "notes": {
+      "total": 2768,
+      "rice": 2684,
+      "ln": 84,
+      "single": 995,
+      "jump": 853,
+      "hand": 21,
+      "quad": 1
+    }
+  },
+  "title": "Akzeriyyuth",
+  "artist": "Feryquitous",
+  "mapper": "Elekton",
+  "difficulty": "cruelty",
+  "beatmapId": "1417369",
+  "beatmapSetId": "670112",
+  "hp": "8",
+  "od": "8"
+}
