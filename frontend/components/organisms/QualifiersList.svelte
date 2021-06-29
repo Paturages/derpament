@@ -27,10 +27,10 @@
       }
       if (!rankedPlayersPerMap[map.beatmapId].includes(score.userId)) {
         rankedPlayersPerMap[map.beatmapId].push(score.userId);
+        playerScores[score.userId].totalScore += score.score;
       }
       average += score.score;
       playerScores[score.userId].scores.push(score);
-      playerScores[score.userId].totalScore += score.score;
     });
     nbScores += map.scores.length;
   });
@@ -56,7 +56,7 @@
   const rankedPlayers = Object.values(playerScores)
     .sort((a, b) => {
       if (a.totalRank == b.totalRank) {
-        return a.totalScore < b.totalScore ? -1 : 1;
+        return a.totalScore < b.totalScore ? 1 : -1;
       };
       return a.totalRank < b.totalRank ? -1 : 1;
     });

@@ -1,0 +1,24 @@
+{
+  "category": "rice",
+  "counts": {
+    "bpm": 5,
+    "sv": 4,
+    "notes": {
+      "total": 1013,
+      "rice": 1010,
+      "ln": 3,
+      "single": 508,
+      "jump": 227,
+      "hand": 17,
+      "quad": 0
+    }
+  },
+  "title": "LEMON & SALT",
+  "artist": "Hideyuki Ono x 96 x Yoshihiko Koezuka",
+  "mapper": "AutotelicBrown",
+  "difficulty": "salty lmao",
+  "beatmapId": "1960306",
+  "beatmapSetId": "938439",
+  "hp": "8",
+  "od": "7.5"
+}

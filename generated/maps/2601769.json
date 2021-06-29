@@ -1,0 +1,24 @@
+{
+  "category": "hybrid",
+  "counts": {
+    "bpm": 1,
+    "sv": 0,
+    "notes": {
+      "total": 1235,
+      "rice": 977,
+      "ln": 258,
+      "single": 720,
+      "jump": 220,
+      "hand": 25,
+      "quad": 0
+    }
+  },
+  "title": "Avalanche",
+  "artist": "Memme",
+  "mapper": "Davvy",
+  "difficulty": "Advanced",
+  "beatmapId": "2601769",
+  "beatmapSetId": "1251764",
+  "hp": "8",
+  "od": "7.9"
+}

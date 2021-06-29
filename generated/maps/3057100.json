@@ -1,0 +1,24 @@
+{
+  "category": "tech",
+  "counts": {
+    "bpm": 257,
+    "sv": 257,
+    "notes": {
+      "total": 2837,
+      "rice": 2669,
+      "ln": 168,
+      "single": 1904,
+      "jump": 445,
+      "hand": 13,
+      "quad": 1
+    }
+  },
+  "title": "MFT4K2021 Qualifiers Mappack",
+  "artist": "Various Artists",
+  "mapper": "osufrlive",
+  "difficulty": "Jacques Brel - La Valse a Mille Temps (PouletFurtif) [Stage 3 : BelgianShitFest]",
+  "beatmapId": "3057100",
+  "beatmapSetId": "1491410",
+  "hp": "1.9",
+  "od": "5.9"
+}

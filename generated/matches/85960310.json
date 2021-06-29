@@ -1,0 +1,190 @@
+{
+  "match": {
+    "match_id": "85960310",
+    "name": "MFT4K2021 Qualifiers: Lobby 13",
+    "start_time": "2021-06-20 19:25:31",
+    "end_time": "2021-06-20 19:59:47"
+  },
+  "games": [
+    {
+      "game_id": "439672830",
+      "start_time": "2021-06-20 19:38:15",
+      "end_time": "2021-06-20 19:39:34",
+      "beatmap_id": "3057099",
+      "play_mode": "3",
+      "match_type": "0",
+      "scoring_type": "3",
+      "team_type": "0",
+      "mods": "0",
+      "scores": [
+        {
+          "slot": "0",
+          "team": "0",
+          "user_id": "8655604",
+          "score": "603710",
+          "maxcombo": "131",
+          "rank": "0",
+          "count50": "19",
+          "count100": "11",
+          "count300": "159",
+          "countmiss": "27",
+          "countgeki": "296",
+          "countkatu": "35",
+          "perfect": "0",
+          "pass": "1",
+          "enabled_mods": "1"
+        }
+      ]
+    },
+    {
+      "game_id": "439673505",
+      "start_time": "2021-06-20 19:40:46",
+      "end_time": "2021-06-20 19:42:34",
+      "beatmap_id": "3057098",
+      "play_mode": "3",
+      "match_type": "0",
+      "scoring_type": "3",
+      "team_type": "0",
+      "mods": "0",
+      "scores": [
+        {
+          "slot": "0",
+          "team": "0",
+          "user_id": "8655604",
+          "score": "946879",
+          "maxcombo": "1024",
+          "rank": "0",
+          "count50": "1",
+          "count100": "1",
+          "count300": "422",
+          "countmiss": "5",
+          "countgeki": "1408",
+          "countkatu": "28",
+          "perfect": "0",
+          "pass": "1",
+          "enabled_mods": "1"
+        }
+      ]
+    },
+    {
+      "game_id": "439674367",
+      "start_time": "2021-06-20 19:43:52",
+      "end_time": "2021-06-20 19:47:47",
+      "beatmap_id": "3057100",
+      "play_mode": "3",
+      "match_type": "0",
+      "scoring_type": "3",
+      "team_type": "0",
+      "mods": "0",
+      "scores": [
+        {
+          "slot": "0",
+          "team": "0",
+          "user_id": "8655604",
+          "score": "960379",
+          "maxcombo": "1788",
+          "rank": "0",
+          "count50": "1",
+          "count100": "0",
+          "count300": "526",
+          "countmiss": "6",
+          "countgeki": "2454",
+          "countkatu": "18",
+          "perfect": "0",
+          "pass": "1",
+          "enabled_mods": "1"
+        }
+      ]
+    },
+    {
+      "game_id": "439675662",
+      "start_time": "2021-06-20 19:48:35",
+      "end_time": "2021-06-20 19:53:33",
+      "beatmap_id": "3057097",
+      "play_mode": "3",
+      "match_type": "0",
+      "scoring_type": "3",
+      "team_type": "0",
+      "mods": "0",
+      "scores": [
+        {
+          "slot": "0",
+          "team": "0",
+          "user_id": "8655604",
+          "score": "970664",
+          "maxcombo": "1944",
+          "rank": "0",
+          "count50": "0",
+          "count100": "4",
+          "count300": "628",
+          "countmiss": "5",
+          "countgeki": "3319",
+          "countkatu": "18",
+          "perfect": "0",
+          "pass": "1",
+          "enabled_mods": "1"
+        }
+      ]
+    },
+    {
+      "game_id": "439677429",
+      "start_time": "2021-06-20 19:55:06",
+      "end_time": "2021-06-20 19:56:27",
+      "beatmap_id": "3057099",
+      "play_mode": "3",
+      "match_type": "0",
+      "scoring_type": "3",
+      "team_type": "0",
+      "mods": "0",
+      "scores": [
+        {
+          "slot": "0",
+          "team": "0",
+          "user_id": "8655604",
+          "score": "651283",
+          "maxcombo": "131",
+          "rank": "0",
+          "count50": "14",
+          "count100": "18",
+          "count300": "118",
+          "countmiss": "16",
+          "countgeki": "342",
+          "countkatu": "39",
+          "perfect": "0",
+          "pass": "1",
+          "enabled_mods": "1"
+        }
+      ]
+    },
+    {
+      "game_id": "439677999",
+      "start_time": "2021-06-20 19:57:07",
+      "end_time": "2021-06-20 19:58:57",
+      "beatmap_id": "3057098",
+      "play_mode": "3",
+      "match_type": "0",
+      "scoring_type": "3",
+      "team_type": "0",
+      "mods": "0",
+      "scores": [
+        {
+          "slot": "0",
+          "team": "0",
+          "user_id": "8655604",
+          "score": "978675",
+          "maxcombo": "1810",
+          "rank": "0",
+          "count50": "0",
+          "count100": "0",
+          "count300": "395",
+          "countmiss": "1",
+          "countgeki": "1460",
+          "countkatu": "9",
+          "perfect": "0",
+          "pass": "1",
+          "enabled_mods": "1"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "category": "speed",
+  "counts": {
+    "bpm": 1,
+    "sv": 4,
+    "notes": {
+      "total": 2339,
+      "rice": 2111,
+      "ln": 228,
+      "single": 868,
+      "jump": 584,
+      "hand": 101,
+      "quad": 0
+    }
+  },
+  "title": "Katayoku No Tori",
+  "artist": "Hommarju feat. mamiko",
+  "mapper": "Awang411",
+  "difficulty": "5th Twilight",
+  "beatmapId": "557226",
+  "beatmapSetId": "237512",
+  "hp": "7",
+  "od": "7"
+}

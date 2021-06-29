@@ -1,0 +1,24 @@
+{
+  "category": "hybrid",
+  "counts": {
+    "bpm": 3,
+    "sv": 41,
+    "notes": {
+      "total": 851,
+      "rice": 719,
+      "ln": 132,
+      "single": 338,
+      "jump": 225,
+      "hand": 21,
+      "quad": 0
+    }
+  },
+  "title": "Mentanpindoradora",
+  "artist": "enzo + O2i3",
+  "mapper": "PiraTom",
+  "difficulty": "ORANGE",
+  "beatmapId": "1287833",
+  "beatmapSetId": "609865",
+  "hp": "7",
+  "od": "7"
+}

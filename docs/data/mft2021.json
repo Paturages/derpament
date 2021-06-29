@@ -1,0 +1,566 @@
+{
+  "name": "Mania 4K French Tournament 2021",
+  "stages": [
+    {
+      "id": "1.qualifiers",
+      "name": "Qualifiers",
+      "qualifiers": true,
+      "mapCount": 4
+    },
+    { "id": "2.week1", "name": "Week 1: RO24 + RO16", "mapCount": 13 }
+  ],
+  "players": {
+    "1375479": {
+      "id": 1375479,
+      "name": "Paturages",
+      "avatar": "https://a.ppy.sh/1375479?1610110601.png",
+      "country": "France",
+      "pp": 6323.67,
+      "countryRank": 103
+    },
+    "2206208": {
+      "id": 2206208,
+      "name": "HeyImDoc",
+      "avatar": "https://osu.ppy.sh/images/layout/avatar-guest.png",
+      "country": "United States",
+      "pp": 0,
+      "countryRank": null
+    },
+    "2284328": {
+      "id": 2284328,
+      "name": "Elementaires",
+      "avatar": "https://a.ppy.sh/2284328?1568812598.png",
+      "country": "France",
+      "pp": 11182.3,
+      "countryRank": 2
+    },
+    "2735466": {
+      "id": 2735466,
+      "name": "Exilfaker",
+      "avatar": "https://a.ppy.sh/2735466?1552218780.jpeg",
+      "country": "France",
+      "pp": 5921.65,
+      "countryRank": 124
+    },
+    "2831793": {
+      "id": 2831793,
+      "name": "filsdelama",
+      "avatar": "https://a.ppy.sh/2831793?1621891877.png",
+      "country": "France",
+      "pp": 7245.89,
+      "countryRank": 57
+    },
+    "3317042": {
+      "id": 3317042,
+      "name": "Chernobog",
+      "avatar": "https://a.ppy.sh/3317042?1583574235.jpeg",
+      "country": "France",
+      "pp": 5626.37,
+      "countryRank": 151
+    },
+    "3909293": {
+      "id": 3909293,
+      "name": "DemonWaves",
+      "avatar": "https://a.ppy.sh/3909293?1555203556.jpeg",
+      "country": "France",
+      "pp": 8480.48,
+      "countryRank": 22
+    },
+    "4056690": {
+      "id": 4056690,
+      "name": "Todestrieb",
+      "avatar": "https://a.ppy.sh/4056690?1585491405.jpeg",
+      "country": "France",
+      "pp": 7681.1,
+      "countryRank": 39
+    },
+    "4070217": {
+      "id": 4070217,
+      "name": "Cryl",
+      "avatar": "https://a.ppy.sh/4070217?1435575838.png",
+      "country": "France",
+      "pp": 6476.03,
+      "countryRank": 95
+    },
+    "4089441": {
+      "id": 4089441,
+      "name": "Kyzoid",
+      "avatar": "https://a.ppy.sh/4089441?1606066703.jpeg",
+      "country": "France",
+      "pp": 8192.39,
+      "countryRank": 26
+    },
+    "4107782": {
+      "id": 4107782,
+      "name": "MiP486",
+      "avatar": "https://a.ppy.sh/4107782?1616349287.png",
+      "country": "France",
+      "pp": 5195.87,
+      "countryRank": 203
+    },
+    "4426908": {
+      "id": 4426908,
+      "name": "AiNA",
+      "avatar": "https://a.ppy.sh/4426908?1614644116.png",
+      "country": "France",
+      "pp": 3631.13,
+      "countryRank": 578
+    },
+    "4579132": {
+      "id": 4579132,
+      "name": "Adri",
+      "avatar": "https://a.ppy.sh/4579132?1594553960.png",
+      "country": "France",
+      "pp": 7964.96,
+      "countryRank": 30
+    },
+    "4989818": {
+      "id": 4989818,
+      "name": "BurningPower",
+      "avatar": "https://a.ppy.sh/4989818?1535580723.jpeg",
+      "country": "France",
+      "pp": 7653.33,
+      "countryRank": 41
+    },
+    "5714473": {
+      "id": 5714473,
+      "name": "Teud",
+      "avatar": "https://a.ppy.sh/5714473?1622577113.gif",
+      "country": "France",
+      "pp": 5382.43,
+      "countryRank": 177
+    },
+    "5724831": {
+      "id": 5724831,
+      "name": "BlackyDay",
+      "avatar": "https://a.ppy.sh/5724831?1594465869.jpeg",
+      "country": "France",
+      "pp": 6660.62,
+      "countryRank": 84
+    },
+    "6183047": {
+      "id": 6183047,
+      "name": "pimoux",
+      "avatar": "https://a.ppy.sh/6183047?1569096329.png",
+      "country": "France",
+      "pp": 10654.1,
+      "countryRank": 3
+    },
+    "6333898": {
+      "id": 6333898,
+      "name": "Paty noir",
+      "avatar": "https://a.ppy.sh/6333898?1449264942.jpg",
+      "country": "France",
+      "pp": 5421.38,
+      "countryRank": 172
+    },
+    "7294830": {
+      "id": 7294830,
+      "name": "DragonSonic",
+      "avatar": "https://a.ppy.sh/7294830?1611416624.jpeg",
+      "country": "France",
+      "pp": 8635.07,
+      "countryRank": 21
+    },
+    "7306522": {
+      "id": 7306522,
+      "name": "PatouZ",
+      "avatar": "https://a.ppy.sh/7306522?1617414891.png",
+      "country": "France",
+      "pp": 9152.37,
+      "countryRank": 10
+    },
+    "8184715": {
+      "id": 8184715,
+      "name": "Syako",
+      "avatar": "https://a.ppy.sh/8184715?1621842405.jpeg",
+      "country": "Canada",
+      "pp": 4484.49,
+      "countryRank": 391
+    },
+    "8479894": {
+      "id": 8479894,
+      "name": "MarsJackson",
+      "avatar": "https://a.ppy.sh/8479894?1606604935.jpeg",
+      "country": "France",
+      "pp": 8313.51,
+      "countryRank": 25
+    },
+    "8624433": {
+      "id": 8624433,
+      "name": "ZayyKen",
+      "avatar": "https://a.ppy.sh/8624433?1623435407.jpeg",
+      "country": "France",
+      "pp": 7715.96,
+      "countryRank": 37
+    },
+    "8653877": {
+      "id": 8653877,
+      "name": "EndSsiy",
+      "avatar": "https://a.ppy.sh/8653877?1514666146.jpeg",
+      "country": "France",
+      "pp": 2035.35,
+      "countryRank": 1657
+    },
+    "8655604": {
+      "id": 8655604,
+      "name": "Tupidix",
+      "avatar": "https://a.ppy.sh/8655604?1592585341.png",
+      "country": "Switzerland",
+      "pp": 9087.05,
+      "countryRank": 3
+    },
+    "8756421": {
+      "id": 8756421,
+      "name": "quentin5110054",
+      "avatar": "https://a.ppy.sh/8756421?1556487299.jpeg",
+      "country": "France",
+      "pp": 8984.48,
+      "countryRank": 14
+    },
+    "8786090": {
+      "id": 8786090,
+      "name": "Mendred",
+      "avatar": "https://a.ppy.sh/8786090?1609532287.png",
+      "country": "France",
+      "pp": 6078.39,
+      "countryRank": 116
+    },
+    "8916324": {
+      "id": 8916324,
+      "name": "-KoreaCez",
+      "avatar": "https://a.ppy.sh/8916324?1621162241.jpeg",
+      "country": "France",
+      "pp": 10562.7,
+      "countryRank": 4
+    },
+    "8933490": {
+      "id": 8933490,
+      "name": "korosama",
+      "avatar": "https://a.ppy.sh/8933490?1621286340.jpeg",
+      "country": "France",
+      "pp": 4980.82,
+      "countryRank": 235
+    },
+    "9026563": {
+      "id": 9026563,
+      "name": "danegger50",
+      "avatar": "https://a.ppy.sh/9026563?1619993678.jpeg",
+      "country": "Switzerland",
+      "pp": 4935.84,
+      "countryRank": 15
+    },
+    "9066390": {
+      "id": 9066390,
+      "name": "Satsukel",
+      "avatar": "https://a.ppy.sh/9066390?1613479426.jpeg",
+      "country": "France",
+      "pp": 7061.78,
+      "countryRank": 67
+    },
+    "9163590": {
+      "id": 9163590,
+      "name": "Mattis4200",
+      "avatar": "https://a.ppy.sh/9163590?1537627297.jpeg",
+      "country": "France",
+      "pp": 5672.8,
+      "countryRank": 143
+    },
+    "9207126": {
+      "id": 9207126,
+      "name": "NebuZard",
+      "avatar": "https://a.ppy.sh/9207126?1617572055.jpeg",
+      "country": "France",
+      "pp": 8191.4,
+      "countryRank": 27
+    },
+    "9274711": {
+      "id": 9274711,
+      "name": "Magicraft",
+      "avatar": "https://a.ppy.sh/9274711?1597516131.jpeg",
+      "country": "France",
+      "pp": 8740.03,
+      "countryRank": 18
+    },
+    "9388217": {
+      "id": 9388217,
+      "name": "Ping36",
+      "avatar": "https://a.ppy.sh/9388217?1596394371.jpeg",
+      "country": "France",
+      "pp": 8112.02,
+      "countryRank": 28
+    },
+    "10015908": {
+      "id": 10015908,
+      "name": "Auraah",
+      "avatar": "https://a.ppy.sh/10015908?1623434179.jpeg",
+      "country": "France",
+      "pp": 9752.01,
+      "countryRank": 6
+    },
+    "10044211": {
+      "id": 10044211,
+      "name": "[Rue] Creep",
+      "avatar": "https://a.ppy.sh/10044211?1616003792.jpeg",
+      "country": "France",
+      "pp": 6819.92,
+      "countryRank": 74
+    },
+    "10247148": {
+      "id": 10247148,
+      "name": "Voxav",
+      "avatar": "https://a.ppy.sh/10247148?1619723460.png",
+      "country": "France",
+      "pp": 5601.58,
+      "countryRank": 154
+    },
+    "10898621": {
+      "id": 10898621,
+      "name": "sinyst",
+      "avatar": "https://a.ppy.sh/10898621?1622747488.jpeg",
+      "country": "Switzerland",
+      "pp": 6013.09,
+      "countryRank": 12
+    },
+    "11158588": {
+      "id": 11158588,
+      "name": "nazerty68",
+      "avatar": "https://a.ppy.sh/11158588?1622321074.jpeg",
+      "country": "France",
+      "pp": 5598.22,
+      "countryRank": 155
+    },
+    "11345268": {
+      "id": 11345268,
+      "name": "Lion80fr",
+      "avatar": "https://a.ppy.sh/11345268?1606598435.jpeg",
+      "country": "France",
+      "pp": 3564.3,
+      "countryRank": 606
+    },
+    "11370189": {
+      "id": 11370189,
+      "name": "vlucas2",
+      "avatar": "https://a.ppy.sh/11370189?1617283938.jpeg",
+      "country": "France",
+      "pp": 7902.74,
+      "countryRank": 32
+    },
+    "11818585": {
+      "id": 11818585,
+      "name": "Baguette2Pain",
+      "avatar": "https://a.ppy.sh/11818585?1621618979.jpeg",
+      "country": "France",
+      "pp": 5198.47,
+      "countryRank": 201
+    },
+    "12108232": {
+      "id": 12108232,
+      "name": "Exanc",
+      "avatar": "https://a.ppy.sh/12108232?1527688680.jpeg",
+      "country": "France",
+      "pp": 2486.34,
+      "countryRank": 1219
+    },
+    "12562897": {
+      "id": 12562897,
+      "name": "La poire",
+      "avatar": "https://a.ppy.sh/12562897?1622577675.gif",
+      "country": "France",
+      "pp": 6522.55,
+      "countryRank": 91
+    },
+    "12725421": {
+      "id": 12725421,
+      "name": "flyerbram002",
+      "avatar": "https://a.ppy.sh/12725421?1618423525.jpeg",
+      "country": "Belgium",
+      "pp": 7460.75,
+      "countryRank": 11
+    },
+    "13431947": {
+      "id": 13431947,
+      "name": "jeremkyurem",
+      "avatar": "https://a.ppy.sh/13431947?1610010135.png",
+      "country": "France",
+      "pp": 7296.71,
+      "countryRank": 54
+    },
+    "13495170": {
+      "id": 13495170,
+      "name": "CakenoobFanBoy",
+      "avatar": "https://a.ppy.sh/13495170?1623326399.jpeg",
+      "country": "Belgium",
+      "pp": 6286.41,
+      "countryRank": 21
+    },
+    "13540229": {
+      "id": 13540229,
+      "name": "ImTooFastForYou",
+      "avatar": "https://a.ppy.sh/13540229?1580059619.jpeg",
+      "country": "France",
+      "pp": 5927.53,
+      "countryRank": 122
+    },
+    "13661408": {
+      "id": 13661408,
+      "name": "Ventilo le vrai",
+      "avatar": "https://a.ppy.sh/13661408?1565034722.jpeg",
+      "country": "France",
+      "pp": 5022.99,
+      "countryRank": 227
+    },
+    "13942150": {
+      "id": 13942150,
+      "name": "CrashSmash",
+      "avatar": "https://a.ppy.sh/13942150?1573317215.jpeg",
+      "country": "Switzerland",
+      "pp": 7724.12,
+      "countryRank": 5
+    },
+    "13984214": {
+      "id": 13984214,
+      "name": "TheAmazing976_",
+      "avatar": "https://a.ppy.sh/13984214?1619968339.png",
+      "country": "France",
+      "pp": 5148.95,
+      "countryRank": 210
+    },
+    "14015337": {
+      "id": 14015337,
+      "name": "Keskidi",
+      "avatar": "https://a.ppy.sh/14015337?1620554946.jpeg",
+      "country": "France",
+      "pp": 7670.86,
+      "countryRank": 40
+    },
+    "14062518": {
+      "id": 14062518,
+      "name": "The Snobanana",
+      "avatar": "https://a.ppy.sh/14062518?1560857620.jpeg",
+      "country": "France",
+      "pp": 5823.44,
+      "countryRank": 128
+    },
+    "14234375": {
+      "id": 14234375,
+      "name": "Whophanatic",
+      "avatar": "https://a.ppy.sh/14234375?1617761470.jpeg",
+      "country": "France",
+      "pp": 1158.2,
+      "countryRank": 3385
+    },
+    "14269686": {
+      "id": 14269686,
+      "name": "Koro52",
+      "avatar": "https://osu.ppy.sh/images/layout/avatar-guest.png",
+      "country": "France",
+      "pp": 7744.43,
+      "countryRank": 35
+    },
+    "14399079": {
+      "id": 14399079,
+      "name": "[Feli]",
+      "avatar": "https://a.ppy.sh/14399079?1623701102.jpeg",
+      "country": "France",
+      "pp": 7060.89,
+      "countryRank": 68
+    },
+    "14535598": {
+      "id": 14535598,
+      "name": "Mokett",
+      "avatar": "https://a.ppy.sh/14535598?1586976755.jpeg",
+      "country": "France",
+      "pp": 5294.12,
+      "countryRank": 187
+    },
+    "14797411": {
+      "id": 14797411,
+      "name": "[RUE]Kewaii",
+      "avatar": "https://a.ppy.sh/14797411?1581538596.png",
+      "country": "France",
+      "pp": 8346.1,
+      "countryRank": 24
+    },
+    "15126172": {
+      "id": 15126172,
+      "name": "Trifano",
+      "avatar": "https://a.ppy.sh/15126172?1569702846.png",
+      "country": "France",
+      "pp": 1235.26,
+      "countryRank": 3127
+    },
+    "15452628": {
+      "id": 15452628,
+      "name": "Celeste",
+      "avatar": "https://a.ppy.sh/15452628?1611612676.jpeg",
+      "country": "France",
+      "pp": 6489.09,
+      "countryRank": 92
+    },
+    "15752211": {
+      "id": 15752211,
+      "name": "[RUE]Madnace",
+      "avatar": "https://a.ppy.sh/15752211?1621474566.jpeg",
+      "country": "France",
+      "pp": 7569.31,
+      "countryRank": 44
+    },
+    "16003019": {
+      "id": 16003019,
+      "name": "altroz43",
+      "avatar": "https://a.ppy.sh/16003019?1622277913.jpeg",
+      "country": "France",
+      "pp": 5924.02,
+      "countryRank": 123
+    },
+    "16487992": {
+      "id": 16487992,
+      "name": "ssiizz_",
+      "avatar": "https://a.ppy.sh/16487992?1608733843.jpeg",
+      "country": "France",
+      "pp": 7210.86,
+      "countryRank": 60
+    },
+    "16892459": {
+      "id": 16892459,
+      "name": "Babibelbleu",
+      "avatar": "https://a.ppy.sh/16892459?1620554849.jpeg",
+      "country": "France",
+      "pp": 7404.26,
+      "countryRank": 51
+    },
+    "17036270": {
+      "id": 17036270,
+      "name": "[RUE]AmariaLove",
+      "avatar": "https://a.ppy.sh/17036270?1617970409.jpeg",
+      "country": "Canada",
+      "pp": 6926.79,
+      "countryRank": 92
+    },
+    "17538478": {
+      "id": 17538478,
+      "name": "[RUE]Chat_Pitre",
+      "avatar": "https://a.ppy.sh/17538478?1623092162.jpeg",
+      "country": "France",
+      "pp": 4253.01,
+      "countryRank": 391
+    },
+    "18490693": {
+      "id": 18490693,
+      "name": "Eliblue",
+      "avatar": "https://a.ppy.sh/18490693?1622917005.jpeg",
+      "country": "France",
+      "pp": 1364.09,
+      "countryRank": 2798
+    },
+    "19372379": {
+      "id": 19372379,
+      "name": "Azaleee",
+      "avatar": "https://a.ppy.sh/19372379?1619270111.jpeg",
+      "country": "France",
+      "pp": 5236.97,
+      "countryRank": 194
+    }
+  }
+}

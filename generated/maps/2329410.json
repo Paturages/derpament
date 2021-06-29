@@ -1,0 +1,24 @@
+{
+  "category": "tech",
+  "counts": {
+    "bpm": 3,
+    "sv": 2,
+    "notes": {
+      "total": 1392,
+      "rice": 1391,
+      "ln": 1,
+      "single": 612,
+      "jump": 342,
+      "hand": 32,
+      "quad": 0
+    }
+  },
+  "title": "Pangaea",
+  "artist": "sasakure.UK",
+  "mapper": "Kamikaze",
+  "difficulty": "Sitek's 4K Hyper",
+  "beatmapId": "2329410",
+  "beatmapSetId": "685100",
+  "hp": "8",
+  "od": "8"
+}

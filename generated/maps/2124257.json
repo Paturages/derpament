@@ -1,0 +1,24 @@
+{
+  "category": "rice",
+  "counts": {
+    "bpm": 1,
+    "sv": 0,
+    "notes": {
+      "total": 1191,
+      "rice": 1179,
+      "ln": 12,
+      "single": 14,
+      "jump": 248,
+      "hand": 223,
+      "quad": 3
+    }
+  },
+  "title": "Comment te dire adieu",
+  "artist": "Orange Lounge",
+  "mapper": "[Ska]",
+  "difficulty": "Stepmania",
+  "beatmapId": "2124257",
+  "beatmapSetId": "1014998",
+  "hp": "8",
+  "od": "8"
+}

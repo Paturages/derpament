@@ -2,7 +2,10 @@
   {
     "name": "4-digits Mania World Cup 3",
     "stages": [
-      { "id": "1.qualifiers", "name": "Qualifiers", "qualifiers": true }
+      { "id": "1.qualifiers", "name": "Qualifiers", "qualifiers": true },
+      { "id": "2.groups", "name": "Group stage" },
+      { "id": "3.ro16", "name": "Round of 16" },
+      { "id": "4.qf", "name": "Quarterfinals" }
     ],
     "id": "4dmwc3",
     "playersCount": 186
@@ -38,7 +41,7 @@
     "playersCount": 57
   },
   {
-    "name": "Mania French Tournament 2020",
+    "name": "Mania 4K French Tournament 2020",
     "stages": [
       { "id": "1.qualifiers", "name": "Qualifiers", "qualifiers": true },
       { "id": "2.week1", "name": "Week 1: RO32 + RO16" },
@@ -47,6 +50,15 @@
     ],
     "id": "mft2020",
     "playersCount": 56
+  },
+  {
+    "name": "Mania 4K French Tournament 2021",
+    "stages": [
+      { "id": "1.qualifiers", "name": "Qualifiers", "qualifiers": true },
+      { "id": "2.week1", "name": "Week 1: RO24 + RO16" }
+    ],
+    "id": "mft2021",
+    "playersCount": 69
   },
   {
     "name": "Mania 7K French Tournament 2021",
