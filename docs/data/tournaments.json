@@ -55,7 +55,7 @@
     "name": "Mania 4K French Tournament 2021",
     "stages": [
       { "id": "1.qualifiers", "name": "Qualifiers", "qualifiers": true },
-      { "id": "2.week1", "name": "Week 1: RO24 + RO16" }
+      { "id": "2.week1", "name": "Week 1: RO48 + RO32" }
     ],
     "id": "mft2021",
     "playersCount": 69
