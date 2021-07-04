@@ -1,0 +1,24 @@
+{
+  "category": "tiebreaker",
+  "counts": {
+    "bpm": 1,
+    "sv": 949,
+    "notes": {
+      "total": 3577,
+      "rice": 2218,
+      "ln": 1359,
+      "single": 1904,
+      "jump": 533,
+      "hand": 197,
+      "quad": 4
+    }
+  },
+  "title": "Space Invaders",
+  "artist": "Teminite & MDK",
+  "mapper": "Roasted Chicken",
+  "difficulty": "Battle of the Seven Galaxies",
+  "beatmapId": "2496360",
+  "beatmapSetId": "1152802",
+  "hp": "8.5",
+  "od": "8"
+}

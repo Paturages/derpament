@@ -1,0 +1,24 @@
+{
+  "category": "ln",
+  "counts": {
+    "bpm": 1,
+    "sv": 20,
+    "notes": {
+      "total": 1950,
+      "rice": 1900,
+      "ln": 50,
+      "single": 1015,
+      "jump": 466,
+      "hand": 1,
+      "quad": 0
+    }
+  },
+  "title": "Rainshower (Cut Ver.)",
+  "artist": "Silentroom",
+  "mapper": "Monheim",
+  "difficulty": "Insane",
+  "beatmapId": "2736533",
+  "beatmapSetId": "1321003",
+  "hp": "8",
+  "od": "8"
+}

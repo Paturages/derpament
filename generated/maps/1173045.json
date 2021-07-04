@@ -1,0 +1,24 @@
+{
+  "category": "rice",
+  "counts": {
+    "bpm": 1,
+    "sv": 0,
+    "notes": {
+      "total": 1596,
+      "rice": 1462,
+      "ln": 134,
+      "single": 576,
+      "jump": 478,
+      "hand": 20,
+      "quad": 1
+    }
+  },
+  "title": "Wh1teh Pack #4",
+  "artist": "Various Artists",
+  "mapper": "Wh1teh",
+  "difficulty": "Hiroki Kikuta - Danger",
+  "beatmapId": "1173045",
+  "beatmapSetId": "554055",
+  "hp": "8.5",
+  "od": "8.5"
+}

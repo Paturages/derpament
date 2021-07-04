@@ -1,0 +1,24 @@
+{
+  "category": "ln",
+  "counts": {
+    "bpm": 1,
+    "sv": 0,
+    "notes": {
+      "total": 1423,
+      "rice": 303,
+      "ln": 1120,
+      "single": 361,
+      "jump": 350,
+      "hand": 118,
+      "quad": 2
+    }
+  },
+  "title": "Wasureji no Kotonoha",
+  "artist": "Wulpis Kater",
+  "mapper": "Davvy",
+  "difficulty": "vanished in a shower",
+  "beatmapId": "2243452",
+  "beatmapSetId": "1071827",
+  "hp": "9",
+  "od": "8"
+}

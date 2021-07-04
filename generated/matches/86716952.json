@@ -1,0 +1,198 @@
+{
+  "match": {
+    "match_id": "86716952",
+    "name": "MFT4K2021 LR1: (Celeste) vs (Baguette2Pain)",
+    "start_time": "2021-07-03 14:19:09",
+    "end_time": "2021-07-03 14:40:35"
+  },
+  "games": [
+    {
+      "game_id": "443385374",
+      "start_time": "2021-07-03 14:23:40",
+      "end_time": "2021-07-03 14:25:52",
+      "beatmap_id": "2584677",
+      "play_mode": "3",
+      "match_type": "0",
+      "scoring_type": "3",
+      "team_type": "0",
+      "mods": "0",
+      "scores": [
+        {
+          "slot": "0",
+          "team": "0",
+          "user_id": "15452628",
+          "score": "951032",
+          "maxcombo": "1152",
+          "rank": "0",
+          "count50": "1",
+          "count100": "2",
+          "count300": "296",
+          "countmiss": "6",
+          "countgeki": "1258",
+          "countkatu": "17",
+          "perfect": "0",
+          "pass": "1",
+          "enabled_mods": "1"
+        },
+        {
+          "slot": "1",
+          "team": "0",
+          "user_id": "11818585",
+          "score": "921681",
+          "maxcombo": "671",
+          "rank": "0",
+          "count50": "1",
+          "count100": "3",
+          "count300": "361",
+          "countmiss": "5",
+          "countgeki": "1174",
+          "countkatu": "36",
+          "perfect": "0",
+          "pass": "1",
+          "enabled_mods": "1"
+        }
+      ]
+    },
+    {
+      "game_id": "443386138",
+      "start_time": "2021-07-03 14:26:47",
+      "end_time": "2021-07-03 14:28:55",
+      "beatmap_id": "1432332",
+      "play_mode": "3",
+      "match_type": "0",
+      "scoring_type": "3",
+      "team_type": "0",
+      "mods": "0",
+      "scores": [
+        {
+          "slot": "0",
+          "team": "0",
+          "user_id": "15452628",
+          "score": "983087",
+          "maxcombo": "1817",
+          "rank": "0",
+          "count50": "0",
+          "count100": "0",
+          "count300": "302",
+          "countmiss": "0",
+          "countgeki": "1502",
+          "countkatu": "13",
+          "perfect": "0",
+          "pass": "1",
+          "enabled_mods": "1"
+        },
+        {
+          "slot": "1",
+          "team": "0",
+          "user_id": "11818585",
+          "score": "926680",
+          "maxcombo": "1396",
+          "rank": "0",
+          "count50": "0",
+          "count100": "0",
+          "count300": "524",
+          "countmiss": "2",
+          "countgeki": "1221",
+          "countkatu": "70",
+          "perfect": "0",
+          "pass": "1",
+          "enabled_mods": "1"
+        }
+      ]
+    },
+    {
+      "game_id": "443386866",
+      "start_time": "2021-07-03 14:30:00",
+      "end_time": "2021-07-03 14:32:58",
+      "beatmap_id": "1693412",
+      "play_mode": "3",
+      "match_type": "0",
+      "scoring_type": "3",
+      "team_type": "0",
+      "mods": "0",
+      "scores": [
+        {
+          "slot": "0",
+          "team": "0",
+          "user_id": "15452628",
+          "score": "987074",
+          "maxcombo": "2309",
+          "rank": "0",
+          "count50": "0",
+          "count100": "0",
+          "count300": "395",
+          "countmiss": "0",
+          "countgeki": "1906",
+          "countkatu": "8",
+          "perfect": "0",
+          "pass": "1",
+          "enabled_mods": "1"
+        },
+        {
+          "slot": "1",
+          "team": "0",
+          "user_id": "11818585",
+          "score": "946380",
+          "maxcombo": "786",
+          "rank": "0",
+          "count50": "2",
+          "count100": "2",
+          "count300": "520",
+          "countmiss": "2",
+          "countgeki": "1747",
+          "countkatu": "36",
+          "perfect": "0",
+          "pass": "1",
+          "enabled_mods": "1"
+        }
+      ]
+    },
+    {
+      "game_id": "443388365",
+      "start_time": "2021-07-03 14:36:37",
+      "end_time": "2021-07-03 14:39:12",
+      "beatmap_id": "2736533",
+      "play_mode": "3",
+      "match_type": "0",
+      "scoring_type": "3",
+      "team_type": "0",
+      "mods": "0",
+      "scores": [
+        {
+          "slot": "0",
+          "team": "0",
+          "user_id": "15452628",
+          "score": "943950",
+          "maxcombo": "1229",
+          "rank": "0",
+          "count50": "0",
+          "count100": "2",
+          "count300": "500",
+          "countmiss": "4",
+          "countgeki": "1474",
+          "countkatu": "24",
+          "perfect": "0",
+          "pass": "1",
+          "enabled_mods": "1"
+        },
+        {
+          "slot": "1",
+          "team": "0",
+          "user_id": "11818585",
+          "score": "834047",
+          "maxcombo": "395",
+          "rank": "0",
+          "count50": "7",
+          "count100": "7",
+          "count300": "603",
+          "countmiss": "24",
+          "countgeki": "1289",
+          "countkatu": "74",
+          "perfect": "0",
+          "pass": "1",
+          "enabled_mods": "1"
+        }
+      ]
+    }
+  ]
+}

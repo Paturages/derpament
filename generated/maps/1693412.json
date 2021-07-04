@@ -1,0 +1,24 @@
+{
+  "category": "hybrid",
+  "counts": {
+    "bpm": 1,
+    "sv": 0,
+    "notes": {
+      "total": 1753,
+      "rice": 1197,
+      "ln": 556,
+      "single": 769,
+      "jump": 261,
+      "hand": 122,
+      "quad": 24
+    }
+  },
+  "title": "BRANDNEWTYPE (TAK Mashup)",
+  "artist": "TAK",
+  "mapper": "arpia97",
+  "difficulty": "Summer Breeze",
+  "beatmapId": "1693412",
+  "beatmapSetId": "806769",
+  "hp": "9",
+  "od": "7"
+}

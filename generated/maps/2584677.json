@@ -1,0 +1,24 @@
+{
+  "category": "ln",
+  "counts": {
+    "bpm": 3,
+    "sv": 3,
+    "notes": {
+      "total": 1037,
+      "rice": 494,
+      "ln": 543,
+      "single": 457,
+      "jump": 198,
+      "hand": 52,
+      "quad": 7
+    }
+  },
+  "title": "Mythic set ~ Heart-Stirring Urban Legends",
+  "artist": "Rin",
+  "mapper": "UnluckyCroco",
+  "difficulty": "Tales of the Occult",
+  "beatmapId": "2584677",
+  "beatmapSetId": "1243225",
+  "hp": "8",
+  "od": "8"
+}

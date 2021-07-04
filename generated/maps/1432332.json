@@ -1,0 +1,24 @@
+{
+  "category": "hybrid",
+  "counts": {
+    "bpm": 1,
+    "sv": 254,
+    "notes": {
+      "total": 1553,
+      "rice": 1289,
+      "ln": 264,
+      "single": 642,
+      "jump": 304,
+      "hand": 97,
+      "quad": 3
+    }
+  },
+  "title": "Re_Construct",
+  "artist": "Zekk",
+  "mapper": "FelixSpade",
+  "difficulty": "V's Expert",
+  "beatmapId": "1432332",
+  "beatmapSetId": "677212",
+  "hp": "8.5",
+  "od": "8"
+}
