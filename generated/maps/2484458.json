@@ -1,0 +1,24 @@
+{
+  "category": "tiebreaker",
+  "counts": {
+    "bpm": 68,
+    "sv": 68,
+    "notes": {
+      "total": 4129,
+      "rice": 3339,
+      "ln": 790,
+      "single": 1437,
+      "jump": 868,
+      "hand": 276,
+      "quad": 32
+    }
+  },
+  "title": "Booths of Fighters (Camellia's \"Barrage of Flurries\" Remix)",
+  "artist": "RoughSketch feat. DD NakataMetal",
+  "mapper": "MyZterioN-",
+  "difficulty": "Challenger Approched",
+  "beatmapId": "2484458",
+  "beatmapSetId": "1192312",
+  "hp": "8",
+  "od": "8"
+}

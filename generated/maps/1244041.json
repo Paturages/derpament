@@ -1,0 +1,24 @@
+{
+  "category": "speed",
+  "counts": {
+    "bpm": 2,
+    "sv": 0,
+    "notes": {
+      "total": 2150,
+      "rice": 2148,
+      "ln": 2,
+      "single": 1378,
+      "jump": 204,
+      "hand": 120,
+      "quad": 1
+    }
+  },
+  "title": "SUPER EUROBEAT FOR RUNNING SELECTIONS VOL. 2",
+  "artist": "Various Artists",
+  "mapper": "Jole",
+  "difficulty": "[SPEED] NOT FOR SALE - GO 2 (SPED UP VER.)",
+  "beatmapId": "1244041",
+  "beatmapSetId": "587484",
+  "hp": "8",
+  "od": "8"
+}

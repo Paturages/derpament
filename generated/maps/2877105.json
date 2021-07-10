@@ -1,0 +1,24 @@
+{
+  "category": "ln",
+  "counts": {
+    "bpm": 1,
+    "sv": 0,
+    "notes": {
+      "total": 1349,
+      "rice": 221,
+      "ln": 1128,
+      "single": 511,
+      "jump": 327,
+      "hand": 56,
+      "quad": 4
+    }
+  },
+  "title": "Cosy Catastrophe",
+  "artist": "SYUNN",
+  "mapper": "stupud man",
+  "difficulty": "Typhoon",
+  "beatmapId": "2877105",
+  "beatmapSetId": "1393751",
+  "hp": "8",
+  "od": "7"
+}

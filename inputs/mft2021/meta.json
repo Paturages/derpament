@@ -8,11 +8,15 @@
     },
     {
       "id": "2.week1",
-      "name": "Week 1: RO48 + RO32"
+      "name": "Week 1: RO48/32"
     },
     {
       "id": "3.week2",
-      "name": "Week 2: RO16 + Quarterfinals"
+      "name": "Week 2: RO16/8"
+    },
+    {
+      "id": "4.week3",
+      "name": "Week 3: QF/SF"
     }
   ]
 }

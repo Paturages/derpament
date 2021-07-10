@@ -1,0 +1,24 @@
+{
+  "category": "rice",
+  "counts": {
+    "bpm": 1,
+    "sv": 0,
+    "notes": {
+      "total": 1568,
+      "rice": 1535,
+      "ln": 33,
+      "single": 29,
+      "jump": 232,
+      "hand": 169,
+      "quad": 142
+    }
+  },
+  "title": "Echame La Culpa",
+  "artist": "Luis Fonsi & Demi Lovato",
+  "mapper": "NikoSek",
+  "difficulty": "Jack de Acordes x1.2",
+  "beatmapId": "2167835",
+  "beatmapSetId": "1036854",
+  "hp": "8",
+  "od": "8"
+}

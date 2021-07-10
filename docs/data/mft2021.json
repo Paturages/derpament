@@ -7,8 +7,9 @@
       "qualifiers": true,
       "mapCount": 4
     },
-    { "id": "2.week1", "name": "Week 1: RO48 + RO32", "mapCount": 13 },
-    { "id": "3.week2", "name": "Week 2: RO16 + Quarterfinals", "mapCount": 15 }
+    { "id": "2.week1", "name": "Week 1: RO48/32", "mapCount": 13 },
+    { "id": "3.week2", "name": "Week 2: RO16/8", "mapCount": 15 },
+    { "id": "4.week3", "name": "Week 3: QF/SF", "mapCount": 17 }
   ],
   "players": {
     "1375479": {

@@ -1,0 +1,24 @@
+{
+  "category": "hybrid",
+  "counts": {
+    "bpm": 1,
+    "sv": 10,
+    "notes": {
+      "total": 2232,
+      "rice": 1626,
+      "ln": 606,
+      "single": 1151,
+      "jump": 456,
+      "hand": 55,
+      "quad": 1
+    }
+  },
+  "title": "Excuse My Rudeness, But Could You Please RIP? (Nhato Remix)",
+  "artist": "Calliope Mori",
+  "mapper": "HowToPlayLN",
+  "difficulty": "Stage 5: Lethalization",
+  "beatmapId": "2733309",
+  "beatmapSetId": "1319472",
+  "hp": "8",
+  "od": "7.5"
+}

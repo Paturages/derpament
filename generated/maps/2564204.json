@@ -1,0 +1,24 @@
+{
+  "category": "hybrid",
+  "counts": {
+    "bpm": 1,
+    "sv": 1454,
+    "notes": {
+      "total": 2361,
+      "rice": 1647,
+      "ln": 714,
+      "single": 497,
+      "jump": 749,
+      "hand": 122,
+      "quad": 0
+    }
+  },
+  "title": "Twisted Drop Party",
+  "artist": "t+pazolite & Getty",
+  "mapper": "Umo-",
+  "difficulty": "Salty's 4K Insane",
+  "beatmapId": "2564204",
+  "beatmapSetId": "1229023",
+  "hp": "8",
+  "od": "8"
+}

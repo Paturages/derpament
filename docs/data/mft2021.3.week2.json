@@ -1,6 +1,6 @@
 {
   "id": "3.week2",
-  "name": "Week 2: RO16 + Quarterfinals",
+  "name": "Week 2: RO16/8",
   "mapCount": 15,
   "maps": [
     {
@@ -1424,7 +1424,7 @@
       ]
     },
     {
-      "category": "ln",
+      "category": "tech",
       "counts": {
         "bpm": 1,
         "sv": 20,
@@ -1922,7 +1922,7 @@
       "bans": [15452628, 15752211, 2284328]
     },
     {
-      "category": "tech",
+      "category": "speed",
       "counts": {
         "bpm": 1,
         "sv": 0,

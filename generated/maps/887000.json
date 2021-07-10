@@ -1,0 +1,24 @@
+{
+  "category": "speed",
+  "counts": {
+    "bpm": 1,
+    "sv": 20,
+    "notes": {
+      "total": 2368,
+      "rice": 2368,
+      "ln": 0,
+      "single": 1279,
+      "jump": 501,
+      "hand": 29,
+      "quad": 0
+    }
+  },
+  "title": "thinking of you",
+  "artist": "goreshit",
+  "mapper": "Uncle iNawe",
+  "difficulty": "ilikexd's Insane",
+  "beatmapId": "887000",
+  "beatmapSetId": "408474",
+  "hp": "5",
+  "od": "7"
+}

@@ -1,0 +1,24 @@
+{
+  "category": "sv",
+  "counts": {
+    "bpm": 1,
+    "sv": 6599,
+    "notes": {
+      "total": 1122,
+      "rice": 1053,
+      "ln": 69,
+      "single": 443,
+      "jump": 239,
+      "hand": 67,
+      "quad": 0
+    }
+  },
+  "title": "Contact",
+  "artist": "ATLiens, Blanke",
+  "mapper": "Orca-",
+  "difficulty": "TerrestriaL",
+  "beatmapId": "2834133",
+  "beatmapSetId": "1370687",
+  "hp": "7.5",
+  "od": "8"
+}

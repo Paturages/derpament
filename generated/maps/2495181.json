@@ -1,0 +1,24 @@
+{
+  "category": "ln",
+  "counts": {
+    "bpm": 512,
+    "sv": 512,
+    "notes": {
+      "total": 2403,
+      "rice": 297,
+      "ln": 2106,
+      "single": 946,
+      "jump": 550,
+      "hand": 119,
+      "quad": 0
+    }
+  },
+  "title": "Electric Counterpoint, III",
+  "artist": "Steve Reich",
+  "mapper": "Davvy",
+  "difficulty": "Fast",
+  "beatmapId": "2495181",
+  "beatmapSetId": "1197970",
+  "hp": "8",
+  "od": "6.3"
+}

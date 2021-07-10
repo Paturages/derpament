@@ -1,0 +1,24 @@
+{
+  "category": "hybrid",
+  "counts": {
+    "bpm": 1,
+    "sv": 5,
+    "notes": {
+      "total": 1478,
+      "rice": 820,
+      "ln": 658,
+      "single": 841,
+      "jump": 275,
+      "hand": 29,
+      "quad": 0
+    }
+  },
+  "title": "Hestia",
+  "artist": "Street",
+  "mapper": "guden",
+  "difficulty": "Vesta",
+  "beatmapId": "2930592",
+  "beatmapSetId": "1423058",
+  "hp": "8",
+  "od": "7"
+}
