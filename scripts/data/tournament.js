@@ -29,7 +29,8 @@ const docsDataPath = path.resolve(__dirname, "..", "..", "docs", "data");
       username: name,
       statistics: {
         pp,
-        rank: { global: rank, country: countryRank },
+        global_rank,
+        rank: { country: countryRank },
       },
     } = require(`${generatedPath}/players/${playerId}.json`);
     tournament.players[playerId] = {
@@ -38,7 +39,7 @@ const docsDataPath = path.resolve(__dirname, "..", "..", "docs", "data");
       avatar,
       country,
       pp,
-      rank,
+      rank: global_rank,
       countryRank,
     };
   }
