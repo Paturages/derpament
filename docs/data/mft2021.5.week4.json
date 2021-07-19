@@ -1,0 +1,1608 @@
+{
+  "id": "5.week4",
+  "name": "Week 4: Finals",
+  "mapCount": 16,
+  "maps": [
+    {
+      "category": "sv",
+      "counts": {
+        "bpm": 27,
+        "sv": 801,
+        "notes": {
+          "total": 741,
+          "rice": 715,
+          "ln": 26,
+          "single": 162,
+          "jump": 156,
+          "hand": 89,
+          "quad": 0
+        }
+      },
+      "title": "Legend (ft. Backchat)",
+      "artist": "Jaroslav Beck, Generdyn, Backchat",
+      "mapper": "Turtwig",
+      "difficulty": "Fictional",
+      "beatmapId": "2217562",
+      "beatmapSetId": "1058836",
+      "hp": "6",
+      "od": "6.5",
+      "scores": [
+        {
+          "userId": "7306522",
+          "score": 991527,
+          "combo": 767,
+          "counts": {
+            "50": 0,
+            "100": 0,
+            "200": 2,
+            "300": 80,
+            "miss": 0,
+            "max": 685
+          }
+        },
+        {
+          "userId": "3909293",
+          "score": 838961,
+          "combo": 313,
+          "counts": {
+            "50": 4,
+            "100": 12,
+            "200": 34,
+            "300": 283,
+            "miss": 3,
+            "max": 431
+          }
+        },
+        {
+          "userId": "3909293",
+          "score": 804587,
+          "combo": 364,
+          "counts": {
+            "50": 2,
+            "100": 21,
+            "200": 43,
+            "300": 278,
+            "miss": 4,
+            "max": 419
+          }
+        },
+        {
+          "userId": "8756421",
+          "score": 391217,
+          "combo": 107,
+          "counts": {
+            "50": 22,
+            "100": 53,
+            "200": 121,
+            "300": 232,
+            "miss": 79,
+            "max": 260
+          }
+        }
+      ],
+      "pickCount": 2,
+      "bans": [3909293, 8756421, 9388217, 9388217]
+    },
+    {
+      "category": "sv",
+      "counts": {
+        "bpm": 1,
+        "sv": 904,
+        "notes": {
+          "total": 773,
+          "rice": 767,
+          "ln": 6,
+          "single": 331,
+          "jump": 215,
+          "hand": 4,
+          "quad": 0
+        }
+      },
+      "title": "Reaction feat. Slyleaf",
+      "artist": "James Landino",
+      "mapper": "Paturages",
+      "difficulty": "Instinct",
+      "beatmapId": "2989461",
+      "beatmapSetId": "1454184",
+      "hp": "8",
+      "od": "8",
+      "scores": [
+        {
+          "userId": "2284328",
+          "score": 902420,
+          "combo": 721,
+          "counts": {
+            "50": 0,
+            "100": 2,
+            "200": 45,
+            "300": 258,
+            "miss": 1,
+            "max": 473
+          }
+        },
+        {
+          "userId": "8756421",
+          "score": 891621,
+          "combo": 435,
+          "counts": {
+            "50": 0,
+            "100": 4,
+            "200": 41,
+            "300": 269,
+            "miss": 1,
+            "max": 464
+          }
+        },
+        {
+          "userId": "8624433",
+          "score": 885031,
+          "combo": 488,
+          "counts": {
+            "50": 1,
+            "100": 7,
+            "200": 39,
+            "300": 255,
+            "miss": 1,
+            "max": 476
+          }
+        },
+        {
+          "userId": "8756421",
+          "score": 878901,
+          "combo": 779,
+          "counts": {
+            "50": 1,
+            "100": 6,
+            "200": 60,
+            "300": 285,
+            "miss": 0,
+            "max": 427
+          }
+        },
+        {
+          "userId": "3909293",
+          "score": 553508,
+          "combo": 213,
+          "counts": {
+            "50": 4,
+            "100": 42,
+            "200": 174,
+            "300": 280,
+            "miss": 17,
+            "max": 262
+          }
+        },
+        {
+          "userId": "3909293",
+          "score": 249429,
+          "combo": 70,
+          "counts": {
+            "50": 9,
+            "100": 143,
+            "200": 306,
+            "300": 154,
+            "miss": 66,
+            "max": 101
+          }
+        }
+      ],
+      "pickCount": 3,
+      "bans": [3909293, 3909293]
+    },
+    {
+      "category": "rice",
+      "counts": {
+        "bpm": 1,
+        "sv": 0,
+        "notes": {
+          "total": 2442,
+          "rice": 2388,
+          "ln": 54,
+          "single": 728,
+          "jump": 717,
+          "hand": 92,
+          "quad": 1
+        }
+      },
+      "title": "Depravity CLiMAXXX",
+      "artist": "BlackY",
+      "mapper": "Valedict",
+      "difficulty": "Desperado",
+      "beatmapId": "893354",
+      "beatmapSetId": "411717",
+      "hp": "9",
+      "od": "8",
+      "scores": [
+        {
+          "userId": "3909293",
+          "score": 986477,
+          "combo": 2493,
+          "counts": {
+            "50": 1,
+            "100": 4,
+            "200": 6,
+            "300": 214,
+            "miss": 1,
+            "max": 2270
+          }
+        },
+        {
+          "userId": "9388217",
+          "score": 972750,
+          "combo": 1753,
+          "counts": {
+            "50": 0,
+            "100": 3,
+            "200": 2,
+            "300": 287,
+            "miss": 4,
+            "max": 2200
+          }
+        }
+      ],
+      "pickCount": 1,
+      "bans": [8756421]
+    },
+    {
+      "category": "ln",
+      "counts": {
+        "bpm": 13,
+        "sv": 20,
+        "notes": {
+          "total": 2228,
+          "rice": 31,
+          "ln": 2197,
+          "single": 770,
+          "jump": 577,
+          "hand": 84,
+          "quad": 13
+        }
+      },
+      "title": "Delrio",
+      "artist": "MiddleIsland",
+      "mapper": "Raveille",
+      "difficulty": "for the rivers",
+      "beatmapId": "2601016",
+      "beatmapSetId": "1251408",
+      "hp": "8",
+      "od": "7",
+      "scores": [
+        {
+          "userId": "3909293",
+          "score": 967653,
+          "combo": 4425,
+          "counts": {
+            "50": 0,
+            "100": 0,
+            "200": 72,
+            "300": 1179,
+            "miss": 0,
+            "max": 3174
+          }
+        },
+        {
+          "userId": "7306522",
+          "score": 953594,
+          "combo": 1538,
+          "counts": {
+            "50": 2,
+            "100": 2,
+            "200": 45,
+            "300": 906,
+            "miss": 13,
+            "max": 3457
+          }
+        },
+        {
+          "userId": "3909293",
+          "score": 950298,
+          "combo": 1975,
+          "counts": {
+            "50": 3,
+            "100": 0,
+            "200": 83,
+            "300": 1232,
+            "miss": 4,
+            "max": 3103
+          }
+        },
+        {
+          "userId": "9388217",
+          "score": 916733,
+          "combo": 826,
+          "counts": {
+            "50": 4,
+            "100": 4,
+            "200": 103,
+            "300": 1158,
+            "miss": 23,
+            "max": 3133
+          }
+        }
+      ],
+      "pickCount": 2,
+      "bans": [3909293, 8756421, 7306522, 8756421]
+    },
+    {
+      "category": "ln",
+      "counts": {
+        "bpm": 1,
+        "sv": 1,
+        "notes": {
+          "total": 1549,
+          "rice": 340,
+          "ln": 1209,
+          "single": 406,
+          "jump": 358,
+          "hand": 133,
+          "quad": 7
+        }
+      },
+      "title": "planetarium",
+      "artist": "SUi",
+      "mapper": "pieerre",
+      "difficulty": "Plain LN x1.2",
+      "beatmapId": "2415785",
+      "beatmapSetId": "1101700",
+      "hp": "8",
+      "od": "7",
+      "scores": [
+        {
+          "userId": "3909293",
+          "score": 982203,
+          "combo": 2758,
+          "counts": {
+            "50": 0,
+            "100": 0,
+            "200": 16,
+            "300": 589,
+            "miss": 0,
+            "max": 2153
+          }
+        },
+        {
+          "userId": "3909293",
+          "score": 968934,
+          "combo": 2595,
+          "counts": {
+            "50": 1,
+            "100": 0,
+            "200": 27,
+            "300": 521,
+            "miss": 4,
+            "max": 2205
+          }
+        },
+        {
+          "userId": "3909293",
+          "score": 965513,
+          "combo": 998,
+          "counts": {
+            "50": 2,
+            "100": 1,
+            "200": 26,
+            "300": 593,
+            "miss": 0,
+            "max": 2136
+          }
+        },
+        {
+          "userId": "8624433",
+          "score": 923777,
+          "combo": 1423,
+          "counts": {
+            "50": 1,
+            "100": 2,
+            "200": 45,
+            "300": 739,
+            "miss": 19,
+            "max": 1952
+          }
+        },
+        {
+          "userId": "9388217",
+          "score": 917525,
+          "combo": 799,
+          "counts": {
+            "50": 0,
+            "100": 3,
+            "200": 53,
+            "300": 806,
+            "miss": 18,
+            "max": 1878
+          }
+        },
+        {
+          "userId": "7306522",
+          "score": 911281,
+          "combo": 908,
+          "counts": {
+            "50": 10,
+            "100": 8,
+            "200": 60,
+            "300": 718,
+            "miss": 9,
+            "max": 1953
+          }
+        },
+        {
+          "userId": "9388217",
+          "score": 908283,
+          "combo": 1223,
+          "counts": {
+            "50": 3,
+            "100": 5,
+            "200": 50,
+            "300": 858,
+            "miss": 23,
+            "max": 1819
+          }
+        },
+        {
+          "userId": "8756421",
+          "score": 827939,
+          "combo": 912,
+          "counts": {
+            "50": 1,
+            "100": 24,
+            "200": 69,
+            "300": 809,
+            "miss": 64,
+            "max": 1791
+          }
+        }
+      ],
+      "pickCount": 4,
+      "bans": [7306522]
+    },
+    {
+      "category": "ln",
+      "counts": {
+        "bpm": 1,
+        "sv": 0,
+        "notes": {
+          "total": 1901,
+          "rice": 511,
+          "ln": 1390,
+          "single": 1172,
+          "jump": 307,
+          "hand": 37,
+          "quad": 1
+        }
+      },
+      "title": "MFT4K2021 Finals Mappack",
+      "artist": "Various Artists",
+      "mapper": "osufrlive",
+      "difficulty": "Feryquitous - Dille ([Crz]Crysarlene) [() => { return } // { edit }]",
+      "beatmapId": "3106280",
+      "beatmapSetId": "1517316",
+      "hp": "9",
+      "od": "7.3",
+      "scores": [
+        {
+          "userId": "7306522",
+          "score": 961796,
+          "combo": 1850,
+          "counts": {
+            "50": 2,
+            "100": 2,
+            "200": 44,
+            "300": 783,
+            "miss": 1,
+            "max": 2459
+          }
+        },
+        {
+          "userId": "9388217",
+          "score": 956068,
+          "combo": 1768,
+          "counts": {
+            "50": 0,
+            "100": 2,
+            "200": 55,
+            "300": 908,
+            "miss": 4,
+            "max": 2322
+          }
+        },
+        {
+          "userId": "7306522",
+          "score": 947399,
+          "combo": 1558,
+          "counts": {
+            "50": 3,
+            "100": 3,
+            "200": 46,
+            "300": 782,
+            "miss": 4,
+            "max": 2453
+          }
+        },
+        {
+          "userId": "8624433",
+          "score": 943864,
+          "combo": 1703,
+          "counts": {
+            "50": 0,
+            "100": 1,
+            "200": 67,
+            "300": 1037,
+            "miss": 6,
+            "max": 2180
+          }
+        },
+        {
+          "userId": "3909293",
+          "score": 942985,
+          "combo": 1525,
+          "counts": {
+            "50": 1,
+            "100": 4,
+            "200": 75,
+            "300": 992,
+            "miss": 4,
+            "max": 2215
+          }
+        },
+        {
+          "userId": "3909293",
+          "score": 935744,
+          "combo": 2745,
+          "counts": {
+            "50": 1,
+            "100": 3,
+            "200": 86,
+            "300": 1093,
+            "miss": 7,
+            "max": 2101
+          }
+        },
+        {
+          "userId": "3909293",
+          "score": 933735,
+          "combo": 1147,
+          "counts": {
+            "50": 4,
+            "100": 5,
+            "200": 68,
+            "300": 1065,
+            "miss": 3,
+            "max": 2146
+          }
+        },
+        {
+          "userId": "3909293",
+          "score": 932361,
+          "combo": 1834,
+          "counts": {
+            "50": 1,
+            "100": 3,
+            "200": 95,
+            "300": 1123,
+            "miss": 7,
+            "max": 2062
+          }
+        },
+        {
+          "userId": "9388217",
+          "score": 932304,
+          "combo": 1648,
+          "counts": {
+            "50": 4,
+            "100": 3,
+            "200": 75,
+            "300": 929,
+            "miss": 8,
+            "max": 2272
+          }
+        },
+        {
+          "userId": "8756421",
+          "score": 911107,
+          "combo": 892,
+          "counts": {
+            "50": 3,
+            "100": 6,
+            "200": 75,
+            "300": 1071,
+            "miss": 17,
+            "max": 2119
+          }
+        }
+      ],
+      "pickCount": 5,
+      "bans": []
+    },
+    {
+      "category": "tech",
+      "counts": {
+        "bpm": 35,
+        "sv": 23,
+        "notes": {
+          "total": 1869,
+          "rice": 1869,
+          "ln": 0,
+          "single": 1159,
+          "jump": 313,
+          "hand": 28,
+          "quad": 0
+        }
+      },
+      "title": "MFT4K2021 Finals Mappack",
+      "artist": "Various Artists",
+      "mapper": "osufrlive",
+      "difficulty": "Blitz Lunar - The Labyrinth of Skadi (Hi19Hi19) [Cut 1,15x 1,0869565217x]",
+      "beatmapId": "3106277",
+      "beatmapSetId": "1517316",
+      "hp": "8",
+      "od": "8",
+      "scores": [
+        {
+          "userId": "7306522",
+          "score": 986593,
+          "combo": 1869,
+          "counts": {
+            "50": 0,
+            "100": 0,
+            "200": 9,
+            "300": 281,
+            "miss": 0,
+            "max": 1579
+          }
+        },
+        {
+          "userId": "7306522",
+          "score": 980072,
+          "combo": 1438,
+          "counts": {
+            "50": 0,
+            "100": 0,
+            "200": 3,
+            "300": 321,
+            "miss": 1,
+            "max": 1544
+          }
+        },
+        {
+          "userId": "3909293",
+          "score": 977284,
+          "combo": 1257,
+          "counts": {
+            "50": 0,
+            "100": 2,
+            "200": 5,
+            "300": 290,
+            "miss": 1,
+            "max": 1571
+          }
+        },
+        {
+          "userId": "3909293",
+          "score": 976472,
+          "combo": 1482,
+          "counts": {
+            "50": 0,
+            "100": 1,
+            "200": 2,
+            "300": 280,
+            "miss": 2,
+            "max": 1584
+          }
+        },
+        {
+          "userId": "8756421",
+          "score": 966711,
+          "combo": 1191,
+          "counts": {
+            "50": 0,
+            "100": 2,
+            "200": 16,
+            "300": 431,
+            "miss": 1,
+            "max": 1419
+          }
+        },
+        {
+          "userId": "8624433",
+          "score": 916852,
+          "combo": 370,
+          "counts": {
+            "50": 0,
+            "100": 0,
+            "200": 19,
+            "300": 395,
+            "miss": 10,
+            "max": 1445
+          }
+        },
+        {
+          "userId": "9388217",
+          "score": 894742,
+          "combo": 470,
+          "counts": {
+            "50": 1,
+            "100": 6,
+            "200": 52,
+            "300": 510,
+            "miss": 8,
+            "max": 1292
+          }
+        },
+        {
+          "userId": "2284328",
+          "score": 875940,
+          "combo": 935,
+          "counts": {
+            "50": 1,
+            "100": 11,
+            "200": 89,
+            "300": 537,
+            "miss": 8,
+            "max": 1223
+          }
+        }
+      ],
+      "pickCount": 4,
+      "bans": []
+    },
+    {
+      "category": "tech",
+      "counts": {
+        "bpm": 319,
+        "sv": 0,
+        "notes": {
+          "total": 1418,
+          "rice": 1397,
+          "ln": 21,
+          "single": 969,
+          "jump": 196,
+          "hand": 19,
+          "quad": 0
+        }
+      },
+      "title": "MFT4K2021 Finals Mappack",
+      "artist": "Various Artists",
+      "mapper": "osufrlive",
+      "difficulty": "Rustie - First Mythz (Sunn0Glasses) [Challenge 1,05x]",
+      "beatmapId": "3106281",
+      "beatmapSetId": "1517316",
+      "hp": "8",
+      "od": "8",
+      "scores": [
+        {
+          "userId": "7306522",
+          "score": 955450,
+          "combo": 1111,
+          "counts": {
+            "50": 1,
+            "100": 2,
+            "200": 23,
+            "300": 264,
+            "miss": 1,
+            "max": 1148
+          }
+        },
+        {
+          "userId": "3909293",
+          "score": 946149,
+          "combo": 605,
+          "counts": {
+            "50": 0,
+            "100": 0,
+            "200": 5,
+            "300": 287,
+            "miss": 4,
+            "max": 1143
+          }
+        },
+        {
+          "userId": "8756421",
+          "score": 942145,
+          "combo": 832,
+          "counts": {
+            "50": 0,
+            "100": 4,
+            "200": 24,
+            "300": 310,
+            "miss": 2,
+            "max": 1099
+          }
+        },
+        {
+          "userId": "3909293",
+          "score": 939734,
+          "combo": 609,
+          "counts": {
+            "50": 1,
+            "100": 3,
+            "200": 7,
+            "300": 263,
+            "miss": 5,
+            "max": 1160
+          }
+        },
+        {
+          "userId": "8624433",
+          "score": 897945,
+          "combo": 370,
+          "counts": {
+            "50": 0,
+            "100": 2,
+            "200": 21,
+            "300": 315,
+            "miss": 10,
+            "max": 1091
+          }
+        },
+        {
+          "userId": "2284328",
+          "score": 869980,
+          "combo": 700,
+          "counts": {
+            "50": 5,
+            "100": 6,
+            "200": 72,
+            "300": 403,
+            "miss": 7,
+            "max": 946
+          }
+        }
+      ],
+      "pickCount": 3,
+      "bans": [3909293]
+    },
+    {
+      "category": "speed",
+      "counts": {
+        "bpm": 1,
+        "sv": 0,
+        "notes": {
+          "total": 2499,
+          "rice": 2484,
+          "ln": 15,
+          "single": 1692,
+          "jump": 322,
+          "hand": 53,
+          "quad": 1
+        }
+      },
+      "title": "All My Life (Short ver.)",
+      "artist": "Daiki Kasho",
+      "mapper": "Valedict",
+      "difficulty": "Clarity",
+      "beatmapId": "1130972",
+      "beatmapSetId": "533863",
+      "hp": "8",
+      "od": "8",
+      "scores": [
+        {
+          "userId": "3909293",
+          "score": 971020,
+          "combo": 1556,
+          "counts": {
+            "50": 0,
+            "100": 0,
+            "200": 3,
+            "300": 377,
+            "miss": 4,
+            "max": 2130
+          }
+        },
+        {
+          "userId": "7306522",
+          "score": 969803,
+          "combo": 1651,
+          "counts": {
+            "50": 0,
+            "100": 0,
+            "200": 16,
+            "300": 513,
+            "miss": 2,
+            "max": 1983
+          }
+        },
+        {
+          "userId": "3909293",
+          "score": 969791,
+          "combo": 1651,
+          "counts": {
+            "50": 0,
+            "100": 1,
+            "200": 8,
+            "300": 429,
+            "miss": 3,
+            "max": 2073
+          }
+        },
+        {
+          "userId": "8756421",
+          "score": 961675,
+          "combo": 2383,
+          "counts": {
+            "50": 0,
+            "100": 2,
+            "200": 44,
+            "300": 569,
+            "miss": 1,
+            "max": 1898
+          }
+        },
+        {
+          "userId": "8756421",
+          "score": 951769,
+          "combo": 1252,
+          "counts": {
+            "50": 2,
+            "100": 5,
+            "200": 24,
+            "300": 508,
+            "miss": 4,
+            "max": 1971
+          }
+        },
+        {
+          "userId": "2284328",
+          "score": 820870,
+          "combo": 929,
+          "counts": {
+            "50": 3,
+            "100": 30,
+            "200": 120,
+            "300": 678,
+            "miss": 35,
+            "max": 1648
+          }
+        }
+      ],
+      "pickCount": 3,
+      "bans": []
+    },
+    {
+      "category": "speed",
+      "counts": {
+        "bpm": 1,
+        "sv": 6,
+        "notes": {
+          "total": 3551,
+          "rice": 3551,
+          "ln": 0,
+          "single": 671,
+          "jump": 576,
+          "hand": 344,
+          "quad": 174
+        }
+      },
+      "title": "MFT4K2021 Finals Mappack",
+      "artist": "Various Artists",
+      "mapper": "osufrlive",
+      "difficulty": "Damien Jean - C'est mon reve (PouletFurtif) [Mon Jacques Ancestral]",
+      "beatmapId": "3106278",
+      "beatmapSetId": "1517316",
+      "hp": "8",
+      "od": "8",
+      "scores": [
+        {
+          "userId": "7306522",
+          "score": 984782,
+          "combo": 2747,
+          "counts": {
+            "50": 3,
+            "100": 0,
+            "200": 2,
+            "300": 183,
+            "miss": 2,
+            "max": 3361
+          }
+        },
+        {
+          "userId": "3909293",
+          "score": 975439,
+          "combo": 1887,
+          "counts": {
+            "50": 0,
+            "100": 5,
+            "200": 10,
+            "300": 315,
+            "miss": 3,
+            "max": 3218
+          }
+        },
+        {
+          "userId": "8756421",
+          "score": 970843,
+          "combo": 1224,
+          "counts": {
+            "50": 1,
+            "100": 2,
+            "200": 6,
+            "300": 453,
+            "miss": 4,
+            "max": 3085
+          }
+        },
+        {
+          "userId": "9388217",
+          "score": 938449,
+          "combo": 1908,
+          "counts": {
+            "50": 6,
+            "100": 21,
+            "200": 48,
+            "300": 487,
+            "miss": 11,
+            "max": 2978
+          }
+        },
+        {
+          "userId": "9388217",
+          "score": 929226,
+          "combo": 2988,
+          "counts": {
+            "50": 2,
+            "100": 23,
+            "200": 56,
+            "300": 498,
+            "miss": 18,
+            "max": 2954
+          }
+        },
+        {
+          "userId": "2284328",
+          "score": 908263,
+          "combo": 2338,
+          "counts": {
+            "50": 1,
+            "100": 21,
+            "200": 67,
+            "300": 639,
+            "miss": 24,
+            "max": 2799
+          }
+        }
+      ],
+      "pickCount": 3,
+      "bans": [8624433, 3909293]
+    },
+    {
+      "category": "speed",
+      "counts": {
+        "bpm": 9,
+        "sv": 0,
+        "notes": {
+          "total": 2536,
+          "rice": 2516,
+          "ln": 20,
+          "single": 1370,
+          "jump": 502,
+          "hand": 54,
+          "quad": 0
+        }
+      },
+      "title": "MFT4K2021 Finals Mappack",
+      "artist": "Various Artists",
+      "mapper": "osufrlive",
+      "difficulty": "Fallujah - Sapphire (Shoegazer) [Cerulean [1,05x Rate]]",
+      "beatmapId": "3106279",
+      "beatmapSetId": "1517316",
+      "hp": "9",
+      "od": "8.8",
+      "scores": [
+        {
+          "userId": "3909293",
+          "score": 993595,
+          "combo": 2556,
+          "counts": {
+            "50": 0,
+            "100": 0,
+            "200": 1,
+            "300": 291,
+            "miss": 0,
+            "max": 2264
+          }
+        },
+        {
+          "userId": "7306522",
+          "score": 992287,
+          "combo": 2556,
+          "counts": {
+            "50": 0,
+            "100": 0,
+            "200": 2,
+            "300": 333,
+            "miss": 0,
+            "max": 2221
+          }
+        },
+        {
+          "userId": "3909293",
+          "score": 989354,
+          "combo": 2556,
+          "counts": {
+            "50": 0,
+            "100": 0,
+            "200": 10,
+            "300": 299,
+            "miss": 0,
+            "max": 2247
+          }
+        },
+        {
+          "userId": "3909293",
+          "score": 976619,
+          "combo": 1480,
+          "counts": {
+            "50": 0,
+            "100": 0,
+            "200": 5,
+            "300": 387,
+            "miss": 2,
+            "max": 2162
+          }
+        },
+        {
+          "userId": "7306522",
+          "score": 975860,
+          "combo": 1411,
+          "counts": {
+            "50": 0,
+            "100": 1,
+            "200": 9,
+            "300": 327,
+            "miss": 2,
+            "max": 2217
+          }
+        },
+        {
+          "userId": "9388217",
+          "score": 960522,
+          "combo": 1400,
+          "counts": {
+            "50": 0,
+            "100": 0,
+            "200": 22,
+            "300": 557,
+            "miss": 4,
+            "max": 1973
+          }
+        },
+        {
+          "userId": "8756421",
+          "score": 954436,
+          "combo": 652,
+          "counts": {
+            "50": 1,
+            "100": 1,
+            "200": 16,
+            "300": 504,
+            "miss": 4,
+            "max": 2030
+          }
+        },
+        {
+          "userId": "8624433",
+          "score": 918822,
+          "combo": 798,
+          "counts": {
+            "50": 3,
+            "100": 2,
+            "200": 48,
+            "300": 529,
+            "miss": 13,
+            "max": 1961
+          }
+        }
+      ],
+      "pickCount": 4,
+      "bans": [2284328]
+    },
+    {
+      "category": "hybrid",
+      "counts": {
+        "bpm": 58,
+        "sv": 308,
+        "notes": {
+          "total": 3327,
+          "rice": 3093,
+          "ln": 234,
+          "single": 885,
+          "jump": 524,
+          "hand": 366,
+          "quad": 74
+        }
+      },
+      "title": "Shun no Shifudo o Ikashita Kare Fumi Paeria",
+      "artist": "Camellia",
+      "mapper": "XeoStyle",
+      "difficulty": "Octodad Twerk Theme",
+      "beatmapId": "1036648",
+      "beatmapSetId": "486138",
+      "hp": "8",
+      "od": "8",
+      "scores": [
+        {
+          "userId": "7306522",
+          "score": 990308,
+          "combo": 3470,
+          "counts": {
+            "50": 0,
+            "100": 0,
+            "200": 6,
+            "300": 319,
+            "miss": 1,
+            "max": 3235
+          }
+        },
+        {
+          "userId": "8756421",
+          "score": 977761,
+          "combo": 2165,
+          "counts": {
+            "50": 0,
+            "100": 3,
+            "200": 12,
+            "300": 520,
+            "miss": 3,
+            "max": 3023
+          }
+        },
+        {
+          "userId": "3909293",
+          "score": 975572,
+          "combo": 2332,
+          "counts": {
+            "50": 0,
+            "100": 1,
+            "200": 21,
+            "300": 433,
+            "miss": 4,
+            "max": 3102
+          }
+        },
+        {
+          "userId": "2284328",
+          "score": 956758,
+          "combo": 2062,
+          "counts": {
+            "50": 0,
+            "100": 8,
+            "200": 44,
+            "300": 768,
+            "miss": 5,
+            "max": 2736
+          }
+        }
+      ],
+      "pickCount": 2,
+      "bans": [3909293, 3909293]
+    },
+    {
+      "category": "hybrid",
+      "counts": {
+        "bpm": 6,
+        "sv": 13,
+        "notes": {
+          "total": 1851,
+          "rice": 1459,
+          "ln": 392,
+          "single": 482,
+          "jump": 339,
+          "hand": 205,
+          "quad": 19
+        }
+      },
+      "title": "ENDYMION",
+      "artist": "fallen shepherd feat. RabbiTon Strings",
+      "mapper": "Halogen-",
+      "difficulty": "Extreme",
+      "beatmapId": "1449017",
+      "beatmapSetId": "684675",
+      "hp": "9",
+      "od": "8.8",
+      "scores": [
+        {
+          "userId": "7306522",
+          "score": 968262,
+          "combo": 1731,
+          "counts": {
+            "50": 0,
+            "100": 0,
+            "200": 27,
+            "300": 450,
+            "miss": 1,
+            "max": 1765
+          }
+        },
+        {
+          "userId": "3909293",
+          "score": 932623,
+          "combo": 1012,
+          "counts": {
+            "50": 1,
+            "100": 2,
+            "200": 63,
+            "300": 533,
+            "miss": 3,
+            "max": 1641
+          }
+        },
+        {
+          "userId": "3909293",
+          "score": 911719,
+          "combo": 981,
+          "counts": {
+            "50": 1,
+            "100": 6,
+            "200": 55,
+            "300": 569,
+            "miss": 10,
+            "max": 1602
+          }
+        },
+        {
+          "userId": "8756421",
+          "score": 905000,
+          "combo": 1126,
+          "counts": {
+            "50": 3,
+            "100": 5,
+            "200": 59,
+            "300": 514,
+            "miss": 10,
+            "max": 1652
+          }
+        },
+        {
+          "userId": "3909293",
+          "score": 902472,
+          "combo": 849,
+          "counts": {
+            "50": 3,
+            "100": 8,
+            "200": 81,
+            "300": 546,
+            "miss": 8,
+            "max": 1597
+          }
+        },
+        {
+          "userId": "2284328",
+          "score": 873395,
+          "combo": 555,
+          "counts": {
+            "50": 4,
+            "100": 16,
+            "200": 92,
+            "300": 615,
+            "miss": 12,
+            "max": 1504
+          }
+        },
+        {
+          "userId": "9388217",
+          "score": 847491,
+          "combo": 508,
+          "counts": {
+            "50": 6,
+            "100": 10,
+            "200": 109,
+            "300": 584,
+            "miss": 21,
+            "max": 1513
+          }
+        },
+        {
+          "userId": "8624433",
+          "score": 801264,
+          "combo": 365,
+          "counts": {
+            "50": 4,
+            "100": 25,
+            "200": 150,
+            "300": 569,
+            "miss": 27,
+            "max": 1468
+          }
+        }
+      ],
+      "pickCount": 4,
+      "bans": []
+    },
+    {
+      "category": "hybrid",
+      "counts": {
+        "bpm": 3,
+        "sv": 5,
+        "notes": {
+          "total": 1607,
+          "rice": 880,
+          "ln": 727,
+          "single": 900,
+          "jump": 248,
+          "hand": 57,
+          "quad": 10
+        }
+      },
+      "title": "MFT4K2021 Finals Mappack",
+      "artist": "Various Artists",
+      "mapper": "osufrlive",
+      "difficulty": "Yoko Shimomura - Apocalypsis Magnatus (Auraah) [Hand of the King]",
+      "beatmapId": "3106286",
+      "beatmapSetId": "1517316",
+      "hp": "7",
+      "od": "7.2",
+      "scores": [
+        {
+          "userId": "8624433",
+          "score": 979876,
+          "combo": 2334,
+          "counts": {
+            "50": 0,
+            "100": 0,
+            "200": 17,
+            "300": 527,
+            "miss": 0,
+            "max": 1790
+          }
+        },
+        {
+          "userId": "3909293",
+          "score": 955861,
+          "combo": 1531,
+          "counts": {
+            "50": 0,
+            "100": 1,
+            "200": 28,
+            "300": 548,
+            "miss": 4,
+            "max": 1753
+          }
+        },
+        {
+          "userId": "3909293",
+          "score": 952140,
+          "combo": 1145,
+          "counts": {
+            "50": 0,
+            "100": 0,
+            "200": 28,
+            "300": 613,
+            "miss": 6,
+            "max": 1687
+          }
+        },
+        {
+          "userId": "9388217",
+          "score": 947852,
+          "combo": 1337,
+          "counts": {
+            "50": 2,
+            "100": 1,
+            "200": 33,
+            "300": 562,
+            "miss": 5,
+            "max": 1731
+          }
+        }
+      ],
+      "pickCount": 2,
+      "bans": [7306522]
+    },
+    {
+      "category": "boss",
+      "counts": {
+        "bpm": 47,
+        "sv": 40,
+        "notes": {
+          "total": 9684,
+          "rice": 9657,
+          "ln": 27,
+          "single": 5014,
+          "jump": 1712,
+          "hand": 374,
+          "quad": 31
+        }
+      },
+      "title": "The Azure Arbitrator",
+      "artist": "Falcom Sound Team jdk",
+      "mapper": "Evening",
+      "difficulty": "The Cerulean Peace-Breaker",
+      "beatmapId": "2454862",
+      "beatmapSetId": "1177045",
+      "hp": "9.2",
+      "od": "8",
+      "scores": [
+        {
+          "userId": "3909293",
+          "score": 974324,
+          "combo": 3721,
+          "counts": {
+            "50": 2,
+            "100": 2,
+            "200": 37,
+            "300": 1492,
+            "miss": 8,
+            "max": 8170
+          }
+        },
+        {
+          "userId": "8756421",
+          "score": 959379,
+          "combo": 2091,
+          "counts": {
+            "50": 1,
+            "100": 5,
+            "200": 75,
+            "300": 2099,
+            "miss": 16,
+            "max": 7515
+          }
+        }
+      ],
+      "pickCount": 1,
+      "bans": [8624433, 2284328, 9388217, 9388217, 7306522]
+    },
+    {
+      "category": "tiebreaker",
+      "counts": {
+        "bpm": 1,
+        "sv": 13201,
+        "notes": {
+          "total": 5044,
+          "rice": 4509,
+          "ln": 535,
+          "single": 1944,
+          "jump": 771,
+          "hand": 406,
+          "quad": 85
+        }
+      },
+      "title": "PLANET//SHAPER",
+      "artist": "Camellia",
+      "mapper": "Evening",
+      "difficulty": "FOURIER//TRANSFORM",
+      "beatmapId": "2697725",
+      "beatmapSetId": "1300539",
+      "hp": "8.5",
+      "od": "7",
+      "scores": [
+        {
+          "userId": "7306522",
+          "score": 903664,
+          "combo": 2459,
+          "counts": {
+            "50": 6,
+            "100": 20,
+            "200": 231,
+            "300": 1644,
+            "miss": 17,
+            "max": 3661
+          }
+        },
+        {
+          "userId": "3909293",
+          "score": 718757,
+          "combo": 1016,
+          "counts": {
+            "50": 12,
+            "100": 189,
+            "200": 561,
+            "300": 1611,
+            "miss": 101,
+            "max": 3105
+          }
+        }
+      ],
+      "pickCount": 1,
+      "bans": []
+    }
+  ],
+  "rolls": {
+    "2284328": [96],
+    "3909293": [78, 15, 88, 19],
+    "7306522": [16, 97],
+    "8624433": [68],
+    "8756421": [17, 38],
+    "9388217": [98, 29]
+  },
+  "matchCount": 6
+}

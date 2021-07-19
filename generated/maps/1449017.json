@@ -1,0 +1,24 @@
+{
+  "category": "hybrid",
+  "counts": {
+    "bpm": 6,
+    "sv": 13,
+    "notes": {
+      "total": 1851,
+      "rice": 1459,
+      "ln": 392,
+      "single": 482,
+      "jump": 339,
+      "hand": 205,
+      "quad": 19
+    }
+  },
+  "title": "ENDYMION",
+  "artist": "fallen shepherd feat. RabbiTon Strings",
+  "mapper": "Halogen-",
+  "difficulty": "Extreme",
+  "beatmapId": "1449017",
+  "beatmapSetId": "684675",
+  "hp": "9",
+  "od": "8.8"
+}

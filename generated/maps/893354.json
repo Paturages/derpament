@@ -1,0 +1,24 @@
+{
+  "category": "rice",
+  "counts": {
+    "bpm": 1,
+    "sv": 0,
+    "notes": {
+      "total": 2442,
+      "rice": 2388,
+      "ln": 54,
+      "single": 728,
+      "jump": 717,
+      "hand": 92,
+      "quad": 1
+    }
+  },
+  "title": "Depravity CLiMAXXX",
+  "artist": "BlackY",
+  "mapper": "Valedict",
+  "difficulty": "Desperado",
+  "beatmapId": "893354",
+  "beatmapSetId": "411717",
+  "hp": "9",
+  "od": "8"
+}

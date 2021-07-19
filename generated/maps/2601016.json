@@ -1,0 +1,24 @@
+{
+  "category": "ln",
+  "counts": {
+    "bpm": 13,
+    "sv": 20,
+    "notes": {
+      "total": 2228,
+      "rice": 31,
+      "ln": 2197,
+      "single": 770,
+      "jump": 577,
+      "hand": 84,
+      "quad": 13
+    }
+  },
+  "title": "Delrio",
+  "artist": "MiddleIsland",
+  "mapper": "Raveille",
+  "difficulty": "for the rivers",
+  "beatmapId": "2601016",
+  "beatmapSetId": "1251408",
+  "hp": "8",
+  "od": "7"
+}

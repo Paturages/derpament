@@ -1,0 +1,24 @@
+{
+  "category": "boss",
+  "counts": {
+    "bpm": 47,
+    "sv": 40,
+    "notes": {
+      "total": 9684,
+      "rice": 9657,
+      "ln": 27,
+      "single": 5014,
+      "jump": 1712,
+      "hand": 374,
+      "quad": 31
+    }
+  },
+  "title": "The Azure Arbitrator",
+  "artist": "Falcom Sound Team jdk",
+  "mapper": "Evening",
+  "difficulty": "The Cerulean Peace-Breaker",
+  "beatmapId": "2454862",
+  "beatmapSetId": "1177045",
+  "hp": "9.2",
+  "od": "8"
+}

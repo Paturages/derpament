@@ -9,7 +9,8 @@
     },
     { "id": "2.week1", "name": "Week 1: RO48/32", "mapCount": 13 },
     { "id": "3.week2", "name": "Week 2: RO16/8", "mapCount": 15 },
-    { "id": "4.week3", "name": "Week 3: QF/SF", "mapCount": 17 }
+    { "id": "4.week3", "name": "Week 3: QF/SF", "mapCount": 17 },
+    { "id": "5.week4", "name": "Week 4: Finals", "mapCount": 16 }
   ],
   "players": {
     "1375479": {

@@ -1,0 +1,24 @@
+{
+  "category": "hybrid",
+  "counts": {
+    "bpm": 58,
+    "sv": 308,
+    "notes": {
+      "total": 3327,
+      "rice": 3093,
+      "ln": 234,
+      "single": 885,
+      "jump": 524,
+      "hand": 366,
+      "quad": 74
+    }
+  },
+  "title": "Shun no Shifudo o Ikashita Kare Fumi Paeria",
+  "artist": "Camellia",
+  "mapper": "XeoStyle",
+  "difficulty": "Octodad Twerk Theme",
+  "beatmapId": "1036648",
+  "beatmapSetId": "486138",
+  "hp": "8",
+  "od": "8"
+}

@@ -1,0 +1,24 @@
+{
+  "category": "tiebreaker",
+  "counts": {
+    "bpm": 1,
+    "sv": 13201,
+    "notes": {
+      "total": 5044,
+      "rice": 4509,
+      "ln": 535,
+      "single": 1944,
+      "jump": 771,
+      "hand": 406,
+      "quad": 85
+    }
+  },
+  "title": "PLANET//SHAPER",
+  "artist": "Camellia",
+  "mapper": "Evening",
+  "difficulty": "FOURIER//TRANSFORM",
+  "beatmapId": "2697725",
+  "beatmapSetId": "1300539",
+  "hp": "8.5",
+  "od": "7"
+}

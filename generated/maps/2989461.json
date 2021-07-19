@@ -1,0 +1,24 @@
+{
+  "category": "sv",
+  "counts": {
+    "bpm": 1,
+    "sv": 904,
+    "notes": {
+      "total": 773,
+      "rice": 767,
+      "ln": 6,
+      "single": 331,
+      "jump": 215,
+      "hand": 4,
+      "quad": 0
+    }
+  },
+  "title": "Reaction feat. Slyleaf",
+  "artist": "James Landino",
+  "mapper": "Paturages",
+  "difficulty": "Instinct",
+  "beatmapId": "2989461",
+  "beatmapSetId": "1454184",
+  "hp": "8",
+  "od": "8"
+}

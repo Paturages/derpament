@@ -1,0 +1,24 @@
+{
+  "category": "speed",
+  "counts": {
+    "bpm": 1,
+    "sv": 0,
+    "notes": {
+      "total": 2499,
+      "rice": 2484,
+      "ln": 15,
+      "single": 1692,
+      "jump": 322,
+      "hand": 53,
+      "quad": 1
+    }
+  },
+  "title": "All My Life (Short ver.)",
+  "artist": "Daiki Kasho",
+  "mapper": "Valedict",
+  "difficulty": "Clarity",
+  "beatmapId": "1130972",
+  "beatmapSetId": "533863",
+  "hp": "8",
+  "od": "8"
+}

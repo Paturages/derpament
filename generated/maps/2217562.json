@@ -1,0 +1,24 @@
+{
+  "category": "sv",
+  "counts": {
+    "bpm": 27,
+    "sv": 801,
+    "notes": {
+      "total": 741,
+      "rice": 715,
+      "ln": 26,
+      "single": 162,
+      "jump": 156,
+      "hand": 89,
+      "quad": 0
+    }
+  },
+  "title": "Legend (ft. Backchat)",
+  "artist": "Jaroslav Beck, Generdyn, Backchat",
+  "mapper": "Turtwig",
+  "difficulty": "Fictional",
+  "beatmapId": "2217562",
+  "beatmapSetId": "1058836",
+  "hp": "6",
+  "od": "6.5"
+}
