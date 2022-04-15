@@ -1,0 +1,202 @@
+{
+  "match": {
+    "match_id": "62866047",
+    "name": "MLN: (Qualifiers) vs (Special Lobby 2)",
+    "start_time": "2020-06-13 07:00:22",
+    "end_time": "2020-06-13 08:16:37"
+  },
+  "games": [
+    {
+      "game_id": "328995361",
+      "start_time": "2020-06-13 07:19:57",
+      "end_time": "2020-06-13 07:23:15",
+      "beatmap_id": "2475456",
+      "play_mode": "3",
+      "match_type": "0",
+      "scoring_type": "3",
+      "team_type": "0",
+      "mods": "0",
+      "scores": [
+        {
+          "slot": "0",
+          "team": "0",
+          "user_id": "10494860",
+          "score": "969210",
+          "maxcombo": "3786",
+          "rank": "0",
+          "count50": "0",
+          "count100": "0",
+          "count300": "903",
+          "countmiss": "0",
+          "countgeki": "2822",
+          "countkatu": "61",
+          "perfect": "0",
+          "pass": "1",
+          "enabled_mods": "1073741824"
+        }
+      ]
+    },
+    {
+      "game_id": "328995893",
+      "start_time": "2020-06-13 07:23:50",
+      "end_time": "2020-06-13 07:27:16",
+      "beatmap_id": "2475325",
+      "play_mode": "3",
+      "match_type": "0",
+      "scoring_type": "3",
+      "team_type": "0",
+      "mods": "0",
+      "scores": [
+        {
+          "slot": "0",
+          "team": "0",
+          "user_id": "10494860",
+          "score": "962795",
+          "maxcombo": "3860",
+          "rank": "0",
+          "count50": "0",
+          "count100": "2",
+          "count300": "928",
+          "countmiss": "0",
+          "countgeki": "2850",
+          "countkatu": "80",
+          "perfect": "0",
+          "pass": "1",
+          "enabled_mods": "1073741824"
+        }
+      ]
+    },
+    {
+      "game_id": "328996689",
+      "start_time": "2020-06-13 07:29:38",
+      "end_time": "2020-06-13 07:31:56",
+      "beatmap_id": "2475458",
+      "play_mode": "3",
+      "match_type": "0",
+      "scoring_type": "3",
+      "team_type": "0",
+      "mods": "0",
+      "scores": [
+        {
+          "slot": "0",
+          "team": "0",
+          "user_id": "10494860",
+          "score": "970772",
+          "maxcombo": "2140",
+          "rank": "0",
+          "count50": "0",
+          "count100": "0",
+          "count300": "500",
+          "countmiss": "0",
+          "countgeki": "1608",
+          "countkatu": "32",
+          "perfect": "0",
+          "pass": "1",
+          "enabled_mods": "1073741824"
+        }
+      ]
+    },
+    {
+      "game_id": "328997192",
+      "start_time": "2020-06-13 07:33:20",
+      "end_time": "2020-06-13 07:36:38",
+      "beatmap_id": "2475456",
+      "play_mode": "3",
+      "match_type": "0",
+      "scoring_type": "3",
+      "team_type": "0",
+      "mods": "0",
+      "scores": [
+        {
+          "slot": "0",
+          "team": "0",
+          "user_id": "10494860",
+          "score": "974092",
+          "maxcombo": "3786",
+          "rank": "0",
+          "count50": "0",
+          "count100": "1",
+          "count300": "785",
+          "countmiss": "0",
+          "countgeki": "2952",
+          "countkatu": "48",
+          "perfect": "0",
+          "pass": "1",
+          "enabled_mods": "1073741824"
+        }
+      ]
+    },
+    {
+      "game_id": "328997820",
+      "start_time": "2020-06-13 07:38:05",
+      "end_time": "2020-06-13 07:41:32",
+      "beatmap_id": "2475325",
+      "play_mode": "3",
+      "match_type": "0",
+      "scoring_type": "3",
+      "team_type": "0",
+      "mods": "0",
+      "scores": [
+        {
+          "slot": "0",
+          "team": "0",
+          "user_id": "10494860",
+          "score": "963309",
+          "maxcombo": "3860",
+          "rank": "0",
+          "count50": "0",
+          "count100": "1",
+          "count300": "865",
+          "countmiss": "0",
+          "countgeki": "2911",
+          "countkatu": "83",
+          "perfect": "0",
+          "pass": "1",
+          "enabled_mods": "0"
+        }
+      ]
+    },
+    {
+      "game_id": "328998413",
+      "start_time": "2020-06-13 07:42:30",
+      "end_time": null,
+      "beatmap_id": "2475458",
+      "play_mode": "3",
+      "match_type": "0",
+      "scoring_type": "3",
+      "team_type": "0",
+      "mods": "0",
+      "scores": []
+    },
+    {
+      "game_id": "328998607",
+      "start_time": "2020-06-13 07:43:58",
+      "end_time": "2020-06-13 07:46:17",
+      "beatmap_id": "2475458",
+      "play_mode": "3",
+      "match_type": "0",
+      "scoring_type": "3",
+      "team_type": "0",
+      "mods": "0",
+      "scores": [
+        {
+          "slot": "0",
+          "team": "0",
+          "user_id": "10494860",
+          "score": "795899",
+          "maxcombo": "1370",
+          "rank": "0",
+          "count50": "30",
+          "count100": "19",
+          "count300": "505",
+          "countmiss": "65",
+          "countgeki": "1451",
+          "countkatu": "70",
+          "perfect": "0",
+          "pass": "0",
+          "enabled_mods": "1073741824"
+        }
+      ]
+    }
+  ]
+}

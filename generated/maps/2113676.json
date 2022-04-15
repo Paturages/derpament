@@ -1,0 +1,24 @@
+{
+  "category": "SP",
+  "counts": {
+    "bpm": 1,
+    "sv": 9,
+    "notes": {
+      "total": 1720,
+      "rice": 464,
+      "ln": 1256,
+      "single": 814,
+      "jump": 366,
+      "hand": 54,
+      "quad": 3
+    }
+  },
+  "title": "Senbonzakura",
+  "artist": "Lindsey Stirling",
+  "mapper": "ATing",
+  "difficulty": "LN Master",
+  "beatmapId": "2113676",
+  "beatmapSetId": "1009692",
+  "hp": "8",
+  "od": "6"
+}

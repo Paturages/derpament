@@ -1,0 +1,24 @@
+{
+  "category": "CO",
+  "counts": {
+    "bpm": 1,
+    "sv": 4,
+    "notes": {
+      "total": 1549,
+      "rice": 501,
+      "ln": 1048,
+      "single": 479,
+      "jump": 325,
+      "hand": 136,
+      "quad": 3
+    }
+  },
+  "title": "Banbutsu no Ou",
+  "artist": "senya",
+  "mapper": "souzirou1000",
+  "difficulty": "LN",
+  "beatmapId": "1895977",
+  "beatmapSetId": "908627",
+  "hp": "7.5",
+  "od": "5.6"
+}

@@ -1,0 +1,24 @@
+{
+  "category": "SP",
+  "counts": {
+    "bpm": 6,
+    "sv": 1,
+    "notes": {
+      "total": 1651,
+      "rice": 302,
+      "ln": 1349,
+      "single": 772,
+      "jump": 201,
+      "hand": 151,
+      "quad": 6
+    }
+  },
+  "title": "Bad Elixir",
+  "artist": "xi",
+  "mapper": "Toaph Daddy",
+  "difficulty": "Panacea",
+  "beatmapId": "1978184",
+  "beatmapSetId": "947119",
+  "hp": "7",
+  "od": "7.5"
+}

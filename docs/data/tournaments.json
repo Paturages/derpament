@@ -57,7 +57,8 @@
       { "id": "1.qualifiers", "name": "Qualifiers", "qualifiers": true },
       { "id": "2.week1", "name": "Week 1: RO48/32" },
       { "id": "3.week2", "name": "Week 2: RO16/8" },
-      { "id": "4.week3", "name": "Week 3: QF/SF" }
+      { "id": "4.week3", "name": "Week 3: QF/SF" },
+      { "id": "5.week4", "name": "Week 4: Finals" }
     ],
     "id": "mft2021",
     "playersCount": 69
@@ -67,5 +68,20 @@
     "stages": [{ "id": "1.week1", "name": "Week 1: RO16 + Quarterfinals" }],
     "id": "mft7k2021",
     "playersCount": 18
+  },
+  {
+    "name": "osu!mania LN Tournament #2",
+    "stages": [
+      { "id": "1.qualifiers", "name": "Qualifiers", "qualifiers": true },
+      { "id": "2.ro64", "name": "RO64" },
+      { "id": "3.ro32", "name": "RO32" },
+      { "id": "4.ro16", "name": "RO16" },
+      { "id": "5.qf", "name": "Quarterfinals" },
+      { "id": "6.sf", "name": "Semifinals" },
+      { "id": "7.f1", "name": "Finals week 1" },
+      { "id": "8.f2", "name": "Finals week 2" }
+    ],
+    "id": "omln2",
+    "playersCount": 113
   }
 ]

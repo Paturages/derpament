@@ -1,0 +1,24 @@
+{
+  "category": "CO",
+  "counts": {
+    "bpm": 1,
+    "sv": 39,
+    "notes": {
+      "total": 2265,
+      "rice": 673,
+      "ln": 1592,
+      "single": 1007,
+      "jump": 421,
+      "hand": 136,
+      "quad": 2
+    }
+  },
+  "title": "ONIGIRI FREEWAY",
+  "artist": "OISHII",
+  "mapper": "Mentholzzz",
+  "difficulty": "Unagi Onigiri \"UHD\"",
+  "beatmapId": "1505212",
+  "beatmapSetId": "663098",
+  "hp": "9",
+  "od": "7.7"
+}

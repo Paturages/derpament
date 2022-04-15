@@ -1,0 +1,24 @@
+{
+  "category": "CO",
+  "counts": {
+    "bpm": 10,
+    "sv": 10,
+    "notes": {
+      "total": 1934,
+      "rice": 278,
+      "ln": 1656,
+      "single": 665,
+      "jump": 348,
+      "hand": 183,
+      "quad": 6
+    }
+  },
+  "title": "Lancelot ~Flame of the Rebellion~",
+  "artist": "Penoreri",
+  "mapper": "Gekido-",
+  "difficulty": "LN Master",
+  "beatmapId": "2522704",
+  "beatmapSetId": "1211967",
+  "hp": "8",
+  "od": "8"
+}

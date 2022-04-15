@@ -1,0 +1,38 @@
+{
+  "name": "osu!mania LN Tournament #2",
+  "stages": [
+    {
+      "id": "1.qualifiers",
+      "name": "Qualifiers",
+      "qualifiers": true
+    },
+    {
+      "id": "2.ro64",
+      "name": "RO64"
+    },
+    {
+      "id": "3.ro32",
+      "name": "RO32"
+    },
+    {
+      "id": "4.ro16",
+      "name": "RO16"
+    },
+    {
+      "id": "5.qf",
+      "name": "Quarterfinals"
+    },
+    {
+      "id": "6.sf",
+      "name": "Semifinals"
+    },
+    {
+      "id": "7.f1",
+      "name": "Finals week 1"
+    },
+    {
+      "id": "8.f2",
+      "name": "Finals week 2"
+    }
+  ]
+}

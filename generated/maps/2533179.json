@@ -1,0 +1,24 @@
+{
+  "category": "SP",
+  "counts": {
+    "bpm": 2,
+    "sv": 5,
+    "notes": {
+      "total": 3293,
+      "rice": 1188,
+      "ln": 2105,
+      "single": 694,
+      "jump": 670,
+      "hand": 361,
+      "quad": 44
+    }
+  },
+  "title": "Countdown",
+  "artist": "Imy",
+  "mapper": "Polytetral",
+  "difficulty": "Nervous (edit)",
+  "beatmapId": "2533179",
+  "beatmapSetId": "1217494",
+  "hp": "8",
+  "od": "7"
+}

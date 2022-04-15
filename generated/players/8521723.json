@@ -1,0 +1,126 @@
+{
+  "avatar_url": "https://a.ppy.sh/8521723?1646665656.jpeg",
+  "country_code": "TH",
+  "default_group": "default",
+  "id": 8521723,
+  "is_active": true,
+  "is_bot": false,
+  "is_deleted": false,
+  "is_online": false,
+  "is_supporter": false,
+  "last_visit": "2022-04-15T16:53:02+00:00",
+  "pm_friends_only": false,
+  "profile_colour": null,
+  "username": "MyZterioN-",
+  "cover_url": "https://assets.ppy.sh/user-profile-covers/8521723/c086c1c3f536c1d27b0eae703db5006dd1b5e8c5d69bf409d7e5b6dd590146ea.jpeg",
+  "discord": "MyZterioN-#2782",
+  "has_supported": true,
+  "interests": "Rhythm Games",
+  "join_date": "2016-06-07T10:23:06+00:00",
+  "kudosu": { "total": 0, "available": 0 },
+  "location": "In your heart <3 owo",
+  "max_blocks": 50,
+  "max_friends": 250,
+  "occupation": null,
+  "playmode": "mania",
+  "playstyle": ["mouse", "keyboard"],
+  "post_count": 116,
+  "profile_order": [
+    "me",
+    "top_ranks",
+    "beatmaps",
+    "recent_activity",
+    "historical",
+    "medals",
+    "kudosu"
+  ],
+  "title": null,
+  "title_url": null,
+  "twitter": "MyZterioNnNn",
+  "website": null,
+  "country": { "code": "TH", "name": "Thailand" },
+  "cover": {
+    "custom_url": "https://assets.ppy.sh/user-profile-covers/8521723/c086c1c3f536c1d27b0eae703db5006dd1b5e8c5d69bf409d7e5b6dd590146ea.jpeg",
+    "url": "https://assets.ppy.sh/user-profile-covers/8521723/c086c1c3f536c1d27b0eae703db5006dd1b5e8c5d69bf409d7e5b6dd590146ea.jpeg",
+    "id": null
+  },
+  "account_history": [],
+  "active_tournament_banner": null,
+  "badges": [
+    {
+      "awarded_at": "2022-01-17T16:45:33+00:00",
+      "description": "osu!mania Thailand Pro League 2021 Winning Team",
+      "image_url": "https://assets.ppy.sh/profile-badges/omthpl-2021.png",
+      "url": ""
+    },
+    {
+      "awarded_at": "2020-03-03T11:19:17+00:00",
+      "description": "osu!mania South East Asia Champion 2019 Winner ",
+      "image_url": "https://assets.ppy.sh/profile-badges/oseac-2019.png",
+      "url": ""
+    },
+    {
+      "awarded_at": "2020-01-29T07:29:40+00:00",
+      "description": "osu!mania Doubles Tournament 2019 Winning Team",
+      "image_url": "https://assets.ppy.sh/profile-badges/omdt-2019.png",
+      "url": ""
+    },
+    {
+      "awarded_at": "2019-08-04T10:09:11+00:00",
+      "description": "osu!mania 4K Thailand Tournament 2019 Winner",
+      "image_url": "https://assets.ppy.sh/profile-badges/omtht-4k-2019.png",
+      "url": ""
+    }
+  ],
+  "beatmap_playcounts_count": 3713,
+  "comments_count": 73,
+  "favourite_beatmapset_count": 196,
+  "follower_count": 311,
+  "graveyard_beatmapset_count": 69,
+  "groups": [],
+  "loved_beatmapset_count": 1,
+  "mapping_follower_count": 50,
+  "pending_beatmapset_count": 4,
+  "previous_usernames": ["Mr_ZenlIfeJa"],
+  "ranked_beatmapset_count": 0,
+  "scores_best_count": 100,
+  "scores_first_count": 6,
+  "scores_pinned_count": 0,
+  "scores_recent_count": 4,
+  "statistics": {
+    "level": { "current": 97, "progress": 37 },
+    "global_rank": 345,
+    "pp": 11412.5,
+    "ranked_score": 1240872437,
+    "hit_accuracy": 97.2016,
+    "play_count": 19984,
+    "play_time": 2001538,
+    "total_score": 10635590525,
+    "total_hits": 30110026,
+    "maximum_combo": 10071,
+    "replays_watched_by_others": 10955,
+    "is_ranked": true,
+    "grade_counts": { "ss": 166, "ssh": 0, "s": 1006, "sh": 0, "a": 121 },
+    "country_rank": 8,
+    "rank": { "country": 8 },
+    "variants": [
+      {
+        "mode": "mania",
+        "variant": "4k",
+        "country_rank": 2,
+        "global_rank": 56,
+        "pp": 11392.2
+      },
+      {
+        "mode": "mania",
+        "variant": "7k",
+        "country_rank": 72,
+        "global_rank": 2833,
+        "pp": 5349.91
+      }
+    ]
+  },
+  "support_level": 0,
+  "ranked_and_approved_beatmapset_count": 0,
+  "unranked_beatmapset_count": 4
+}

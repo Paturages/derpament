@@ -1,0 +1,24 @@
+{
+  "category": "DE",
+  "counts": {
+    "bpm": 7,
+    "sv": 4,
+    "notes": {
+      "total": 1960,
+      "rice": 38,
+      "ln": 1922,
+      "single": 421,
+      "jump": 575,
+      "hand": 127,
+      "quad": 2
+    }
+  },
+  "title": "Demon Pack 3 - LN Master 3rd",
+  "artist": "Demon",
+  "mapper": "lpddemon",
+  "difficulty": "Yak_Won - Out Of The Blue [PEACE]",
+  "beatmapId": "1382874",
+  "beatmapSetId": "652150",
+  "hp": "7",
+  "od": "7"
+}

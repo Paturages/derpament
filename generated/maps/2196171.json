@@ -1,0 +1,24 @@
+{
+  "category": "TE",
+  "counts": {
+    "bpm": 1,
+    "sv": 0,
+    "notes": {
+      "total": 3111,
+      "rice": 345,
+      "ln": 2766,
+      "single": 704,
+      "jump": 1010,
+      "hand": 129,
+      "quad": 0
+    }
+  },
+  "title": "Kamisama Nejimaki",
+  "artist": "Cilvery",
+  "mapper": "juankristal",
+  "difficulty": "TIMING HELL",
+  "beatmapId": "2196171",
+  "beatmapSetId": "1050794",
+  "hp": "8",
+  "od": "8"
+}

@@ -1,0 +1,24 @@
+{
+  "category": "DE",
+  "counts": {
+    "bpm": 6,
+    "sv": 0,
+    "notes": {
+      "total": 1377,
+      "rice": 313,
+      "ln": 1064,
+      "single": 783,
+      "jump": 268,
+      "hand": 18,
+      "quad": 1
+    }
+  },
+  "title": "Flowers feat. nori",
+  "artist": "In Love With A Ghost",
+  "mapper": "Hlimak",
+  "difficulty": "fLNowers",
+  "beatmapId": "1875524",
+  "beatmapSetId": "897776",
+  "hp": "8",
+  "od": "5"
+}

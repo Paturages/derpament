@@ -1,0 +1,24 @@
+{
+  "category": "SP",
+  "counts": {
+    "bpm": 1,
+    "sv": 2,
+    "notes": {
+      "total": 1085,
+      "rice": 481,
+      "ln": 604,
+      "single": 438,
+      "jump": 163,
+      "hand": 95,
+      "quad": 9
+    }
+  },
+  "title": "Proluvies",
+  "artist": "Camellia",
+  "mapper": "SitekX",
+  "difficulty": "Abyss",
+  "beatmapId": "1562118",
+  "beatmapSetId": "740431",
+  "hp": "9",
+  "od": "7"
+}

@@ -1,0 +1,24 @@
+{
+  "category": "TE",
+  "counts": {
+    "bpm": 1,
+    "sv": 0,
+    "notes": {
+      "total": 3943,
+      "rice": 1261,
+      "ln": 2682,
+      "single": 1615,
+      "jump": 1105,
+      "hand": 34,
+      "quad": 4
+    }
+  },
+  "title": "Turkey Turkey",
+  "artist": "Kommisar",
+  "mapper": "lemonguy",
+  "difficulty": "LN Master",
+  "beatmapId": "1782630",
+  "beatmapSetId": "852916",
+  "hp": "8.5",
+  "od": "7.3"
+}

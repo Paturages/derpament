@@ -1,0 +1,24 @@
+{
+  "category": "CO",
+  "counts": {
+    "bpm": 1,
+    "sv": 0,
+    "notes": {
+      "total": 1806,
+      "rice": 355,
+      "ln": 1451,
+      "single": 400,
+      "jump": 459,
+      "hand": 160,
+      "quad": 2
+    }
+  },
+  "title": "Rhythm Of Love",
+  "artist": "Yoomiii",
+  "mapper": "[Crz]Crysarlene",
+  "difficulty": "LN Hyper",
+  "beatmapId": "2164336",
+  "beatmapSetId": "1035204",
+  "hp": "8",
+  "od": "7"
+}

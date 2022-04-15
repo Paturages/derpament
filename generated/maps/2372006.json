@@ -1,0 +1,24 @@
+{
+  "category": "TB",
+  "counts": {
+    "bpm": 54,
+    "sv": 112,
+    "notes": {
+      "total": 2673,
+      "rice": 1579,
+      "ln": 1094,
+      "single": 1204,
+      "jump": 548,
+      "hand": 123,
+      "quad": 1
+    }
+  },
+  "title": "chrono diver -fragment- (Camellia's \"crossroads of chrono\" remix)",
+  "artist": "Camellia",
+  "mapper": "UnluckyCroco",
+  "difficulty": "Everlasting Dream",
+  "beatmapId": "2372006",
+  "beatmapSetId": "1135058",
+  "hp": "9",
+  "od": "7.9"
+}

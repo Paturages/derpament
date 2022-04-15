@@ -1,0 +1,1036 @@
+{
+  "id": "8.f2",
+  "name": "Finals week 2",
+  "mapCount": 18,
+  "maps": [
+    {
+      "category": "CO",
+      "counts": {
+        "bpm": 1,
+        "sv": 68,
+        "notes": {
+          "total": 3544,
+          "rice": 794,
+          "ln": 2750,
+          "single": 1115,
+          "jump": 901,
+          "hand": 209,
+          "quad": 0
+        }
+      },
+      "title": "ELPIS LN I",
+      "artist": "Various Artists",
+      "mapper": "ELPIS",
+      "difficulty": "YELL!",
+      "beatmapId": "1595151",
+      "beatmapSetId": "758327",
+      "hp": "8",
+      "od": "8",
+      "scores": [
+        {
+          "userId": "6699923",
+          "score": 985717,
+          "combo": 6294,
+          "counts": {
+            "50": 0,
+            "100": 1,
+            "200": 25,
+            "300": 1128,
+            "miss": 0,
+            "max": 5140
+          }
+        },
+        {
+          "userId": "8521723",
+          "score": 978906,
+          "combo": 3794,
+          "counts": {
+            "50": 2,
+            "100": 2,
+            "200": 35,
+            "300": 1002,
+            "miss": 1,
+            "max": 5252
+          }
+        }
+      ],
+      "pickCount": 1
+    },
+    {
+      "category": "CO",
+      "counts": {
+        "bpm": 10,
+        "sv": 10,
+        "notes": {
+          "total": 1934,
+          "rice": 278,
+          "ln": 1656,
+          "single": 665,
+          "jump": 348,
+          "hand": 183,
+          "quad": 6
+        }
+      },
+      "title": "Lancelot ~Flame of the Rebellion~",
+      "artist": "Penoreri",
+      "mapper": "Gekido-",
+      "difficulty": "LN Master",
+      "beatmapId": "2522704",
+      "beatmapSetId": "1211967",
+      "hp": "8",
+      "od": "8",
+      "scores": [
+        {
+          "userId": "4477497",
+          "score": 988123,
+          "combo": 1834,
+          "counts": {
+            "50": 2,
+            "100": 0,
+            "200": 2,
+            "300": 399,
+            "miss": 0,
+            "max": 3187
+          }
+        },
+        {
+          "userId": "6699923",
+          "score": 987970,
+          "combo": 3590,
+          "counts": {
+            "50": 0,
+            "100": 0,
+            "200": 8,
+            "300": 651,
+            "miss": 0,
+            "max": 2931
+          }
+        },
+        {
+          "userId": "8521723",
+          "score": 982389,
+          "combo": 2701,
+          "counts": {
+            "50": 1,
+            "100": 0,
+            "200": 10,
+            "300": 610,
+            "miss": 1,
+            "max": 2968
+          }
+        },
+        {
+          "userId": "8521723",
+          "score": 943548,
+          "combo": 1745,
+          "counts": {
+            "50": 5,
+            "100": 6,
+            "200": 23,
+            "300": 622,
+            "miss": 22,
+            "max": 2912
+          }
+        }
+      ],
+      "pickCount": 2
+    },
+    {
+      "category": "CO",
+      "counts": {
+        "bpm": 1,
+        "sv": 1,
+        "notes": {
+          "total": 1549,
+          "rice": 340,
+          "ln": 1209,
+          "single": 406,
+          "jump": 358,
+          "hand": 133,
+          "quad": 7
+        }
+      },
+      "title": "planetarium",
+      "artist": "SUi",
+      "mapper": "pieerre",
+      "difficulty": "Plain LN",
+      "beatmapId": "2303455",
+      "beatmapSetId": "1101700",
+      "hp": "8",
+      "od": "7",
+      "scores": [],
+      "pickCount": 0
+    },
+    {
+      "category": "CO",
+      "counts": {
+        "bpm": 1,
+        "sv": 6,
+        "notes": {
+          "total": 3658,
+          "rice": 69,
+          "ln": 3589,
+          "single": 1616,
+          "jump": 832,
+          "hand": 118,
+          "quad": 6
+        }
+      },
+      "title": "Oceanus (xi Remix)",
+      "artist": "cosMo@BousouP",
+      "mapper": "Raveille",
+      "difficulty": "Suntidal",
+      "beatmapId": "2457191",
+      "beatmapSetId": "1178237",
+      "hp": "8",
+      "od": "7.6",
+      "scores": [
+        {
+          "userId": "4477497",
+          "score": 991173,
+          "combo": 4877,
+          "counts": {
+            "50": 1,
+            "100": 0,
+            "200": 9,
+            "300": 718,
+            "miss": 0,
+            "max": 6520
+          }
+        },
+        {
+          "userId": "6699923",
+          "score": 987630,
+          "combo": 7248,
+          "counts": {
+            "50": 0,
+            "100": 0,
+            "200": 21,
+            "300": 1254,
+            "miss": 0,
+            "max": 5973
+          }
+        },
+        {
+          "userId": "8521723",
+          "score": 987475,
+          "combo": 7248,
+          "counts": {
+            "50": 0,
+            "100": 0,
+            "200": 21,
+            "300": 1276,
+            "miss": 0,
+            "max": 5951
+          }
+        },
+        {
+          "userId": "8521723",
+          "score": 978097,
+          "combo": 3394,
+          "counts": {
+            "50": 2,
+            "100": 4,
+            "200": 19,
+            "300": 1343,
+            "miss": 4,
+            "max": 5876
+          }
+        }
+      ],
+      "pickCount": 2
+    },
+    {
+      "category": "CO",
+      "counts": {
+        "bpm": 1,
+        "sv": 254,
+        "notes": {
+          "total": 2113,
+          "rice": 466,
+          "ln": 1647,
+          "single": 387,
+          "jump": 447,
+          "hand": 240,
+          "quad": 28
+        }
+      },
+      "title": "Scream",
+      "artist": "Dreamcatcher",
+      "mapper": "LovelyN",
+      "difficulty": "Devil Eyes Come",
+      "beatmapId": "2324613",
+      "beatmapSetId": "1112680",
+      "hp": "0",
+      "od": "0",
+      "scores": [],
+      "pickCount": 0
+    },
+    {
+      "category": "TE",
+      "counts": {
+        "bpm": 1,
+        "sv": 0,
+        "notes": {
+          "total": 3159,
+          "rice": 831,
+          "ln": 2328,
+          "single": 1806,
+          "jump": 417,
+          "hand": 173,
+          "quad": 0
+        }
+      },
+      "title": "Precursor",
+      "artist": "sky_delta",
+      "mapper": "Daughter-",
+      "difficulty": "antecedent (Edit)",
+      "beatmapId": "2119730",
+      "beatmapSetId": "857564",
+      "hp": "8",
+      "od": "7.5",
+      "scores": [
+        {
+          "userId": "8521723",
+          "score": 971515,
+          "combo": 3850,
+          "counts": {
+            "50": 2,
+            "100": 4,
+            "200": 23,
+            "300": 997,
+            "miss": 11,
+            "max": 4450
+          }
+        },
+        {
+          "userId": "6699923",
+          "score": 964790,
+          "combo": 2720,
+          "counts": {
+            "50": 2,
+            "100": 0,
+            "200": 35,
+            "300": 1091,
+            "miss": 7,
+            "max": 4352
+          }
+        }
+      ],
+      "pickCount": 1
+    },
+    {
+      "category": "TE",
+      "counts": {
+        "bpm": 1,
+        "sv": 0,
+        "notes": {
+          "total": 3943,
+          "rice": 1261,
+          "ln": 2682,
+          "single": 1615,
+          "jump": 1105,
+          "hand": 34,
+          "quad": 4
+        }
+      },
+      "title": "Turkey Turkey",
+      "artist": "Kommisar",
+      "mapper": "lemonguy",
+      "difficulty": "LN Master",
+      "beatmapId": "1782630",
+      "beatmapSetId": "852916",
+      "hp": "8.5",
+      "od": "7.3",
+      "scores": [
+        {
+          "userId": "6699923",
+          "score": 978630,
+          "combo": 5232,
+          "counts": {
+            "50": 1,
+            "100": 5,
+            "200": 22,
+            "300": 1400,
+            "miss": 2,
+            "max": 5195
+          }
+        },
+        {
+          "userId": "8521723",
+          "score": 978438,
+          "combo": 5233,
+          "counts": {
+            "50": 0,
+            "100": 2,
+            "200": 30,
+            "300": 1218,
+            "miss": 4,
+            "max": 5371
+          }
+        }
+      ],
+      "pickCount": 1
+    },
+    {
+      "category": "TE",
+      "counts": {
+        "bpm": 1,
+        "sv": 0,
+        "notes": {
+          "total": 3111,
+          "rice": 345,
+          "ln": 2766,
+          "single": 704,
+          "jump": 1010,
+          "hand": 129,
+          "quad": 0
+        }
+      },
+      "title": "Kamisama Nejimaki",
+      "artist": "Cilvery",
+      "mapper": "juankristal",
+      "difficulty": "TIMING HELL",
+      "beatmapId": "2196171",
+      "beatmapSetId": "1050794",
+      "hp": "8",
+      "od": "8",
+      "scores": [
+        {
+          "userId": "6699923",
+          "score": 981202,
+          "combo": 3731,
+          "counts": {
+            "50": 2,
+            "100": 1,
+            "200": 12,
+            "300": 1088,
+            "miss": 2,
+            "max": 4772
+          }
+        },
+        {
+          "userId": "8521723",
+          "score": 980486,
+          "combo": 5877,
+          "counts": {
+            "50": 0,
+            "100": 1,
+            "200": 48,
+            "300": 1099,
+            "miss": 0,
+            "max": 4729
+          }
+        },
+        {
+          "userId": "4477497",
+          "score": 977203,
+          "combo": 3431,
+          "counts": {
+            "50": 4,
+            "100": 0,
+            "200": 24,
+            "300": 888,
+            "miss": 3,
+            "max": 4958
+          }
+        },
+        {
+          "userId": "8521723",
+          "score": 976848,
+          "combo": 4886,
+          "counts": {
+            "50": 2,
+            "100": 2,
+            "200": 48,
+            "300": 1034,
+            "miss": 1,
+            "max": 4790
+          }
+        }
+      ],
+      "pickCount": 2
+    },
+    {
+      "category": "TE",
+      "counts": {
+        "bpm": 1,
+        "sv": 0,
+        "notes": {
+          "total": 2387,
+          "rice": 547,
+          "ln": 1840,
+          "single": 808,
+          "jump": 600,
+          "hand": 113,
+          "quad": 10
+        }
+      },
+      "title": "Nhelv",
+      "artist": "Silentroom",
+      "mapper": "[Crz]Crysarlene",
+      "difficulty": "Zen [0,85x Rate]",
+      "beatmapId": "2533111",
+      "beatmapSetId": "859272",
+      "hp": "8",
+      "od": "8",
+      "scores": [
+        {
+          "userId": "4477497",
+          "score": 986008,
+          "combo": 4227,
+          "counts": {
+            "50": 0,
+            "100": 0,
+            "200": 17,
+            "300": 758,
+            "miss": 0,
+            "max": 3452
+          }
+        },
+        {
+          "userId": "8521723",
+          "score": 976533,
+          "combo": 3435,
+          "counts": {
+            "50": 0,
+            "100": 1,
+            "200": 24,
+            "300": 871,
+            "miss": 3,
+            "max": 3328
+          }
+        },
+        {
+          "userId": "6699923",
+          "score": 974116,
+          "combo": 4168,
+          "counts": {
+            "50": 0,
+            "100": 7,
+            "200": 11,
+            "300": 846,
+            "miss": 9,
+            "max": 3354
+          }
+        },
+        {
+          "userId": "8521723",
+          "score": 967855,
+          "combo": 2889,
+          "counts": {
+            "50": 4,
+            "100": 1,
+            "200": 32,
+            "300": 890,
+            "miss": 2,
+            "max": 3298
+          }
+        }
+      ],
+      "pickCount": 2
+    },
+    {
+      "category": "TE",
+      "counts": {
+        "bpm": 31,
+        "sv": 27,
+        "notes": {
+          "total": 1300,
+          "rice": 98,
+          "ln": 1202,
+          "single": 600,
+          "jump": 248,
+          "hand": 60,
+          "quad": 6
+        }
+      },
+      "title": "Deal with the devil",
+      "artist": "Tia",
+      "mapper": "-Rem-",
+      "difficulty": "gamble",
+      "beatmapId": "2082239",
+      "beatmapSetId": "995384",
+      "hp": "7",
+      "od": "6.9",
+      "scores": [
+        {
+          "userId": "6699923",
+          "score": 988090,
+          "combo": 2502,
+          "counts": {
+            "50": 0,
+            "100": 0,
+            "200": 4,
+            "300": 483,
+            "miss": 0,
+            "max": 2015
+          }
+        },
+        {
+          "userId": "8521723",
+          "score": 985792,
+          "combo": 2502,
+          "counts": {
+            "50": 0,
+            "100": 0,
+            "200": 9,
+            "300": 483,
+            "miss": 0,
+            "max": 2010
+          }
+        }
+      ],
+      "pickCount": 1
+    },
+    {
+      "category": "SP",
+      "counts": {
+        "bpm": 1,
+        "sv": 0,
+        "notes": {
+          "total": 1798,
+          "rice": 610,
+          "ln": 1188,
+          "single": 551,
+          "jump": 392,
+          "hand": 149,
+          "quad": 4
+        }
+      },
+      "title": "Carnation (ck remix)",
+      "artist": "ck",
+      "mapper": "Gekido-",
+      "difficulty": "LN Master",
+      "beatmapId": "1579095",
+      "beatmapSetId": "749709",
+      "hp": "7.5",
+      "od": "7",
+      "scores": [],
+      "pickCount": 0
+    },
+    {
+      "category": "SP",
+      "counts": {
+        "bpm": 2,
+        "sv": 5,
+        "notes": {
+          "total": 3293,
+          "rice": 1188,
+          "ln": 2105,
+          "single": 694,
+          "jump": 670,
+          "hand": 361,
+          "quad": 44
+        }
+      },
+      "title": "Countdown",
+      "artist": "Imy",
+      "mapper": "Polytetral",
+      "difficulty": "Nervous (edit)",
+      "beatmapId": "2533179",
+      "beatmapSetId": "1217494",
+      "hp": "8",
+      "od": "7",
+      "scores": [
+        {
+          "userId": "8521723",
+          "score": 987253,
+          "combo": 5398,
+          "counts": {
+            "50": 0,
+            "100": 0,
+            "200": 20,
+            "300": 876,
+            "miss": 0,
+            "max": 4502
+          }
+        },
+        {
+          "userId": "6699923",
+          "score": 975766,
+          "combo": 3054,
+          "counts": {
+            "50": 3,
+            "100": 1,
+            "200": 16,
+            "300": 954,
+            "miss": 3,
+            "max": 4421
+          }
+        }
+      ],
+      "pickCount": 1
+    },
+    {
+      "category": "SP",
+      "counts": {
+        "bpm": 1,
+        "sv": 6,
+        "notes": {
+          "total": 3073,
+          "rice": 13,
+          "ln": 3060,
+          "single": 552,
+          "jump": 698,
+          "hand": 339,
+          "quad": 27
+        }
+      },
+      "title": "humanly",
+      "artist": "umu.",
+      "mapper": "Raveille",
+      "difficulty": "timing hell?",
+      "beatmapId": "2468707",
+      "beatmapSetId": "1184226",
+      "hp": "8",
+      "od": "8",
+      "scores": [
+        {
+          "userId": "8521723",
+          "score": 986371,
+          "combo": 6133,
+          "counts": {
+            "50": 0,
+            "100": 0,
+            "200": 23,
+            "300": 1095,
+            "miss": 0,
+            "max": 5015
+          }
+        },
+        {
+          "userId": "6699923",
+          "score": 982708,
+          "combo": 6133,
+          "counts": {
+            "50": 0,
+            "100": 1,
+            "200": 35,
+            "300": 1221,
+            "miss": 0,
+            "max": 4876
+          }
+        }
+      ],
+      "pickCount": 1
+    },
+    {
+      "category": "SP",
+      "counts": {
+        "bpm": 1,
+        "sv": 8,
+        "notes": {
+          "total": 1736,
+          "rice": 255,
+          "ln": 1481,
+          "single": 607,
+          "jump": 311,
+          "hand": 141,
+          "quad": 21
+        }
+      },
+      "title": "Titania",
+      "artist": "xi",
+      "mapper": "Raveille",
+      "difficulty": "Midsummer",
+      "beatmapId": "2457475",
+      "beatmapSetId": "1178357",
+      "hp": "8",
+      "od": "7.7",
+      "scores": [
+        {
+          "userId": "4477497",
+          "score": 990902,
+          "combo": 3217,
+          "counts": {
+            "50": 0,
+            "100": 0,
+            "200": 10,
+            "300": 338,
+            "miss": 0,
+            "max": 2869
+          }
+        },
+        {
+          "userId": "8521723",
+          "score": 985231,
+          "combo": 3217,
+          "counts": {
+            "50": 0,
+            "100": 2,
+            "200": 15,
+            "300": 492,
+            "miss": 0,
+            "max": 2708
+          }
+        },
+        {
+          "userId": "8521723",
+          "score": 981102,
+          "combo": 3181,
+          "counts": {
+            "50": 0,
+            "100": 0,
+            "200": 10,
+            "300": 545,
+            "miss": 5,
+            "max": 2657
+          }
+        },
+        {
+          "userId": "6699923",
+          "score": 966276,
+          "combo": 1484,
+          "counts": {
+            "50": 2,
+            "100": 1,
+            "200": 13,
+            "300": 647,
+            "miss": 6,
+            "max": 2548
+          }
+        }
+      ],
+      "pickCount": 2
+    },
+    {
+      "category": "DE",
+      "counts": {
+        "bpm": 1,
+        "sv": 0,
+        "notes": {
+          "total": 1867,
+          "rice": 620,
+          "ln": 1247,
+          "single": 193,
+          "jump": 455,
+          "hand": 244,
+          "quad": 8
+        }
+      },
+      "title": "Enka - flameflower",
+      "artist": "P4koo",
+      "mapper": "_underjoy",
+      "difficulty": "hanataba [0,95x Rate]",
+      "beatmapId": "1804215",
+      "beatmapSetId": "862538",
+      "hp": "8",
+      "od": "8",
+      "scores": [
+        {
+          "userId": "8521723",
+          "score": 971793,
+          "combo": 2270,
+          "counts": {
+            "50": 1,
+            "100": 0,
+            "200": 15,
+            "300": 701,
+            "miss": 2,
+            "max": 2395
+          }
+        },
+        {
+          "userId": "6699923",
+          "score": 954245,
+          "combo": 1706,
+          "counts": {
+            "50": 1,
+            "100": 1,
+            "200": 19,
+            "300": 778,
+            "miss": 11,
+            "max": 2304
+          }
+        }
+      ],
+      "pickCount": 1
+    },
+    {
+      "category": "DE",
+      "counts": {
+        "bpm": 1,
+        "sv": 0,
+        "notes": {
+          "total": 2396,
+          "rice": 24,
+          "ln": 2372,
+          "single": 835,
+          "jump": 476,
+          "hand": 203,
+          "quad": 0
+        }
+      },
+      "title": "Masteriosl's LN Converts Pack 1",
+      "artist": "Various Artists",
+      "mapper": "Masteriosl",
+      "difficulty": "Sharkey & Arkitech - Quadraphinix [Challenge (Xay) [Full LN]]",
+      "beatmapId": "2154467",
+      "beatmapSetId": "1030265",
+      "hp": "7",
+      "od": "8",
+      "scores": [
+        {
+          "userId": "4477497",
+          "score": 989594,
+          "combo": 4768,
+          "counts": {
+            "50": 0,
+            "100": 1,
+            "200": 11,
+            "300": 663,
+            "miss": 0,
+            "max": 4093
+          }
+        },
+        {
+          "userId": "8521723",
+          "score": 963467,
+          "combo": 1322,
+          "counts": {
+            "50": 9,
+            "100": 3,
+            "200": 26,
+            "300": 746,
+            "miss": 3,
+            "max": 3981
+          }
+        }
+      ],
+      "pickCount": 1
+    },
+    {
+      "category": "DE",
+      "counts": {
+        "bpm": 7,
+        "sv": 4,
+        "notes": {
+          "total": 1960,
+          "rice": 38,
+          "ln": 1922,
+          "single": 421,
+          "jump": 575,
+          "hand": 127,
+          "quad": 2
+        }
+      },
+      "title": "Demon Pack 3 - LN Master 3rd",
+      "artist": "Demon",
+      "mapper": "lpddemon",
+      "difficulty": "Yak_Won - Out Of The Blue [PEACE]",
+      "beatmapId": "1382874",
+      "beatmapSetId": "652150",
+      "hp": "7",
+      "od": "7",
+      "scores": [
+        {
+          "userId": "4477497",
+          "score": 990051,
+          "combo": 2218,
+          "counts": {
+            "50": 1,
+            "100": 0,
+            "200": 2,
+            "300": 386,
+            "miss": 0,
+            "max": 3493
+          }
+        },
+        {
+          "userId": "8521723",
+          "score": 974178,
+          "combo": 2098,
+          "counts": {
+            "50": 3,
+            "100": 3,
+            "200": 10,
+            "300": 476,
+            "miss": 5,
+            "max": 3385
+          }
+        }
+      ],
+      "pickCount": 1
+    },
+    {
+      "category": "TB",
+      "counts": {
+        "bpm": 62,
+        "sv": 62,
+        "notes": {
+          "total": 4595,
+          "rice": 916,
+          "ln": 3679,
+          "single": 2109,
+          "jump": 876,
+          "hand": 226,
+          "quad": 14
+        }
+      },
+      "title": "Nisemono",
+      "artist": "Frums",
+      "mapper": "[Crz]Crysarlene",
+      "difficulty": "Fleece (feat. HowToPlayLN)",
+      "beatmapId": "2542527",
+      "beatmapSetId": "1222375",
+      "hp": "8.8",
+      "od": "8",
+      "scores": [
+        {
+          "userId": "8521723",
+          "score": 964725,
+          "combo": 3381,
+          "counts": {
+            "50": 5,
+            "100": 2,
+            "200": 85,
+            "300": 1788,
+            "miss": 6,
+            "max": 6374
+          }
+        },
+        {
+          "userId": "8521723",
+          "score": 958428,
+          "combo": 3897,
+          "counts": {
+            "50": 4,
+            "100": 7,
+            "200": 86,
+            "300": 2019,
+            "miss": 5,
+            "max": 6139
+          }
+        },
+        {
+          "userId": "4477497",
+          "score": 955452,
+          "combo": 2873,
+          "counts": {
+            "50": 5,
+            "100": 3,
+            "200": 113,
+            "300": 1758,
+            "miss": 13,
+            "max": 6368
+          }
+        },
+        {
+          "userId": "6699923",
+          "score": 924974,
+          "combo": 2429,
+          "counts": {
+            "50": 6,
+            "100": 23,
+            "200": 64,
+            "300": 1723,
+            "miss": 78,
+            "max": 6366
+          }
+        }
+      ],
+      "pickCount": 2
+    }
+  ]
+}

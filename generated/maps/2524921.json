@@ -1,0 +1,24 @@
+{
+  "category": "TB",
+  "counts": {
+    "bpm": 1,
+    "sv": 0,
+    "notes": {
+      "total": 4943,
+      "rice": 458,
+      "ln": 4485,
+      "single": 2490,
+      "jump": 904,
+      "hand": 215,
+      "quad": 0
+    }
+  },
+  "title": "Central Nucleus",
+  "artist": "Feryquitous",
+  "mapper": "Davvy",
+  "difficulty": "Endoplasmic Reticulum",
+  "beatmapId": "2524921",
+  "beatmapSetId": "1213154",
+  "hp": "7.5",
+  "od": "6.6"
+}

@@ -1,0 +1,24 @@
+{
+  "category": "SP",
+  "counts": {
+    "bpm": 1,
+    "sv": 8,
+    "notes": {
+      "total": 1736,
+      "rice": 255,
+      "ln": 1481,
+      "single": 607,
+      "jump": 311,
+      "hand": 141,
+      "quad": 21
+    }
+  },
+  "title": "Titania",
+  "artist": "xi",
+  "mapper": "Raveille",
+  "difficulty": "Midsummer",
+  "beatmapId": "2457475",
+  "beatmapSetId": "1178357",
+  "hp": "8",
+  "od": "7.7"
+}

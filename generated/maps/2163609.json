@@ -1,0 +1,24 @@
+{
+  "category": "CO",
+  "counts": {
+    "bpm": 1,
+    "sv": 4,
+    "notes": {
+      "total": 1121,
+      "rice": 94,
+      "ln": 1027,
+      "single": 504,
+      "jump": 242,
+      "hand": 39,
+      "quad": 4
+    }
+  },
+  "title": "Believe the Rainbow",
+  "artist": "Shoichiro Hirata feat.Sana",
+  "mapper": "Raveille",
+  "difficulty": "One Last Wish",
+  "beatmapId": "2163609",
+  "beatmapSetId": "1034857",
+  "hp": "8",
+  "od": "7"
+}

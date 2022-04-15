@@ -1,0 +1,24 @@
+{
+  "category": "TE",
+  "counts": {
+    "bpm": 31,
+    "sv": 27,
+    "notes": {
+      "total": 1300,
+      "rice": 98,
+      "ln": 1202,
+      "single": 600,
+      "jump": 248,
+      "hand": 60,
+      "quad": 6
+    }
+  },
+  "title": "Deal with the devil",
+  "artist": "Tia",
+  "mapper": "-Rem-",
+  "difficulty": "gamble",
+  "beatmapId": "2082239",
+  "beatmapSetId": "995384",
+  "hp": "7",
+  "od": "6.9"
+}

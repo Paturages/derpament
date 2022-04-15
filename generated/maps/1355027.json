@@ -1,0 +1,24 @@
+{
+  "category": "CO",
+  "counts": {
+    "bpm": 1,
+    "sv": 0,
+    "notes": {
+      "total": 2442,
+      "rice": 969,
+      "ln": 1473,
+      "single": 851,
+      "jump": 462,
+      "hand": 149,
+      "quad": 55
+    }
+  },
+  "title": "Ringo's Tea Party",
+  "artist": "IOSYS",
+  "mapper": "TheToaphster",
+  "difficulty": "Spooked",
+  "beatmapId": "1355027",
+  "beatmapSetId": "638838",
+  "hp": "8",
+  "od": "7"
+}

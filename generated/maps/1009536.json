@@ -1,0 +1,24 @@
+{
+  "category": "TE",
+  "counts": {
+    "bpm": 5,
+    "sv": 4,
+    "notes": {
+      "total": 1074,
+      "rice": 118,
+      "ln": 956,
+      "single": 407,
+      "jump": 104,
+      "hand": 145,
+      "quad": 6
+    }
+  },
+  "title": "Funny shuffle",
+  "artist": "Nekomata Master",
+  "mapper": "Hydria",
+  "difficulty": "Groove",
+  "beatmapId": "1009536",
+  "beatmapSetId": "472442",
+  "hp": "9",
+  "od": "9"
+}

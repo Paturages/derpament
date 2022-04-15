@@ -1,0 +1,24 @@
+{
+  "category": "TE",
+  "counts": {
+    "bpm": 1,
+    "sv": 0,
+    "notes": {
+      "total": 3437,
+      "rice": 918,
+      "ln": 2519,
+      "single": 1381,
+      "jump": 751,
+      "hand": 174,
+      "quad": 8
+    }
+  },
+  "title": "Break The Silence",
+  "artist": "Camellia",
+  "mapper": "[Crz]Crysarlene",
+  "difficulty": "Serenity",
+  "beatmapId": "2149368",
+  "beatmapSetId": "1027910",
+  "hp": "9.3",
+  "od": "7.7"
+}

@@ -40,17 +40,25 @@ const generatedPath = path.resolve(__dirname, "..", "generated");
     }
 
     console.log(`Fetching user ID ${playerId}...`);
-    const { body } = await got(
-      `https://osu.ppy.sh/api/v2/users/${playerId}/${mode}`,
-      {
-        responseType: "json",
-        headers: {
-          Authorization: `Bearer ${token}`,
-        },
-      }
-    );
-    // Do not save the user page/bio
-    delete body.page;
+    let body;
+    try {
+      ({ body } = await got(
+        `https://osu.ppy.sh/api/v2/users/${playerId}/${mode}`,
+        {
+          responseType: "json",
+          headers: {
+            Authorization: `Bearer ${token}`,
+          },
+        }
+      ));
+    } catch {
+      body = require('../generated/players/0.json');
+      body.id = playerId;
+    }
+    // Do not save too many things
+    for (const field of ['monthly_playcounts', 'replays_watched_counts', 'user_achievements', 'rankHistory', 'rank_history', 'page']) {
+      delete body[field];
+    }
 
     await fs.promises.writeFile(
       path.resolve(generatedPath, "players", `${playerId}.json`),

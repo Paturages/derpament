@@ -1,0 +1,131 @@
+{
+  "avatar_url": "https://a.ppy.sh/4725379?1647298554.jpeg",
+  "country_code": "ES",
+  "default_group": "nat",
+  "id": 4725379,
+  "is_active": true,
+  "is_bot": false,
+  "is_deleted": false,
+  "is_online": false,
+  "is_supporter": true,
+  "last_visit": null,
+  "pm_friends_only": false,
+  "profile_colour": "#fa3703",
+  "username": "Quenlla",
+  "cover_url": "https://assets.ppy.sh/user-profile-covers/4725379/65815d485e111baff306df142428be9eb047175c8e52d0d581dc7c934d574ad2.png",
+  "discord": "Komirin#9568",
+  "has_supported": true,
+  "interests": "twitter.com/QuienUnKancolle",
+  "join_date": "2014-07-31T11:37:19+00:00",
+  "kudosu": { "total": 1152, "available": 1151 },
+  "location": "Galicia",
+  "max_blocks": 100,
+  "max_friends": 500,
+  "occupation": "loving pabliño",
+  "playmode": "mania",
+  "playstyle": ["keyboard", "tablet"],
+  "post_count": 102,
+  "profile_order": [
+    "me",
+    "recent_activity",
+    "medals",
+    "beatmaps",
+    "historical",
+    "kudosu",
+    "top_ranks"
+  ],
+  "title": "Nomination Assessment Team / Elite Nominator",
+  "title_url": null,
+  "twitter": "QuienUnAzurLane",
+  "website": null,
+  "country": { "code": "ES", "name": "Spain" },
+  "cover": {
+    "custom_url": "https://assets.ppy.sh/user-profile-covers/4725379/65815d485e111baff306df142428be9eb047175c8e52d0d581dc7c934d574ad2.png",
+    "url": "https://assets.ppy.sh/user-profile-covers/4725379/65815d485e111baff306df142428be9eb047175c8e52d0d581dc7c934d574ad2.png",
+    "id": null
+  },
+  "account_history": [],
+  "active_tournament_banner": null,
+  "badges": [
+    {
+      "awarded_at": "2022-03-23T01:58:05+00:00",
+      "description": "Exemplary performance as a Beatmap Nominator during 2021 (osu!mania)",
+      "image_url": "https://assets.ppy.sh/profile-badges/elite-nominator.png",
+      "url": ""
+    }
+  ],
+  "beatmap_playcounts_count": 7644,
+  "comments_count": 76,
+  "favourite_beatmapset_count": 122,
+  "follower_count": 357,
+  "graveyard_beatmapset_count": 11,
+  "groups": [
+    {
+      "colour": "#EB8C47",
+      "has_listing": true,
+      "has_playmodes": true,
+      "id": 7,
+      "identifier": "nat",
+      "is_probationary": false,
+      "name": "Nomination Assessment Team",
+      "short_name": "NAT",
+      "playmodes": ["mania"]
+    },
+    {
+      "colour": "#FFD1DC",
+      "has_listing": true,
+      "has_playmodes": true,
+      "id": 31,
+      "identifier": "loved",
+      "is_probationary": false,
+      "name": "Project Loved",
+      "short_name": "LVD",
+      "playmodes": []
+    }
+  ],
+  "loved_beatmapset_count": 0,
+  "mapping_follower_count": 17,
+  "pending_beatmapset_count": 0,
+  "previous_usernames": ["Kominaru", "Komirin"],
+  "ranked_beatmapset_count": 0,
+  "scores_best_count": 100,
+  "scores_first_count": 0,
+  "scores_pinned_count": 2,
+  "scores_recent_count": 0,
+  "statistics": {
+    "level": { "current": 99, "progress": 64 },
+    "global_rank": 622,
+    "pp": 10334.7,
+    "ranked_score": 3802013501,
+    "hit_accuracy": 96.0381,
+    "play_count": 42862,
+    "play_time": 4773163,
+    "total_score": 23678502161,
+    "total_hits": 57132300,
+    "maximum_combo": 18258,
+    "replays_watched_by_others": 307,
+    "is_ranked": true,
+    "grade_counts": { "ss": 477, "ssh": 0, "s": 3019, "sh": 0, "a": 598 },
+    "country_rank": 5,
+    "rank": { "country": 5 },
+    "variants": [
+      {
+        "mode": "mania",
+        "variant": "4k",
+        "country_rank": 6,
+        "global_rank": 403,
+        "pp": 9430.11
+      },
+      {
+        "mode": "mania",
+        "variant": "7k",
+        "country_rank": 5,
+        "global_rank": 600,
+        "pp": 9627.57
+      }
+    ]
+  },
+  "support_level": 2,
+  "ranked_and_approved_beatmapset_count": 0,
+  "unranked_beatmapset_count": 0
+}

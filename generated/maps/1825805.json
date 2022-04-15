@@ -1,0 +1,24 @@
+{
+  "category": "DE",
+  "counts": {
+    "bpm": 1,
+    "sv": 2,
+    "notes": {
+      "total": 1123,
+      "rice": 357,
+      "ln": 766,
+      "single": 531,
+      "jump": 235,
+      "hand": 38,
+      "quad": 2
+    }
+  },
+  "title": "Outer",
+  "artist": "iMeiden",
+  "mapper": "riunosk",
+  "difficulty": "Adventure",
+  "beatmapId": "1825805",
+  "beatmapSetId": "873462",
+  "hp": "7.77",
+  "od": "7.77"
+}

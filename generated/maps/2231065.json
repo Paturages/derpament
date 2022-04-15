@@ -1,0 +1,24 @@
+{
+  "category": "SP",
+  "counts": {
+    "bpm": 1,
+    "sv": 0,
+    "notes": {
+      "total": 2808,
+      "rice": 594,
+      "ln": 2214,
+      "single": 724,
+      "jump": 491,
+      "hand": 362,
+      "quad": 4
+    }
+  },
+  "title": "Let me be your cure",
+  "artist": "Pizuya's Cell",
+  "mapper": "[Crz]Crysarlene",
+  "difficulty": "Hazel",
+  "beatmapId": "2231065",
+  "beatmapSetId": "1065437",
+  "hp": "9",
+  "od": "7.5"
+}

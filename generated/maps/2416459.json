@@ -1,0 +1,24 @@
+{
+  "category": "SP",
+  "counts": {
+    "bpm": 1,
+    "sv": 8,
+    "notes": {
+      "total": 1574,
+      "rice": 766,
+      "ln": 808,
+      "single": 536,
+      "jump": 262,
+      "hand": 122,
+      "quad": 37
+    }
+  },
+  "title": "Mare Maris",
+  "artist": "M2U",
+  "mapper": "Raveille",
+  "difficulty": "LNpai's MASTER",
+  "beatmapId": "2416459",
+  "beatmapSetId": "917906",
+  "hp": "8",
+  "od": "7.5"
+}

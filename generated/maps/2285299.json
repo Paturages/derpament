@@ -1,0 +1,24 @@
+{
+  "category": "SP",
+  "counts": {
+    "bpm": 2,
+    "sv": 0,
+    "notes": {
+      "total": 1775,
+      "rice": 25,
+      "ln": 1750,
+      "single": 667,
+      "jump": 332,
+      "hand": 148,
+      "quad": 0
+    }
+  },
+  "title": "Battle Against a True Hero",
+  "artist": "toby fox",
+  "mapper": "Mipha-",
+  "difficulty": "Howling 1.1x (165bpm) [2020]",
+  "beatmapId": "2285299",
+  "beatmapSetId": "1093396",
+  "hp": "8",
+  "od": "8"
+}

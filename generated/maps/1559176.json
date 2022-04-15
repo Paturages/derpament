@@ -1,0 +1,24 @@
+{
+  "category": "DE",
+  "counts": {
+    "bpm": 1,
+    "sv": 0,
+    "notes": {
+      "total": 958,
+      "rice": 108,
+      "ln": 850,
+      "single": 198,
+      "jump": 222,
+      "hand": 76,
+      "quad": 22
+    }
+  },
+  "title": "The New Moe Groove",
+  "artist": "Moe Shop",
+  "mapper": "MapleSyrup-",
+  "difficulty": "Hummingbird",
+  "beatmapId": "1559176",
+  "beatmapSetId": "738804",
+  "hp": "8",
+  "od": "6"
+}

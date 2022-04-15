@@ -1,0 +1,24 @@
+{
+  "category": "DE",
+  "counts": {
+    "bpm": 1,
+    "sv": 4,
+    "notes": {
+      "total": 1971,
+      "rice": 226,
+      "ln": 1745,
+      "single": 940,
+      "jump": 398,
+      "hand": 77,
+      "quad": 1
+    }
+  },
+  "title": "Break Through The Barrier",
+  "artist": "lixound",
+  "mapper": "Nick Wilde",
+  "difficulty": "LN Barrier",
+  "beatmapId": "1799601",
+  "beatmapSetId": "860096",
+  "hp": "7",
+  "od": "7"
+}

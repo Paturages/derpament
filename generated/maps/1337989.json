@@ -1,0 +1,24 @@
+{
+  "category": "DE",
+  "counts": {
+    "bpm": 6,
+    "sv": 9,
+    "notes": {
+      "total": 4667,
+      "rice": 0,
+      "ln": 4667,
+      "single": 1660,
+      "jump": 1041,
+      "hand": 295,
+      "quad": 10
+    }
+  },
+  "title": "Demon Pack 1 - LN Master 1st",
+  "artist": "Demon",
+  "mapper": "lpddemon",
+  "difficulty": "Yooh - Salvation [DEMON]",
+  "beatmapId": "1337989",
+  "beatmapSetId": "631738",
+  "hp": "7",
+  "od": "7"
+}

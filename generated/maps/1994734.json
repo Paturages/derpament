@@ -1,0 +1,24 @@
+{
+  "category": "TE",
+  "counts": {
+    "bpm": 2,
+    "sv": 4,
+    "notes": {
+      "total": 1609,
+      "rice": 565,
+      "ln": 1044,
+      "single": 803,
+      "jump": 331,
+      "hand": 48,
+      "quad": 0
+    }
+  },
+  "title": "sensitive -KOTOKO vocal mix-",
+  "artist": "white crystal",
+  "mapper": "_underjoy",
+  "difficulty": "Fragile Mind",
+  "beatmapId": "1994734",
+  "beatmapSetId": "955173",
+  "hp": "8",
+  "od": "7"
+}

@@ -1,0 +1,24 @@
+{
+  "category": "SP",
+  "counts": {
+    "bpm": 1,
+    "sv": 0,
+    "notes": {
+      "total": 1723,
+      "rice": 285,
+      "ln": 1438,
+      "single": 868,
+      "jump": 286,
+      "hand": 85,
+      "quad": 7
+    }
+  },
+  "title": "Duplication",
+  "artist": "Zekk",
+  "mapper": "Dergo",
+  "difficulty": "replication",
+  "beatmapId": "2187286",
+  "beatmapSetId": "1046301",
+  "hp": "8",
+  "od": "8"
+}

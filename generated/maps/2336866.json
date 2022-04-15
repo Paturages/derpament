@@ -1,0 +1,24 @@
+{
+  "category": "CO",
+  "counts": {
+    "bpm": 3,
+    "sv": 4,
+    "notes": {
+      "total": 1340,
+      "rice": 125,
+      "ln": 1215,
+      "single": 558,
+      "jump": 203,
+      "hand": 100,
+      "quad": 19
+    }
+  },
+  "title": "Yoake made Ato 3 Byou",
+  "artist": "Taku Inoue",
+  "mapper": "Raveille",
+  "difficulty": "awake",
+  "beatmapId": "2336866",
+  "beatmapSetId": "1118840",
+  "hp": "8",
+  "od": "7"
+}

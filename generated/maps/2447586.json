@@ -1,0 +1,24 @@
+{
+  "category": "TB",
+  "counts": {
+    "bpm": 3,
+    "sv": 10,
+    "notes": {
+      "total": 3198,
+      "rice": 286,
+      "ln": 2912,
+      "single": 834,
+      "jump": 659,
+      "hand": 338,
+      "quad": 8
+    }
+  },
+  "title": "Fairytale,",
+  "artist": "cillia",
+  "mapper": "Raveille",
+  "difficulty": "ar'ri'vaLN (NSV)",
+  "beatmapId": "2447586",
+  "beatmapSetId": "1173529",
+  "hp": "8",
+  "od": "7.5"
+}

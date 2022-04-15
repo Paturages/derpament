@@ -1,0 +1,24 @@
+{
+  "category": "DE",
+  "counts": {
+    "bpm": 1,
+    "sv": 8,
+    "notes": {
+      "total": 1438,
+      "rice": 4,
+      "ln": 1434,
+      "single": 617,
+      "jump": 280,
+      "hand": 87,
+      "quad": 0
+    }
+  },
+  "title": "Masteriosl's LN Converts Pack 1",
+  "artist": "Various Artists",
+  "mapper": "Masteriosl",
+  "difficulty": "Gojou Kai & Nakamura Meiko - fragment of tears [Another (Seiryuu) [Full LN]]",
+  "beatmapId": "2154461",
+  "beatmapSetId": "1030265",
+  "hp": "8",
+  "od": "8"
+}

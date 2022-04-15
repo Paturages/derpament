@@ -1,0 +1,24 @@
+{
+  "category": "CO",
+  "counts": {
+    "bpm": 1,
+    "sv": 14,
+    "notes": {
+      "total": 2435,
+      "rice": 144,
+      "ln": 2291,
+      "single": 908,
+      "jump": 644,
+      "hand": 65,
+      "quad": 11
+    }
+  },
+  "title": "Re:TrymenT",
+  "artist": "Murasaki Hotaru",
+  "mapper": "Raveille",
+  "difficulty": "de:maTerialize",
+  "beatmapId": "2101556",
+  "beatmapSetId": "1004115",
+  "hp": "8",
+  "od": "7"
+}

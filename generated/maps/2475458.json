@@ -1,0 +1,24 @@
+{
+  "category": "DE",
+  "counts": {
+    "bpm": 2,
+    "sv": 0,
+    "notes": {
+      "total": 1073,
+      "rice": 6,
+      "ln": 1067,
+      "single": 329,
+      "jump": 343,
+      "hand": 18,
+      "quad": 1
+    }
+  },
+  "title": "Minamichita EVOLVED",
+  "artist": "Kurubukko vs yukitani",
+  "mapper": "juankristal",
+  "difficulty": "Stage 3-3: Heaven",
+  "beatmapId": "2475458",
+  "beatmapSetId": "1187874",
+  "hp": "8",
+  "od": "7"
+}

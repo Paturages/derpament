@@ -1,0 +1,24 @@
+{
+  "category": "TE",
+  "counts": {
+    "bpm": 11,
+    "sv": 0,
+    "notes": {
+      "total": 1890,
+      "rice": 617,
+      "ln": 1273,
+      "single": 791,
+      "jump": 482,
+      "hand": 45,
+      "quad": 0
+    }
+  },
+  "title": "POETIC JUSTICE // AWAY",
+  "artist": "PLINI X KENDRICK LAMAR",
+  "mapper": "Razzy",
+  "difficulty": "Desire",
+  "beatmapId": "1996491",
+  "beatmapSetId": "955714",
+  "hp": "7.5",
+  "od": "7.5"
+}

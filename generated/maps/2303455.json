@@ -1,0 +1,24 @@
+{
+  "category": "CO",
+  "counts": {
+    "bpm": 1,
+    "sv": 1,
+    "notes": {
+      "total": 1549,
+      "rice": 340,
+      "ln": 1209,
+      "single": 406,
+      "jump": 358,
+      "hand": 133,
+      "quad": 7
+    }
+  },
+  "title": "planetarium",
+  "artist": "SUi",
+  "mapper": "pieerre",
+  "difficulty": "Plain LN",
+  "beatmapId": "2303455",
+  "beatmapSetId": "1101700",
+  "hp": "8",
+  "od": "7"
+}

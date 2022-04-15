@@ -1,0 +1,24 @@
+{
+  "category": "CO",
+  "counts": {
+    "bpm": 5,
+    "sv": 6,
+    "notes": {
+      "total": 1890,
+      "rice": 75,
+      "ln": 1815,
+      "single": 624,
+      "jump": 548,
+      "hand": 46,
+      "quad": 8
+    }
+  },
+  "title": "Endless Starlight ~Inochi no Kirameki~",
+  "artist": "Kanae Asaba",
+  "mapper": "Raveille",
+  "difficulty": "Kibo",
+  "beatmapId": "1328717",
+  "beatmapSetId": "629366",
+  "hp": "8.5",
+  "od": "7"
+}

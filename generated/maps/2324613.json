@@ -1,0 +1,24 @@
+{
+  "category": "CO",
+  "counts": {
+    "bpm": 1,
+    "sv": 254,
+    "notes": {
+      "total": 2113,
+      "rice": 466,
+      "ln": 1647,
+      "single": 387,
+      "jump": 447,
+      "hand": 240,
+      "quad": 28
+    }
+  },
+  "title": "Scream",
+  "artist": "Dreamcatcher",
+  "mapper": "LovelyN",
+  "difficulty": "Devil Eyes Come",
+  "beatmapId": "2324613",
+  "beatmapSetId": "1112680",
+  "hp": "0",
+  "od": "0"
+}

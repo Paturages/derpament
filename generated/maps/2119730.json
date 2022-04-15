@@ -1,0 +1,24 @@
+{
+  "category": "TE",
+  "counts": {
+    "bpm": 1,
+    "sv": 0,
+    "notes": {
+      "total": 3159,
+      "rice": 831,
+      "ln": 2328,
+      "single": 1806,
+      "jump": 417,
+      "hand": 173,
+      "quad": 0
+    }
+  },
+  "title": "Precursor",
+  "artist": "sky_delta",
+  "mapper": "Daughter-",
+  "difficulty": "antecedent (Edit)",
+  "beatmapId": "2119730",
+  "beatmapSetId": "857564",
+  "hp": "8",
+  "od": "7.5"
+}

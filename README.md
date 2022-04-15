@@ -27,9 +27,6 @@ This requires you to fill in `players.txt` with the list of tournament participa
 This will fetch data from the specified players' profiles and save them in `generated/players`.
 The selected mode ("mania") is hardcoded in the script, so if you wanna change it, it's there.
 
-This requires authenticating on osu! OAuth. After logging in, you'll have to copy the `code` from the URL after authenticating
-and paste it in the command line.
-
 You can specify the string "refresh" as an extra argument to refresh the list of players: by default, if a generated player JSON
 already exists, it doesn't fetch it again.
 

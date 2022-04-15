@@ -1,0 +1,24 @@
+{
+  "category": "TE",
+  "counts": {
+    "bpm": 1,
+    "sv": 0,
+    "notes": {
+      "total": 2387,
+      "rice": 547,
+      "ln": 1840,
+      "single": 808,
+      "jump": 600,
+      "hand": 113,
+      "quad": 10
+    }
+  },
+  "title": "Nhelv",
+  "artist": "Silentroom",
+  "mapper": "[Crz]Crysarlene",
+  "difficulty": "Zen [0,85x Rate]",
+  "beatmapId": "2533111",
+  "beatmapSetId": "859272",
+  "hp": "8",
+  "od": "8"
+}

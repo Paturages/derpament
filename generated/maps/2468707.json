@@ -1,0 +1,24 @@
+{
+  "category": "SP",
+  "counts": {
+    "bpm": 1,
+    "sv": 6,
+    "notes": {
+      "total": 3073,
+      "rice": 13,
+      "ln": 3060,
+      "single": 552,
+      "jump": 698,
+      "hand": 339,
+      "quad": 27
+    }
+  },
+  "title": "humanly",
+  "artist": "umu.",
+  "mapper": "Raveille",
+  "difficulty": "timing hell?",
+  "beatmapId": "2468707",
+  "beatmapSetId": "1184226",
+  "hp": "8",
+  "od": "8"
+}

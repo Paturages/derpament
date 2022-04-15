@@ -1,0 +1,24 @@
+{
+  "category": "TE",
+  "counts": {
+    "bpm": 1,
+    "sv": 8,
+    "notes": {
+      "total": 1082,
+      "rice": 305,
+      "ln": 777,
+      "single": 238,
+      "jump": 243,
+      "hand": 98,
+      "quad": 16
+    }
+  },
+  "title": "Falling Down",
+  "artist": "Lil Peep & XXXTENTACION",
+  "mapper": "Kamuy",
+  "difficulty": "downpour",
+  "beatmapId": "2366298",
+  "beatmapSetId": "1132929",
+  "hp": "7.7",
+  "od": "7.3"
+}

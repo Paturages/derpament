@@ -1,0 +1,24 @@
+{
+  "category": "DE",
+  "counts": {
+    "bpm": 2,
+    "sv": 0,
+    "notes": {
+      "total": 1307,
+      "rice": 65,
+      "ln": 1242,
+      "single": 533,
+      "jump": 303,
+      "hand": 48,
+      "quad": 6
+    }
+  },
+  "title": "Fatality Saga",
+  "artist": "AAAA Chazuke",
+  "mapper": "MyZterioN-",
+  "difficulty": "Portion",
+  "beatmapId": "2425589",
+  "beatmapSetId": "1162815",
+  "hp": "8.4",
+  "od": "7.6"
+}

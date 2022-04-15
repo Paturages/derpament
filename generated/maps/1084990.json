@@ -1,0 +1,24 @@
+{
+  "category": "SP",
+  "counts": {
+    "bpm": 2,
+    "sv": 0,
+    "notes": {
+      "total": 1448,
+      "rice": 462,
+      "ln": 986,
+      "single": 412,
+      "jump": 294,
+      "hand": 116,
+      "quad": 25
+    }
+  },
+  "title": "DIABLOSIS::Naga",
+  "artist": "sky_delta",
+  "mapper": "PiraTom",
+  "difficulty": "LNAVITY",
+  "beatmapId": "1084990",
+  "beatmapSetId": "510291",
+  "hp": "8.5",
+  "od": "6.5"
+}

@@ -1,0 +1,24 @@
+{
+  "category": "SP",
+  "counts": {
+    "bpm": 1,
+    "sv": 0,
+    "notes": {
+      "total": 1534,
+      "rice": 647,
+      "ln": 887,
+      "single": 548,
+      "jump": 271,
+      "hand": 148,
+      "quad": 0
+    }
+  },
+  "title": "Berry Go!!",
+  "artist": "Freezer feat. Kiichigo",
+  "mapper": "PiraTom",
+  "difficulty": "BERRY HARD",
+  "beatmapId": "1432754",
+  "beatmapSetId": "677465",
+  "hp": "8",
+  "od": "6.8"
+}

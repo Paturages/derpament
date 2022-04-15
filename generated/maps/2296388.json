@@ -1,0 +1,24 @@
+{
+  "category": "CO",
+  "counts": {
+    "bpm": 1,
+    "sv": 0,
+    "notes": {
+      "total": 2243,
+      "rice": 342,
+      "ln": 1901,
+      "single": 726,
+      "jump": 526,
+      "hand": 155,
+      "quad": 0
+    }
+  },
+  "title": "#be_fortunate",
+  "artist": "Hino Isuka",
+  "mapper": "HowToPlayLN",
+  "difficulty": "#be_columnlocked",
+  "beatmapId": "2296388",
+  "beatmapSetId": "1099229",
+  "hp": "0.01",
+  "od": "8"
+}

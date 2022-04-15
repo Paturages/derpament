@@ -1,0 +1,24 @@
+{
+  "category": "CO",
+  "counts": {
+    "bpm": 1,
+    "sv": 0,
+    "notes": {
+      "total": 1878,
+      "rice": 111,
+      "ln": 1767,
+      "single": 675,
+      "jump": 115,
+      "hand": 311,
+      "quad": 10
+    }
+  },
+  "title": "Heiju",
+  "artist": "Y0c1e",
+  "mapper": "Hydria",
+  "difficulty": "Insane",
+  "beatmapId": "1307119",
+  "beatmapSetId": "620190",
+  "hp": "8.21",
+  "od": "7.27"
+}

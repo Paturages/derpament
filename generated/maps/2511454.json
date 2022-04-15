@@ -1,0 +1,24 @@
+{
+  "category": "SP",
+  "counts": {
+    "bpm": 1,
+    "sv": 8,
+    "notes": {
+      "total": 1915,
+      "rice": 215,
+      "ln": 1700,
+      "single": 612,
+      "jump": 559,
+      "hand": 59,
+      "quad": 2
+    }
+  },
+  "title": "Killing Rhythm",
+  "artist": "DJ Myosuke",
+  "mapper": "Raveille",
+  "difficulty": "Cessation",
+  "beatmapId": "2511454",
+  "beatmapSetId": "1206127",
+  "hp": "8.5",
+  "od": "7.5"
+}

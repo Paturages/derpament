@@ -1,0 +1,24 @@
+{
+  "category": "SP",
+  "counts": {
+    "bpm": 1,
+    "sv": 0,
+    "notes": {
+      "total": 1798,
+      "rice": 610,
+      "ln": 1188,
+      "single": 551,
+      "jump": 392,
+      "hand": 149,
+      "quad": 4
+    }
+  },
+  "title": "Carnation (ck remix)",
+  "artist": "ck",
+  "mapper": "Gekido-",
+  "difficulty": "LN Master",
+  "beatmapId": "1579095",
+  "beatmapSetId": "749709",
+  "hp": "7.5",
+  "od": "7"
+}

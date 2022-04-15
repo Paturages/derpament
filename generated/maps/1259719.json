@@ -1,0 +1,24 @@
+{
+  "category": "CO",
+  "counts": {
+    "bpm": 1,
+    "sv": 0,
+    "notes": {
+      "total": 1215,
+      "rice": 241,
+      "ln": 974,
+      "single": 403,
+      "jump": 185,
+      "hand": 142,
+      "quad": 4
+    }
+  },
+  "title": "Boss Rush",
+  "artist": "USAO",
+  "mapper": "PiraTom",
+  "difficulty": "LN Rush",
+  "beatmapId": "1259719",
+  "beatmapSetId": "595680",
+  "hp": "8",
+  "od": "6"
+}

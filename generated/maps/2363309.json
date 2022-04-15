@@ -1,0 +1,24 @@
+{
+  "category": "TB",
+  "counts": {
+    "bpm": 1,
+    "sv": 22,
+    "notes": {
+      "total": 2992,
+      "rice": 1563,
+      "ln": 1429,
+      "single": 2212,
+      "jump": 330,
+      "hand": 40,
+      "quad": 0
+    }
+  },
+  "title": "flower of wilderness",
+  "artist": "Camellia",
+  "mapper": "-mint-",
+  "difficulty": "lily",
+  "beatmapId": "2363309",
+  "beatmapSetId": "1131426",
+  "hp": "9",
+  "od": "8.5"
+}

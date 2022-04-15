@@ -1,0 +1,24 @@
+{
+  "category": "DE",
+  "counts": {
+    "bpm": 1,
+    "sv": 0,
+    "notes": {
+      "total": 1867,
+      "rice": 620,
+      "ln": 1247,
+      "single": 193,
+      "jump": 455,
+      "hand": 244,
+      "quad": 8
+    }
+  },
+  "title": "Enka - flameflower",
+  "artist": "P4koo",
+  "mapper": "_underjoy",
+  "difficulty": "hanataba [0,95x Rate]",
+  "beatmapId": "1804215",
+  "beatmapSetId": "862538",
+  "hp": "8",
+  "od": "8"
+}

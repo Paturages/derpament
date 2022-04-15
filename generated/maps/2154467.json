@@ -1,0 +1,24 @@
+{
+  "category": "DE",
+  "counts": {
+    "bpm": 1,
+    "sv": 0,
+    "notes": {
+      "total": 2396,
+      "rice": 24,
+      "ln": 2372,
+      "single": 835,
+      "jump": 476,
+      "hand": 203,
+      "quad": 0
+    }
+  },
+  "title": "Masteriosl's LN Converts Pack 1",
+  "artist": "Various Artists",
+  "mapper": "Masteriosl",
+  "difficulty": "Sharkey & Arkitech - Quadraphinix [Challenge (Xay) [Full LN]]",
+  "beatmapId": "2154467",
+  "beatmapSetId": "1030265",
+  "hp": "7",
+  "od": "8"
+}

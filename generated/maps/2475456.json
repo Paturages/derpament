@@ -1,0 +1,24 @@
+{
+  "category": "CO",
+  "counts": {
+    "bpm": 1,
+    "sv": 4,
+    "notes": {
+      "total": 1989,
+      "rice": 192,
+      "ln": 1797,
+      "single": 616,
+      "jump": 546,
+      "hand": 71,
+      "quad": 17
+    }
+  },
+  "title": "Dance Robot Dance",
+  "artist": "Nayutalien",
+  "mapper": "Polytetral",
+  "difficulty": "Stage 3-1: Automated Rave",
+  "beatmapId": "2475456",
+  "beatmapSetId": "1187873",
+  "hp": "8",
+  "od": "7"
+}

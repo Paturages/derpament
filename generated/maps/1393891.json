@@ -1,0 +1,24 @@
+{
+  "category": "TE",
+  "counts": {
+    "bpm": 1,
+    "sv": 0,
+    "notes": {
+      "total": 1713,
+      "rice": 38,
+      "ln": 1675,
+      "single": 614,
+      "jump": 383,
+      "hand": 103,
+      "quad": 6
+    }
+  },
+  "title": "Euclid",
+  "artist": "Function Phantom",
+  "mapper": "juankristal",
+  "difficulty": "Collab",
+  "beatmapId": "1393891",
+  "beatmapSetId": "658097",
+  "hp": "8",
+  "od": "8.6"
+}

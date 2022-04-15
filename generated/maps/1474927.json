@@ -1,0 +1,24 @@
+{
+  "category": "CO",
+  "counts": {
+    "bpm": 1,
+    "sv": 0,
+    "notes": {
+      "total": 2681,
+      "rice": 28,
+      "ln": 2653,
+      "single": 852,
+      "jump": 630,
+      "hand": 187,
+      "quad": 2
+    }
+  },
+  "title": "Catanoph",
+  "artist": "An",
+  "mapper": "Toaph Daddy",
+  "difficulty": "Eternity",
+  "beatmapId": "1474927",
+  "beatmapSetId": "696257",
+  "hp": "6",
+  "od": "7"
+}

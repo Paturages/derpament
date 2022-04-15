@@ -1,0 +1,24 @@
+{
+  "category": "TE",
+  "counts": {
+    "bpm": 1,
+    "sv": 0,
+    "notes": {
+      "total": 2027,
+      "rice": 674,
+      "ln": 1353,
+      "single": 650,
+      "jump": 342,
+      "hand": 195,
+      "quad": 27
+    }
+  },
+  "title": "Dolphin Talk",
+  "artist": "Pyramyth",
+  "mapper": "TheToaphster",
+  "difficulty": "Echoes",
+  "beatmapId": "1516908",
+  "beatmapSetId": "718149",
+  "hp": "8",
+  "od": "6"
+}

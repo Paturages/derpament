@@ -1,0 +1,24 @@
+{
+  "category": "SP",
+  "counts": {
+    "bpm": 1,
+    "sv": 0,
+    "notes": {
+      "total": 1629,
+      "rice": 239,
+      "ln": 1390,
+      "single": 363,
+      "jump": 543,
+      "hand": 60,
+      "quad": 0
+    }
+  },
+  "title": "GOODBOUNCE",
+  "artist": "EBIMAYO",
+  "mapper": "juankristal",
+  "difficulty": "GOODLN",
+  "beatmapId": "2039768",
+  "beatmapSetId": "974488",
+  "hp": "8",
+  "od": "8"
+}

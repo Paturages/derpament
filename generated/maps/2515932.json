@@ -1,0 +1,24 @@
+{
+  "category": "DE",
+  "counts": {
+    "bpm": 1,
+    "sv": 0,
+    "notes": {
+      "total": 1,
+      "rice": 1,
+      "ln": 0,
+      "single": 1,
+      "jump": 0,
+      "hand": 0,
+      "quad": 0
+    }
+  },
+  "title": "Valedict",
+  "artist": "void",
+  "mapper": "TLQ_Yoshii",
+  "difficulty": "Valedict's LN Departure",
+  "beatmapId": "2515932",
+  "beatmapSetId": "1208263",
+  "hp": "0",
+  "od": "0"
+}

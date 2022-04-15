@@ -1,0 +1,24 @@
+{
+  "category": "DE",
+  "counts": {
+    "bpm": 1,
+    "sv": 14,
+    "notes": {
+      "total": 1533,
+      "rice": 494,
+      "ln": 1039,
+      "single": 570,
+      "jump": 409,
+      "hand": 43,
+      "quad": 4
+    }
+  },
+  "title": "Something Wild (feat. Andrew McMahon In the Wilderness)",
+  "artist": "Lindsey Stirling",
+  "mapper": "Rivals_7",
+  "difficulty": "Enigma",
+  "beatmapId": "1845621",
+  "beatmapSetId": "882820",
+  "hp": "8",
+  "od": "7"
+}

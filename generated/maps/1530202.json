@@ -1,0 +1,24 @@
+{
+  "category": "SP",
+  "counts": {
+    "bpm": 1,
+    "sv": 2,
+    "notes": {
+      "total": 1134,
+      "rice": 271,
+      "ln": 863,
+      "single": 450,
+      "jump": 316,
+      "hand": 16,
+      "quad": 1
+    }
+  },
+  "title": "Acid Burst",
+  "artist": "Memme",
+  "mapper": "juankristal",
+  "difficulty": "Chaos",
+  "beatmapId": "1530202",
+  "beatmapSetId": "724670",
+  "hp": "8",
+  "od": "6"
+}

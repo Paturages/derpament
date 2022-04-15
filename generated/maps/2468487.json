@@ -1,0 +1,24 @@
+{
+  "category": "TE",
+  "counts": {
+    "bpm": 1,
+    "sv": 0,
+    "notes": {
+      "total": 1492,
+      "rice": 711,
+      "ln": 781,
+      "single": 1042,
+      "jump": 205,
+      "hand": 12,
+      "quad": 1
+    }
+  },
+  "title": "Arcahv",
+  "artist": "Feryquitous",
+  "mapper": "Abraxos",
+  "difficulty": "Rend",
+  "beatmapId": "2468487",
+  "beatmapSetId": "1184106",
+  "hp": "9.2",
+  "od": "8.9"
+}

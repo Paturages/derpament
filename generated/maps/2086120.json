@@ -1,0 +1,24 @@
+{
+  "category": "CO",
+  "counts": {
+    "bpm": 1,
+    "sv": 8,
+    "notes": {
+      "total": 2419,
+      "rice": 302,
+      "ln": 2117,
+      "single": 971,
+      "jump": 613,
+      "hand": 74,
+      "quad": 0
+    }
+  },
+  "title": "paranoia",
+  "artist": "Umeri",
+  "mapper": "Raveille",
+  "difficulty": "who are you",
+  "beatmapId": "2086120",
+  "beatmapSetId": "997300",
+  "hp": "8",
+  "od": "7"
+}

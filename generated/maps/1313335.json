@@ -1,0 +1,24 @@
+{
+  "category": "DE",
+  "counts": {
+    "bpm": 1,
+    "sv": 8,
+    "notes": {
+      "total": 2552,
+      "rice": 290,
+      "ln": 2262,
+      "single": 671,
+      "jump": 535,
+      "hand": 261,
+      "quad": 7
+    }
+  },
+  "title": "My Last",
+  "artist": "Nekobolo",
+  "mapper": "KatayokuNoTori",
+  "difficulty": "Final (o2 Style)",
+  "beatmapId": "1313335",
+  "beatmapSetId": "622875",
+  "hp": "8",
+  "od": "8"
+}

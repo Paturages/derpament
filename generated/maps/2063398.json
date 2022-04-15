@@ -1,0 +1,24 @@
+{
+  "category": "CO",
+  "counts": {
+    "bpm": 1,
+    "sv": 0,
+    "notes": {
+      "total": 3130,
+      "rice": 614,
+      "ln": 2516,
+      "single": 829,
+      "jump": 792,
+      "hand": 239,
+      "quad": 0
+    }
+  },
+  "title": "Despair of ELFERIA",
+  "artist": "Nekomata Master",
+  "mapper": "FelixSpade",
+  "difficulty": "LN Prodigy",
+  "beatmapId": "2063398",
+  "beatmapSetId": "975960",
+  "hp": "8.5",
+  "od": "8"
+}

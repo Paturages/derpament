@@ -1,0 +1,24 @@
+{
+  "category": "CO",
+  "counts": {
+    "bpm": 1,
+    "sv": 6,
+    "notes": {
+      "total": 3658,
+      "rice": 69,
+      "ln": 3589,
+      "single": 1616,
+      "jump": 832,
+      "hand": 118,
+      "quad": 6
+    }
+  },
+  "title": "Oceanus (xi Remix)",
+  "artist": "cosMo@BousouP",
+  "mapper": "Raveille",
+  "difficulty": "Suntidal",
+  "beatmapId": "2457191",
+  "beatmapSetId": "1178237",
+  "hp": "8",
+  "od": "7.6"
+}

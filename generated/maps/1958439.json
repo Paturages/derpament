@@ -1,0 +1,24 @@
+{
+  "category": "TE",
+  "counts": {
+    "bpm": 1,
+    "sv": 4,
+    "notes": {
+      "total": 1281,
+      "rice": 100,
+      "ln": 1181,
+      "single": 548,
+      "jump": 290,
+      "hand": 51,
+      "quad": 0
+    }
+  },
+  "title": "Soul fire lit",
+  "artist": "Ryo Arue",
+  "mapper": "riunosk",
+  "difficulty": "it's LIT",
+  "beatmapId": "1958439",
+  "beatmapSetId": "937525",
+  "hp": "7",
+  "od": "6"
+}

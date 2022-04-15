@@ -1,0 +1,24 @@
+{
+  "category": "TB",
+  "counts": {
+    "bpm": 62,
+    "sv": 62,
+    "notes": {
+      "total": 4595,
+      "rice": 916,
+      "ln": 3679,
+      "single": 2109,
+      "jump": 876,
+      "hand": 226,
+      "quad": 14
+    }
+  },
+  "title": "Nisemono",
+  "artist": "Frums",
+  "mapper": "[Crz]Crysarlene",
+  "difficulty": "Fleece (feat. HowToPlayLN)",
+  "beatmapId": "2542527",
+  "beatmapSetId": "1222375",
+  "hp": "8.8",
+  "od": "8"
+}

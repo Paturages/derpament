@@ -1,0 +1,24 @@
+{
+  "category": "TE",
+  "counts": {
+    "bpm": 1,
+    "sv": 0,
+    "notes": {
+      "total": 1415,
+      "rice": 480,
+      "ln": 935,
+      "single": 530,
+      "jump": 420,
+      "hand": 15,
+      "quad": 0
+    }
+  },
+  "title": "Ultimate",
+  "artist": "F-777",
+  "mapper": "andreymc",
+  "difficulty": "Stage 3: Twilight",
+  "beatmapId": "2423502",
+  "beatmapSetId": "1161668",
+  "hp": "8",
+  "od": "7"
+}

@@ -1,0 +1,24 @@
+{
+  "category": "CO",
+  "counts": {
+    "bpm": 1,
+    "sv": 10,
+    "notes": {
+      "total": 2845,
+      "rice": 688,
+      "ln": 2157,
+      "single": 877,
+      "jump": 585,
+      "hand": 158,
+      "quad": 81
+    }
+  },
+  "title": "On And On!! (Club Extended) [feat. Jenga]",
+  "artist": "Etia.",
+  "mapper": "eZmmR",
+  "difficulty": "Raveille & eZmmR's LN Party!!",
+  "beatmapId": "2068796",
+  "beatmapSetId": "989038",
+  "hp": "7.5",
+  "od": "5.5"
+}

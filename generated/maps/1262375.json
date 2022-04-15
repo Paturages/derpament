@@ -1,0 +1,24 @@
+{
+  "category": "CO",
+  "counts": {
+    "bpm": 1,
+    "sv": 6,
+    "notes": {
+      "total": 2526,
+      "rice": 1233,
+      "ln": 1293,
+      "single": 535,
+      "jump": 614,
+      "hand": 229,
+      "quad": 19
+    }
+  },
+  "title": "Gems Pack 14 - LN Master 6th",
+  "artist": "gems",
+  "mapper": "gemboyong",
+  "difficulty": "[16] Felt - Other Side",
+  "beatmapId": "1262375",
+  "beatmapSetId": "597080",
+  "hp": "7",
+  "od": "7"
+}

@@ -1,0 +1,24 @@
+{
+  "category": "CO",
+  "counts": {
+    "bpm": 1,
+    "sv": 6,
+    "notes": {
+      "total": 1621,
+      "rice": 267,
+      "ln": 1354,
+      "single": 732,
+      "jump": 306,
+      "hand": 87,
+      "quad": 4
+    }
+  },
+  "title": "Cinderella Cage -Trancecore Mix-",
+  "artist": "loz",
+  "mapper": "Kamikaze",
+  "difficulty": "Tails' vs Kami's Lunatic",
+  "beatmapId": "2022076",
+  "beatmapSetId": "925063",
+  "hp": "8",
+  "od": "7"
+}

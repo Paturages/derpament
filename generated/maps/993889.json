@@ -1,0 +1,24 @@
+{
+  "category": "SP",
+  "counts": {
+    "bpm": 1,
+    "sv": 0,
+    "notes": {
+      "total": 1624,
+      "rice": 1,
+      "ln": 1623,
+      "single": 923,
+      "jump": 287,
+      "hand": 33,
+      "quad": 7
+    }
+  },
+  "title": "Starry Story! (DMG Chazuke mix)",
+  "artist": "kagerow",
+  "mapper": "scissorsf",
+  "difficulty": "StelLNa!",
+  "beatmapId": "993889",
+  "beatmapSetId": "464171",
+  "hp": "7",
+  "od": "7"
+}

@@ -1,0 +1,24 @@
+{
+  "category": "TE",
+  "counts": {
+    "bpm": 1,
+    "sv": 0,
+    "notes": {
+      "total": 1812,
+      "rice": 290,
+      "ln": 1522,
+      "single": 389,
+      "jump": 413,
+      "hand": 195,
+      "quad": 3
+    }
+  },
+  "title": "Somewhere I Belong",
+  "artist": "Linkin Park",
+  "mapper": "[Crz]Crysarlene",
+  "difficulty": "Unreal",
+  "beatmapId": "1938851",
+  "beatmapSetId": "928232",
+  "hp": "9.3",
+  "od": "7"
+}

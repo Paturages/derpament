@@ -1,0 +1,24 @@
+{
+  "category": "DE",
+  "counts": {
+    "bpm": 1,
+    "sv": 6,
+    "notes": {
+      "total": 2385,
+      "rice": 453,
+      "ln": 1932,
+      "single": 778,
+      "jump": 490,
+      "hand": 209,
+      "quad": 0
+    }
+  },
+  "title": "Eiya no Parade",
+  "artist": "Cake Hime * Masaruumi & JUMA",
+  "mapper": "-[Ulazis]-",
+  "difficulty": "Prism",
+  "beatmapId": "2306329",
+  "beatmapSetId": "1103799",
+  "hp": "8",
+  "od": "6"
+}

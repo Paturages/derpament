@@ -1,0 +1,24 @@
+{
+  "category": "SP",
+  "counts": {
+    "bpm": 1,
+    "sv": 0,
+    "notes": {
+      "total": 1485,
+      "rice": 425,
+      "ln": 1060,
+      "single": 859,
+      "jump": 295,
+      "hand": 12,
+      "quad": 0
+    }
+  },
+  "title": "Wind Island",
+  "artist": "Maizang",
+  "mapper": "HowToPlayLN",
+  "difficulty": "Sound of the Storm (edit)",
+  "beatmapId": "2082016",
+  "beatmapSetId": "985836",
+  "hp": "8",
+  "od": "7"
+}

@@ -1,0 +1,24 @@
+{
+  "category": "SP",
+  "counts": {
+    "bpm": 1,
+    "sv": 2,
+    "notes": {
+      "total": 1977,
+      "rice": 462,
+      "ln": 1515,
+      "single": 967,
+      "jump": 467,
+      "hand": 24,
+      "quad": 1
+    }
+  },
+  "title": "Morgenglut 2012",
+  "artist": "sun3",
+  "mapper": "_underjoy",
+  "difficulty": "Dawn",
+  "beatmapId": "993347",
+  "beatmapSetId": "463897",
+  "hp": "8.5",
+  "od": "7"
+}

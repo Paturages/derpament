@@ -1,0 +1,24 @@
+{
+  "category": "TE",
+  "counts": {
+    "bpm": 1,
+    "sv": 14,
+    "notes": {
+      "total": 1584,
+      "rice": 757,
+      "ln": 827,
+      "single": 655,
+      "jump": 292,
+      "hand": 83,
+      "quad": 24
+    }
+  },
+  "title": "Mirrorwall",
+  "artist": "BlackY",
+  "mapper": "-Ziel-",
+  "difficulty": "LNpai's MAXIMUM",
+  "beatmapId": "2177469",
+  "beatmapSetId": "1026824",
+  "hp": "9",
+  "od": "7"
+}

@@ -1,0 +1,24 @@
+{
+  "category": "CO",
+  "counts": {
+    "bpm": 1,
+    "sv": 68,
+    "notes": {
+      "total": 3544,
+      "rice": 794,
+      "ln": 2750,
+      "single": 1115,
+      "jump": 901,
+      "hand": 209,
+      "quad": 0
+    }
+  },
+  "title": "ELPIS LN I",
+  "artist": "Various Artists",
+  "mapper": "ELPIS",
+  "difficulty": "YELL!",
+  "beatmapId": "1595151",
+  "beatmapSetId": "758327",
+  "hp": "8",
+  "od": "8"
+}

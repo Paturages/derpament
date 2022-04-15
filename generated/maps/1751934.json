@@ -1,0 +1,24 @@
+{
+  "category": "DE",
+  "counts": {
+    "bpm": 1,
+    "sv": 0,
+    "notes": {
+      "total": 2073,
+      "rice": 6,
+      "ln": 2067,
+      "single": 1076,
+      "jump": 494,
+      "hand": 3,
+      "quad": 0
+    }
+  },
+  "title": "DESIRE DREAM feat. itori - FELT Remix",
+  "artist": "ZYTOKINE",
+  "mapper": "_underjoy",
+  "difficulty": "Melancholia",
+  "beatmapId": "1751934",
+  "beatmapSetId": "836634",
+  "hp": "8.5",
+  "od": "9"
+}
