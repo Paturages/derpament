@@ -1,0 +1,24 @@
+{
+  "category": "ln",
+  "counts": {
+    "bpm": 1,
+    "sv": 0,
+    "notes": {
+      "total": 1428,
+      "rice": 344,
+      "ln": 1084,
+      "single": 778,
+      "jump": 251,
+      "hand": 48,
+      "quad": 1
+    }
+  },
+  "title": "Dances with Snow Fairies",
+  "artist": "Dr.Honda",
+  "mapper": "[Crz]Crysarlene",
+  "difficulty": "Winter Resort",
+  "beatmapId": "2172419",
+  "beatmapSetId": "1039275",
+  "hp": "7.7",
+  "od": "7"
+}

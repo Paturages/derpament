@@ -1,0 +1,24 @@
+{
+  "category": "LN",
+  "counts": {
+    "bpm": 1,
+    "sv": 0,
+    "notes": {
+      "total": 1064,
+      "rice": 293,
+      "ln": 771,
+      "single": 458,
+      "jump": 303,
+      "hand": 0,
+      "quad": 0
+    }
+  },
+  "title": "Hush",
+  "artist": "EVERGLOW",
+  "mapper": "LovelyN",
+  "difficulty": "Again For the Rest of Our Lives",
+  "beatmapId": "2613273",
+  "beatmapSetId": "1257643",
+  "hp": "7",
+  "od": "7"
+}

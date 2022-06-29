@@ -1,0 +1,24 @@
+{
+  "category": "TB",
+  "counts": {
+    "bpm": 1,
+    "sv": 8,
+    "notes": {
+      "total": 3307,
+      "rice": 2310,
+      "ln": 997,
+      "single": 1298,
+      "jump": 667,
+      "hand": 209,
+      "quad": 12
+    }
+  },
+  "title": "Arcology On Permafrost",
+  "artist": "Camellia",
+  "mapper": "Suu is my waifu",
+  "difficulty": "edit",
+  "beatmapId": "2840777",
+  "beatmapSetId": "903287",
+  "hp": "8",
+  "od": "8"
+}

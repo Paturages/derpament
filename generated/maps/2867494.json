@@ -1,0 +1,24 @@
+{
+  "category": "rice",
+  "counts": {
+    "bpm": 1,
+    "sv": 0,
+    "notes": {
+      "total": 2542,
+      "rice": 2540,
+      "ln": 2,
+      "single": 476,
+      "jump": 664,
+      "hand": 246,
+      "quad": 0
+    }
+  },
+  "title": "9876734123",
+  "artist": "Silentroom",
+  "mapper": "oleka",
+  "difficulty": "DannyPX's Morse (138bpm)",
+  "beatmapId": "2867494",
+  "beatmapSetId": "1388445",
+  "hp": "8",
+  "od": "8"
+}

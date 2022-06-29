@@ -1,0 +1,24 @@
+{
+  "category": "HYBRID",
+  "counts": {
+    "bpm": 1,
+    "sv": 0,
+    "notes": {
+      "total": 2620,
+      "rice": 2148,
+      "ln": 472,
+      "single": 985,
+      "jump": 702,
+      "hand": 77,
+      "quad": 0
+    }
+  },
+  "title": "EMPIRE OF FLAME (\"LabRys\" Long ver.)",
+  "artist": "Camellia",
+  "mapper": "Shoegazer",
+  "difficulty": "GRAVITY (edit)",
+  "beatmapId": "2829795",
+  "beatmapSetId": "772677",
+  "hp": "8.5",
+  "od": "8.5"
+}

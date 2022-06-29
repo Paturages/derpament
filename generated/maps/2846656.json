@@ -1,0 +1,24 @@
+{
+  "category": "hybrid",
+  "counts": {
+    "bpm": 6,
+    "sv": 15,
+    "notes": {
+      "total": 1721,
+      "rice": 1230,
+      "ln": 491,
+      "single": 1026,
+      "jump": 322,
+      "hand": 17,
+      "quad": 0
+    }
+  },
+  "title": "Citadel",
+  "artist": "Mameyudoufu",
+  "mapper": "RuleBlazing",
+  "difficulty": "edit",
+  "beatmapId": "2846656",
+  "beatmapSetId": "1331802",
+  "hp": "8",
+  "od": "8"
+}

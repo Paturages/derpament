@@ -1,0 +1,24 @@
+{
+  "category": "ln",
+  "counts": {
+    "bpm": 1,
+    "sv": 10,
+    "notes": {
+      "total": 1332,
+      "rice": 210,
+      "ln": 1122,
+      "single": 397,
+      "jump": 328,
+      "hand": 93,
+      "quad": 0
+    }
+  },
+  "title": "Imprinting",
+  "artist": "sakuzyo",
+  "mapper": "-[DaNieL_TH]-",
+  "difficulty": "Fortissimo (192.5 BPM)",
+  "beatmapId": "2524677",
+  "beatmapSetId": "1213018",
+  "hp": "8.5",
+  "od": "8"
+}

@@ -1,0 +1,24 @@
+{
+  "category": "SV",
+  "counts": {
+    "bpm": 1,
+    "sv": 1884,
+    "notes": {
+      "total": 1041,
+      "rice": 652,
+      "ln": 389,
+      "single": 358,
+      "jump": 328,
+      "hand": 9,
+      "quad": 0
+    }
+  },
+  "title": "rift.exe",
+  "artist": "Akira Complex",
+  "mapper": "BossMadWolf",
+  "difficulty": "Blackhole (SV)",
+  "beatmapId": "2223691",
+  "beatmapSetId": "1061916",
+  "hp": "7.2",
+  "od": "8.3"
+}

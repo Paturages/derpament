@@ -1,0 +1,310 @@
+{
+  "match": {
+    "match_id": "101735515",
+    "name": "MFT4K2022 Qualifiers: Lobby Spécial 1",
+    "start_time": "2022-06-24 14:52:28",
+    "end_time": "2022-06-24 15:42:41"
+  },
+  "games": [
+    {
+      "game_id": "519601421",
+      "start_time": "2022-06-24 15:01:54",
+      "end_time": "2022-06-24 15:04:28",
+      "beatmap_id": "3666412",
+      "play_mode": "3",
+      "match_type": "0",
+      "scoring_type": "3",
+      "team_type": "0",
+      "mods": "0",
+      "scores": [
+        {
+          "slot": "0",
+          "team": "0",
+          "user_id": "14015337",
+          "score": "758325",
+          "maxcombo": "422",
+          "rank": "0",
+          "count50": "6",
+          "count100": "25",
+          "count300": "336",
+          "countmiss": "11",
+          "countgeki": "489",
+          "countkatu": "78",
+          "perfect": "0",
+          "pass": "1",
+          "enabled_mods": "1073741825"
+        }
+      ]
+    },
+    {
+      "game_id": "519602731",
+      "start_time": "2022-06-24 15:11:21",
+      "end_time": "2022-06-24 15:14:04",
+      "beatmap_id": "3666398",
+      "play_mode": "3",
+      "match_type": "0",
+      "scoring_type": "3",
+      "team_type": "0",
+      "mods": "0",
+      "scores": [
+        {
+          "slot": "0",
+          "team": "0",
+          "user_id": "14015337",
+          "score": "990017",
+          "maxcombo": "1820",
+          "rank": "0",
+          "count50": "0",
+          "count100": "0",
+          "count300": "304",
+          "countmiss": "0",
+          "countgeki": "1514",
+          "countkatu": "2",
+          "perfect": "0",
+          "pass": "1",
+          "enabled_mods": "1073741825"
+        }
+      ]
+    },
+    {
+      "game_id": "519603371",
+      "start_time": "2022-06-24 15:15:53",
+      "end_time": "2022-06-24 15:18:27",
+      "beatmap_id": "3666400",
+      "play_mode": "3",
+      "match_type": "0",
+      "scoring_type": "3",
+      "team_type": "0",
+      "mods": "0",
+      "scores": [
+        {
+          "slot": "0",
+          "team": "0",
+          "user_id": "14015337",
+          "score": "977523",
+          "maxcombo": "2230",
+          "rank": "0",
+          "count50": "0",
+          "count100": "1",
+          "count300": "501",
+          "countmiss": "0",
+          "countgeki": "1709",
+          "countkatu": "19",
+          "perfect": "0",
+          "pass": "1",
+          "enabled_mods": "1073741825"
+        }
+      ]
+    },
+    {
+      "game_id": "519603907",
+      "start_time": "2022-06-24 15:19:44",
+      "end_time": "2022-06-24 15:21:58",
+      "beatmap_id": "3666389",
+      "play_mode": "3",
+      "match_type": "0",
+      "scoring_type": "3",
+      "team_type": "0",
+      "mods": "0",
+      "scores": [
+        {
+          "slot": "0",
+          "team": "0",
+          "user_id": "14015337",
+          "score": "993801",
+          "maxcombo": "2144",
+          "rank": "0",
+          "count50": "0",
+          "count100": "0",
+          "count300": "232",
+          "countmiss": "0",
+          "countgeki": "1911",
+          "countkatu": "1",
+          "perfect": "0",
+          "pass": "1",
+          "enabled_mods": "1073741825"
+        }
+      ]
+    },
+    {
+      "game_id": "519604319",
+      "start_time": "2022-06-24 15:22:39",
+      "end_time": "2022-06-24 15:24:33",
+      "beatmap_id": "3666387",
+      "play_mode": "3",
+      "match_type": "0",
+      "scoring_type": "3",
+      "team_type": "0",
+      "mods": "0",
+      "scores": [
+        {
+          "slot": "0",
+          "team": "0",
+          "user_id": "14015337",
+          "score": "967929",
+          "maxcombo": "1731",
+          "rank": "0",
+          "count50": "1",
+          "count100": "1",
+          "count300": "360",
+          "countmiss": "1",
+          "countgeki": "1617",
+          "countkatu": "21",
+          "perfect": "0",
+          "pass": "1",
+          "enabled_mods": "1073741825"
+        }
+      ]
+    },
+    {
+      "game_id": "519604756",
+      "start_time": "2022-06-24 15:25:46",
+      "end_time": "2022-06-24 15:28:20",
+      "beatmap_id": "3666412",
+      "play_mode": "3",
+      "match_type": "0",
+      "scoring_type": "3",
+      "team_type": "0",
+      "mods": "0",
+      "scores": [
+        {
+          "slot": "0",
+          "team": "0",
+          "user_id": "14015337",
+          "score": "766161",
+          "maxcombo": "423",
+          "rank": "0",
+          "count50": "7",
+          "count100": "15",
+          "count300": "326",
+          "countmiss": "9",
+          "countgeki": "489",
+          "countkatu": "99",
+          "perfect": "0",
+          "pass": "1",
+          "enabled_mods": "1073741825"
+        }
+      ]
+    },
+    {
+      "game_id": "519605235",
+      "start_time": "2022-06-24 15:29:13",
+      "end_time": "2022-06-24 15:31:57",
+      "beatmap_id": "3666398",
+      "play_mode": "3",
+      "match_type": "0",
+      "scoring_type": "3",
+      "team_type": "0",
+      "mods": "0",
+      "scores": [
+        {
+          "slot": "0",
+          "team": "0",
+          "user_id": "14015337",
+          "score": "989804",
+          "maxcombo": "1820",
+          "rank": "0",
+          "count50": "0",
+          "count100": "0",
+          "count300": "289",
+          "countmiss": "0",
+          "countgeki": "1528",
+          "countkatu": "3",
+          "perfect": "0",
+          "pass": "1",
+          "enabled_mods": "1073741825"
+        }
+      ]
+    },
+    {
+      "game_id": "519605754",
+      "start_time": "2022-06-24 15:32:32",
+      "end_time": "2022-06-24 15:35:06",
+      "beatmap_id": "3666400",
+      "play_mode": "3",
+      "match_type": "0",
+      "scoring_type": "3",
+      "team_type": "0",
+      "mods": "0",
+      "scores": [
+        {
+          "slot": "0",
+          "team": "0",
+          "user_id": "14015337",
+          "score": "981614",
+          "maxcombo": "2230",
+          "rank": "0",
+          "count50": "0",
+          "count100": "0",
+          "count300": "523",
+          "countmiss": "0",
+          "countgeki": "1695",
+          "countkatu": "12",
+          "perfect": "0",
+          "pass": "1",
+          "enabled_mods": "1073741825"
+        }
+      ]
+    },
+    {
+      "game_id": "519606243",
+      "start_time": "2022-06-24 15:35:50",
+      "end_time": "2022-06-24 15:38:06",
+      "beatmap_id": "3666389",
+      "play_mode": "3",
+      "match_type": "0",
+      "scoring_type": "3",
+      "team_type": "0",
+      "mods": "0",
+      "scores": [
+        {
+          "slot": "0",
+          "team": "0",
+          "user_id": "14015337",
+          "score": "982001",
+          "maxcombo": "1542",
+          "rank": "0",
+          "count50": "0",
+          "count100": "0",
+          "count300": "303",
+          "countmiss": "1",
+          "countgeki": "1835",
+          "countkatu": "5",
+          "perfect": "0",
+          "pass": "1",
+          "enabled_mods": "1073741825"
+        }
+      ]
+    },
+    {
+      "game_id": "519606683",
+      "start_time": "2022-06-24 15:38:58",
+      "end_time": "2022-06-24 15:40:54",
+      "beatmap_id": "3666387",
+      "play_mode": "3",
+      "match_type": "0",
+      "scoring_type": "3",
+      "team_type": "0",
+      "mods": "0",
+      "scores": [
+        {
+          "slot": "0",
+          "team": "0",
+          "user_id": "14015337",
+          "score": "961872",
+          "maxcombo": "1610",
+          "rank": "0",
+          "count50": "0",
+          "count100": "1",
+          "count300": "329",
+          "countmiss": "3",
+          "countgeki": "1647",
+          "countkatu": "21",
+          "perfect": "0",
+          "pass": "1",
+          "enabled_mods": "1073741825"
+        }
+      ]
+    }
+  ]
+}

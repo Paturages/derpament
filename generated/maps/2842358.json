@@ -1,0 +1,24 @@
+{
+  "category": "RICE",
+  "counts": {
+    "bpm": 1,
+    "sv": 0,
+    "notes": {
+      "total": 1538,
+      "rice": 1468,
+      "ln": 70,
+      "single": 1080,
+      "jump": 202,
+      "hand": 18,
+      "quad": 0
+    }
+  },
+  "title": "Yamada Stream",
+  "artist": "Kommisar",
+  "mapper": "DannyPX",
+  "difficulty": "edit 1.02x (260bpm)",
+  "beatmapId": "2842358",
+  "beatmapSetId": "1167743",
+  "hp": "7",
+  "od": "8"
+}

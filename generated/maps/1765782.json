@@ -1,0 +1,24 @@
+{
+  "category": "rice",
+  "counts": {
+    "bpm": 2,
+    "sv": 2,
+    "notes": {
+      "total": 3700,
+      "rice": 3700,
+      "ln": 0,
+      "single": 2357,
+      "jump": 646,
+      "hand": 17,
+      "quad": 0
+    }
+  },
+  "title": "ON MY OWN 2006 (Sped Up Ver.)",
+  "artist": "ANNERLEY GORDON",
+  "mapper": "Jole",
+  "difficulty": "0.95x",
+  "beatmapId": "1765782",
+  "beatmapSetId": "844060",
+  "hp": "8",
+  "od": "8"
+}

@@ -1,0 +1,24 @@
+{
+  "category": "tb",
+  "counts": {
+    "bpm": 27,
+    "sv": 27,
+    "notes": {
+      "total": 6678,
+      "rice": 4886,
+      "ln": 1792,
+      "single": 3434,
+      "jump": 1343,
+      "hand": 170,
+      "quad": 12
+    }
+  },
+  "title": "M1LLI0N PP",
+  "artist": "(Camellia)",
+  "mapper": "DannyPX",
+  "difficulty": "12 MAN C011A8",
+  "beatmapId": "2867552",
+  "beatmapSetId": "1388481",
+  "hp": "7",
+  "od": "8"
+}

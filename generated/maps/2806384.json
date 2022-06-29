@@ -1,0 +1,24 @@
+{
+  "category": "rice",
+  "counts": {
+    "bpm": 1,
+    "sv": 0,
+    "notes": {
+      "total": 4122,
+      "rice": 4122,
+      "ln": 0,
+      "single": 2048,
+      "jump": 801,
+      "hand": 156,
+      "quad": 1
+    }
+  },
+  "title": "12 little fragments of silence",
+  "artist": "Betwixt & Between",
+  "mapper": "Shoegazer",
+  "difficulty": "absolution 1.05x (231bpm)",
+  "beatmapId": "2806384",
+  "beatmapSetId": "2784535",
+  "hp": "9",
+  "od": "8.5"
+}

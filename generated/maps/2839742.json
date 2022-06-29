@@ -1,0 +1,24 @@
+{
+  "category": "rice",
+  "counts": {
+    "bpm": 1,
+    "sv": 0,
+    "notes": {
+      "total": 1806,
+      "rice": 1731,
+      "ln": 75,
+      "single": 722,
+      "jump": 506,
+      "hand": 24,
+      "quad": 0
+    }
+  },
+  "title": "Passage D",
+  "artist": "The Flashbulb",
+  "mapper": "Jinjin",
+  "difficulty": "Dire",
+  "beatmapId": "2839742",
+  "beatmapSetId": "475785",
+  "hp": "8",
+  "od": "8.5"
+}

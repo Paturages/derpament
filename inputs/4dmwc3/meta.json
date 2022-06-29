@@ -17,6 +17,18 @@
     {
       "id": "4.qf",
       "name": "Quarterfinals"
+    },
+    {
+      "id": "5.sf",
+      "name": "Semifinals"
+    },
+    {
+      "id": "6.fw1",
+      "name": "Finals week 1"
+    },
+    {
+      "id": "7.fw2",
+      "name": "Finals week 2"
     }
   ]
 }

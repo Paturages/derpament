@@ -1,0 +1,24 @@
+{
+  "category": "rice",
+  "counts": {
+    "bpm": 1,
+    "sv": 0,
+    "notes": {
+      "total": 2143,
+      "rice": 2141,
+      "ln": 2,
+      "single": 1229,
+      "jump": 376,
+      "hand": 54,
+      "quad": 0
+    }
+  },
+  "title": "SHI*A*WA*SE",
+  "artist": "eye burn",
+  "mapper": "-Lethal-",
+  "difficulty": "Elekton's joy 1.15x (241bpm)",
+  "beatmapId": "2867484",
+  "beatmapSetId": "1388441",
+  "hp": "8",
+  "od": "8"
+}

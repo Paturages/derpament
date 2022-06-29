@@ -1,0 +1,10 @@
+{
+  "name": "Mania 4K French Tournament 2022",
+  "stages": [
+    {
+      "id": "1.qualifiers",
+      "name": "Qualifiers",
+      "qualifiers": true
+    }
+  ]
+}

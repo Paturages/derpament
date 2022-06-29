@@ -1,0 +1,24 @@
+{
+  "category": "RICE",
+  "counts": {
+    "bpm": 5,
+    "sv": 8,
+    "notes": {
+      "total": 4690,
+      "rice": 4560,
+      "ln": 130,
+      "single": 1746,
+      "jump": 1111,
+      "hand": 234,
+      "quad": 5
+    }
+  },
+  "title": "Euphoria",
+  "artist": "Ata",
+  "mapper": "Joueur 1",
+  "difficulty": "Endless Elation",
+  "beatmapId": "1296286",
+  "beatmapSetId": "614494",
+  "hp": "8.5",
+  "od": "8"
+}

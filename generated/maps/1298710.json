@@ -1,0 +1,24 @@
+{
+  "category": "sv",
+  "counts": {
+    "bpm": 1,
+    "sv": 1731,
+    "notes": {
+      "total": 1562,
+      "rice": 1530,
+      "ln": 32,
+      "single": 547,
+      "jump": 479,
+      "hand": 19,
+      "quad": 0
+    }
+  },
+  "title": "Pop Up Tha Bass",
+  "artist": "SickStrophe",
+  "mapper": "Cokiiplay",
+  "difficulty": "Jump",
+  "beatmapId": "1298710",
+  "beatmapSetId": "615707",
+  "hp": "9",
+  "od": "9"
+}

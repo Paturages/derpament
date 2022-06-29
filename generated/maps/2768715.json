@@ -1,0 +1,24 @@
+{
+  "category": "LN",
+  "counts": {
+    "bpm": 41,
+    "sv": 28,
+    "notes": {
+      "total": 2248,
+      "rice": 1275,
+      "ln": 973,
+      "single": 821,
+      "jump": 574,
+      "hand": 89,
+      "quad": 3
+    }
+  },
+  "title": "One's Glow",
+  "artist": "Exivious",
+  "mapper": "Davvy",
+  "difficulty": "Essence",
+  "beatmapId": "2768715",
+  "beatmapSetId": "1336470",
+  "hp": "8",
+  "od": "7.5"
+}

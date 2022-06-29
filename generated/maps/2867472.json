@@ -1,0 +1,24 @@
+{
+  "category": "rice",
+  "counts": {
+    "bpm": 1,
+    "sv": 3,
+    "notes": {
+      "total": 2139,
+      "rice": 2139,
+      "ln": 0,
+      "single": 1129,
+      "jump": 364,
+      "hand": 94,
+      "quad": 0
+    }
+  },
+  "title": "Because of you",
+  "artist": "Stellabee ft. THINK-chan",
+  "mapper": "-Lethal-",
+  "difficulty": "Cadmium x Lethal's Home 1.05x",
+  "beatmapId": "2867472",
+  "beatmapSetId": "1388436",
+  "hp": "8.5",
+  "od": "8.5"
+}

@@ -1,0 +1,24 @@
+{
+  "category": "HYBRID",
+  "counts": {
+    "bpm": 1,
+    "sv": 0,
+    "notes": {
+      "total": 2695,
+      "rice": 1743,
+      "ln": 952,
+      "single": 491,
+      "jump": 586,
+      "hand": 344,
+      "quad": 0
+    }
+  },
+  "title": "narashite",
+  "artist": "Haru Nemuri",
+  "mapper": "Penguinosity",
+  "difficulty": "Whirl [edit]",
+  "beatmapId": "2667720",
+  "beatmapSetId": "1254902",
+  "hp": "8",
+  "od": "7.7"
+}

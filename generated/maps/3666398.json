@@ -1,0 +1,24 @@
+{
+  "category": "TECH",
+  "counts": {
+    "bpm": 6,
+    "sv": 6,
+    "notes": {
+      "total": 1806,
+      "rice": 1792,
+      "ln": 14,
+      "single": 1044,
+      "jump": 321,
+      "hand": 40,
+      "quad": 0
+    }
+  },
+  "title": "Kazekaoru Beat",
+  "artist": "Chihiro Yamamoto",
+  "mapper": "Paturages",
+  "difficulty": "Stage 2: Fragrance",
+  "beatmapId": "3666398",
+  "beatmapSetId": "1789338",
+  "hp": "8.5",
+  "od": "8.2"
+}

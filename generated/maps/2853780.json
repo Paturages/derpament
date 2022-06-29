@@ -1,0 +1,24 @@
+{
+  "category": "hybrid",
+  "counts": {
+    "bpm": 1,
+    "sv": 8,
+    "notes": {
+      "total": 2788,
+      "rice": 1531,
+      "ln": 1257,
+      "single": 1437,
+      "jump": 481,
+      "hand": 119,
+      "quad": 8
+    }
+  },
+  "title": "SUMMER",
+  "artist": "Zekk",
+  "mapper": "MyZterioN-",
+  "difficulty": "Assuage (edit)",
+  "beatmapId": "2853780",
+  "beatmapSetId": "1208783",
+  "hp": "8.4",
+  "od": "7"
+}

@@ -1,0 +1,24 @@
+{
+  "category": "tb",
+  "counts": {
+    "bpm": 1,
+    "sv": 2,
+    "notes": {
+      "total": 4707,
+      "rice": 3686,
+      "ln": 1021,
+      "single": 2434,
+      "jump": 956,
+      "hand": 95,
+      "quad": 19
+    }
+  },
+  "title": "AZISAI (Long ver.)",
+  "artist": "Camellia Vs. Expander",
+  "mapper": "MyZterioN-",
+  "difficulty": "Shattered Rain",
+  "beatmapId": "2427865",
+  "beatmapSetId": "1138055",
+  "hp": "9",
+  "od": "7.5"
+}

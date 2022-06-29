@@ -1,0 +1,24 @@
+{
+  "category": "LN",
+  "counts": {
+    "bpm": 1,
+    "sv": 4,
+    "notes": {
+      "total": 1761,
+      "rice": 1017,
+      "ln": 744,
+      "single": 965,
+      "jump": 320,
+      "hand": 52,
+      "quad": 0
+    }
+  },
+  "title": "La'qryma of the Wasteland",
+  "artist": "DJ Noriken",
+  "mapper": "Keiga",
+  "difficulty": "Future",
+  "beatmapId": "2503541",
+  "beatmapSetId": "1202078",
+  "hp": "8",
+  "od": "7.5"
+}

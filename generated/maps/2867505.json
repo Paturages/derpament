@@ -1,0 +1,24 @@
+{
+  "category": "ln",
+  "counts": {
+    "bpm": 31,
+    "sv": 27,
+    "notes": {
+      "total": 1257,
+      "rice": 96,
+      "ln": 1161,
+      "single": 606,
+      "jump": 237,
+      "hand": 51,
+      "quad": 6
+    }
+  },
+  "title": "Deal with the devil",
+  "artist": "Tia",
+  "mapper": "oleka",
+  "difficulty": "Mipha-'s gamble (edit)",
+  "beatmapId": "2867505",
+  "beatmapSetId": "1388447",
+  "hp": "7",
+  "od": "8"
+}

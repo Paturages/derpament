@@ -1,0 +1,24 @@
+{
+  "category": "SPEED",
+  "counts": {
+    "bpm": 1,
+    "sv": 0,
+    "notes": {
+      "total": 2144,
+      "rice": 2144,
+      "ln": 0,
+      "single": 1245,
+      "jump": 409,
+      "hand": 27,
+      "quad": 0
+    }
+  },
+  "title": "Fallen from Ivory Towers",
+  "artist": "Hour of Penance",
+  "mapper": "DannyPX",
+  "difficulty": "Stage 4: Misotheism",
+  "beatmapId": "3666389",
+  "beatmapSetId": "1789332",
+  "hp": "8",
+  "od": "8"
+}

@@ -1,0 +1,24 @@
+{
+  "category": "rice",
+  "counts": {
+    "bpm": 1,
+    "sv": 0,
+    "notes": {
+      "total": 2093,
+      "rice": 2093,
+      "ln": 0,
+      "single": 1608,
+      "jump": 223,
+      "hand": 13,
+      "quad": 0
+    }
+  },
+  "title": "Angelic Layer",
+  "artist": "SHIKI",
+  "mapper": "Mipha-",
+  "difficulty": "Paragon 1.1x (Edit)",
+  "beatmapId": "2861121",
+  "beatmapSetId": "1332427",
+  "hp": "8",
+  "od": "8"
+}

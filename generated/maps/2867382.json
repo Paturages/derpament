@@ -1,0 +1,24 @@
+{
+  "category": "sv",
+  "counts": {
+    "bpm": 20,
+    "sv": 1071,
+    "notes": {
+      "total": 1680,
+      "rice": 1221,
+      "ln": 459,
+      "single": 653,
+      "jump": 449,
+      "hand": 43,
+      "quad": 0
+    }
+  },
+  "title": "ATHAZA",
+  "artist": "LeaF",
+  "mapper": "BossMadWolf",
+  "difficulty": "ASVBZA",
+  "beatmapId": "2867382",
+  "beatmapSetId": "1279294",
+  "hp": "8.3",
+  "od": "7.7"
+}

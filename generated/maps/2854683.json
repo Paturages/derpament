@@ -1,0 +1,24 @@
+{
+  "category": "rice",
+  "counts": {
+    "bpm": 1,
+    "sv": 4,
+    "notes": {
+      "total": 1889,
+      "rice": 1882,
+      "ln": 7,
+      "single": 309,
+      "jump": 386,
+      "hand": 156,
+      "quad": 85
+    }
+  },
+  "title": "Lost Memory",
+  "artist": "sakuzyo",
+  "mapper": "-Lethal-",
+  "difficulty": "Eclipse-'s Amnesia [1,3x Rate] (edit)",
+  "beatmapId": "2854683",
+  "beatmapSetId": "1381599",
+  "hp": "8.7",
+  "od": "9"
+}

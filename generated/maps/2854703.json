@@ -1,0 +1,24 @@
+{
+  "category": "rice",
+  "counts": {
+    "bpm": 1,
+    "sv": 23,
+    "notes": {
+      "total": 3093,
+      "rice": 3093,
+      "ln": 0,
+      "single": 1190,
+      "jump": 876,
+      "hand": 49,
+      "quad": 1
+    }
+  },
+  "title": "loli fantasy",
+  "artist": "goreshit",
+  "mapper": "-Lethal-",
+  "difficulty": "Wh1teh's k 225BPM",
+  "beatmapId": "2854703",
+  "beatmapSetId": "1381613",
+  "hp": "8",
+  "od": "8.5"
+}

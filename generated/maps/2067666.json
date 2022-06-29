@@ -1,0 +1,24 @@
+{
+  "category": "SV",
+  "counts": {
+    "bpm": 1,
+    "sv": 1673,
+    "notes": {
+      "total": 561,
+      "rice": 475,
+      "ln": 86,
+      "single": 344,
+      "jump": 92,
+      "hand": 11,
+      "quad": 0
+    }
+  },
+  "title": "Chronon",
+  "artist": "SlipGate",
+  "mapper": "[Crz]Crysarlene",
+  "difficulty": "Sleep",
+  "beatmapId": "2067666",
+  "beatmapSetId": "988436",
+  "hp": "7.7",
+  "od": "7.7"
+}

@@ -1,0 +1,24 @@
+{
+  "category": "RICE",
+  "counts": {
+    "bpm": 30,
+    "sv": 30,
+    "notes": {
+      "total": 2646,
+      "rice": 2436,
+      "ln": 210,
+      "single": 1111,
+      "jump": 599,
+      "hand": 111,
+      "quad": 1
+    }
+  },
+  "title": "Hank Made Me Vomit (Good Riddance, Undying Shitlord)",
+  "artist": "Renard",
+  "mapper": "Phil",
+  "difficulty": "Brain Stew",
+  "beatmapId": "2623517",
+  "beatmapSetId": "1262164",
+  "hp": "8",
+  "od": "8"
+}

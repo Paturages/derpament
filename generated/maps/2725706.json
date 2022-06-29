@@ -1,0 +1,24 @@
+{
+  "category": "hybrid",
+  "counts": {
+    "bpm": 1,
+    "sv": 10,
+    "notes": {
+      "total": 1505,
+      "rice": 628,
+      "ln": 877,
+      "single": 536,
+      "jump": 306,
+      "hand": 103,
+      "quad": 12
+    }
+  },
+  "title": "Bye or not",
+  "artist": "PSYQUI feat. mikanzil",
+  "mapper": "arpia97",
+  "difficulty": "good bye mata ne [od 7.5]",
+  "beatmapId": "2725706",
+  "beatmapSetId": "1099878",
+  "hp": "9",
+  "od": "7.5"
+}

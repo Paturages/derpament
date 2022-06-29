@@ -1,0 +1,24 @@
+{
+  "category": "HYBRID",
+  "counts": {
+    "bpm": 1,
+    "sv": 2,
+    "notes": {
+      "total": 1509,
+      "rice": 1017,
+      "ln": 492,
+      "single": 627,
+      "jump": 435,
+      "hand": 4,
+      "quad": 0
+    }
+  },
+  "title": "forever under construction",
+  "artist": "Tomoyuki Uchida",
+  "mapper": "Ventilo le vrai",
+  "difficulty": "Stage 5: Vertigo",
+  "beatmapId": "3666387",
+  "beatmapSetId": "1789330",
+  "hp": "8",
+  "od": "8"
+}

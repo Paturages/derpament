@@ -1,0 +1,24 @@
+{
+  "category": "ln",
+  "counts": {
+    "bpm": 1,
+    "sv": 0,
+    "notes": {
+      "total": 3198,
+      "rice": 603,
+      "ln": 2595,
+      "single": 1580,
+      "jump": 687,
+      "hand": 80,
+      "quad": 1
+    }
+  },
+  "title": "BRING IT ON",
+  "artist": "Giga ft. Kagamine Rin & Len",
+  "mapper": "DannyPX",
+  "difficulty": "GIVE IT ALL",
+  "beatmapId": "2577387",
+  "beatmapSetId": "1239671",
+  "hp": "8",
+  "od": "7.2"
+}

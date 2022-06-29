@@ -1,0 +1,24 @@
+{
+  "category": "rice",
+  "counts": {
+    "bpm": 1,
+    "sv": 0,
+    "notes": {
+      "total": 1641,
+      "rice": 1530,
+      "ln": 111,
+      "single": 917,
+      "jump": 287,
+      "hand": 50,
+      "quad": 0
+    }
+  },
+  "title": "URA-2027",
+  "artist": "Suimega",
+  "mapper": "Valedict",
+  "difficulty": "ASTRAL (Low LN)",
+  "beatmapId": "2844819",
+  "beatmapSetId": "521033",
+  "hp": "9",
+  "od": "9"
+}

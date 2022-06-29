@@ -1,0 +1,24 @@
+{
+  "category": "rice",
+  "counts": {
+    "bpm": 1,
+    "sv": 0,
+    "notes": {
+      "total": 5522,
+      "rice": 5345,
+      "ln": 177,
+      "single": 1918,
+      "jump": 1544,
+      "hand": 172,
+      "quad": 0
+    }
+  },
+  "title": "Nyan Nyan Drive",
+  "artist": "mocchie",
+  "mapper": "-Lethal-",
+  "difficulty": "Penguinosity's Hard (210bpm)",
+  "beatmapId": "2867474",
+  "beatmapSetId": "1388438",
+  "hp": "8",
+  "od": "8.5"
+}

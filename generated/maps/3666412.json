@@ -1,0 +1,24 @@
+{
+  "category": "SV",
+  "counts": {
+    "bpm": 32,
+    "sv": 2036,
+    "notes": {
+      "total": 940,
+      "rice": 935,
+      "ln": 5,
+      "single": 416,
+      "jump": 218,
+      "hand": 28,
+      "quad": 1
+    }
+  },
+  "title": "Bubble Flower",
+  "artist": "Sound Souler",
+  "mapper": "Elementaires",
+  "difficulty": "Stage 1: Nucleation",
+  "beatmapId": "3666412",
+  "beatmapSetId": "1789350",
+  "hp": "8",
+  "od": "8"
+}

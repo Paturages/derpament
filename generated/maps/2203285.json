@@ -1,0 +1,24 @@
+{
+  "category": "sv",
+  "counts": {
+    "bpm": 2,
+    "sv": 2045,
+    "notes": {
+      "total": 1250,
+      "rice": 960,
+      "ln": 290,
+      "single": 454,
+      "jump": 389,
+      "hand": 6,
+      "quad": 0
+    }
+  },
+  "title": "Fryzura Konika",
+  "artist": "Igorrr",
+  "mapper": "Noch Einen",
+  "difficulty": "Chronostatis [Reversal Collabo]",
+  "beatmapId": "2203285",
+  "beatmapSetId": "1039012",
+  "hp": "8",
+  "od": "8.4"
+}

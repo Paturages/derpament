@@ -1,0 +1,24 @@
+{
+  "category": "sv",
+  "counts": {
+    "bpm": 1,
+    "sv": 381,
+    "notes": {
+      "total": 589,
+      "rice": 482,
+      "ln": 107,
+      "single": 499,
+      "jump": 45,
+      "hand": 0,
+      "quad": 0
+    }
+  },
+  "title": "Door Into Summer",
+  "artist": "Cosmicosmo",
+  "mapper": "Lusty Platypus",
+  "difficulty": "Stage 1: Wanderlust",
+  "beatmapId": "2251081",
+  "beatmapSetId": "1075846",
+  "hp": "7",
+  "od": "7"
+}

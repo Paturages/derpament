@@ -64,6 +64,14 @@
     "playersCount": 69
   },
   {
+    "name": "Mania 4K French Tournament 2022",
+    "stages": [
+      { "id": "1.qualifiers", "name": "Qualifiers", "qualifiers": true }
+    ],
+    "id": "mft2022",
+    "playersCount": 55
+  },
+  {
     "name": "Mania 7K French Tournament 2021",
     "stages": [{ "id": "1.week1", "name": "Week 1: RO16 + Quarterfinals" }],
     "id": "mft7k2021",

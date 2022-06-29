@@ -1,0 +1,24 @@
+{
+  "category": "LN",
+  "counts": {
+    "bpm": 1,
+    "sv": 6,
+    "notes": {
+      "total": 1256,
+      "rice": 282,
+      "ln": 974,
+      "single": 591,
+      "jump": 229,
+      "hand": 69,
+      "quad": 0
+    }
+  },
+  "title": "Clematis",
+  "artist": "Kagi",
+  "mapper": "Paturages",
+  "difficulty": "Stage 3: Gray Hardrock",
+  "beatmapId": "3666400",
+  "beatmapSetId": "1789340",
+  "hp": "7.5",
+  "od": "7.5"
+}

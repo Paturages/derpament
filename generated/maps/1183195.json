@@ -1,0 +1,24 @@
+{
+  "category": "rice",
+  "counts": {
+    "bpm": 1,
+    "sv": 0,
+    "notes": {
+      "total": 2468,
+      "rice": 2456,
+      "ln": 12,
+      "single": 1495,
+      "jump": 476,
+      "hand": 7,
+      "quad": 0
+    }
+  },
+  "title": "Bulletproof Love",
+  "artist": "Pierce The Veil",
+  "mapper": "Shoegazer",
+  "difficulty": "Loveless",
+  "beatmapId": "1183195",
+  "beatmapSetId": "559456",
+  "hp": "8.5",
+  "od": "8.5"
+}
