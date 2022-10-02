@@ -1,0 +1,24 @@
+{
+  "category": "ln",
+  "counts": {
+    "bpm": -1,
+    "sv": -1,
+    "notes": {
+      "total": 2136,
+      "rice": 792,
+      "ln": 1344,
+      "single": -1,
+      "jump": -1,
+      "hand": -1,
+      "quad": -1
+    }
+  },
+  "title": "The Clockwork Rose -Tokei Shikake no Bara Shoujo-",
+  "artist": "Hatsuki Yura",
+  "mapper": "lemonguy",
+  "difficulty": "[4K] LN Master Cut x1.15",
+  "beatmapId": "2981825",
+  "beatmapSetId": "1450330",
+  "hp": 8,
+  "od": 8
+}

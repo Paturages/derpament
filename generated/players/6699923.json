@@ -1,5 +1,5 @@
 {
-  "avatar_url": "https://a.ppy.sh/6699923?1644427888.jpeg",
+  "avatar_url": "https://a.ppy.sh/6699923?1658048512.jpeg",
   "country_code": "KR",
   "default_group": "default",
   "id": 6699923,
@@ -8,11 +8,11 @@
   "is_deleted": false,
   "is_online": false,
   "is_supporter": true,
-  "last_visit": "2022-04-15T19:35:31+00:00",
+  "last_visit": "2022-10-02T00:48:32+00:00",
   "pm_friends_only": false,
   "profile_colour": null,
   "username": "SuddenDeath",
-  "cover_url": "https://assets.ppy.sh/user-profile-covers/6699923/4afeda65cf53cc08fd062fb0a2e4faa434cc4ca604fb147a89e0cad043c967c5.png",
+  "cover_url": "https://assets.ppy.sh/user-profile-covers/6699923/62b878c9839f43c7be3a5865f41954be565fc407c3349431c565e03f2a9d4c13.jpeg",
   "discord": null,
   "has_supported": true,
   "interests": null,
@@ -24,7 +24,7 @@
   "occupation": null,
   "playmode": "mania",
   "playstyle": ["keyboard"],
-  "post_count": 13,
+  "post_count": 33,
   "profile_order": [
     "me",
     "recent_activity",
@@ -34,87 +34,94 @@
     "historical",
     "kudosu"
   ],
-  "title": "Former osu!mania 4K Champion: 2019",
+  "title": "osu!mania 4K Champion",
   "title_url": null,
   "twitter": "SD_SuddenDeath",
   "website": "https://www.twitch.tv/suddendeathsd",
   "country": { "code": "KR", "name": "South Korea" },
   "cover": {
-    "custom_url": "https://assets.ppy.sh/user-profile-covers/6699923/4afeda65cf53cc08fd062fb0a2e4faa434cc4ca604fb147a89e0cad043c967c5.png",
-    "url": "https://assets.ppy.sh/user-profile-covers/6699923/4afeda65cf53cc08fd062fb0a2e4faa434cc4ca604fb147a89e0cad043c967c5.png",
+    "custom_url": "https://assets.ppy.sh/user-profile-covers/6699923/62b878c9839f43c7be3a5865f41954be565fc407c3349431c565e03f2a9d4c13.jpeg",
+    "url": "https://assets.ppy.sh/user-profile-covers/6699923/62b878c9839f43c7be3a5865f41954be565fc407c3349431c565e03f2a9d4c13.jpeg",
     "id": null
   },
   "account_history": [],
   "active_tournament_banner": null,
   "badges": [
     {
+      "awarded_at": "2022-09-18T16:59:55+00:00",
+      "description": "osu!mania 4K World Cup 2022 Winner (South Korea)",
+      "image_url": "https://assets.ppy.sh/profile-badges/mwc4k2022-winner.png",
+      "url": "https://osu.ppy.sh/wiki/en/Tournaments/MWC/2022_4K"
+    },
+    {
       "awarded_at": "2019-10-27T05:17:41+00:00",
       "description": "osu!mania 4K World Cup 2019 1st place (South Korea)",
       "image_url": "https://assets.ppy.sh/profile-badges/mwc4k_winner.png",
-      "url": ""
+      "url": "https://osu.ppy.sh/wiki/en/Tournaments/MWC/2019_4K"
     },
     {
       "awarded_at": "2018-10-08T01:02:52+00:00",
       "description": "MWC 4K 2018 Winning Team",
       "image_url": "https://assets.ppy.sh/profile-badges/o_m4Kwc2018_winner.jpg",
-      "url": ""
+      "url": "https://osu.ppy.sh/wiki/en/Tournaments/MWC/2018_4K"
     },
     {
       "awarded_at": "2017-10-11T00:12:04+00:00",
       "description": "MWC 4K 2017 1st place",
       "image_url": "https://assets.ppy.sh/profile-badges/o_m4Kwc2017_winner.png",
-      "url": ""
+      "url": "https://osu.ppy.sh/wiki/en/Tournaments/MWC/2017_4K"
     }
   ],
-  "beatmap_playcounts_count": 4930,
-  "comments_count": 12,
-  "favourite_beatmapset_count": 526,
-  "follower_count": 847,
-  "graveyard_beatmapset_count": 1,
+  "beatmap_playcounts_count": 5266,
+  "comments_count": 34,
+  "favourite_beatmapset_count": 857,
+  "follower_count": 958,
+  "graveyard_beatmapset_count": 13,
   "groups": [],
+  "guest_beatmapset_count": 0,
   "loved_beatmapset_count": 0,
-  "mapping_follower_count": 15,
-  "pending_beatmapset_count": 0,
+  "mapping_follower_count": 36,
+  "pending_beatmapset_count": 4,
   "previous_usernames": ["Retisia"],
   "ranked_beatmapset_count": 0,
   "scores_best_count": 100,
-  "scores_first_count": 0,
-  "scores_pinned_count": 0,
-  "scores_recent_count": 8,
+  "scores_first_count": 1,
+  "scores_pinned_count": 1,
+  "scores_recent_count": 0,
   "statistics": {
-    "level": { "current": 97, "progress": 63 },
-    "global_rank": 604,
-    "pp": 10374.2,
-    "ranked_score": 1574310429,
-    "hit_accuracy": 97.2997,
-    "play_count": 28984,
-    "play_time": 1837991,
-    "total_score": 11413777627,
-    "total_hits": 22926709,
+    "level": { "current": 97, "progress": 84 },
+    "global_rank": 620,
+    "pp": 10950.9,
+    "ranked_score": 1671160446,
+    "hit_accuracy": 97.54,
+    "play_count": 30424,
+    "play_time": 1969261,
+    "total_score": 12044396267,
+    "total_hits": 24940065,
     "maximum_combo": 8101,
-    "replays_watched_by_others": 13850,
+    "replays_watched_by_others": 14213,
     "is_ranked": true,
-    "grade_counts": { "ss": 405, "ssh": 12, "s": 1084, "sh": 27, "a": 52 },
-    "country_rank": 192,
-    "rank": { "country": 192 },
+    "grade_counts": { "ss": 423, "ssh": 12, "s": 1142, "sh": 27, "a": 62 },
+    "country_rank": 187,
+    "rank": { "country": 187 },
     "variants": [
       {
         "mode": "mania",
         "variant": "4k",
-        "country_rank": 37,
-        "global_rank": 195,
-        "pp": 10342.4
+        "country_rank": 39,
+        "global_rank": 164,
+        "pp": 10925.1
       },
       {
         "mode": "mania",
         "variant": "7k",
-        "country_rank": 3465,
-        "global_rank": 14616,
+        "country_rank": 3748,
+        "global_rank": 16409,
         "pp": 933.652
       }
     ]
   },
   "support_level": 1,
   "ranked_and_approved_beatmapset_count": 0,
-  "unranked_beatmapset_count": 0
+  "unranked_beatmapset_count": 4
 }

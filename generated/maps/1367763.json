@@ -1,0 +1,24 @@
+{
+  "category": "rice",
+  "counts": {
+    "bpm": -1,
+    "sv": -1,
+    "notes": {
+      "total": 2566,
+      "rice": 2549,
+      "ln": 17,
+      "single": -1,
+      "jump": -1,
+      "hand": -1,
+      "quad": -1
+    }
+  },
+  "title": "DVP",
+  "artist": "PUP",
+  "mapper": "Chrubble",
+  "difficulty": "[4K] still fucked up over you",
+  "beatmapId": "1367763",
+  "beatmapSetId": "645460",
+  "hp": 8.5,
+  "od": 7.5
+}

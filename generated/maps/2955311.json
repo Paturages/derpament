@@ -1,0 +1,24 @@
+{
+  "category": "rice",
+  "counts": {
+    "bpm": -1,
+    "sv": -1,
+    "notes": {
+      "total": 5317,
+      "rice": 5306,
+      "ln": 11,
+      "single": -1,
+      "jump": -1,
+      "hand": -1,
+      "quad": -1
+    }
+  },
+  "title": "Speedom",
+  "artist": "Tech N9ne feat. Eminem & Krizz Kaliko",
+  "mapper": "Guilhermeziat",
+  "difficulty": "[4K] Skwid's Challenge",
+  "beatmapId": "2955311",
+  "beatmapSetId": "1436332",
+  "hp": 8,
+  "od": 8.5
+}

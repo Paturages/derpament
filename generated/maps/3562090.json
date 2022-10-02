@@ -1,0 +1,24 @@
+{
+  "category": "rice",
+  "counts": {
+    "bpm": -1,
+    "sv": -1,
+    "notes": {
+      "total": 2880,
+      "rice": 2828,
+      "ln": 52,
+      "single": -1,
+      "jump": -1,
+      "hand": -1,
+      "quad": -1
+    }
+  },
+  "title": "Sound Alchemist",
+  "artist": "Blacklolita",
+  "mapper": "Halogen-",
+  "difficulty": "[4K] Corrupted Transformation",
+  "beatmapId": "3562090",
+  "beatmapSetId": "1742466",
+  "hp": 8,
+  "od": 8
+}

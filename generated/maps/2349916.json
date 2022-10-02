@@ -1,0 +1,24 @@
+{
+  "category": "ln",
+  "counts": {
+    "bpm": -1,
+    "sv": -1,
+    "notes": {
+      "total": 2041,
+      "rice": 451,
+      "ln": 1590,
+      "single": -1,
+      "jump": -1,
+      "hand": -1,
+      "quad": -1
+    }
+  },
+  "title": "#be_fortunate",
+  "artist": "Hino Isuka",
+  "mapper": "HowToPlayLN",
+  "difficulty": "[4K] #be_nerfed",
+  "beatmapId": "2349916",
+  "beatmapSetId": "1099229",
+  "hp": 0,
+  "od": 8
+}

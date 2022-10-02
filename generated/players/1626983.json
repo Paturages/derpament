@@ -1,0 +1,157 @@
+{
+  "avatar_url": "https://a.ppy.sh/1626983?1653055913.jpeg",
+  "country_code": "MY",
+  "default_group": "default",
+  "id": 1626983,
+  "is_active": true,
+  "is_bot": false,
+  "is_deleted": false,
+  "is_online": true,
+  "is_supporter": false,
+  "last_visit": "2022-10-02T12:04:21+00:00",
+  "pm_friends_only": false,
+  "profile_colour": null,
+  "username": "Cryolien",
+  "cover_url": "https://assets.ppy.sh/user-profile-covers/1626983/c70af7eeee93a7e33f30340cb143efc48d9f4cf7b238494a6f3392672016f9a2.jpeg",
+  "discord": "Cryolien#0626",
+  "has_supported": true,
+  "interests": "Gumi best Voca",
+  "join_date": "2012-05-26T09:30:21+00:00",
+  "kudosu": { "total": 13, "available": 4 },
+  "location": null,
+  "max_blocks": 50,
+  "max_friends": 250,
+  "occupation": null,
+  "playmode": "osu",
+  "playstyle": ["mouse", "keyboard"],
+  "post_count": 295,
+  "profile_order": [
+    "me",
+    "recent_activity",
+    "top_ranks",
+    "beatmaps",
+    "medals",
+    "historical",
+    "kudosu"
+  ],
+  "title": null,
+  "title_url": null,
+  "twitter": "Cryolien",
+  "website": "https://twitch.tv/cryolien",
+  "country": { "code": "MY", "name": "Malaysia" },
+  "cover": {
+    "custom_url": "https://assets.ppy.sh/user-profile-covers/1626983/c70af7eeee93a7e33f30340cb143efc48d9f4cf7b238494a6f3392672016f9a2.jpeg",
+    "url": "https://assets.ppy.sh/user-profile-covers/1626983/c70af7eeee93a7e33f30340cb143efc48d9f4cf7b238494a6f3392672016f9a2.jpeg",
+    "id": null
+  },
+  "account_history": [],
+  "active_tournament_banner": null,
+  "badges": [
+    {
+      "awarded_at": "2022-06-05T22:22:23+00:00",
+      "description": "Beatmap Spotlights: Winter 2022 - osu!mania (Rhythm Incarnate 1)",
+      "image_url": "https://assets.ppy.sh/profile-badges/spotlights-2022/winter-2022-mania-ri-2.png",
+      "url": ""
+    },
+    {
+      "awarded_at": "2021-12-16T23:26:43+00:00",
+      "description": "Beatmap Spotlights: Spring 2021 - osu!mania (Rhythm Incarnate 1)",
+      "image_url": "https://assets.ppy.sh/profile-badges/spring-2021-mania-ri-2.png",
+      "url": ""
+    },
+    {
+      "awarded_at": "2021-09-19T21:30:29+00:00",
+      "description": "osu!mania 4K World Cup 2021 3rd Place (Malaysia)",
+      "image_url": "https://assets.ppy.sh/profile-badges/badge_mwc4k_3rd.png",
+      "url": "https://osu.ppy.sh/wiki/en/Tournaments/MWC/2021_4K"
+    },
+    {
+      "awarded_at": "2021-05-21T11:38:22+00:00",
+      "description": "Beatmap Spotlights: Winter 2021 - osu!mania (Rhythm Incarnate 2)",
+      "image_url": "https://assets.ppy.sh/profile-badges/winter-2021-mania-ri-3.png",
+      "url": ""
+    },
+    {
+      "awarded_at": "2021-02-26T11:12:26+00:00",
+      "description": "Beatmap Spotlights: Autumn 2020 - osu!mania (Rhythm Incarnate 2)",
+      "image_url": "https://assets.ppy.sh/profile-badges/autumn-2020-mania-ri-3.png",
+      "url": ""
+    },
+    {
+      "awarded_at": "2021-01-01T10:29:11+00:00",
+      "description": "Touhou Project Mania Cup 1st Winning Team",
+      "image_url": "https://assets.ppy.sh/profile-badges/tmc1-2020.png",
+      "url": ""
+    },
+    {
+      "awarded_at": "2020-10-20T14:03:27+00:00",
+      "description": "Beatmap Spotlights Test Run: Summer 2020 osu!mania Ranking (Rhythm Incarnate 2)",
+      "image_url": "https://assets.ppy.sh/profile-badges/summer-2020-mania-ri-3.png",
+      "url": ""
+    },
+    {
+      "awarded_at": "2018-03-22T10:00:26+00:00",
+      "description": "MWC 7K 2018 2nd place",
+      "image_url": "https://assets.ppy.sh/profile-badges/o_m7Kwc2018_2nd.png",
+      "url": "https://osu.ppy.sh/wiki/en/Tournaments/MWC/2018_7K"
+    },
+    {
+      "awarded_at": "2016-03-03T02:07:48+00:00",
+      "description": "MWC 7K 2016 3rd place",
+      "image_url": "https://assets.ppy.sh/profile-badges/osu!mania7k_3rd.png",
+      "url": "https://osu.ppy.sh/wiki/en/Tournaments/MWC/2016_7K"
+    }
+  ],
+  "beatmap_playcounts_count": 4039,
+  "comments_count": 67,
+  "favourite_beatmapset_count": 36,
+  "follower_count": 561,
+  "graveyard_beatmapset_count": 87,
+  "groups": [],
+  "guest_beatmapset_count": 0,
+  "loved_beatmapset_count": 0,
+  "mapping_follower_count": 34,
+  "pending_beatmapset_count": 2,
+  "previous_usernames": [],
+  "ranked_beatmapset_count": 2,
+  "scores_best_count": 100,
+  "scores_first_count": 19,
+  "scores_pinned_count": 1,
+  "scores_recent_count": 0,
+  "statistics": {
+    "level": { "current": 98, "progress": 82 },
+    "global_rank": 345,
+    "pp": 12163.3,
+    "ranked_score": 1481872367,
+    "hit_accuracy": 96.2254,
+    "play_count": 40742,
+    "play_time": 2667513,
+    "total_score": 16812204845,
+    "total_hits": 34492801,
+    "maximum_combo": 17807,
+    "replays_watched_by_others": 13369,
+    "is_ranked": true,
+    "grade_counts": { "ss": 278, "ssh": 0, "s": 1151, "sh": 49, "a": 49 },
+    "country_rank": 9,
+    "rank": { "country": 9 },
+    "variants": [
+      {
+        "mode": "mania",
+        "variant": "4k",
+        "country_rank": 85,
+        "global_rank": 3273,
+        "pp": 7636.94
+      },
+      {
+        "mode": "mania",
+        "variant": "7k",
+        "country_rank": 9,
+        "global_rank": 309,
+        "pp": 12001.6
+      }
+    ]
+  },
+  "support_level": 0,
+  "ranked_and_approved_beatmapset_count": 2,
+  "unranked_beatmapset_count": 2
+}

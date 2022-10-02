@@ -1,0 +1,24 @@
+{
+  "category": "rice",
+  "counts": {
+    "bpm": -1,
+    "sv": -1,
+    "notes": {
+      "total": 1714,
+      "rice": 1714,
+      "ln": 0,
+      "single": -1,
+      "jump": -1,
+      "hand": -1,
+      "quad": -1
+    }
+  },
+  "title": "Cutie Puffs",
+  "artist": "Truongasm",
+  "mapper": "Guilhermeziat",
+  "difficulty": "[4K] Skwid's Challenge",
+  "beatmapId": "2955306",
+  "beatmapSetId": "1436331",
+  "hp": 8,
+  "od": 8.5
+}

@@ -1,0 +1,24 @@
+{
+  "category": "ln",
+  "counts": {
+    "bpm": -1,
+    "sv": -1,
+    "notes": {
+      "total": 1992,
+      "rice": 552,
+      "ln": 1440,
+      "single": -1,
+      "jump": -1,
+      "hand": -1,
+      "quad": -1
+    }
+  },
+  "title": "Follow Tomorrow (STARLiGHT Mix)",
+  "artist": "HHHxMMxST",
+  "mapper": "_underjoy",
+  "difficulty": "[4K] UJCHAN!! (OD7)",
+  "beatmapId": "2806975",
+  "beatmapSetId": "873621",
+  "hp": 8,
+  "od": 7
+}

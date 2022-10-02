@@ -1,0 +1,24 @@
+{
+  "category": "rice",
+  "counts": {
+    "bpm": -1,
+    "sv": -1,
+    "notes": {
+      "total": 1870,
+      "rice": 1870,
+      "ln": 0,
+      "single": -1,
+      "jump": -1,
+      "hand": -1,
+      "quad": -1
+    }
+  },
+  "title": "GENS D'ARMES",
+  "artist": "Falcom Sound Team jdk",
+  "mapper": "lemonguy",
+  "difficulty": "[4K] Challenge (Cut)",
+  "beatmapId": "3520822",
+  "beatmapSetId": "1722701",
+  "hp": 8,
+  "od": 8
+}

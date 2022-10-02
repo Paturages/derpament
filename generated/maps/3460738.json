@@ -1,0 +1,24 @@
+{
+  "category": "ln",
+  "counts": {
+    "bpm": -1,
+    "sv": -1,
+    "notes": {
+      "total": 1811,
+      "rice": 69,
+      "ln": 1742,
+      "single": -1,
+      "jump": -1,
+      "hand": -1,
+      "quad": -1
+    }
+  },
+  "title": "LAMIA",
+  "artist": "BlackY",
+  "mapper": "MyZterioN-",
+  "difficulty": "[4K] Nirvard 1.05x",
+  "beatmapId": "3460738",
+  "beatmapSetId": "1693630",
+  "hp": 7.5,
+  "od": 7.5
+}

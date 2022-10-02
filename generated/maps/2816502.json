@@ -1,0 +1,24 @@
+{
+  "category": "rice",
+  "counts": {
+    "bpm": -1,
+    "sv": -1,
+    "notes": {
+      "total": 2057,
+      "rice": 2057,
+      "ln": 0,
+      "single": -1,
+      "jump": -1,
+      "hand": -1,
+      "quad": -1
+    }
+  },
+  "title": "Nanamori (youth Remix)",
+  "artist": "Kotori",
+  "mapper": "Shoegazer",
+  "difficulty": "[4K] Escapade 1.15x (247bpm)",
+  "beatmapId": "2816502",
+  "beatmapSetId": "1360301",
+  "hp": 8.5,
+  "od": 8.5
+}

@@ -1,0 +1,127 @@
+{
+  "avatar_url": "https://a.ppy.sh/11626065?1662206894.jpeg",
+  "country_code": "CA",
+  "default_group": "bng",
+  "id": 11626065,
+  "is_active": true,
+  "is_bot": false,
+  "is_deleted": false,
+  "is_online": false,
+  "is_supporter": true,
+  "last_visit": null,
+  "pm_friends_only": false,
+  "profile_colour": "#6B3FA0",
+  "username": "guden",
+  "cover_url": "https://assets.ppy.sh/user-profile-covers/11626065/8d5e520620fdf48e96b09546006e22062443f03bf05a2f0aa0b2d0502e116890.jpeg",
+  "discord": "guden#3335",
+  "has_supported": true,
+  "interests": null,
+  "join_date": "2018-01-27T02:16:27+00:00",
+  "kudosu": { "total": 1175, "available": 1175 },
+  "location": "New Zealand",
+  "max_blocks": 100,
+  "max_friends": 500,
+  "occupation": null,
+  "playmode": "mania",
+  "playstyle": ["keyboard"],
+  "post_count": 140,
+  "profile_order": [
+    "me",
+    "kudosu",
+    "recent_activity",
+    "beatmaps",
+    "medals",
+    "historical",
+    "top_ranks"
+  ],
+  "title": "Elite Nominator",
+  "title_url": null,
+  "twitter": "guden_ev",
+  "website": null,
+  "country": { "code": "CA", "name": "Canada" },
+  "cover": {
+    "custom_url": "https://assets.ppy.sh/user-profile-covers/11626065/8d5e520620fdf48e96b09546006e22062443f03bf05a2f0aa0b2d0502e116890.jpeg",
+    "url": "https://assets.ppy.sh/user-profile-covers/11626065/8d5e520620fdf48e96b09546006e22062443f03bf05a2f0aa0b2d0502e116890.jpeg",
+    "id": null
+  },
+  "account_history": [],
+  "active_tournament_banner": null,
+  "badges": [
+    {
+      "awarded_at": "2022-03-23T01:58:06+00:00",
+      "description": "Exemplary performance as a Beatmap Nominator during 2021 (osu!mania)",
+      "image_url": "https://assets.ppy.sh/profile-badges/elite-nominator.png",
+      "url": "https://osu.ppy.sh/wiki/en/People/Users_with_unique_titles#elite-nominators"
+    },
+    {
+      "awarded_at": "2022-02-07T18:58:02+00:00",
+      "description": "Longstanding contribution to the Beatmap Nominators - 1 Year",
+      "image_url": "https://assets.ppy.sh/profile-badges/BN1y.png",
+      "url": "https://osu.ppy.sh/wiki/en/People/The_Team/Beatmap_Nominators"
+    }
+  ],
+  "beatmap_playcounts_count": 3036,
+  "comments_count": 244,
+  "favourite_beatmapset_count": 160,
+  "follower_count": 292,
+  "graveyard_beatmapset_count": 57,
+  "groups": [
+    {
+      "colour": "#A347EB",
+      "has_listing": true,
+      "has_playmodes": true,
+      "id": 28,
+      "identifier": "bng",
+      "is_probationary": false,
+      "name": "Beatmap Nominators",
+      "short_name": "BN",
+      "playmodes": ["mania"]
+    }
+  ],
+  "guest_beatmapset_count": 7,
+  "loved_beatmapset_count": 0,
+  "mapping_follower_count": 105,
+  "pending_beatmapset_count": 2,
+  "previous_usernames": ["Itzuaka", "Tokoyami Towa"],
+  "ranked_beatmapset_count": 7,
+  "scores_best_count": 100,
+  "scores_first_count": 0,
+  "scores_pinned_count": 1,
+  "scores_recent_count": 6,
+  "statistics": {
+    "level": { "current": 91, "progress": 93 },
+    "global_rank": 2582,
+    "pp": 8412.41,
+    "ranked_score": 594275408,
+    "hit_accuracy": 96.545,
+    "play_count": 13448,
+    "play_time": 1198748,
+    "total_score": 5316992715,
+    "total_hits": 14919774,
+    "maximum_combo": 6353,
+    "replays_watched_by_others": 7,
+    "is_ranked": true,
+    "grade_counts": { "ss": 8, "ssh": 0, "s": 440, "sh": 1, "a": 191 },
+    "country_rank": 68,
+    "rank": { "country": 68 },
+    "variants": [
+      {
+        "mode": "mania",
+        "variant": "4k",
+        "country_rank": 59,
+        "global_rank": 1767,
+        "pp": 8376.17
+      },
+      {
+        "mode": "mania",
+        "variant": "7k",
+        "country_rank": 104,
+        "global_rank": 5067,
+        "pp": 3103.21
+      }
+    ]
+  },
+  "support_level": 1,
+  "ranked_and_approved_beatmapset_count": 7,
+  "unranked_beatmapset_count": 2
+}

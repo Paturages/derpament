@@ -1,0 +1,24 @@
+{
+  "category": "tb",
+  "counts": {
+    "bpm": -1,
+    "sv": -1,
+    "notes": {
+      "total": 4254,
+      "rice": 2972,
+      "ln": 1282,
+      "single": -1,
+      "jump": -1,
+      "hand": -1,
+      "quad": -1
+    }
+  },
+  "title": "Galaxy Collision",
+  "artist": "ReeK",
+  "mapper": "guden",
+  "difficulty": "[4K] Coalescence",
+  "beatmapId": "3564430",
+  "beatmapSetId": "1743586",
+  "hp": 8.5,
+  "od": 8
+}

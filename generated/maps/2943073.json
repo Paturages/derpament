@@ -1,0 +1,24 @@
+{
+  "category": "rice",
+  "counts": {
+    "bpm": -1,
+    "sv": -1,
+    "notes": {
+      "total": 1763,
+      "rice": 1741,
+      "ln": 22,
+      "single": -1,
+      "jump": -1,
+      "hand": -1,
+      "quad": -1
+    }
+  },
+  "title": "Skulk",
+  "artist": "Echo !mage",
+  "mapper": "Guilhermeziat",
+  "difficulty": "[4K] Hidden",
+  "beatmapId": "2943073",
+  "beatmapSetId": "1429639",
+  "hp": 8,
+  "od": 9
+}

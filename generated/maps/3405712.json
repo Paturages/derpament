@@ -1,0 +1,24 @@
+{
+  "category": "ln",
+  "counts": {
+    "bpm": -1,
+    "sv": -1,
+    "notes": {
+      "total": 1319,
+      "rice": 799,
+      "ln": 520,
+      "single": -1,
+      "jump": -1,
+      "hand": -1,
+      "quad": -1
+    }
+  },
+  "title": "Signal (feat. Such) - Mameyudoufu Remix (osu! edit)",
+  "artist": "rejection",
+  "mapper": "HowToPlayLN",
+  "difficulty": "[4K] Insane",
+  "beatmapId": "3405712",
+  "beatmapSetId": "1665688",
+  "hp": 8,
+  "od": 7.5
+}

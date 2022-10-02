@@ -1,0 +1,24 @@
+{
+  "category": "hybrid",
+  "counts": {
+    "bpm": -1,
+    "sv": -1,
+    "notes": {
+      "total": 1137,
+      "rice": 793,
+      "ln": 344,
+      "single": -1,
+      "jump": -1,
+      "hand": -1,
+      "quad": -1
+    }
+  },
+  "title": "Eyes on me feat. Such",
+  "artist": "PSYQUI",
+  "mapper": "HowToPlayLN",
+  "difficulty": "[4K] Stage 4: Focused",
+  "beatmapId": "2493320",
+  "beatmapSetId": "1196939",
+  "hp": 8,
+  "od": 8
+}

@@ -1,0 +1,24 @@
+{
+  "category": "hybrid",
+  "counts": {
+    "bpm": -1,
+    "sv": -1,
+    "notes": {
+      "total": 2468,
+      "rice": 1861,
+      "ln": 607,
+      "single": -1,
+      "jump": -1,
+      "hand": -1,
+      "quad": -1
+    }
+  },
+  "title": "MeTear'n TruX",
+  "artist": "MisoilePunch ~pan soe~",
+  "mapper": "guden",
+  "difficulty": "[4K] L'ythlinn",
+  "beatmapId": "3553580",
+  "beatmapSetId": "1738667",
+  "hp": 8.5,
+  "od": 8
+}

@@ -1,0 +1,24 @@
+{
+  "category": "ln",
+  "counts": {
+    "bpm": -1,
+    "sv": -1,
+    "notes": {
+      "total": 1932,
+      "rice": 634,
+      "ln": 1298,
+      "single": -1,
+      "jump": -1,
+      "hand": -1,
+      "quad": -1
+    }
+  },
+  "title": "Turkey Turkey",
+  "artist": "Kommisar",
+  "mapper": "lemonguy",
+  "difficulty": "[4K] LN Master (cut) 1.05x",
+  "beatmapId": "2968864",
+  "beatmapSetId": "852916",
+  "hp": 8.5,
+  "od": 7.3
+}

@@ -1,24 +1,24 @@
 {
-  "category": "RICE",
+  "category": "rice",
   "counts": {
-    "bpm": 85,
-    "sv": 85,
+    "bpm": -1,
+    "sv": -1,
     "notes": {
       "total": 1749,
       "rice": 1696,
       "ln": 53,
-      "single": 1001,
-      "jump": 366,
-      "hand": 4,
-      "quad": 1
+      "single": -1,
+      "jump": -1,
+      "hand": -1,
+      "quad": -1
     }
   },
   "title": "Ripcord",
   "artist": "The Flashbulb",
   "mapper": "ilikexd",
-  "difficulty": "Insane",
+  "difficulty": "[4K] Insane",
   "beatmapId": "2662762",
   "beatmapSetId": "1282006",
-  "hp": "8",
-  "od": "8"
+  "hp": 8,
+  "od": 8
 }

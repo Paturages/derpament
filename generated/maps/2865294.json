@@ -1,0 +1,24 @@
+{
+  "category": "hybrid",
+  "counts": {
+    "bpm": -1,
+    "sv": -1,
+    "notes": {
+      "total": 1569,
+      "rice": 1326,
+      "ln": 243,
+      "single": -1,
+      "jump": -1,
+      "hand": -1,
+      "quad": -1
+    }
+  },
+  "title": "Ketsarku Mozgalom",
+  "artist": "Venetian Snares",
+  "mapper": "Halogen-",
+  "difficulty": "[4K] Despondence",
+  "beatmapId": "2865294",
+  "beatmapSetId": "1387232",
+  "hp": 8,
+  "od": 8.5
+}

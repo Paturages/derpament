@@ -1,0 +1,24 @@
+{
+  "category": "rice",
+  "counts": {
+    "bpm": -1,
+    "sv": -1,
+    "notes": {
+      "total": 1776,
+      "rice": 1746,
+      "ln": 30,
+      "single": -1,
+      "jump": -1,
+      "hand": -1,
+      "quad": -1
+    }
+  },
+  "title": "perditus paradisus",
+  "artist": "iconoclasm",
+  "mapper": "lemonguy",
+  "difficulty": "[4K] Leggendaria",
+  "beatmapId": "2702007",
+  "beatmapSetId": "1302861",
+  "hp": 8,
+  "od": 8
+}

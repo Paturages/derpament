@@ -1,0 +1,24 @@
+{
+  "category": "rice",
+  "counts": {
+    "bpm": -1,
+    "sv": -1,
+    "notes": {
+      "total": 1979,
+      "rice": 1979,
+      "ln": 0,
+      "single": -1,
+      "jump": -1,
+      "hand": -1,
+      "quad": -1
+    }
+  },
+  "title": "Staple On Smile",
+  "artist": "Terminal 11",
+  "mapper": "Guilhermeziat",
+  "difficulty": "[4K] hi19hi19's Extreme (OD8)",
+  "beatmapId": "2955298",
+  "beatmapSetId": "1436328",
+  "hp": 8,
+  "od": 8
+}

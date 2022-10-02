@@ -1,0 +1,24 @@
+{
+  "category": "rice",
+  "counts": {
+    "bpm": -1,
+    "sv": -1,
+    "notes": {
+      "total": -1,
+      "rice": -1,
+      "ln": -1,
+      "single": -1,
+      "jump": -1,
+      "hand": -1,
+      "quad": -1
+    }
+  },
+  "title": "?",
+  "artist": "?",
+  "mapper": "?",
+  "difficulty": "?",
+  "beatmapId": "3590552",
+  "beatmapSetId": "?",
+  "hp": "?",
+  "od": "?"
+}

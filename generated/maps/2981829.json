@@ -1,0 +1,24 @@
+{
+  "category": "hybrid",
+  "counts": {
+    "bpm": -1,
+    "sv": -1,
+    "notes": {
+      "total": 2035,
+      "rice": 1206,
+      "ln": 829,
+      "single": -1,
+      "jump": -1,
+      "hand": -1,
+      "quad": -1
+    }
+  },
+  "title": "OLPHEUX",
+  "artist": "Juggernaut",
+  "mapper": "lemonguy",
+  "difficulty": "[4K] MAXIMUM",
+  "beatmapId": "2981829",
+  "beatmapSetId": "1450331",
+  "hp": 8,
+  "od": 8
+}

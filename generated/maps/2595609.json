@@ -1,0 +1,24 @@
+{
+  "category": "rice",
+  "counts": {
+    "bpm": -1,
+    "sv": -1,
+    "notes": {
+      "total": 3636,
+      "rice": 3535,
+      "ln": 101,
+      "single": -1,
+      "jump": -1,
+      "hand": -1,
+      "quad": -1
+    }
+  },
+  "title": "Dysnomia",
+  "artist": "YZYX",
+  "mapper": "Chrubble",
+  "difficulty": "[4K] Aphasia 1.15x",
+  "beatmapId": "2595609",
+  "beatmapSetId": "867111",
+  "hp": 9,
+  "od": 8.5
+}

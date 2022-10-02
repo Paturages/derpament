@@ -1,0 +1,24 @@
+{
+  "category": "rice",
+  "counts": {
+    "bpm": -1,
+    "sv": -1,
+    "notes": {
+      "total": 1853,
+      "rice": 1849,
+      "ln": 4,
+      "single": -1,
+      "jump": -1,
+      "hand": -1,
+      "quad": -1
+    }
+  },
+  "title": "Celestial Axes",
+  "artist": "nmk",
+  "mapper": "Elekton",
+  "difficulty": "[4K] empyreal",
+  "beatmapId": "1658721",
+  "beatmapSetId": "790529",
+  "hp": 8,
+  "od": 8
+}

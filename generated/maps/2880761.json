@@ -1,0 +1,24 @@
+{
+  "category": "rice",
+  "counts": {
+    "bpm": -1,
+    "sv": -1,
+    "notes": {
+      "total": 2263,
+      "rice": 2263,
+      "ln": 0,
+      "single": -1,
+      "jump": -1,
+      "hand": -1,
+      "quad": -1
+    }
+  },
+  "title": "thinking of you",
+  "artist": "goreshit",
+  "mapper": "hna",
+  "difficulty": "[4K] love (2021) 1.05x (238bpm)",
+  "beatmapId": "2880761",
+  "beatmapSetId": "1395676",
+  "hp": 8,
+  "od": 8
+}

@@ -1,0 +1,24 @@
+{
+  "category": "hybrid",
+  "counts": {
+    "bpm": -1,
+    "sv": -1,
+    "notes": {
+      "total": 2086,
+      "rice": 1622,
+      "ln": 464,
+      "single": -1,
+      "jump": -1,
+      "hand": -1,
+      "quad": -1
+    }
+  },
+  "title": "ATing's Mapping Req Pack",
+  "artist": "Various Artist",
+  "mapper": "ATing",
+  "difficulty": "[4K] PYONTA - DJ'TEKINA//SOMETHING",
+  "beatmapId": "1783463",
+  "beatmapSetId": "851886",
+  "hp": 7,
+  "od": 7
+}

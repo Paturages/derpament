@@ -1,0 +1,24 @@
+{
+  "category": "hybrid",
+  "counts": {
+    "bpm": -1,
+    "sv": -1,
+    "notes": {
+      "total": 2702,
+      "rice": 1987,
+      "ln": 715,
+      "single": -1,
+      "jump": -1,
+      "hand": -1,
+      "quad": -1
+    }
+  },
+  "title": "B L A C K - R A Y",
+  "artist": "Camellia",
+  "mapper": "Toaph Daddy",
+  "difficulty": "[4K] D A R K - M A G I C I A N x1.1",
+  "beatmapId": "2707897",
+  "beatmapSetId": "1306124",
+  "hp": 8,
+  "od": 8
+}

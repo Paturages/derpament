@@ -1,0 +1,24 @@
+{
+  "category": "rice",
+  "counts": {
+    "bpm": -1,
+    "sv": -1,
+    "notes": {
+      "total": 2549,
+      "rice": 2545,
+      "ln": 4,
+      "single": -1,
+      "jump": -1,
+      "hand": -1,
+      "quad": -1
+    }
+  },
+  "title": "TENSHI (True Final Boss)",
+  "artist": "Manabu Namiki",
+  "mapper": "Mipha-",
+  "difficulty": "[4K] miphather 1.05x",
+  "beatmapId": "2558167",
+  "beatmapSetId": "1187597",
+  "hp": 5,
+  "od": 8
+}

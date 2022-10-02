@@ -1,0 +1,24 @@
+{
+  "category": "hybrid",
+  "counts": {
+    "bpm": -1,
+    "sv": -1,
+    "notes": {
+      "total": 1803,
+      "rice": 1061,
+      "ln": 742,
+      "single": -1,
+      "jump": -1,
+      "hand": -1,
+      "quad": -1
+    }
+  },
+  "title": "Xeroa",
+  "artist": "Camellia",
+  "mapper": "stupud man",
+  "difficulty": "[4K] Stage 0: Genesis",
+  "beatmapId": "2981859",
+  "beatmapSetId": "1450345",
+  "hp": 8,
+  "od": 8
+}

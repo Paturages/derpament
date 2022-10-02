@@ -1,0 +1,24 @@
+{
+  "category": "rice",
+  "counts": {
+    "bpm": -1,
+    "sv": -1,
+    "notes": {
+      "total": 1232,
+      "rice": 1232,
+      "ln": 0,
+      "single": -1,
+      "jump": -1,
+      "hand": -1,
+      "quad": -1
+    }
+  },
+  "title": "CHAOS Terror-Tech Mix",
+  "artist": "ARM (IOSYS)",
+  "mapper": "Shoegazer",
+  "difficulty": "[4K] Distress",
+  "beatmapId": "3392120",
+  "beatmapSetId": "1661338",
+  "hp": 8.5,
+  "od": 8.1
+}

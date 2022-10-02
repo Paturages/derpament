@@ -1,0 +1,24 @@
+{
+  "category": "rice",
+  "counts": {
+    "bpm": -1,
+    "sv": -1,
+    "notes": {
+      "total": 2563,
+      "rice": 2539,
+      "ln": 24,
+      "single": -1,
+      "jump": -1,
+      "hand": -1,
+      "quad": -1
+    }
+  },
+  "title": "KILL EACH OTHER",
+  "artist": "BEMANI Sound Team \"L.E.D. VS. L.E.D.-G\"",
+  "mapper": "stupud man",
+  "difficulty": "[4K] SAVAGE COLOSSEUM",
+  "beatmapId": "2910952",
+  "beatmapSetId": "1412098",
+  "hp": 8,
+  "od": 8.5
+}

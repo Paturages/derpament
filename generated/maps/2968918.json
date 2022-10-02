@@ -1,0 +1,24 @@
+{
+  "category": "hybrid",
+  "counts": {
+    "bpm": -1,
+    "sv": -1,
+    "notes": {
+      "total": -1,
+      "rice": -1,
+      "ln": -1,
+      "single": -1,
+      "jump": -1,
+      "hand": -1,
+      "quad": -1
+    }
+  },
+  "title": "Arcology On Permafrost",
+  "artist": "Camellia",
+  "mapper": "-mint-",
+  "difficulty": "Frozen World (cut) 1.1x",
+  "beatmapId": "2968918",
+  "beatmapSetId": "1443349",
+  "hp": "?",
+  "od": "?"
+}

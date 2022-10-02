@@ -1,0 +1,24 @@
+{
+  "category": "rice",
+  "counts": {
+    "bpm": -1,
+    "sv": -1,
+    "notes": {
+      "total": 1769,
+      "rice": 1756,
+      "ln": 13,
+      "single": -1,
+      "jump": -1,
+      "hand": -1,
+      "quad": -1
+    }
+  },
+  "title": "auberica",
+  "artist": "hsiu",
+  "mapper": "FelixSpade",
+  "difficulty": "[4K] lost 1.1x (222bpm)",
+  "beatmapId": "2594424",
+  "beatmapSetId": "1248282",
+  "hp": 8.5,
+  "od": 8.5
+}

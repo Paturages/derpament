@@ -1,0 +1,127 @@
+{
+  "avatar_url": "https://a.ppy.sh/169992?1613758155.jpeg",
+  "country_code": "US",
+  "default_group": "default",
+  "id": 169992,
+  "is_active": true,
+  "is_bot": false,
+  "is_deleted": false,
+  "is_online": false,
+  "is_supporter": false,
+  "last_visit": "2022-09-30T01:55:55+00:00",
+  "pm_friends_only": false,
+  "profile_colour": null,
+  "username": "Halogen-",
+  "cover_url": "https://osu.ppy.sh/images/headers/profile-covers/c3.jpg",
+  "discord": "Halogen-#2605",
+  "has_supported": true,
+  "interests": "http://osu.ppy.sh/u/7016667",
+  "join_date": "2009-09-24T19:10:14+00:00",
+  "kudosu": { "total": 18, "available": 2 },
+  "location": "Bel Air, Maryland",
+  "max_blocks": 50,
+  "max_friends": 250,
+  "occupation": null,
+  "playmode": "mania",
+  "playstyle": ["mouse", "keyboard", "tablet"],
+  "post_count": 561,
+  "profile_order": [
+    "me",
+    "top_ranks",
+    "historical",
+    "beatmaps",
+    "kudosu",
+    "medals",
+    "recent_activity"
+  ],
+  "title": "Former osu!mania 4K Champion: 2015",
+  "title_url": null,
+  "twitter": "TC_Halogen",
+  "website": null,
+  "country": { "code": "US", "name": "United States" },
+  "cover": {
+    "custom_url": null,
+    "url": "https://osu.ppy.sh/images/headers/profile-covers/c3.jpg",
+    "id": "3"
+  },
+  "account_history": [],
+  "active_tournament_banner": null,
+  "badges": [
+    {
+      "awarded_at": "2020-02-07T16:07:30+00:00",
+      "description": "Outstanding contribution to the osu!mania tournament scene",
+      "image_url": "https://assets.ppy.sh/profile-badges/contributor.jpg",
+      "url": "https://osu.ppy.sh/wiki/en/People/Community_Contributors"
+    },
+    {
+      "awarded_at": "2019-10-27T05:17:45+00:00",
+      "description": "osu!mania 4K World Cup 2019 3rd place (United States)",
+      "image_url": "https://assets.ppy.sh/profile-badges/mwc4k_3rd.png",
+      "url": "https://osu.ppy.sh/wiki/en/Tournaments/MWC/2019_4K"
+    },
+    {
+      "awarded_at": "2016-11-03T13:58:53+00:00",
+      "description": "MWC 4K 2016 3rd place",
+      "image_url": "https://assets.ppy.sh/profile-badges/osu_mania4k_3rd.png",
+      "url": "https://osu.ppy.sh/wiki/en/Tournaments/MWC/2016_4K"
+    },
+    {
+      "awarded_at": "2015-09-28T06:26:56+00:00",
+      "description": "MWC 4K 2015 Winning Team",
+      "image_url": "https://assets.ppy.sh/profile-badges/osu!mania-4k-badge-winner.png",
+      "url": "https://osu.ppy.sh/wiki/en/Tournaments/MWC/2015"
+    }
+  ],
+  "beatmap_playcounts_count": 1405,
+  "comments_count": 172,
+  "favourite_beatmapset_count": 20,
+  "follower_count": 812,
+  "graveyard_beatmapset_count": 34,
+  "groups": [],
+  "guest_beatmapset_count": 1,
+  "loved_beatmapset_count": 8,
+  "mapping_follower_count": 57,
+  "pending_beatmapset_count": 0,
+  "previous_usernames": [],
+  "ranked_beatmapset_count": 1,
+  "scores_best_count": 100,
+  "scores_first_count": 7,
+  "scores_pinned_count": 5,
+  "scores_recent_count": 0,
+  "statistics": {
+    "level": { "current": 80, "progress": 30 },
+    "global_rank": 1773,
+    "pp": 9035.71,
+    "ranked_score": 540942711,
+    "hit_accuracy": 97.8512,
+    "play_count": 8670,
+    "play_time": 498247,
+    "total_score": 3420958625,
+    "total_hits": 6363466,
+    "maximum_combo": 8023,
+    "replays_watched_by_others": 79995,
+    "is_ranked": true,
+    "grade_counts": { "ss": 237, "ssh": 0, "s": 274, "sh": 4, "a": 33 },
+    "country_rank": 192,
+    "rank": { "country": 192 },
+    "variants": [
+      {
+        "mode": "mania",
+        "variant": "4k",
+        "country_rank": 174,
+        "global_rank": 993,
+        "pp": 9019.24
+      },
+      {
+        "mode": "mania",
+        "variant": "7k",
+        "country_rank": 1484,
+        "global_rank": 12429,
+        "pp": 1314.02
+      }
+    ]
+  },
+  "support_level": 0,
+  "ranked_and_approved_beatmapset_count": 1,
+  "unranked_beatmapset_count": 0
+}

@@ -1,0 +1,24 @@
+{
+  "category": "rice",
+  "counts": {
+    "bpm": -1,
+    "sv": -1,
+    "notes": {
+      "total": 2327,
+      "rice": 2327,
+      "ln": 0,
+      "single": -1,
+      "jump": -1,
+      "hand": -1,
+      "quad": -1
+    }
+  },
+  "title": "Fox Tales",
+  "artist": "Koloto",
+  "mapper": "Pizza69",
+  "difficulty": "[4K] Insane",
+  "beatmapId": "3192075",
+  "beatmapSetId": "1563146",
+  "hp": 8,
+  "od": 8
+}

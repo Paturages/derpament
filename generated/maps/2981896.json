@@ -1,0 +1,24 @@
+{
+  "category": "rice",
+  "counts": {
+    "bpm": -1,
+    "sv": -1,
+    "notes": {
+      "total": 2893,
+      "rice": 2891,
+      "ln": 2,
+      "single": -1,
+      "jump": -1,
+      "hand": -1,
+      "quad": -1
+    }
+  },
+  "title": "Acquaintance",
+  "artist": "Outsider",
+  "mapper": "Guilhermeziat",
+  "difficulty": "[4K] Skwid's Challenge 1.15x",
+  "beatmapId": "2981896",
+  "beatmapSetId": "1450363",
+  "hp": 8,
+  "od": 8
+}

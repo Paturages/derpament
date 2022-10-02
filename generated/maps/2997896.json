@@ -1,0 +1,24 @@
+{
+  "category": "rice",
+  "counts": {
+    "bpm": -1,
+    "sv": -1,
+    "notes": {
+      "total": 2131,
+      "rice": 2131,
+      "ln": 0,
+      "single": -1,
+      "jump": -1,
+      "hand": -1,
+      "quad": -1
+    }
+  },
+  "title": "Set The World On Fire (Sped Up Ver.)",
+  "artist": "E-Type",
+  "mapper": "Jole",
+  "difficulty": "[4K] this is fine 1.05x (153bpm)",
+  "beatmapId": "2997896",
+  "beatmapSetId": "1456779",
+  "hp": 8,
+  "od": 8
+}

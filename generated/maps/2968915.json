@@ -1,0 +1,24 @@
+{
+  "category": "tb",
+  "counts": {
+    "bpm": -1,
+    "sv": -1,
+    "notes": {
+      "total": 4837,
+      "rice": 3712,
+      "ln": 1125,
+      "single": -1,
+      "jump": -1,
+      "hand": -1,
+      "quad": -1
+    }
+  },
+  "title": "Dans la mer de son",
+  "artist": "Camellia",
+  "mapper": "Toaph Daddy",
+  "difficulty": "[4K] Diabolos x1.05",
+  "beatmapId": "2968915",
+  "beatmapSetId": "1443348",
+  "hp": 9,
+  "od": 8.5
+}

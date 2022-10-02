@@ -5,7 +5,10 @@
       { "id": "1.qualifiers", "name": "Qualifiers", "qualifiers": true },
       { "id": "2.groups", "name": "Group stage" },
       { "id": "3.ro16", "name": "Round of 16" },
-      { "id": "4.qf", "name": "Quarterfinals" }
+      { "id": "4.qf", "name": "Quarterfinals" },
+      { "id": "5.sf", "name": "Semifinals" },
+      { "id": "6.fw1", "name": "Finals week 1" },
+      { "id": "7.fw2", "name": "Finals week 2" }
     ],
     "id": "4dmwc3",
     "playersCount": 186
@@ -91,5 +94,34 @@
     ],
     "id": "omln2",
     "playersCount": 113
+  },
+  {
+    "name": "SOFT5",
+    "stages": [
+      { "id": "1.playoffs", "name": "Playoffs" },
+      { "id": "2.groups", "name": "Group stage" },
+      { "id": "3.ro32", "name": "RO32" },
+      { "id": "4.ro16", "name": "RO16" },
+      { "id": "5.qf", "name": "Quarterfinals" },
+      { "id": "6.sf", "name": "Semifinals" },
+      { "id": "7.f1", "name": "Finals week 1" },
+      { "id": "8.f2", "name": "Finals week 2" }
+    ],
+    "id": "soft5",
+    "playersCount": 128
+  },
+  {
+    "name": "SOFT6",
+    "stages": [
+      { "id": "1.playoffs", "name": "Playoffs" },
+      { "id": "2.groups", "name": "Group stage" },
+      { "id": "3.ro32", "name": "RO32" },
+      { "id": "4.ro16", "name": "RO16" },
+      { "id": "5.qf", "name": "Quarterfinals" },
+      { "id": "6.sf", "name": "Semifinals" },
+      { "id": "7.f1", "name": "Finals week 1" }
+    ],
+    "id": "soft6",
+    "playersCount": 272
   }
 ]

@@ -1,0 +1,24 @@
+{
+  "category": "rice",
+  "counts": {
+    "bpm": -1,
+    "sv": -1,
+    "notes": {
+      "total": 4833,
+      "rice": 4826,
+      "ln": 7,
+      "single": -1,
+      "jump": -1,
+      "hand": -1,
+      "quad": -1
+    }
+  },
+  "title": "BLUE NOAH 2006",
+  "artist": "DJ Sharpnel",
+  "mapper": "Wh1teh",
+  "difficulty": "[4K] 1.2x",
+  "beatmapId": "2874328",
+  "beatmapSetId": "1392117",
+  "hp": 8.5,
+  "od": 8.5
+}

@@ -1,0 +1,24 @@
+{
+  "category": "tb",
+  "counts": {
+    "bpm": -1,
+    "sv": -1,
+    "notes": {
+      "total": 5332,
+      "rice": 3812,
+      "ln": 1520,
+      "single": -1,
+      "jump": -1,
+      "hand": -1,
+      "quad": -1
+    }
+  },
+  "title": "Ragnarok",
+  "artist": "Gram vs. Camellia",
+  "mapper": "Halogen-",
+  "difficulty": "[4K] Liberation",
+  "beatmapId": "3590176",
+  "beatmapSetId": "1754350",
+  "hp": 8,
+  "od": 8
+}

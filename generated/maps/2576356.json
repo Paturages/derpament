@@ -1,0 +1,24 @@
+{
+  "category": "ln",
+  "counts": {
+    "bpm": -1,
+    "sv": -1,
+    "notes": {
+      "total": 1253,
+      "rice": 450,
+      "ln": 803,
+      "single": -1,
+      "jump": -1,
+      "hand": -1,
+      "quad": -1
+    }
+  },
+  "title": "Boomy and The Boost",
+  "artist": "Eagle",
+  "mapper": "stupud man",
+  "difficulty": "[4K] Tempo",
+  "beatmapId": "2576356",
+  "beatmapSetId": "1239184",
+  "hp": 8,
+  "od": 7
+}

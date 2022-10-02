@@ -1,0 +1,24 @@
+{
+  "category": "tb",
+  "counts": {
+    "bpm": -1,
+    "sv": -1,
+    "notes": {
+      "total": 2603,
+      "rice": 1786,
+      "ln": 817,
+      "single": -1,
+      "jump": -1,
+      "hand": -1,
+      "quad": -1
+    }
+  },
+  "title": "lost found melody",
+  "artist": "Chroma",
+  "mapper": "AHHHHHHHHHHHHHH",
+  "difficulty": "[4K] insane",
+  "beatmapId": "2672609",
+  "beatmapSetId": "1287246",
+  "hp": 8,
+  "od": 7.5
+}

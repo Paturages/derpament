@@ -1,0 +1,24 @@
+{
+  "category": "hybrid",
+  "counts": {
+    "bpm": -1,
+    "sv": -1,
+    "notes": {
+      "total": 1748,
+      "rice": 914,
+      "ln": 834,
+      "single": -1,
+      "jump": -1,
+      "hand": -1,
+      "quad": -1
+    }
+  },
+  "title": "Angel's Ladder",
+  "artist": "xi",
+  "mapper": "lemonguy",
+  "difficulty": "[4K] Ascension to Heaven",
+  "beatmapId": "3562153",
+  "beatmapSetId": "1742494",
+  "hp": 8,
+  "od": 8
+}

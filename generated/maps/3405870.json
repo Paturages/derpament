@@ -1,0 +1,24 @@
+{
+  "category": "ln",
+  "counts": {
+    "bpm": -1,
+    "sv": -1,
+    "notes": {
+      "total": 1332,
+      "rice": 24,
+      "ln": 1308,
+      "single": -1,
+      "jump": -1,
+      "hand": -1,
+      "quad": -1
+    }
+  },
+  "title": "Atomic Trigger 3",
+  "artist": "ZeRo-BaSs",
+  "mapper": "chxu",
+  "difficulty": "[4K] Everybody Down!",
+  "beatmapId": "3405870",
+  "beatmapSetId": "1667776",
+  "hp": 8,
+  "od": 7
+}

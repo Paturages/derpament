@@ -8,7 +8,7 @@
   "is_deleted": false,
   "is_online": false,
   "is_supporter": false,
-  "last_visit": "2022-04-15T21:31:06+00:00",
+  "last_visit": "2022-09-28T04:31:14+00:00",
   "pm_friends_only": false,
   "profile_colour": null,
   "username": "Amerom",
@@ -24,7 +24,7 @@
   "occupation": null,
   "playmode": "mania",
   "playstyle": ["keyboard", "tablet"],
-  "post_count": 37,
+  "post_count": 76,
   "profile_order": [
     "me",
     "recent_activity",
@@ -34,7 +34,7 @@
     "beatmaps",
     "kudosu"
   ],
-  "title": "osu!mania 4K Champion",
+  "title": "Former osu!mania 4K Champion: 2021",
   "title_url": null,
   "twitter": null,
   "website": null,
@@ -48,99 +48,106 @@
   "active_tournament_banner": null,
   "badges": [
     {
+      "awarded_at": "2022-09-18T16:59:57+00:00",
+      "description": "osu!mania 4K World Cup 2022 2nd Place (Brazil)",
+      "image_url": "https://assets.ppy.sh/profile-badges/mwc4k2022-2nd.png",
+      "url": "https://osu.ppy.sh/wiki/en/Tournaments/MWC/2022_4K"
+    },
+    {
       "awarded_at": "2021-09-19T21:30:32+00:00",
       "description": "osu!mania 4K World Cup 2021 Winner (Brazil)",
       "image_url": "https://assets.ppy.sh/profile-badges/badge_mwc4k_winner.png",
-      "url": ""
+      "url": "https://osu.ppy.sh/wiki/en/Tournaments/MWC/2021_4K"
     },
     {
       "awarded_at": "2021-09-19T21:26:36+00:00",
       "description": "Brazilian osu!mania Tournament 2",
       "image_url": "https://assets.ppy.sh/profile-badges/tbom2-2021.png",
-      "url": ""
+      "url": "https://osu.ppy.sh/community/forums/topics/1312516?n=1"
     },
     {
       "awarded_at": "2021-06-29T11:10:13+00:00",
       "description": "osu!mania Flashlight 4K Tournament Winner",
       "image_url": "https://assets.ppy.sh/profile-badges/fl4t-2021.png",
-      "url": ""
+      "url": "https://osu.ppy.sh/wiki/en/Tournaments/FL4T/1"
     },
     {
       "awarded_at": "2020-09-20T16:04:12+00:00",
       "description": "osu!mania 4K World Cup 2020 Winner (Brazil)",
       "image_url": "https://assets.ppy.sh/profile-badges/badge_mwc4k2020_winner.png",
-      "url": ""
+      "url": "https://osu.ppy.sh/wiki/en/Tournaments/MWC/2020_4K"
     },
     {
       "awarded_at": "2019-10-27T05:17:42+00:00",
       "description": "osu!mania 4K World Cup 2019 2nd place (Brazil)",
       "image_url": "https://assets.ppy.sh/profile-badges/mwc4k_2nd.png",
-      "url": ""
+      "url": "https://osu.ppy.sh/wiki/en/Tournaments/MWC/2019_4K"
     },
     {
       "awarded_at": "2018-10-08T01:02:58+00:00",
       "description": "MWC 4K 2018 3rd Place",
       "image_url": "https://assets.ppy.sh/profile-badges/o_m4Kwc2018_3rd.jpg",
-      "url": ""
+      "url": "https://osu.ppy.sh/wiki/en/Tournaments/MWC/2018_4K"
     },
     {
       "awarded_at": "2017-10-23T08:31:57+00:00",
       "description": "MWC 4K 2017 3rd place",
       "image_url": "https://assets.ppy.sh/profile-badges/o_m4Kwc2017_3rd.png",
-      "url": ""
+      "url": "https://osu.ppy.sh/wiki/en/Tournaments/MWC/2017_4K"
     },
     {
       "awarded_at": "2016-11-03T13:58:53+00:00",
       "description": "MWC 4K 2016 2nd place",
       "image_url": "https://assets.ppy.sh/profile-badges/osu_mania4k_2nd.png",
-      "url": ""
+      "url": "https://osu.ppy.sh/wiki/en/Tournaments/MWC/2016_4K"
     }
   ],
-  "beatmap_playcounts_count": 6684,
-  "comments_count": 6,
-  "favourite_beatmapset_count": 40,
-  "follower_count": 478,
-  "graveyard_beatmapset_count": 17,
+  "beatmap_playcounts_count": 7148,
+  "comments_count": 8,
+  "favourite_beatmapset_count": 42,
+  "follower_count": 526,
+  "graveyard_beatmapset_count": 26,
   "groups": [],
+  "guest_beatmapset_count": 0,
   "loved_beatmapset_count": 0,
-  "mapping_follower_count": 7,
+  "mapping_follower_count": 10,
   "pending_beatmapset_count": 0,
   "previous_usernames": ["andreymc"],
   "ranked_beatmapset_count": 0,
   "scores_best_count": 100,
-  "scores_first_count": 15,
+  "scores_first_count": 11,
   "scores_pinned_count": 0,
   "scores_recent_count": 0,
   "statistics": {
-    "level": { "current": 98, "progress": 15 },
-    "global_rank": 683,
-    "pp": 10159.2,
-    "ranked_score": 2582177449,
-    "hit_accuracy": 97.7804,
-    "play_count": 26382,
-    "play_time": 2169171,
-    "total_score": 13328319397,
-    "total_hits": 27432417,
+    "level": { "current": 98, "progress": 31 },
+    "global_rank": 804,
+    "pp": 10429.1,
+    "ranked_score": 2697911777,
+    "hit_accuracy": 97.8903,
+    "play_count": 28166,
+    "play_time": 2307879,
+    "total_score": 14159867265,
+    "total_hits": 29144343,
     "maximum_combo": 55516,
-    "replays_watched_by_others": 17858,
+    "replays_watched_by_others": 18488,
     "is_ranked": true,
-    "grade_counts": { "ss": 904, "ssh": 0, "s": 1539, "sh": 4, "a": 188 },
-    "country_rank": 11,
-    "rank": { "country": 11 },
+    "grade_counts": { "ss": 963, "ssh": 0, "s": 1598, "sh": 4, "a": 187 },
+    "country_rank": 12,
+    "rank": { "country": 12 },
     "variants": [
       {
         "mode": "mania",
         "variant": "4k",
         "country_rank": 5,
-        "global_rank": 198,
-        "pp": 10101.7
+        "global_rank": 279,
+        "pp": 10374.3
       },
       {
         "mode": "mania",
         "variant": "7k",
-        "country_rank": 53,
-        "global_rank": 3028,
-        "pp": 4209.89
+        "country_rank": 61,
+        "global_rank": 3439,
+        "pp": 4210.18
       }
     ]
   },

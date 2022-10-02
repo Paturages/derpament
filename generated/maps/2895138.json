@@ -1,0 +1,24 @@
+{
+  "category": "rice",
+  "counts": {
+    "bpm": -1,
+    "sv": -1,
+    "notes": {
+      "total": 2192,
+      "rice": 2189,
+      "ln": 3,
+      "single": -1,
+      "jump": -1,
+      "hand": -1,
+      "quad": -1
+    }
+  },
+  "title": "the shadow",
+  "artist": "kors k",
+  "mapper": "stupud man",
+  "difficulty": "[4K] realm 1.05x",
+  "beatmapId": "2895138",
+  "beatmapSetId": "1403650",
+  "hp": 8,
+  "od": 8.5
+}

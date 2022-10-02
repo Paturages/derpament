@@ -1,0 +1,24 @@
+{
+  "category": "tb",
+  "counts": {
+    "bpm": -1,
+    "sv": -1,
+    "notes": {
+      "total": 3041,
+      "rice": 2233,
+      "ln": 808,
+      "single": -1,
+      "jump": -1,
+      "hand": -1,
+      "quad": -1
+    }
+  },
+  "title": "re:||BIRTH",
+  "artist": "Camellia feat. Mayumi Morinaga",
+  "mapper": "[Crz]Crysarlene",
+  "difficulty": "[4K] end (nsv)",
+  "beatmapId": "2429180",
+  "beatmapSetId": "1130027",
+  "hp": 9.2,
+  "od": 8.2
+}

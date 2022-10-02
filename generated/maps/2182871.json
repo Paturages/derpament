@@ -1,0 +1,24 @@
+{
+  "category": "rice",
+  "counts": {
+    "bpm": -1,
+    "sv": -1,
+    "notes": {
+      "total": 1700,
+      "rice": 1700,
+      "ln": 0,
+      "single": -1,
+      "jump": -1,
+      "hand": -1,
+      "quad": -1
+    }
+  },
+  "title": "ENERGY SYNERGY MATRIX",
+  "artist": "Tanchiky",
+  "mapper": "AutotelicBrown",
+  "difficulty": "[4K] Ayumu's E S M",
+  "beatmapId": "2182871",
+  "beatmapSetId": "1044180",
+  "hp": 8,
+  "od": 9
+}

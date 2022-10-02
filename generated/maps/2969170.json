@@ -1,0 +1,24 @@
+{
+  "category": "rice",
+  "counts": {
+    "bpm": -1,
+    "sv": -1,
+    "notes": {
+      "total": 1739,
+      "rice": 1714,
+      "ln": 25,
+      "single": -1,
+      "jump": -1,
+      "hand": -1,
+      "quad": -1
+    }
+  },
+  "title": "Wake We Up",
+  "artist": "HOWL BE QUIET",
+  "mapper": "Guilhermeziat",
+  "difficulty": "[4K] Skwid's Challenge",
+  "beatmapId": "2969170",
+  "beatmapSetId": "1443429",
+  "hp": 8,
+  "od": 8
+}

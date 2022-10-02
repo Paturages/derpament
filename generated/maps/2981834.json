@@ -1,0 +1,24 @@
+{
+  "category": "tb",
+  "counts": {
+    "bpm": -1,
+    "sv": -1,
+    "notes": {
+      "total": 6251,
+      "rice": 4556,
+      "ln": 1695,
+      "single": -1,
+      "jump": -1,
+      "hand": -1,
+      "quad": -1
+    }
+  },
+  "title": "Apocynthion Drive",
+  "artist": "HertzDevil",
+  "mapper": "lemonguy",
+  "difficulty": "[4K] Oblivion x1.1",
+  "beatmapId": "2981834",
+  "beatmapSetId": "1270416",
+  "hp": 8,
+  "od": 7
+}

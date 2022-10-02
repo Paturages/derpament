@@ -1,0 +1,24 @@
+{
+  "category": "rice",
+  "counts": {
+    "bpm": -1,
+    "sv": -1,
+    "notes": {
+      "total": 6192,
+      "rice": 6106,
+      "ln": 86,
+      "single": -1,
+      "jump": -1,
+      "hand": -1,
+      "quad": -1
+    }
+  },
+  "title": "GENS D'ARMES",
+  "artist": "Falcom Sound Team jdk",
+  "mapper": "lemonguy",
+  "difficulty": "[4K] Gendarme",
+  "beatmapId": "2497240",
+  "beatmapSetId": "1199166",
+  "hp": 8,
+  "od": 8
+}

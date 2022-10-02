@@ -1,0 +1,24 @@
+{
+  "category": "rice",
+  "counts": {
+    "bpm": -1,
+    "sv": -1,
+    "notes": {
+      "total": 1915,
+      "rice": 1895,
+      "ln": 20,
+      "single": -1,
+      "jump": -1,
+      "hand": -1,
+      "quad": -1
+    }
+  },
+  "title": "ZERO!!",
+  "artist": "Kuribayashi Minami",
+  "mapper": "stupud man",
+  "difficulty": "[4K] Skwid's Challenge 1.1x",
+  "beatmapId": "2981853",
+  "beatmapSetId": "1450344",
+  "hp": 8,
+  "od": 8
+}

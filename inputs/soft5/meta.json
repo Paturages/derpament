@@ -1,0 +1,37 @@
+{
+  "name": "SOFT5",
+  "stages": [
+    {
+      "id": "1.playoffs",
+      "name": "Playoffs"
+    },
+    {
+      "id": "2.groups",
+      "name": "Group stage"
+    },
+    {
+      "id": "3.ro32",
+      "name": "RO32"
+    },
+    {
+      "id": "4.ro16",
+      "name": "RO16"
+    },
+    {
+      "id": "5.qf",
+      "name": "Quarterfinals"
+    },
+    {
+      "id": "6.sf",
+      "name": "Semifinals"
+    },
+    {
+      "id": "7.f1",
+      "name": "Finals week 1"
+    },
+    {
+      "id": "8.f2",
+      "name": "Finals week 2"
+    }
+  ]
+}

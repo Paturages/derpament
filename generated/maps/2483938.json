@@ -1,0 +1,24 @@
+{
+  "category": "hybrid",
+  "counts": {
+    "bpm": -1,
+    "sv": -1,
+    "notes": {
+      "total": 2287,
+      "rice": 1842,
+      "ln": 445,
+      "single": -1,
+      "jump": -1,
+      "hand": -1,
+      "quad": -1
+    }
+  },
+  "title": "Haunted Dance",
+  "artist": "Mr. Asyu",
+  "mapper": "wolfyou",
+  "difficulty": "[4K] Hard",
+  "beatmapId": "2483938",
+  "beatmapSetId": "1192044",
+  "hp": 8.2,
+  "od": 8.5
+}

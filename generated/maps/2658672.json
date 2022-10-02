@@ -1,0 +1,24 @@
+{
+  "category": "rice",
+  "counts": {
+    "bpm": -1,
+    "sv": -1,
+    "notes": {
+      "total": 1860,
+      "rice": 1780,
+      "ln": 80,
+      "single": -1,
+      "jump": -1,
+      "hand": -1,
+      "quad": -1
+    }
+  },
+  "title": "Syncopatriarch",
+  "artist": "Blitz Lunar",
+  "mapper": "ilikexd",
+  "difficulty": "[4K] Insane",
+  "beatmapId": "2658672",
+  "beatmapSetId": "1279853",
+  "hp": 8,
+  "od": 8
+}

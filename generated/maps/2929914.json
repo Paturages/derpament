@@ -1,0 +1,24 @@
+{
+  "category": "rice",
+  "counts": {
+    "bpm": -1,
+    "sv": -1,
+    "notes": {
+      "total": 1686,
+      "rice": 1684,
+      "ln": 2,
+      "single": -1,
+      "jump": -1,
+      "hand": -1,
+      "quad": -1
+    }
+  },
+  "title": "Illumination of the Sky",
+  "artist": "Phantasma",
+  "mapper": "Guilhermeziat",
+  "difficulty": "[4K] It's dark tho",
+  "beatmapId": "2929914",
+  "beatmapSetId": "1422636",
+  "hp": 8,
+  "od": 8
+}

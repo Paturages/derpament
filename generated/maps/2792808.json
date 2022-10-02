@@ -1,0 +1,24 @@
+{
+  "category": "rice",
+  "counts": {
+    "bpm": -1,
+    "sv": -1,
+    "notes": {
+      "total": 1738,
+      "rice": 1708,
+      "ln": 30,
+      "single": -1,
+      "jump": -1,
+      "hand": -1,
+      "quad": -1
+    }
+  },
+  "title": "Ani Mevushal (Cut Ver.)",
+  "artist": "Infected Mushroom & BLiSS",
+  "mapper": "aeoliancarp",
+  "difficulty": "[4K] Baked",
+  "beatmapId": "2792808",
+  "beatmapSetId": "1348758",
+  "hp": 8.5,
+  "od": 8.5
+}

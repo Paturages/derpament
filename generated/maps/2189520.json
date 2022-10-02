@@ -1,0 +1,24 @@
+{
+  "category": "hybrid",
+  "counts": {
+    "bpm": -1,
+    "sv": -1,
+    "notes": {
+      "total": 1855,
+      "rice": 1392,
+      "ln": 463,
+      "single": -1,
+      "jump": -1,
+      "hand": -1,
+      "quad": -1
+    }
+  },
+  "title": "Mousou Seizou Sanka",
+  "artist": "funauo",
+  "mapper": "-mint-",
+  "difficulty": "[4K] Another (NSV) 1.1x",
+  "beatmapId": "2189520",
+  "beatmapSetId": "1047347",
+  "hp": 8,
+  "od": 8
+}

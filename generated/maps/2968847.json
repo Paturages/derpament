@@ -1,0 +1,24 @@
+{
+  "category": "rice",
+  "counts": {
+    "bpm": -1,
+    "sv": -1,
+    "notes": {
+      "total": 1997,
+      "rice": 1934,
+      "ln": 63,
+      "single": -1,
+      "jump": -1,
+      "hand": -1,
+      "quad": -1
+    }
+  },
+  "title": "Shindeiru",
+  "artist": "Virtual Riot",
+  "mapper": "lemonguy",
+  "difficulty": "[4K] Edit x1.1",
+  "beatmapId": "2968847",
+  "beatmapSetId": "866120",
+  "hp": 8,
+  "od": 8
+}

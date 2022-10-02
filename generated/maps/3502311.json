@@ -1,0 +1,24 @@
+{
+  "category": "tb",
+  "counts": {
+    "bpm": -1,
+    "sv": -1,
+    "notes": {
+      "total": 2556,
+      "rice": 1840,
+      "ln": 716,
+      "single": -1,
+      "jump": -1,
+      "hand": -1,
+      "quad": -1
+    }
+  },
+  "title": "Quality Control",
+  "artist": "Mameyudoufu",
+  "mapper": "guden",
+  "difficulty": "[4K] Keiga's Inadequate (Edit)",
+  "beatmapId": "3502311",
+  "beatmapSetId": "1714020",
+  "hp": 8,
+  "od": 8
+}

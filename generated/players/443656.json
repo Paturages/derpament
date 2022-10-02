@@ -1,0 +1,133 @@
+{
+  "avatar_url": "https://a.ppy.sh/443656?1614995142.jpeg",
+  "country_code": "AR",
+  "default_group": "alumni",
+  "id": 443656,
+  "is_active": true,
+  "is_bot": false,
+  "is_deleted": false,
+  "is_online": false,
+  "is_supporter": true,
+  "last_visit": "2022-10-01T15:16:28+00:00",
+  "pm_friends_only": false,
+  "profile_colour": "#888888",
+  "username": "juankristal",
+  "cover_url": "https://assets.ppy.sh/user-profile-covers/443656/8dbb63bf02e54d83c70479fbd1cb2d2a9c1aa56eb893f3ef225374e69c029a1a.jpeg",
+  "discord": "juankristal#4568",
+  "has_supported": true,
+  "interests": "N o o d l e s",
+  "join_date": "2010-08-03T04:32:50+00:00",
+  "kudosu": { "total": 160, "available": 128 },
+  "location": "Buenos Aires",
+  "max_blocks": 100,
+  "max_friends": 500,
+  "occupation": "Commentator <3",
+  "playmode": "mania",
+  "playstyle": ["keyboard", "tablet"],
+  "post_count": 1398,
+  "profile_order": [
+    "me",
+    "recent_activity",
+    "top_ranks",
+    "medals",
+    "historical",
+    "beatmaps",
+    "kudosu"
+  ],
+  "title": "osu! Alumni",
+  "title_url": null,
+  "twitter": null,
+  "website": null,
+  "country": { "code": "AR", "name": "Argentina" },
+  "cover": {
+    "custom_url": "https://assets.ppy.sh/user-profile-covers/443656/8dbb63bf02e54d83c70479fbd1cb2d2a9c1aa56eb893f3ef225374e69c029a1a.jpeg",
+    "url": "https://assets.ppy.sh/user-profile-covers/443656/8dbb63bf02e54d83c70479fbd1cb2d2a9c1aa56eb893f3ef225374e69c029a1a.jpeg",
+    "id": null
+  },
+  "account_history": [],
+  "active_tournament_banner": null,
+  "badges": [
+    {
+      "awarded_at": "2020-01-02T05:47:19+00:00",
+      "description": "Longstanding contribution to the Beatmap Nominators - 1 Year",
+      "image_url": "https://assets.ppy.sh/profile-badges/BN1y.png",
+      "url": ""
+    },
+    {
+      "awarded_at": "2019-05-20T15:21:21+00:00",
+      "description": "Outstanding commitment to the Global Moderation Team (5 years)",
+      "image_url": "https://assets.ppy.sh/profile-badges/GMT5y.png",
+      "url": ""
+    },
+    {
+      "awarded_at": "2019-02-22T07:34:31+00:00",
+      "description": "Outstanding contribution to World Cup organization and tournaments",
+      "image_url": "https://assets.ppy.sh/profile-badges/contributor.jpg",
+      "url": "https://osu.ppy.sh/wiki/en/People/Community_Contributors"
+    }
+  ],
+  "beatmap_playcounts_count": 2894,
+  "comments_count": 157,
+  "favourite_beatmapset_count": 27,
+  "follower_count": 1222,
+  "graveyard_beatmapset_count": 48,
+  "groups": [
+    {
+      "colour": "#999999",
+      "has_listing": true,
+      "has_playmodes": false,
+      "id": 16,
+      "identifier": "alumni",
+      "is_probationary": false,
+      "name": "osu! Alumni",
+      "short_name": "ALM",
+      "playmodes": null
+    }
+  ],
+  "guest_beatmapset_count": 3,
+  "loved_beatmapset_count": 7,
+  "mapping_follower_count": 86,
+  "pending_beatmapset_count": 2,
+  "previous_usernames": [],
+  "ranked_beatmapset_count": 2,
+  "scores_best_count": 100,
+  "scores_first_count": 0,
+  "scores_pinned_count": 0,
+  "scores_recent_count": 6,
+  "statistics": {
+    "level": { "current": 97, "progress": 75 },
+    "global_rank": 4072,
+    "pp": 7673.53,
+    "ranked_score": 1241618812,
+    "hit_accuracy": 97.0657,
+    "play_count": 20251,
+    "play_time": 1642859,
+    "total_score": 11754999490,
+    "total_hits": 18960497,
+    "maximum_combo": 6207,
+    "replays_watched_by_others": 941,
+    "is_ranked": true,
+    "grade_counts": { "ss": 287, "ssh": 0, "s": 1007, "sh": 7, "a": 47 },
+    "country_rank": 89,
+    "rank": { "country": 89 },
+    "variants": [
+      {
+        "mode": "mania",
+        "variant": "4k",
+        "country_rank": 93,
+        "global_rank": 3371,
+        "pp": 7598.36
+      },
+      {
+        "mode": "mania",
+        "variant": "7k",
+        "country_rank": 254,
+        "global_rank": 11893,
+        "pp": 1382.86
+      }
+    ]
+  },
+  "support_level": 1,
+  "ranked_and_approved_beatmapset_count": 2,
+  "unranked_beatmapset_count": 2
+}

@@ -1,0 +1,24 @@
+{
+  "category": "ln",
+  "counts": {
+    "bpm": -1,
+    "sv": -1,
+    "notes": {
+      "total": 1573,
+      "rice": 105,
+      "ln": 1468,
+      "single": -1,
+      "jump": -1,
+      "hand": -1,
+      "quad": -1
+    }
+  },
+  "title": "Apollo",
+  "artist": "xelloscope",
+  "mapper": "Penguinosity",
+  "difficulty": "[4K] T-12ms 1.1",
+  "beatmapId": "3456772",
+  "beatmapSetId": "1691684",
+  "hp": 8,
+  "od": 7.5
+}

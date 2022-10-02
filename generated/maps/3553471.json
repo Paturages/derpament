@@ -1,0 +1,24 @@
+{
+  "category": "tb",
+  "counts": {
+    "bpm": -1,
+    "sv": -1,
+    "notes": {
+      "total": 4215,
+      "rice": 2817,
+      "ln": 1398,
+      "single": -1,
+      "jump": -1,
+      "hand": -1,
+      "quad": -1
+    }
+  },
+  "title": "Dyscontrolled Galaxy (\"Apoptosis\" Long ver.)",
+  "artist": "Camellia",
+  "mapper": "Toaph Daddy",
+  "difficulty": "[4K] Collapse",
+  "beatmapId": "3553471",
+  "beatmapSetId": "1738595",
+  "hp": 8,
+  "od": 8
+}

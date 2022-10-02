@@ -1,0 +1,24 @@
+{
+  "category": "rice",
+  "counts": {
+    "bpm": -1,
+    "sv": -1,
+    "notes": {
+      "total": 2401,
+      "rice": 2401,
+      "ln": 0,
+      "single": -1,
+      "jump": -1,
+      "hand": -1,
+      "quad": -1
+    }
+  },
+  "title": "Streaming Heart",
+  "artist": "Yuaru",
+  "mapper": "hna",
+  "difficulty": "[4K] Ubiquity 1.2x (252bpm)",
+  "beatmapId": "3566313",
+  "beatmapSetId": "1716737",
+  "hp": 8.5,
+  "od": 8.5
+}

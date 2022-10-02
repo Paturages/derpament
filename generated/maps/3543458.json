@@ -1,0 +1,24 @@
+{
+  "category": "rice",
+  "counts": {
+    "bpm": -1,
+    "sv": -1,
+    "notes": {
+      "total": 1459,
+      "rice": 1459,
+      "ln": 0,
+      "single": -1,
+      "jump": -1,
+      "hand": -1,
+      "quad": -1
+    }
+  },
+  "title": "ricky bobby",
+  "artist": "leroy",
+  "mapper": "Shoegazer",
+  "difficulty": "[4K] glitterpop 1.15x (276bpm)",
+  "beatmapId": "3543458",
+  "beatmapSetId": "1626036",
+  "hp": 8.5,
+  "od": 8.5
+}

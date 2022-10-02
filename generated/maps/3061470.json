@@ -1,0 +1,24 @@
+{
+  "category": "rice",
+  "counts": {
+    "bpm": -1,
+    "sv": -1,
+    "notes": {
+      "total": 2206,
+      "rice": 2206,
+      "ln": 0,
+      "single": -1,
+      "jump": -1,
+      "hand": -1,
+      "quad": -1
+    }
+  },
+  "title": "REGRET PART TWO",
+  "artist": "onumi",
+  "mapper": "Shoegazer",
+  "difficulty": "[4K] DISCONNECT 1.05x (252bpm)",
+  "beatmapId": "3061470",
+  "beatmapSetId": "1473890",
+  "hp": 8.5,
+  "od": 8.5
+}

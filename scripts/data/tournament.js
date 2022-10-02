@@ -94,19 +94,43 @@ const docsDataPath = path.resolve(__dirname, "..", "..", "docs", "data");
       }
     }
 
-    // 2. Gather the beatmap IDs from the maps and get the metadata
-    const maps = await Promise.all(
-      (
-        await fs.promises.readdir(path.resolve(inputPath, "maps", stage.id))
-      ).map(async (mapFile) => {
-        const lines = (
-          await readTxt(path.resolve(inputPath, "maps", stage.id, mapFile))
-        ).split(/\r?\n/);
-        for (const line of lines) {
-          if (!line.startsWith("BeatmapID:")) continue;
-          const map = require(`${generatedPath}/maps/${
-            line.split(":")[1]
-          }.json`);
+    let maps;
+    try {
+      // Local maps
+      // 2.1. Gather the beatmap IDs from the maps and get the metadata
+      maps = await Promise.all(
+        (
+          await fs.promises.readdir(path.resolve(inputPath, "maps", stage.id))
+        ).map(async (mapFile) => {
+          const lines = (
+            await readTxt(path.resolve(inputPath, "maps", stage.id, mapFile))
+          ).split(/\r?\n/);
+          for (const line of lines) {
+            if (!line.startsWith("BeatmapID:")) continue;
+            const map = require(`${generatedPath}/maps/${
+              line.split(":")[1]
+            }.json`);
+            if (!scores[map.beatmapId]) {
+              map.scores = [];
+              map.pickCount = 0;
+            } else {
+              map.scores = scores[map.beatmapId].sort((a, b) =>
+                a.score < b.score ? 1 : -1
+              );
+              map.pickCount = picks[map.beatmapId];
+            }
+            return map;
+          }
+        })
+      );
+    } catch {
+      // API maps
+      // 2.2. Get list
+      maps = (await readTxt(path.resolve(inputPath, "maps", stage.id + ".txt")))
+        .split(/\r?\n/)
+        .map(line => {
+          const [, mapId] = line.split(':');
+          const map = require(`${generatedPath}/maps/${mapId}.json`);
           if (!scores[map.beatmapId]) {
             map.scores = [];
             map.pickCount = 0;
@@ -117,9 +141,8 @@ const docsDataPath = path.resolve(__dirname, "..", "..", "docs", "data");
             map.pickCount = picks[map.beatmapId];
           }
           return map;
-        }
-      })
-    );
+        });
+    }
     stage.mapCount = maps.length;
 
     await fs.promises.writeFile(

@@ -1,0 +1,24 @@
+{
+  "category": "rice",
+  "counts": {
+    "bpm": -1,
+    "sv": -1,
+    "notes": {
+      "total": 1607,
+      "rice": 1598,
+      "ln": 9,
+      "single": -1,
+      "jump": -1,
+      "hand": -1,
+      "quad": -1
+    }
+  },
+  "title": "Kisetsu wa Tsugitsugi Shindeiku",
+  "artist": "amazarashi",
+  "mapper": "Valedict",
+  "difficulty": "[4K] Augenbinde",
+  "beatmapId": "935267",
+  "beatmapSetId": "433958",
+  "hp": 8,
+  "od": 8.5
+}

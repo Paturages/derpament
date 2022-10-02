@@ -1,0 +1,24 @@
+{
+  "category": "ln",
+  "counts": {
+    "bpm": -1,
+    "sv": -1,
+    "notes": {
+      "total": 1453,
+      "rice": 596,
+      "ln": 857,
+      "single": -1,
+      "jump": -1,
+      "hand": -1,
+      "quad": -1
+    }
+  },
+  "title": "Daisycutter",
+  "artist": "ETIA.",
+  "mapper": "lemonguy",
+  "difficulty": "[4K] Firestorm",
+  "beatmapId": "2711344",
+  "beatmapSetId": "1307846",
+  "hp": 8,
+  "od": 7.5
+}

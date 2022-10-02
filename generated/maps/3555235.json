@@ -1,0 +1,24 @@
+{
+  "category": "rice",
+  "counts": {
+    "bpm": -1,
+    "sv": -1,
+    "notes": {
+      "total": 1509,
+      "rice": 1509,
+      "ln": 0,
+      "single": -1,
+      "jump": -1,
+      "hand": -1,
+      "quad": -1
+    }
+  },
+  "title": "Boulafacet",
+  "artist": "Nightmare",
+  "mapper": "Shoegazer",
+  "difficulty": "[4K] Paralysis 1.15x (196bpm)",
+  "beatmapId": "3555235",
+  "beatmapSetId": "1732317",
+  "hp": 8.5,
+  "od": 8
+}

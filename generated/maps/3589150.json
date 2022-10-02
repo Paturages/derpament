@@ -1,0 +1,24 @@
+{
+  "category": "rice",
+  "counts": {
+    "bpm": -1,
+    "sv": -1,
+    "notes": {
+      "total": 2016,
+      "rice": 2016,
+      "ln": 0,
+      "single": -1,
+      "jump": -1,
+      "hand": -1,
+      "quad": -1
+    }
+  },
+  "title": "Chronomia",
+  "artist": "Lime",
+  "mapper": "Mipha-",
+  "difficulty": "[4K] Catharsis 1.2x (272bpm)",
+  "beatmapId": "3589150",
+  "beatmapSetId": "1753753",
+  "hp": 8.5,
+  "od": 8.5
+}

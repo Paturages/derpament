@@ -1,0 +1,24 @@
+{
+  "category": "hybrid",
+  "counts": {
+    "bpm": -1,
+    "sv": -1,
+    "notes": {
+      "total": 1407,
+      "rice": 968,
+      "ln": 439,
+      "single": -1,
+      "jump": -1,
+      "hand": -1,
+      "quad": -1
+    }
+  },
+  "title": "Mukishitsu Sekai ni Irodori o (Cut Ver.)",
+  "artist": "MisomyL",
+  "mapper": "guden",
+  "difficulty": "[4K] Monochromatic",
+  "beatmapId": "3562410",
+  "beatmapSetId": "1742617",
+  "hp": 8.4,
+  "od": 8
+}

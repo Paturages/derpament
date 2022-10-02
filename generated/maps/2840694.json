@@ -1,0 +1,24 @@
+{
+  "category": "hybrid",
+  "counts": {
+    "bpm": -1,
+    "sv": -1,
+    "notes": {
+      "total": 1738,
+      "rice": 1381,
+      "ln": 357,
+      "single": -1,
+      "jump": -1,
+      "hand": -1,
+      "quad": -1
+    }
+  },
+  "title": "Re:VeLATiON Koudou to Hakai no Soushiro Tsubasa",
+  "artist": "Apo11o\"TSUKUYOMI INOCHI\"program vs. NeLiME OVERDRIVE",
+  "mapper": "Tidek",
+  "difficulty": "[4K] Destruction [1,15x Rate]",
+  "beatmapId": "2840694",
+  "beatmapSetId": "1374143",
+  "hp": 8,
+  "od": 8
+}

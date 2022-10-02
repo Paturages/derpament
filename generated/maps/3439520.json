@@ -1,0 +1,24 @@
+{
+  "category": "rice",
+  "counts": {
+    "bpm": -1,
+    "sv": -1,
+    "notes": {
+      "total": 2247,
+      "rice": 2178,
+      "ln": 69,
+      "single": -1,
+      "jump": -1,
+      "hand": -1,
+      "quad": -1
+    }
+  },
+  "title": "Specialist",
+  "artist": "Billain",
+  "mapper": "hna",
+  "difficulty": "[4K] Theory",
+  "beatmapId": "3439520",
+  "beatmapSetId": "1445730",
+  "hp": 8.5,
+  "od": 8.5
+}

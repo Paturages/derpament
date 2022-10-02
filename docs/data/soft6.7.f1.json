@@ -1,0 +1,1623 @@
+{
+  "id": "7.f1",
+  "name": "Finals week 1",
+  "mapCount": 17,
+  "maps": [
+    {
+      "category": "rice",
+      "counts": {
+        "bpm": -1,
+        "sv": -1,
+        "notes": {
+          "total": 2327,
+          "rice": 2327,
+          "ln": 0,
+          "single": -1,
+          "jump": -1,
+          "hand": -1,
+          "quad": -1
+        }
+      },
+      "title": "Spring Break Anthem",
+      "artist": "The Lonely Island",
+      "mapper": "stupud man",
+      "difficulty": "[4K] Skwid's Beginner 1.1x",
+      "beatmapId": "3033721",
+      "beatmapSetId": "1478749",
+      "hp": 8,
+      "od": 8,
+      "scores": [
+        {
+          "userId": "10072733",
+          "score": 996626,
+          "combo": 2327,
+          "counts": {
+            "50": 0,
+            "100": 0,
+            "200": 0,
+            "300": 150,
+            "miss": 0,
+            "max": 2177
+          }
+        },
+        {
+          "userId": "13390529",
+          "score": 992142,
+          "combo": 2327,
+          "counts": {
+            "50": 0,
+            "100": 0,
+            "200": 4,
+            "300": 261,
+            "miss": 0,
+            "max": 2062
+          }
+        },
+        {
+          "userId": "2288363",
+          "score": 960276,
+          "combo": 1325,
+          "counts": {
+            "50": 1,
+            "100": 3,
+            "200": 12,
+            "300": 558,
+            "miss": 3,
+            "max": 1750
+          }
+        },
+        {
+          "userId": "9530019",
+          "score": 927450,
+          "combo": 703,
+          "counts": {
+            "50": 0,
+            "100": 3,
+            "200": 40,
+            "300": 413,
+            "miss": 7,
+            "max": 1864
+          }
+        }
+      ],
+      "pickCount": 2
+    },
+    {
+      "category": "rice",
+      "counts": {
+        "bpm": -1,
+        "sv": -1,
+        "notes": {
+          "total": 2016,
+          "rice": 2016,
+          "ln": 0,
+          "single": -1,
+          "jump": -1,
+          "hand": -1,
+          "quad": -1
+        }
+      },
+      "title": "Chronomia",
+      "artist": "Lime",
+      "mapper": "Mipha-",
+      "difficulty": "[4K] Catharsis 1.2x (272bpm)",
+      "beatmapId": "3589150",
+      "beatmapSetId": "1753753",
+      "hp": 8.5,
+      "od": 8.5,
+      "scores": [
+        {
+          "userId": "2288363",
+          "score": 987701,
+          "combo": 2016,
+          "counts": {
+            "50": 0,
+            "100": 0,
+            "200": 7,
+            "300": 320,
+            "miss": 0,
+            "max": 1689
+          }
+        },
+        {
+          "userId": "5691061",
+          "score": 980932,
+          "combo": 1615,
+          "counts": {
+            "50": 0,
+            "100": 0,
+            "200": 7,
+            "300": 255,
+            "miss": 1,
+            "max": 1753
+          }
+        },
+        {
+          "userId": "2288363",
+          "score": 979632,
+          "combo": 1394,
+          "counts": {
+            "50": 0,
+            "100": 0,
+            "200": 5,
+            "300": 272,
+            "miss": 2,
+            "max": 1737
+          }
+        },
+        {
+          "userId": "9530019",
+          "score": 970469,
+          "combo": 1279,
+          "counts": {
+            "50": 0,
+            "100": 0,
+            "200": 5,
+            "300": 199,
+            "miss": 3,
+            "max": 1809
+          }
+        },
+        {
+          "userId": "5691061",
+          "score": 965240,
+          "combo": 721,
+          "counts": {
+            "50": 0,
+            "100": 1,
+            "200": 4,
+            "300": 308,
+            "miss": 3,
+            "max": 1700
+          }
+        },
+        {
+          "userId": "5156656",
+          "score": 960669,
+          "combo": 968,
+          "counts": {
+            "50": 2,
+            "100": 1,
+            "200": 5,
+            "300": 225,
+            "miss": 4,
+            "max": 1779
+          }
+        }
+      ],
+      "pickCount": 3
+    },
+    {
+      "category": "rice",
+      "counts": {
+        "bpm": -1,
+        "sv": -1,
+        "notes": {
+          "total": 4493,
+          "rice": 4493,
+          "ln": 0,
+          "single": -1,
+          "jump": -1,
+          "hand": -1,
+          "quad": -1
+        }
+      },
+      "title": "SHINE!!",
+      "artist": "DJ SHARPNEL",
+      "mapper": "Shoegazer",
+      "difficulty": "[4K] Sakurakou!! 1.3x (263bpm)",
+      "beatmapId": "2979763",
+      "beatmapSetId": "1446657",
+      "hp": 8.5,
+      "od": 8.5,
+      "scores": [
+        {
+          "userId": "13390529",
+          "score": 996284,
+          "combo": 4493,
+          "counts": {
+            "50": 0,
+            "100": 0,
+            "200": 0,
+            "300": 319,
+            "miss": 0,
+            "max": 4174
+          }
+        },
+        {
+          "userId": "10072733",
+          "score": 991829,
+          "combo": 4282,
+          "counts": {
+            "50": 0,
+            "100": 2,
+            "200": 1,
+            "300": 160,
+            "miss": 3,
+            "max": 4327
+          }
+        },
+        {
+          "userId": "5156656",
+          "score": 980817,
+          "combo": 3515,
+          "counts": {
+            "50": 1,
+            "100": 1,
+            "200": 13,
+            "300": 495,
+            "miss": 3,
+            "max": 3980
+          }
+        },
+        {
+          "userId": "5691061",
+          "score": 958476,
+          "combo": 2696,
+          "counts": {
+            "50": 3,
+            "100": 6,
+            "200": 61,
+            "300": 853,
+            "miss": 5,
+            "max": 3565
+          }
+        }
+      ],
+      "pickCount": 2
+    },
+    {
+      "category": "rice",
+      "counts": {
+        "bpm": -1,
+        "sv": -1,
+        "notes": {
+          "total": 2722,
+          "rice": 2684,
+          "ln": 38,
+          "single": -1,
+          "jump": -1,
+          "hand": -1,
+          "quad": -1
+        }
+      },
+      "title": "Shutai",
+      "artist": "Ototsugi Kanade",
+      "mapper": "CrewK",
+      "difficulty": "[4K] Desire [1.05x Rate]",
+      "beatmapId": "3456955",
+      "beatmapSetId": "1691775",
+      "hp": 8,
+      "od": 8,
+      "scores": [
+        {
+          "userId": "2288363",
+          "score": 985829,
+          "combo": 2760,
+          "counts": {
+            "50": 0,
+            "100": 2,
+            "200": 9,
+            "300": 464,
+            "miss": 0,
+            "max": 2285
+          }
+        },
+        {
+          "userId": "9530019",
+          "score": 978278,
+          "combo": 1537,
+          "counts": {
+            "50": 0,
+            "100": 3,
+            "200": 6,
+            "300": 119,
+            "miss": 4,
+            "max": 2628
+          }
+        },
+        {
+          "userId": "2288363",
+          "score": 976506,
+          "combo": 2305,
+          "counts": {
+            "50": 0,
+            "100": 3,
+            "200": 3,
+            "300": 339,
+            "miss": 3,
+            "max": 2412
+          }
+        },
+        {
+          "userId": "5691061",
+          "score": 956935,
+          "combo": 1280,
+          "counts": {
+            "50": 0,
+            "100": 0,
+            "200": 14,
+            "300": 352,
+            "miss": 9,
+            "max": 2385
+          }
+        },
+        {
+          "userId": "5156656",
+          "score": 941996,
+          "combo": 1288,
+          "counts": {
+            "50": 0,
+            "100": 7,
+            "200": 24,
+            "300": 493,
+            "miss": 8,
+            "max": 2228
+          }
+        },
+        {
+          "userId": "5691061",
+          "score": 935128,
+          "combo": 986,
+          "counts": {
+            "50": 0,
+            "100": 3,
+            "200": 24,
+            "300": 381,
+            "miss": 12,
+            "max": 2340
+          }
+        }
+      ],
+      "pickCount": 3
+    },
+    {
+      "category": "rice",
+      "counts": {
+        "bpm": -1,
+        "sv": -1,
+        "notes": {
+          "total": 2150,
+          "rice": 2148,
+          "ln": 2,
+          "single": -1,
+          "jump": -1,
+          "hand": -1,
+          "quad": -1
+        }
+      },
+      "title": "Goblin",
+      "artist": "dev-null",
+      "mapper": "ilikexd",
+      "difficulty": "[4K] Insane 1.35x (283bpm)",
+      "beatmapId": "3155498",
+      "beatmapSetId": "1543786",
+      "hp": 8.5,
+      "od": 8.5,
+      "scores": [
+        {
+          "userId": "13390529",
+          "score": 996053,
+          "combo": 2152,
+          "counts": {
+            "50": 0,
+            "100": 0,
+            "200": 1,
+            "300": 140,
+            "miss": 0,
+            "max": 2011
+          }
+        },
+        {
+          "userId": "10072733",
+          "score": 987572,
+          "combo": 1271,
+          "counts": {
+            "50": 0,
+            "100": 0,
+            "200": 4,
+            "300": 97,
+            "miss": 1,
+            "max": 2050
+          }
+        },
+        {
+          "userId": "2288363",
+          "score": 986848,
+          "combo": 2152,
+          "counts": {
+            "50": 0,
+            "100": 0,
+            "200": 9,
+            "300": 343,
+            "miss": 0,
+            "max": 1800
+          }
+        },
+        {
+          "userId": "2288363",
+          "score": 979559,
+          "combo": 2152,
+          "counts": {
+            "50": 0,
+            "100": 2,
+            "200": 15,
+            "300": 427,
+            "miss": 0,
+            "max": 1708
+          }
+        },
+        {
+          "userId": "9530019",
+          "score": 978420,
+          "combo": 1377,
+          "counts": {
+            "50": 0,
+            "100": 2,
+            "200": 8,
+            "300": 230,
+            "miss": 2,
+            "max": 1910
+          }
+        },
+        {
+          "userId": "5691061",
+          "score": 972976,
+          "combo": 1583,
+          "counts": {
+            "50": 0,
+            "100": 1,
+            "200": 7,
+            "300": 299,
+            "miss": 2,
+            "max": 1843
+          }
+        },
+        {
+          "userId": "5691061",
+          "score": 970481,
+          "combo": 1700,
+          "counts": {
+            "50": 1,
+            "100": 0,
+            "200": 8,
+            "300": 370,
+            "miss": 3,
+            "max": 1770
+          }
+        },
+        {
+          "userId": "5156656",
+          "score": 961069,
+          "combo": 1148,
+          "counts": {
+            "50": 1,
+            "100": 0,
+            "200": 17,
+            "300": 385,
+            "miss": 4,
+            "max": 1745
+          }
+        }
+      ],
+      "pickCount": 4
+    },
+    {
+      "category": "rice",
+      "counts": {
+        "bpm": -1,
+        "sv": -1,
+        "notes": {
+          "total": -1,
+          "rice": -1,
+          "ln": -1,
+          "single": -1,
+          "jump": -1,
+          "hand": -1,
+          "quad": -1
+        }
+      },
+      "title": "?",
+      "artist": "?",
+      "mapper": "?",
+      "difficulty": "?",
+      "beatmapId": "3590552",
+      "beatmapSetId": "?",
+      "hp": "?",
+      "od": "?",
+      "scores": [
+        {
+          "userId": "13390529",
+          "score": 993925,
+          "combo": 4017,
+          "counts": {
+            "50": 0,
+            "100": 0,
+            "200": 0,
+            "300": 467,
+            "miss": 0,
+            "max": 3550
+          }
+        },
+        {
+          "userId": "2288363",
+          "score": 987020,
+          "combo": 4017,
+          "counts": {
+            "50": 0,
+            "100": 1,
+            "200": 11,
+            "300": 713,
+            "miss": 0,
+            "max": 3292
+          }
+        },
+        {
+          "userId": "5691061",
+          "score": 986947,
+          "combo": 4017,
+          "counts": {
+            "50": 1,
+            "100": 0,
+            "200": 11,
+            "300": 708,
+            "miss": 0,
+            "max": 3297
+          }
+        },
+        {
+          "userId": "9530019",
+          "score": 983446,
+          "combo": 3947,
+          "counts": {
+            "50": 0,
+            "100": 3,
+            "200": 17,
+            "300": 493,
+            "miss": 2,
+            "max": 3502
+          }
+        },
+        {
+          "userId": "5156656",
+          "score": 973647,
+          "combo": 1735,
+          "counts": {
+            "50": 1,
+            "100": 2,
+            "200": 12,
+            "300": 660,
+            "miss": 3,
+            "max": 3339
+          }
+        }
+      ],
+      "pickCount": 3
+    },
+    {
+      "category": "rice",
+      "counts": {
+        "bpm": -1,
+        "sv": -1,
+        "notes": {
+          "total": -1,
+          "rice": -1,
+          "ln": -1,
+          "single": -1,
+          "jump": -1,
+          "hand": -1,
+          "quad": -1
+        }
+      },
+      "title": "?",
+      "artist": "?",
+      "mapper": "?",
+      "difficulty": "?",
+      "beatmapId": "3590133",
+      "beatmapSetId": "?",
+      "hp": "?",
+      "od": "?",
+      "scores": [
+        {
+          "userId": "10072733",
+          "score": 995070,
+          "combo": 2263,
+          "counts": {
+            "50": 0,
+            "100": 0,
+            "200": 1,
+            "300": 191,
+            "miss": 0,
+            "max": 2071
+          }
+        },
+        {
+          "userId": "13390529",
+          "score": 992629,
+          "combo": 2263,
+          "counts": {
+            "50": 0,
+            "100": 0,
+            "200": 3,
+            "300": 253,
+            "miss": 0,
+            "max": 2007
+          }
+        },
+        {
+          "userId": "2288363",
+          "score": 987603,
+          "combo": 2263,
+          "counts": {
+            "50": 0,
+            "100": 0,
+            "200": 6,
+            "300": 405,
+            "miss": 0,
+            "max": 1852
+          }
+        },
+        {
+          "userId": "9530019",
+          "score": 984770,
+          "combo": 2263,
+          "counts": {
+            "50": 1,
+            "100": 2,
+            "200": 14,
+            "300": 209,
+            "miss": 0,
+            "max": 2037
+          }
+        },
+        {
+          "userId": "2288363",
+          "score": 974839,
+          "combo": 1429,
+          "counts": {
+            "50": 0,
+            "100": 0,
+            "200": 5,
+            "300": 371,
+            "miss": 2,
+            "max": 1885
+          }
+        },
+        {
+          "userId": "5691061",
+          "score": 965730,
+          "combo": 1320,
+          "counts": {
+            "50": 1,
+            "100": 1,
+            "200": 6,
+            "300": 413,
+            "miss": 3,
+            "max": 1839
+          }
+        },
+        {
+          "userId": "5691061",
+          "score": 965444,
+          "combo": 1335,
+          "counts": {
+            "50": 0,
+            "100": 1,
+            "200": 13,
+            "300": 329,
+            "miss": 3,
+            "max": 1917
+          }
+        },
+        {
+          "userId": "5156656",
+          "score": 948235,
+          "combo": 659,
+          "counts": {
+            "50": 1,
+            "100": 1,
+            "200": 14,
+            "300": 346,
+            "miss": 5,
+            "max": 1896
+          }
+        }
+      ],
+      "pickCount": 4
+    },
+    {
+      "category": "rice",
+      "counts": {
+        "bpm": -1,
+        "sv": -1,
+        "notes": {
+          "total": 2683,
+          "rice": 2683,
+          "ln": 0,
+          "single": -1,
+          "jump": -1,
+          "hand": -1,
+          "quad": -1
+        }
+      },
+      "title": "Terminal",
+      "artist": "Renard",
+      "mapper": "Penguinosity",
+      "difficulty": "[4K] Affliction  1.05",
+      "beatmapId": "3376274",
+      "beatmapSetId": "1654112",
+      "hp": 8,
+      "od": 8.5,
+      "scores": [
+        {
+          "userId": "10072733",
+          "score": 992498,
+          "combo": 2535,
+          "counts": {
+            "50": 0,
+            "100": 0,
+            "200": 0,
+            "300": 130,
+            "miss": 1,
+            "max": 2552
+          }
+        },
+        {
+          "userId": "13390529",
+          "score": 986636,
+          "combo": 2445,
+          "counts": {
+            "50": 0,
+            "100": 0,
+            "200": 6,
+            "300": 256,
+            "miss": 1,
+            "max": 2420
+          }
+        },
+        {
+          "userId": "2288363",
+          "score": 984032,
+          "combo": 2683,
+          "counts": {
+            "50": 0,
+            "100": 1,
+            "200": 10,
+            "300": 558,
+            "miss": 0,
+            "max": 2114
+          }
+        },
+        {
+          "userId": "5691061",
+          "score": 978025,
+          "combo": 2310,
+          "counts": {
+            "50": 0,
+            "100": 0,
+            "200": 4,
+            "300": 390,
+            "miss": 3,
+            "max": 2286
+          }
+        },
+        {
+          "userId": "5691061",
+          "score": 947300,
+          "combo": 996,
+          "counts": {
+            "50": 0,
+            "100": 1,
+            "200": 13,
+            "300": 453,
+            "miss": 8,
+            "max": 2208
+          }
+        },
+        {
+          "userId": "5156656",
+          "score": 928590,
+          "combo": 739,
+          "counts": {
+            "50": 1,
+            "100": 4,
+            "200": 27,
+            "300": 486,
+            "miss": 11,
+            "max": 2154
+          }
+        }
+      ],
+      "pickCount": 3
+    },
+    {
+      "category": "ln",
+      "counts": {
+        "bpm": -1,
+        "sv": -1,
+        "notes": {
+          "total": 2413,
+          "rice": 313,
+          "ln": 2100,
+          "single": -1,
+          "jump": -1,
+          "hand": -1,
+          "quad": -1
+        }
+      },
+      "title": "Floating Away",
+      "artist": "paraoka feat. haru*nya",
+      "mapper": "chxu",
+      "difficulty": "[4K] Helium x1.05",
+      "beatmapId": "3181476",
+      "beatmapSetId": "1549666",
+      "hp": 7.57,
+      "od": 7.5,
+      "scores": [
+        {
+          "userId": "5691061",
+          "score": 988539,
+          "combo": 2405,
+          "counts": {
+            "50": 2,
+            "100": 0,
+            "200": 6,
+            "300": 491,
+            "miss": 0,
+            "max": 4014
+          }
+        },
+        {
+          "userId": "2288363",
+          "score": 981940,
+          "combo": 4513,
+          "counts": {
+            "50": 0,
+            "100": 1,
+            "200": 31,
+            "300": 836,
+            "miss": 0,
+            "max": 3645
+          }
+        }
+      ],
+      "pickCount": 1
+    },
+    {
+      "category": "ln",
+      "counts": {
+        "bpm": -1,
+        "sv": -1,
+        "notes": {
+          "total": 1811,
+          "rice": 69,
+          "ln": 1742,
+          "single": -1,
+          "jump": -1,
+          "hand": -1,
+          "quad": -1
+        }
+      },
+      "title": "LAMIA",
+      "artist": "BlackY",
+      "mapper": "MyZterioN-",
+      "difficulty": "[4K] Nirvard 1.05x",
+      "beatmapId": "3460738",
+      "beatmapSetId": "1693630",
+      "hp": 7.5,
+      "od": 7.5,
+      "scores": [
+        {
+          "userId": "10072733",
+          "score": 993029,
+          "combo": 3553,
+          "counts": {
+            "50": 0,
+            "100": 0,
+            "200": 4,
+            "300": 385,
+            "miss": 0,
+            "max": 3164
+          }
+        },
+        {
+          "userId": "13390529",
+          "score": 989728,
+          "combo": 3553,
+          "counts": {
+            "50": 0,
+            "100": 0,
+            "200": 5,
+            "300": 589,
+            "miss": 0,
+            "max": 2959
+          }
+        }
+      ],
+      "pickCount": 1
+    },
+    {
+      "category": "ln",
+      "counts": {
+        "bpm": -1,
+        "sv": -1,
+        "notes": {
+          "total": 1872,
+          "rice": 342,
+          "ln": 1530,
+          "single": -1,
+          "jump": -1,
+          "hand": -1,
+          "quad": -1
+        }
+      },
+      "title": "Elemental Creation -xiRemix-",
+      "artist": "xi",
+      "mapper": "guden",
+      "difficulty": "[4K] Odin",
+      "beatmapId": "3588365",
+      "beatmapSetId": "1753464",
+      "hp": 8,
+      "od": 7,
+      "scores": [
+        {
+          "userId": "2288363",
+          "score": 989693,
+          "combo": 3402,
+          "counts": {
+            "50": 0,
+            "100": 0,
+            "200": 9,
+            "300": 472,
+            "miss": 0,
+            "max": 2921
+          }
+        },
+        {
+          "userId": "13390529",
+          "score": 978877,
+          "combo": 2956,
+          "counts": {
+            "50": 0,
+            "100": 3,
+            "200": 17,
+            "300": 478,
+            "miss": 2,
+            "max": 2902
+          }
+        },
+        {
+          "userId": "10072733",
+          "score": 977707,
+          "combo": 2809,
+          "counts": {
+            "50": 1,
+            "100": 3,
+            "200": 8,
+            "300": 294,
+            "miss": 5,
+            "max": 3091
+          }
+        },
+        {
+          "userId": "5691061",
+          "score": 958860,
+          "combo": 1629,
+          "counts": {
+            "50": 2,
+            "100": 14,
+            "200": 39,
+            "300": 393,
+            "miss": 3,
+            "max": 2951
+          }
+        }
+      ],
+      "pickCount": 2
+    },
+    {
+      "category": "ln",
+      "counts": {
+        "bpm": -1,
+        "sv": -1,
+        "notes": {
+          "total": 4197,
+          "rice": 1130,
+          "ln": 3067,
+          "single": -1,
+          "jump": -1,
+          "hand": -1,
+          "quad": -1
+        }
+      },
+      "title": "Kyouki Ranbu (extended ver.)",
+      "artist": "LeaF",
+      "mapper": "notBrandon",
+      "difficulty": "[4K] PANIC (noSV +editcut) x1.05",
+      "beatmapId": "3590282",
+      "beatmapSetId": "1687858",
+      "hp": 8.5,
+      "od": 7.5,
+      "scores": [
+        {
+          "userId": "10072733",
+          "score": 990660,
+          "combo": 6012,
+          "counts": {
+            "50": 1,
+            "100": 0,
+            "200": 12,
+            "300": 725,
+            "miss": 0,
+            "max": 6526
+          }
+        },
+        {
+          "userId": "2288363",
+          "score": 986611,
+          "combo": 7264,
+          "counts": {
+            "50": 0,
+            "100": 2,
+            "200": 31,
+            "300": 1092,
+            "miss": 0,
+            "max": 6139
+          }
+        },
+        {
+          "userId": "13390529",
+          "score": 985085,
+          "combo": 5257,
+          "counts": {
+            "50": 1,
+            "100": 1,
+            "200": 17,
+            "300": 1129,
+            "miss": 3,
+            "max": 6113
+          }
+        },
+        {
+          "userId": "5691061",
+          "score": 978382,
+          "combo": 2578,
+          "counts": {
+            "50": 4,
+            "100": 4,
+            "200": 14,
+            "300": 834,
+            "miss": 6,
+            "max": 6402
+          }
+        }
+      ],
+      "pickCount": 2
+    },
+    {
+      "category": "hybrid",
+      "counts": {
+        "bpm": -1,
+        "sv": -1,
+        "notes": {
+          "total": 2150,
+          "rice": 1158,
+          "ln": 992,
+          "single": -1,
+          "jump": -1,
+          "hand": -1,
+          "quad": -1
+        }
+      },
+      "title": "iLLness LiLin",
+      "artist": "Kaneko Chiharu",
+      "mapper": "guden",
+      "difficulty": "[4K] LiLith",
+      "beatmapId": "3588370",
+      "beatmapSetId": "1753466",
+      "hp": 7,
+      "od": 7.7,
+      "scores": [
+        {
+          "userId": "5691061",
+          "score": 994438,
+          "combo": 3142,
+          "counts": {
+            "50": 0,
+            "100": 0,
+            "200": 1,
+            "300": 312,
+            "miss": 0,
+            "max": 2829
+          }
+        },
+        {
+          "userId": "9530019",
+          "score": 992480,
+          "combo": 3142,
+          "counts": {
+            "50": 0,
+            "100": 0,
+            "200": 5,
+            "300": 341,
+            "miss": 0,
+            "max": 2796
+          }
+        },
+        {
+          "userId": "10072733",
+          "score": 988583,
+          "combo": 3102,
+          "counts": {
+            "50": 0,
+            "100": 0,
+            "200": 3,
+            "300": 343,
+            "miss": 3,
+            "max": 2793
+          }
+        },
+        {
+          "userId": "2288363",
+          "score": 986028,
+          "combo": 3142,
+          "counts": {
+            "50": 0,
+            "100": 0,
+            "200": 17,
+            "300": 465,
+            "miss": 0,
+            "max": 2660
+          }
+        },
+        {
+          "userId": "13390529",
+          "score": 984486,
+          "combo": 3122,
+          "counts": {
+            "50": 0,
+            "100": 1,
+            "200": 12,
+            "300": 383,
+            "miss": 3,
+            "max": 2743
+          }
+        },
+        {
+          "userId": "2288363",
+          "score": 983843,
+          "combo": 2904,
+          "counts": {
+            "50": 1,
+            "100": 0,
+            "200": 8,
+            "300": 440,
+            "miss": 1,
+            "max": 2692
+          }
+        },
+        {
+          "userId": "5691061",
+          "score": 958799,
+          "combo": 1342,
+          "counts": {
+            "50": 1,
+            "100": 2,
+            "200": 26,
+            "300": 512,
+            "miss": 7,
+            "max": 2594
+          }
+        },
+        {
+          "userId": "5156656",
+          "score": 957657,
+          "combo": 2215,
+          "counts": {
+            "50": 3,
+            "100": 8,
+            "200": 40,
+            "300": 533,
+            "miss": 2,
+            "max": 2556
+          }
+        }
+      ],
+      "pickCount": 4
+    },
+    {
+      "category": "hybrid",
+      "counts": {
+        "bpm": -1,
+        "sv": -1,
+        "notes": {
+          "total": 2356,
+          "rice": 1351,
+          "ln": 1005,
+          "single": -1,
+          "jump": -1,
+          "hand": -1,
+          "quad": -1
+        }
+      },
+      "title": "+ERABY+E CONNEC+10N",
+      "artist": "Camellia",
+      "mapper": "HowToPlayLN",
+      "difficulty": "[4K] 504 ServerError: Gateway Timeout",
+      "beatmapId": "2772922",
+      "beatmapSetId": "1338625",
+      "hp": 8,
+      "od": 7,
+      "scores": [
+        {
+          "userId": "5691061",
+          "score": 992751,
+          "combo": 3361,
+          "counts": {
+            "50": 0,
+            "100": 0,
+            "200": 5,
+            "300": 355,
+            "miss": 0,
+            "max": 3001
+          }
+        },
+        {
+          "userId": "13390529",
+          "score": 990225,
+          "combo": 3361,
+          "counts": {
+            "50": 0,
+            "100": 1,
+            "200": 8,
+            "300": 408,
+            "miss": 0,
+            "max": 2944
+          }
+        },
+        {
+          "userId": "10072733",
+          "score": 984526,
+          "combo": 3081,
+          "counts": {
+            "50": 0,
+            "100": 0,
+            "200": 3,
+            "300": 262,
+            "miss": 6,
+            "max": 3090
+          }
+        },
+        {
+          "userId": "9530019",
+          "score": 982216,
+          "combo": 1873,
+          "counts": {
+            "50": 1,
+            "100": 1,
+            "200": 7,
+            "300": 314,
+            "miss": 1,
+            "max": 3037
+          }
+        },
+        {
+          "userId": "2288363",
+          "score": 981042,
+          "combo": 2367,
+          "counts": {
+            "50": 0,
+            "100": 3,
+            "200": 10,
+            "300": 476,
+            "miss": 2,
+            "max": 2870
+          }
+        },
+        {
+          "userId": "2288363",
+          "score": 980020,
+          "combo": 1259,
+          "counts": {
+            "50": 0,
+            "100": 1,
+            "200": 3,
+            "300": 457,
+            "miss": 3,
+            "max": 2897
+          }
+        },
+        {
+          "userId": "5691061",
+          "score": 978017,
+          "combo": 2640,
+          "counts": {
+            "50": 1,
+            "100": 2,
+            "200": 19,
+            "300": 459,
+            "miss": 2,
+            "max": 2878
+          }
+        },
+        {
+          "userId": "5156656",
+          "score": 951637,
+          "combo": 982,
+          "counts": {
+            "50": 0,
+            "100": 8,
+            "200": 44,
+            "300": 490,
+            "miss": 6,
+            "max": 2813
+          }
+        }
+      ],
+      "pickCount": 4
+    },
+    {
+      "category": "hybrid",
+      "counts": {
+        "bpm": -1,
+        "sv": -1,
+        "notes": {
+          "total": 2697,
+          "rice": 1856,
+          "ln": 841,
+          "single": -1,
+          "jump": -1,
+          "hand": -1,
+          "quad": -1
+        }
+      },
+      "title": "Apollo",
+      "artist": "TJ.hangneil",
+      "mapper": "lemonguy",
+      "difficulty": "[4K] Confidential x1.05",
+      "beatmapId": "3588596",
+      "beatmapSetId": "1663547",
+      "hp": 8.5,
+      "od": 7.5,
+      "scores": [
+        {
+          "userId": "10072733",
+          "score": 994854,
+          "combo": 3538,
+          "counts": {
+            "50": 0,
+            "100": 1,
+            "200": 2,
+            "300": 260,
+            "miss": 0,
+            "max": 3275
+          }
+        },
+        {
+          "userId": "13390529",
+          "score": 989517,
+          "combo": 3538,
+          "counts": {
+            "50": 0,
+            "100": 1,
+            "200": 13,
+            "300": 378,
+            "miss": 0,
+            "max": 3146
+          }
+        },
+        {
+          "userId": "2288363",
+          "score": 987847,
+          "combo": 3538,
+          "counts": {
+            "50": 0,
+            "100": 0,
+            "200": 13,
+            "300": 536,
+            "miss": 0,
+            "max": 2989
+          }
+        },
+        {
+          "userId": "5691061",
+          "score": 986333,
+          "combo": 2816,
+          "counts": {
+            "50": 0,
+            "100": 0,
+            "200": 6,
+            "300": 471,
+            "miss": 1,
+            "max": 3060
+          }
+        },
+        {
+          "userId": "9530019",
+          "score": 985477,
+          "combo": 2162,
+          "counts": {
+            "50": 2,
+            "100": 2,
+            "200": 9,
+            "300": 335,
+            "miss": 0,
+            "max": 3190
+          }
+        },
+        {
+          "userId": "2288363",
+          "score": 984152,
+          "combo": 3329,
+          "counts": {
+            "50": 0,
+            "100": 1,
+            "200": 7,
+            "300": 438,
+            "miss": 2,
+            "max": 3090
+          }
+        },
+        {
+          "userId": "5156656",
+          "score": 980749,
+          "combo": 3538,
+          "counts": {
+            "50": 0,
+            "100": 0,
+            "200": 32,
+            "300": 600,
+            "miss": 0,
+            "max": 2906
+          }
+        },
+        {
+          "userId": "5691061",
+          "score": 954194,
+          "combo": 2110,
+          "counts": {
+            "50": 2,
+            "100": 7,
+            "200": 31,
+            "300": 595,
+            "miss": 4,
+            "max": 2899
+          }
+        }
+      ],
+      "pickCount": 4
+    },
+    {
+      "category": "hybrid",
+      "counts": {
+        "bpm": -1,
+        "sv": -1,
+        "notes": {
+          "total": 2202,
+          "rice": 1329,
+          "ln": 873,
+          "single": -1,
+          "jump": -1,
+          "hand": -1,
+          "quad": -1
+        }
+      },
+      "title": "Spider Tank",
+      "artist": "onumi",
+      "mapper": "Abraxos",
+      "difficulty": "[4K] Encroach 1.15x",
+      "beatmapId": "3589487",
+      "beatmapSetId": "1551057",
+      "hp": 8.9,
+      "od": 7.3,
+      "scores": [
+        {
+          "userId": "2288363",
+          "score": 984793,
+          "combo": 3075,
+          "counts": {
+            "50": 0,
+            "100": 1,
+            "200": 11,
+            "300": 611,
+            "miss": 0,
+            "max": 2452
+          }
+        },
+        {
+          "userId": "5691061",
+          "score": 980580,
+          "combo": 1733,
+          "counts": {
+            "50": 1,
+            "100": 0,
+            "200": 11,
+            "300": 593,
+            "miss": 0,
+            "max": 2470
+          }
+        },
+        {
+          "userId": "2288363",
+          "score": 980278,
+          "combo": 2655,
+          "counts": {
+            "50": 0,
+            "100": 0,
+            "200": 12,
+            "300": 576,
+            "miss": 1,
+            "max": 2486
+          }
+        },
+        {
+          "userId": "9530019",
+          "score": 956582,
+          "combo": 1206,
+          "counts": {
+            "50": 4,
+            "100": 1,
+            "200": 16,
+            "300": 498,
+            "miss": 4,
+            "max": 2552
+          }
+        }
+      ],
+      "pickCount": 2
+    },
+    {
+      "category": "tb",
+      "counts": {
+        "bpm": -1,
+        "sv": -1,
+        "notes": {
+          "total": 5332,
+          "rice": 3812,
+          "ln": 1520,
+          "single": -1,
+          "jump": -1,
+          "hand": -1,
+          "quad": -1
+        }
+      },
+      "title": "Ragnarok",
+      "artist": "Gram vs. Camellia",
+      "mapper": "Halogen-",
+      "difficulty": "[4K] Liberation",
+      "beatmapId": "3590176",
+      "beatmapSetId": "1754350",
+      "hp": 8,
+      "od": 8,
+      "scores": [
+        {
+          "userId": "2288363",
+          "score": 969777,
+          "combo": 3403,
+          "counts": {
+            "50": 0,
+            "100": 4,
+            "200": 66,
+            "300": 1508,
+            "miss": 4,
+            "max": 5270
+          }
+        },
+        {
+          "userId": "5691061",
+          "score": 926287,
+          "combo": 1122,
+          "counts": {
+            "50": 3,
+            "100": 18,
+            "200": 117,
+            "300": 1443,
+            "miss": 22,
+            "max": 5249
+          }
+        }
+      ],
+      "pickCount": 1
+    }
+  ]
+}

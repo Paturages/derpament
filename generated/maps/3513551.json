@@ -1,0 +1,24 @@
+{
+  "category": "rice",
+  "counts": {
+    "bpm": -1,
+    "sv": -1,
+    "notes": {
+      "total": 1986,
+      "rice": 1986,
+      "ln": 0,
+      "single": -1,
+      "jump": -1,
+      "hand": -1,
+      "quad": -1
+    }
+  },
+  "title": "Xeroa",
+  "artist": "Camellia",
+  "mapper": "Shoegazer",
+  "difficulty": "[4K] Harbinger",
+  "beatmapId": "3513551",
+  "beatmapSetId": "1716930",
+  "hp": 8.5,
+  "od": 8.5
+}

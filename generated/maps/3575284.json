@@ -1,0 +1,24 @@
+{
+  "category": "rice",
+  "counts": {
+    "bpm": -1,
+    "sv": -1,
+    "notes": {
+      "total": 1908,
+      "rice": 1908,
+      "ln": 0,
+      "single": -1,
+      "jump": -1,
+      "hand": -1,
+      "quad": -1
+    }
+  },
+  "title": "Destiny GAMMA",
+  "artist": "Smiley",
+  "mapper": "Mipha-",
+  "difficulty": "[4K] Unravel",
+  "beatmapId": "3575284",
+  "beatmapSetId": "1747908",
+  "hp": 8.5,
+  "od": 8.5
+}

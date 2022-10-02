@@ -1,0 +1,24 @@
+{
+  "category": "rice",
+  "counts": {
+    "bpm": -1,
+    "sv": -1,
+    "notes": {
+      "total": 2309,
+      "rice": 2302,
+      "ln": 7,
+      "single": -1,
+      "jump": -1,
+      "hand": -1,
+      "quad": -1
+    }
+  },
+  "title": "Utopia",
+  "artist": "Kei Toriki",
+  "mapper": "MyZterioN-",
+  "difficulty": "[4K] dreamscape 1.05x (210bpm)",
+  "beatmapId": "3444426",
+  "beatmapSetId": "1685404",
+  "hp": 8,
+  "od": 8
+}

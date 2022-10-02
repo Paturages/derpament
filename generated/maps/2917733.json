@@ -1,0 +1,24 @@
+{
+  "category": "tb",
+  "counts": {
+    "bpm": -1,
+    "sv": -1,
+    "notes": {
+      "total": 3963,
+      "rice": 2825,
+      "ln": 1138,
+      "single": -1,
+      "jump": -1,
+      "hand": -1,
+      "quad": -1
+    }
+  },
+  "title": "Sound Chimera",
+  "artist": "Laur",
+  "mapper": "Toaph Daddy",
+  "difficulty": "[4K] Polymerization",
+  "beatmapId": "2917733",
+  "beatmapSetId": "1415755",
+  "hp": 8,
+  "od": 8
+}

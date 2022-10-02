@@ -1,0 +1,24 @@
+{
+  "category": "rice",
+  "counts": {
+    "bpm": -1,
+    "sv": -1,
+    "notes": {
+      "total": 1470,
+      "rice": 1470,
+      "ln": 0,
+      "single": -1,
+      "jump": -1,
+      "hand": -1,
+      "quad": -1
+    }
+  },
+  "title": "Szamar Madar",
+  "artist": "Venetian Snares",
+  "mapper": "Shoegazer",
+  "difficulty": "[4K] Misfortune 1.1x (191bpm)",
+  "beatmapId": "3202329",
+  "beatmapSetId": "1567335",
+  "hp": 8.5,
+  "od": 8.5
+}

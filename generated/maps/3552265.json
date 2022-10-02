@@ -1,0 +1,24 @@
+{
+  "category": "ln",
+  "counts": {
+    "bpm": -1,
+    "sv": -1,
+    "notes": {
+      "total": 1524,
+      "rice": 388,
+      "ln": 1136,
+      "single": -1,
+      "jump": -1,
+      "hand": -1,
+      "quad": -1
+    }
+  },
+  "title": "Marisa wa Taihen na Mono wo Nusunde Ikimashita",
+  "artist": "IOSYS",
+  "mapper": "lemonguy",
+  "difficulty": "[4K] LuNatic",
+  "beatmapId": "3552265",
+  "beatmapSetId": "1738003",
+  "hp": 8,
+  "od": 8
+}

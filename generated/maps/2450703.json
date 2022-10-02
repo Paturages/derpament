@@ -1,0 +1,24 @@
+{
+  "category": "rice",
+  "counts": {
+    "bpm": -1,
+    "sv": -1,
+    "notes": {
+      "total": 2517,
+      "rice": 2469,
+      "ln": 48,
+      "single": -1,
+      "jump": -1,
+      "hand": -1,
+      "quad": -1
+    }
+  },
+  "title": "M.A.G.I.C speed ball",
+  "artist": "teranoid & mc natsack feat. good-cool",
+  "mapper": "Guilhermeziat",
+  "difficulty": "[4K] nothing magical here",
+  "beatmapId": "2450703",
+  "beatmapSetId": "1174964",
+  "hp": 8,
+  "od": 9
+}

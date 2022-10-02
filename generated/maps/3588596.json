@@ -1,0 +1,24 @@
+{
+  "category": "hybrid",
+  "counts": {
+    "bpm": -1,
+    "sv": -1,
+    "notes": {
+      "total": 2697,
+      "rice": 1856,
+      "ln": 841,
+      "single": -1,
+      "jump": -1,
+      "hand": -1,
+      "quad": -1
+    }
+  },
+  "title": "Apollo",
+  "artist": "TJ.hangneil",
+  "mapper": "lemonguy",
+  "difficulty": "[4K] Confidential x1.05",
+  "beatmapId": "3588596",
+  "beatmapSetId": "1663547",
+  "hp": 8.5,
+  "od": 7.5
+}

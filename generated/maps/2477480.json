@@ -1,0 +1,24 @@
+{
+  "category": "rice",
+  "counts": {
+    "bpm": -1,
+    "sv": -1,
+    "notes": {
+      "total": 1322,
+      "rice": 1322,
+      "ln": 0,
+      "single": -1,
+      "jump": -1,
+      "hand": -1,
+      "quad": -1
+    }
+  },
+  "title": "Naive Hopelessness",
+  "artist": "Clonepa",
+  "mapper": "Shoegazer",
+  "difficulty": "[4K] Yearning 1.1x",
+  "beatmapId": "2477480",
+  "beatmapSetId": "1188949",
+  "hp": 8.5,
+  "od": 8.5
+}

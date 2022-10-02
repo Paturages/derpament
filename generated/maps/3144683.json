@@ -1,0 +1,24 @@
+{
+  "category": "rice",
+  "counts": {
+    "bpm": -1,
+    "sv": -1,
+    "notes": {
+      "total": 2745,
+      "rice": 2745,
+      "ln": 0,
+      "single": -1,
+      "jump": -1,
+      "hand": -1,
+      "quad": -1
+    }
+  },
+  "title": "Russian Lullaby",
+  "artist": "E-Type",
+  "mapper": "Jole",
+  "difficulty": "[4K] blin 1.1x (163bpm)",
+  "beatmapId": "3144683",
+  "beatmapSetId": "1538061",
+  "hp": 8,
+  "od": 8
+}

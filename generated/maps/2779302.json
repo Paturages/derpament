@@ -1,0 +1,24 @@
+{
+  "category": "rice",
+  "counts": {
+    "bpm": -1,
+    "sv": -1,
+    "notes": {
+      "total": 1038,
+      "rice": 1038,
+      "ln": 0,
+      "single": -1,
+      "jump": -1,
+      "hand": -1,
+      "quad": -1
+    }
+  },
+  "title": "Oceanus (Piano Version)",
+  "artist": "cosMo@BousouP",
+  "mapper": "Toaph Daddy",
+  "difficulty": "[4K] Riptide x1.2",
+  "beatmapId": "2779302",
+  "beatmapSetId": "1041313",
+  "hp": 8,
+  "od": 8
+}

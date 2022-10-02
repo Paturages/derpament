@@ -1,0 +1,24 @@
+{
+  "category": "rice",
+  "counts": {
+    "bpm": -1,
+    "sv": -1,
+    "notes": {
+      "total": 3910,
+      "rice": 3910,
+      "ln": 0,
+      "single": -1,
+      "jump": -1,
+      "hand": -1,
+      "quad": -1
+    }
+  },
+  "title": "Flower Forever",
+  "artist": "DJ SHARPNEL",
+  "mapper": "Shoegazer",
+  "difficulty": "[4K] Evergarden 1.2x (210bpm)",
+  "beatmapId": "3005312",
+  "beatmapSetId": "1457545",
+  "hp": 8.5,
+  "od": 8.5
+}

@@ -1,0 +1,24 @@
+{
+  "category": "tb",
+  "counts": {
+    "bpm": -1,
+    "sv": -1,
+    "notes": {
+      "total": 2798,
+      "rice": 1847,
+      "ln": 951,
+      "single": -1,
+      "jump": -1,
+      "hand": -1,
+      "quad": -1
+    }
+  },
+  "title": "Citadel",
+  "artist": "Mameyudoufu",
+  "mapper": "RuleBlazing",
+  "difficulty": "[4K] The Last Frontier",
+  "beatmapId": "2759223",
+  "beatmapSetId": "1331802",
+  "hp": 8,
+  "od": 8
+}

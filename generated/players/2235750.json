@@ -8,7 +8,7 @@
   "is_deleted": false,
   "is_online": false,
   "is_supporter": true,
-  "last_visit": "2022-04-15T19:40:25+00:00",
+  "last_visit": "2022-10-02T00:37:04+00:00",
   "pm_friends_only": false,
   "profile_colour": null,
   "username": "_underjoy",
@@ -17,14 +17,14 @@
   "has_supported": true,
   "interests": "women",
   "join_date": "2013-01-02T17:13:06+00:00",
-  "kudosu": { "total": 759, "available": 678 },
+  "kudosu": { "total": 781, "available": 700 },
   "location": "gamer",
   "max_blocks": 100,
   "max_friends": 500,
   "occupation": "women",
   "playmode": "mania",
   "playstyle": ["mouse", "keyboard"],
-  "post_count": 663,
+  "post_count": 703,
   "profile_order": [
     "me",
     "recent_activity",
@@ -47,11 +47,11 @@
   "account_history": [],
   "active_tournament_banner": null,
   "badges": [],
-  "beatmap_playcounts_count": 6437,
-  "comments_count": 147,
-  "favourite_beatmapset_count": 104,
-  "follower_count": 767,
-  "graveyard_beatmapset_count": 153,
+  "beatmap_playcounts_count": 6452,
+  "comments_count": 154,
+  "favourite_beatmapset_count": 109,
+  "follower_count": 828,
+  "graveyard_beatmapset_count": 172,
   "groups": [
     {
       "colour": "#FFD1DC",
@@ -65,9 +65,10 @@
       "playmodes": ["mania"]
     }
   ],
-  "loved_beatmapset_count": 6,
-  "mapping_follower_count": 158,
-  "pending_beatmapset_count": 7,
+  "guest_beatmapset_count": 5,
+  "loved_beatmapset_count": 7,
+  "mapping_follower_count": 196,
+  "pending_beatmapset_count": 3,
   "previous_usernames": ["TheZiemniax"],
   "ranked_beatmapset_count": 8,
   "scores_best_count": 100,
@@ -76,38 +77,38 @@
   "scores_recent_count": 0,
   "statistics": {
     "level": { "current": 99, "progress": 32 },
-    "global_rank": 288,
-    "pp": 11762.5,
-    "ranked_score": 2446029322,
-    "hit_accuracy": 96.6039,
-    "play_count": 51327,
-    "play_time": 3539025,
-    "total_score": 20721666440,
-    "total_hits": 54211924,
+    "global_rank": 414,
+    "pp": 11776.7,
+    "ranked_score": 2453627414,
+    "hit_accuracy": 96.5779,
+    "play_count": 51386,
+    "play_time": 3546058,
+    "total_score": 20744738482,
+    "total_hits": 54320642,
     "maximum_combo": 10292,
-    "replays_watched_by_others": 552,
+    "replays_watched_by_others": 570,
     "is_ranked": true,
-    "grade_counts": { "ss": 493, "ssh": 0, "s": 1955, "sh": 0, "a": 130 },
+    "grade_counts": { "ss": 493, "ssh": 0, "s": 1960, "sh": 0, "a": 131 },
     "country_rank": 3,
     "rank": { "country": 3 },
     "variants": [
       {
         "mode": "mania",
         "variant": "4k",
-        "country_rank": 6,
-        "global_rank": 635,
-        "pp": 9052.9
+        "country_rank": 10,
+        "global_rank": 823,
+        "pp": 9229.89
       },
       {
         "mode": "mania",
         "variant": "7k",
         "country_rank": 7,
-        "global_rank": 277,
+        "global_rank": 373,
         "pp": 11555.9
       }
     ]
   },
   "support_level": 2,
   "ranked_and_approved_beatmapset_count": 8,
-  "unranked_beatmapset_count": 7
+  "unranked_beatmapset_count": 3
 }

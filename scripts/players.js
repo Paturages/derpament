@@ -51,7 +51,8 @@ const generatedPath = path.resolve(__dirname, "..", "generated");
           },
         }
       ));
-    } catch {
+    } catch (err) {
+      console.error(err.message);
       body = require('../generated/players/0.json');
       body.id = playerId;
     }

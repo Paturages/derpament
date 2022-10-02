@@ -1,0 +1,24 @@
+{
+  "category": "rice",
+  "counts": {
+    "bpm": -1,
+    "sv": -1,
+    "notes": {
+      "total": 1740,
+      "rice": 1738,
+      "ln": 2,
+      "single": -1,
+      "jump": -1,
+      "hand": -1,
+      "quad": -1
+    }
+  },
+  "title": "Feelsleft0ut",
+  "artist": "Zekk",
+  "mapper": "Kamuy",
+  "difficulty": "[4K] chrubble's al0ne",
+  "beatmapId": "2396091",
+  "beatmapSetId": "1145368",
+  "hp": 8.7,
+  "od": 8.5
+}

@@ -1,0 +1,24 @@
+{
+  "category": "rice",
+  "counts": {
+    "bpm": -1,
+    "sv": -1,
+    "notes": {
+      "total": 1459,
+      "rice": 1448,
+      "ln": 11,
+      "single": -1,
+      "jump": -1,
+      "hand": -1,
+      "quad": -1
+    }
+  },
+  "title": "Take Me to Pleasure Island",
+  "artist": "Shirobon",
+  "mapper": "LeiN-",
+  "difficulty": "[4K] Walrus Pit",
+  "beatmapId": "2883272",
+  "beatmapSetId": "1397098",
+  "hp": 8,
+  "od": 8
+}

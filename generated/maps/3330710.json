@@ -1,0 +1,24 @@
+{
+  "category": "rice",
+  "counts": {
+    "bpm": -1,
+    "sv": -1,
+    "notes": {
+      "total": 2160,
+      "rice": 2160,
+      "ln": 0,
+      "single": -1,
+      "jump": -1,
+      "hand": -1,
+      "quad": -1
+    }
+  },
+  "title": "-273.15",
+  "artist": "LV.4",
+  "mapper": "Shoegazer",
+  "difficulty": "[4K] Crystallize 1.1x (208bpm)",
+  "beatmapId": "3330710",
+  "beatmapSetId": "1630846",
+  "hp": 8.5,
+  "od": 8.5
+}

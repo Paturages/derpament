@@ -1,0 +1,24 @@
+{
+  "category": "rice",
+  "counts": {
+    "bpm": -1,
+    "sv": -1,
+    "notes": {
+      "total": 2722,
+      "rice": 2684,
+      "ln": 38,
+      "single": -1,
+      "jump": -1,
+      "hand": -1,
+      "quad": -1
+    }
+  },
+  "title": "Shutai",
+  "artist": "Ototsugi Kanade",
+  "mapper": "CrewK",
+  "difficulty": "[4K] Desire [1.05x Rate]",
+  "beatmapId": "3456955",
+  "beatmapSetId": "1691775",
+  "hp": 8,
+  "od": 8
+}

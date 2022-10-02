@@ -1,0 +1,24 @@
+{
+  "category": "rice",
+  "counts": {
+    "bpm": -1,
+    "sv": -1,
+    "notes": {
+      "total": 1746,
+      "rice": 1632,
+      "ln": 114,
+      "single": -1,
+      "jump": -1,
+      "hand": -1,
+      "quad": -1
+    }
+  },
+  "title": "Vitrum",
+  "artist": "BEMANI Sound Team \"Yvya\"",
+  "mapper": "lemonguy",
+  "difficulty": "[4K] Another (Edit)",
+  "beatmapId": "3520829",
+  "beatmapSetId": "1545890",
+  "hp": 8,
+  "od": 8
+}

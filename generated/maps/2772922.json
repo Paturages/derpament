@@ -1,0 +1,24 @@
+{
+  "category": "hybrid",
+  "counts": {
+    "bpm": -1,
+    "sv": -1,
+    "notes": {
+      "total": 2356,
+      "rice": 1351,
+      "ln": 1005,
+      "single": -1,
+      "jump": -1,
+      "hand": -1,
+      "quad": -1
+    }
+  },
+  "title": "+ERABY+E CONNEC+10N",
+  "artist": "Camellia",
+  "mapper": "HowToPlayLN",
+  "difficulty": "[4K] 504 ServerError: Gateway Timeout",
+  "beatmapId": "2772922",
+  "beatmapSetId": "1338625",
+  "hp": 8,
+  "od": 7
+}

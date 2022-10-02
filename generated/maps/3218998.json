@@ -1,0 +1,24 @@
+{
+  "category": "hybrid",
+  "counts": {
+    "bpm": -1,
+    "sv": -1,
+    "notes": {
+      "total": 1372,
+      "rice": 700,
+      "ln": 672,
+      "single": -1,
+      "jump": -1,
+      "hand": -1,
+      "quad": -1
+    }
+  },
+  "title": "Friction[!]Function",
+  "artist": "Feryquitous",
+  "mapper": "stupud man",
+  "difficulty": "[4K] Kinetic 1.05x",
+  "beatmapId": "3218998",
+  "beatmapSetId": "1576670",
+  "hp": 8,
+  "od": 7.5
+}

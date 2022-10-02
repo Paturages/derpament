@@ -1,0 +1,24 @@
+{
+  "category": "rice",
+  "counts": {
+    "bpm": -1,
+    "sv": -1,
+    "notes": {
+      "total": 1976,
+      "rice": 1976,
+      "ln": 0,
+      "single": -1,
+      "jump": -1,
+      "hand": -1,
+      "quad": -1
+    }
+  },
+  "title": "Replica",
+  "artist": "Lime",
+  "mapper": "Eclipse-",
+  "difficulty": "[4K] Insane+ (218bpm)",
+  "beatmapId": "2920589",
+  "beatmapSetId": "1417394",
+  "hp": 8,
+  "od": 8
+}

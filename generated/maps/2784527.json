@@ -1,0 +1,24 @@
+{
+  "category": "hybrid",
+  "counts": {
+    "bpm": -1,
+    "sv": -1,
+    "notes": {
+      "total": 1421,
+      "rice": 1140,
+      "ln": 281,
+      "single": -1,
+      "jump": -1,
+      "hand": -1,
+      "quad": -1
+    }
+  },
+  "title": "Mikasa",
+  "artist": "Veil of Maya",
+  "mapper": "Shoegazer",
+  "difficulty": "[4K] Salvation (edit)",
+  "beatmapId": "2784527",
+  "beatmapSetId": "828101",
+  "hp": 8.5,
+  "od": 8.5
+}

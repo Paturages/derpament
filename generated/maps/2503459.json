@@ -1,0 +1,24 @@
+{
+  "category": "rice",
+  "counts": {
+    "bpm": -1,
+    "sv": -1,
+    "notes": {
+      "total": 1808,
+      "rice": 1808,
+      "ln": 0,
+      "single": -1,
+      "jump": -1,
+      "hand": -1,
+      "quad": -1
+    }
+  },
+  "title": "Frictional Nevada",
+  "artist": "Venetian Snares",
+  "mapper": "Gekido-",
+  "difficulty": "[4K] Challenge x1.1",
+  "beatmapId": "2503459",
+  "beatmapSetId": "1047387",
+  "hp": 9,
+  "od": 8
+}

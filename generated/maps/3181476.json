@@ -1,0 +1,24 @@
+{
+  "category": "ln",
+  "counts": {
+    "bpm": -1,
+    "sv": -1,
+    "notes": {
+      "total": 2413,
+      "rice": 313,
+      "ln": 2100,
+      "single": -1,
+      "jump": -1,
+      "hand": -1,
+      "quad": -1
+    }
+  },
+  "title": "Floating Away",
+  "artist": "paraoka feat. haru*nya",
+  "mapper": "chxu",
+  "difficulty": "[4K] Helium x1.05",
+  "beatmapId": "3181476",
+  "beatmapSetId": "1549666",
+  "hp": 7.57,
+  "od": 7.5
+}

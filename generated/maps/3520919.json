@@ -1,0 +1,24 @@
+{
+  "category": "hybrid",
+  "counts": {
+    "bpm": -1,
+    "sv": -1,
+    "notes": {
+      "total": 1183,
+      "rice": 700,
+      "ln": 483,
+      "single": -1,
+      "jump": -1,
+      "hand": -1,
+      "quad": -1
+    }
+  },
+  "title": "Badboi",
+  "artist": "Pegboard Nerds",
+  "mapper": "Penguinosity",
+  "difficulty": "[4K] Three Stars",
+  "beatmapId": "3520919",
+  "beatmapSetId": "1722744",
+  "hp": 8,
+  "od": 7
+}

@@ -1,0 +1,24 @@
+{
+  "category": "hybrid",
+  "counts": {
+    "bpm": -1,
+    "sv": -1,
+    "notes": {
+      "total": 5155,
+      "rice": 4177,
+      "ln": 978,
+      "single": -1,
+      "jump": -1,
+      "hand": -1,
+      "quad": -1
+    }
+  },
+  "title": "finorza",
+  "artist": "Camellia feat. Nanahira",
+  "mapper": "Flappy_BOX",
+  "difficulty": "[4K] F1n4l Judg3m3nt",
+  "beatmapId": "2425834",
+  "beatmapSetId": "1162945",
+  "hp": 8.5,
+  "od": 7.8
+}

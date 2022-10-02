@@ -1,0 +1,24 @@
+{
+  "category": "ln",
+  "counts": {
+    "bpm": -1,
+    "sv": -1,
+    "notes": {
+      "total": 1379,
+      "rice": 293,
+      "ln": 1086,
+      "single": -1,
+      "jump": -1,
+      "hand": -1,
+      "quad": -1
+    }
+  },
+  "title": "Scars of FAUNA",
+  "artist": "Nekomata Master",
+  "mapper": "Raveille",
+  "difficulty": "[4K] Orchid",
+  "beatmapId": "1770185",
+  "beatmapSetId": "846374",
+  "hp": 7.6,
+  "od": 7.6
+}

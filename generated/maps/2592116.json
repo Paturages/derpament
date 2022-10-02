@@ -1,0 +1,24 @@
+{
+  "category": "hybrid",
+  "counts": {
+    "bpm": -1,
+    "sv": -1,
+    "notes": {
+      "total": 2504,
+      "rice": 1737,
+      "ln": 767,
+      "single": -1,
+      "jump": -1,
+      "hand": -1,
+      "quad": -1
+    }
+  },
+  "title": "Violent Arcade",
+  "artist": "Final Sketch feat. rgLed",
+  "mapper": "Toaph Daddy",
+  "difficulty": "[4K] Sudden Death x1.1",
+  "beatmapId": "2592116",
+  "beatmapSetId": "1245864",
+  "hp": 8,
+  "od": 8
+}

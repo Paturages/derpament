@@ -1,0 +1,24 @@
+{
+  "category": "rice",
+  "counts": {
+    "bpm": -1,
+    "sv": -1,
+    "notes": {
+      "total": 3253,
+      "rice": 3251,
+      "ln": 2,
+      "single": -1,
+      "jump": -1,
+      "hand": -1,
+      "quad": -1
+    }
+  },
+  "title": "Obligatory (Kurorak's Obligatory Destruction rmx)",
+  "artist": "Aquellex",
+  "mapper": "AutotelicBrown",
+  "difficulty": "[4K] Alice's First Law 1.05x (no mini-LNs)",
+  "beatmapId": "3114627",
+  "beatmapSetId": "1438897",
+  "hp": 8,
+  "od": 8
+}

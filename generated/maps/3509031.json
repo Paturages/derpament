@@ -1,0 +1,24 @@
+{
+  "category": "rice",
+  "counts": {
+    "bpm": -1,
+    "sv": -1,
+    "notes": {
+      "total": 1502,
+      "rice": 1502,
+      "ln": 0,
+      "single": -1,
+      "jump": -1,
+      "hand": -1,
+      "quad": -1
+    }
+  },
+  "title": "Reimei Sketchbook",
+  "artist": "Ametsuchi Enikki",
+  "mapper": "Konpaku Sariel",
+  "difficulty": "4K Dump Sketchbook [FREQ +4] (1.26x)",
+  "beatmapId": "3509031",
+  "beatmapSetId": "1717148",
+  "hp": 8,
+  "od": 9
+}

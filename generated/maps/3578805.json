@@ -1,0 +1,24 @@
+{
+  "category": "hybrid",
+  "counts": {
+    "bpm": -1,
+    "sv": -1,
+    "notes": {
+      "total": 1830,
+      "rice": 1055,
+      "ln": 775,
+      "single": -1,
+      "jump": -1,
+      "hand": -1,
+      "quad": -1
+    }
+  },
+  "title": "ILLEGAL LEGACY",
+  "artist": "seatrus",
+  "mapper": "Toaph Daddy",
+  "difficulty": "[4K] AFTERMATH",
+  "beatmapId": "3578805",
+  "beatmapSetId": "1749442",
+  "hp": 8,
+  "od": 8
+}

@@ -1,0 +1,24 @@
+{
+  "category": "hybrid",
+  "counts": {
+    "bpm": -1,
+    "sv": -1,
+    "notes": {
+      "total": 2276,
+      "rice": 1969,
+      "ln": 307,
+      "single": -1,
+      "jump": -1,
+      "hand": -1,
+      "quad": -1
+    }
+  },
+  "title": "PARADOXX",
+  "artist": "SLAM & NATO",
+  "mapper": "lemonguy",
+  "difficulty": "[4K] Challenge",
+  "beatmapId": "2432909",
+  "beatmapSetId": "1166344",
+  "hp": 9,
+  "od": 8
+}

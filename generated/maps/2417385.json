@@ -1,0 +1,24 @@
+{
+  "category": "hybrid",
+  "counts": {
+    "bpm": -1,
+    "sv": -1,
+    "notes": {
+      "total": 2063,
+      "rice": 1771,
+      "ln": 292,
+      "single": -1,
+      "jump": -1,
+      "hand": -1,
+      "quad": -1
+    }
+  },
+  "title": "Bubble Control (cut)",
+  "artist": "Tipper",
+  "mapper": "lenpai",
+  "difficulty": "[4K] soapy",
+  "beatmapId": "2417385",
+  "beatmapSetId": "781115",
+  "hp": 8,
+  "od": 8
+}

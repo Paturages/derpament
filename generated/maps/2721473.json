@@ -1,0 +1,24 @@
+{
+  "category": "hybrid",
+  "counts": {
+    "bpm": -1,
+    "sv": -1,
+    "notes": {
+      "total": 2418,
+      "rice": 1818,
+      "ln": 600,
+      "single": -1,
+      "jump": -1,
+      "hand": -1,
+      "quad": -1
+    }
+  },
+  "title": "Star of the COME ON!!",
+  "artist": "Frums",
+  "mapper": "Toaph Daddy",
+  "difficulty": "[4K] Supernova",
+  "beatmapId": "2721473",
+  "beatmapSetId": "1313199",
+  "hp": 8.3,
+  "od": 8
+}

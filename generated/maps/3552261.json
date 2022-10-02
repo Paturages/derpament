@@ -1,0 +1,24 @@
+{
+  "category": "rice",
+  "counts": {
+    "bpm": -1,
+    "sv": -1,
+    "notes": {
+      "total": 3795,
+      "rice": 3627,
+      "ln": 168,
+      "single": -1,
+      "jump": -1,
+      "hand": -1,
+      "quad": -1
+    }
+  },
+  "title": "Inevitable Struggle",
+  "artist": "Falcom Sound Team jdk",
+  "mapper": "lemonguy",
+  "difficulty": "[4K] Nightmare x1.15",
+  "beatmapId": "3552261",
+  "beatmapSetId": "1554627",
+  "hp": 8,
+  "od": 8
+}

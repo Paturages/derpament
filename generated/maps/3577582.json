@@ -1,0 +1,24 @@
+{
+  "category": "hybrid",
+  "counts": {
+    "bpm": -1,
+    "sv": -1,
+    "notes": {
+      "total": 2147,
+      "rice": 1547,
+      "ln": 600,
+      "single": -1,
+      "jump": -1,
+      "hand": -1,
+      "quad": -1
+    }
+  },
+  "title": "Intuition",
+  "artist": "technoplanet",
+  "mapper": "Eclipse-",
+  "difficulty": "[4K] 6th Sense [1,05x Rate]",
+  "beatmapId": "3577582",
+  "beatmapSetId": "1748968",
+  "hp": 8,
+  "od": 8
+}

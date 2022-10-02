@@ -1,0 +1,24 @@
+{
+  "category": "rice",
+  "counts": {
+    "bpm": -1,
+    "sv": -1,
+    "notes": {
+      "total": 2764,
+      "rice": 2700,
+      "ln": 64,
+      "single": -1,
+      "jump": -1,
+      "hand": -1,
+      "quad": -1
+    }
+  },
+  "title": "Bring Our Ignition Back",
+  "artist": "Camellia",
+  "mapper": "[Crz]hinako1804",
+  "difficulty": "[4K] Ignition150",
+  "beatmapId": "3440885",
+  "beatmapSetId": "1684011",
+  "hp": 8,
+  "od": 7.6
+}

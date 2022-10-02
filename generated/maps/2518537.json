@@ -1,0 +1,24 @@
+{
+  "category": "hybrid",
+  "counts": {
+    "bpm": -1,
+    "sv": -1,
+    "notes": {
+      "total": 1212,
+      "rice": 857,
+      "ln": 355,
+      "single": -1,
+      "jump": -1,
+      "hand": -1,
+      "quad": -1
+    }
+  },
+  "title": "B612",
+  "artist": "litmus*",
+  "mapper": "Toaph Daddy",
+  "difficulty": "[4K] Voyage",
+  "beatmapId": "2518537",
+  "beatmapSetId": "1209671",
+  "hp": 8,
+  "od": 8
+}

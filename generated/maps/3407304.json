@@ -1,0 +1,24 @@
+{
+  "category": "rice",
+  "counts": {
+    "bpm": -1,
+    "sv": -1,
+    "notes": {
+      "total": 1174,
+      "rice": 1162,
+      "ln": 12,
+      "single": -1,
+      "jump": -1,
+      "hand": -1,
+      "quad": -1
+    }
+  },
+  "title": "sylcmyk's theme",
+  "artist": "sylcmyk",
+  "mapper": "aeoliancarp",
+  "difficulty": "[4K] Palette",
+  "beatmapId": "3407304",
+  "beatmapSetId": "1570575",
+  "hp": 8.5,
+  "od": 8.5
+}

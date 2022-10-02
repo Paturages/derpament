@@ -17,14 +17,14 @@
   "has_supported": true,
   "interests": "tournaments",
   "join_date": "2015-07-02T16:40:27+00:00",
-  "kudosu": { "total": 1, "available": 1 },
+  "kudosu": { "total": 2, "available": 2 },
   "location": "some fuckin place in canada",
   "max_blocks": 100,
   "max_friends": 500,
   "occupation": "dreaming",
   "playmode": "mania",
   "playstyle": ["keyboard"],
-  "post_count": 11,
+  "post_count": 12,
   "profile_order": [
     "me",
     "recent_activity",
@@ -55,15 +55,15 @@
     }
   ],
   "beatmap_playcounts_count": 6248,
-  "comments_count": 6,
-  "favourite_beatmapset_count": 24,
-  "follower_count": 157,
-  "graveyard_beatmapset_count": 28,
+  "comments_count": 8,
+  "favourite_beatmapset_count": 34,
+  "follower_count": 164,
+  "graveyard_beatmapset_count": 34,
   "groups": [],
   "guest_beatmapset_count": 0,
   "loved_beatmapset_count": 0,
-  "mapping_follower_count": 23,
-  "pending_beatmapset_count": 5,
+  "mapping_follower_count": 26,
+  "pending_beatmapset_count": 2,
   "previous_usernames": ["SS_Kai", "XxStability98Xx"],
   "ranked_beatmapset_count": 0,
   "scores_best_count": 100,
@@ -72,7 +72,7 @@
   "scores_recent_count": 0,
   "statistics": {
     "level": { "current": 94, "progress": 88 },
-    "global_rank": 2213,
+    "global_rank": 2598,
     "pp": 8403.1,
     "ranked_score": 834551803,
     "hit_accuracy": 97.1174,
@@ -84,26 +84,26 @@
     "replays_watched_by_others": 31,
     "is_ranked": true,
     "grade_counts": { "ss": 30, "ssh": 0, "s": 774, "sh": 4, "a": 71 },
-    "country_rank": 58,
-    "rank": { "country": 58 },
+    "country_rank": 69,
+    "rank": { "country": 69 },
     "variants": [
       {
         "mode": "mania",
         "variant": "4k",
-        "country_rank": 49,
-        "global_rank": 1451,
+        "country_rank": 60,
+        "global_rank": 1769,
         "pp": 8375.16
       },
       {
         "mode": "mania",
         "variant": "7k",
-        "country_rank": 2417,
-        "global_rank": 82879,
+        "country_rank": 2547,
+        "global_rank": 88299,
         "pp": 20.2648
       }
     ]
   },
   "support_level": 2,
   "ranked_and_approved_beatmapset_count": 0,
-  "unranked_beatmapset_count": 5
+  "unranked_beatmapset_count": 2
 }

@@ -1,0 +1,24 @@
+{
+  "category": "rice",
+  "counts": {
+    "bpm": -1,
+    "sv": -1,
+    "notes": {
+      "total": 2382,
+      "rice": 2382,
+      "ln": 0,
+      "single": -1,
+      "jump": -1,
+      "hand": -1,
+      "quad": -1
+    }
+  },
+  "title": "Psicicite",
+  "artist": "Xanopticon",
+  "mapper": "Shoegazer",
+  "difficulty": "[4K] Extra 1.2x (216bpm)",
+  "beatmapId": "2861210",
+  "beatmapSetId": "659977",
+  "hp": 8.5,
+  "od": 8.5
+}

@@ -1,0 +1,24 @@
+{
+  "category": "rice",
+  "counts": {
+    "bpm": -1,
+    "sv": -1,
+    "notes": {
+      "total": 1542,
+      "rice": 1507,
+      "ln": 35,
+      "single": -1,
+      "jump": -1,
+      "hand": -1,
+      "quad": -1
+    }
+  },
+  "title": "Scrap Syndrome",
+  "artist": "Yuuyu",
+  "mapper": "Vortex-",
+  "difficulty": "[4K] Fatal 1.05x",
+  "beatmapId": "2547386",
+  "beatmapSetId": "1224810",
+  "hp": 8,
+  "od": 7.5
+}

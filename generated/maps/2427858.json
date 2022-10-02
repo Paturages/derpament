@@ -1,0 +1,24 @@
+{
+  "category": "tb",
+  "counts": {
+    "bpm": -1,
+    "sv": -1,
+    "notes": {
+      "total": -1,
+      "rice": -1,
+      "ln": -1,
+      "single": -1,
+      "jump": -1,
+      "hand": -1,
+      "quad": -1
+    }
+  },
+  "title": "AZISAI",
+  "artist": "Camellia vs. Expander",
+  "mapper": "MyZterioN-",
+  "difficulty": "Shattered Rain [1.05x Rate]",
+  "beatmapId": "2427858",
+  "beatmapSetId": "1138055",
+  "hp": "?",
+  "od": "?"
+}

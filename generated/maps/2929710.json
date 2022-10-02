@@ -1,0 +1,24 @@
+{
+  "category": "rice",
+  "counts": {
+    "bpm": -1,
+    "sv": -1,
+    "notes": {
+      "total": 2351,
+      "rice": 2349,
+      "ln": 2,
+      "single": -1,
+      "jump": -1,
+      "hand": -1,
+      "quad": -1
+    }
+  },
+  "title": "Sayonara Cosmonaut",
+  "artist": "AAAA + Umeboshi Chazuke",
+  "mapper": "Toaph Daddy",
+  "difficulty": "[4K] Farewell x1.05",
+  "beatmapId": "2929710",
+  "beatmapSetId": "1033243",
+  "hp": 8,
+  "od": 8
+}

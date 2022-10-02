@@ -1,0 +1,24 @@
+{
+  "category": "ln",
+  "counts": {
+    "bpm": -1,
+    "sv": -1,
+    "notes": {
+      "total": 2342,
+      "rice": 554,
+      "ln": 1788,
+      "single": -1,
+      "jump": -1,
+      "hand": -1,
+      "quad": -1
+    }
+  },
+  "title": "Integral Cube",
+  "artist": "Function Phantom",
+  "mapper": "juankristal",
+  "difficulty": "[4K] Limit",
+  "beatmapId": "3470046",
+  "beatmapSetId": "1698324",
+  "hp": 7,
+  "od": 7.5
+}

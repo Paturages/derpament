@@ -1,0 +1,24 @@
+{
+  "category": "rice",
+  "counts": {
+    "bpm": -1,
+    "sv": -1,
+    "notes": {
+      "total": 2247,
+      "rice": 2247,
+      "ln": 0,
+      "single": -1,
+      "jump": -1,
+      "hand": -1,
+      "quad": -1
+    }
+  },
+  "title": "Justify My Love",
+  "artist": "Tess",
+  "mapper": "Halogen-",
+  "difficulty": "[4K] Heartbroken",
+  "beatmapId": "3562095",
+  "beatmapSetId": "1742468",
+  "hp": 8,
+  "od": 9
+}

@@ -1,0 +1,24 @@
+{
+  "category": "rice",
+  "counts": {
+    "bpm": -1,
+    "sv": -1,
+    "notes": {
+      "total": 1710,
+      "rice": 1630,
+      "ln": 80,
+      "single": -1,
+      "jump": -1,
+      "hand": -1,
+      "quad": -1
+    }
+  },
+  "title": "Animal Minimal",
+  "artist": "Falcom Sound Team jdk",
+  "mapper": "lemonguy",
+  "difficulty": "[4K] Crazy x1.05",
+  "beatmapId": "3542995",
+  "beatmapSetId": "1619954",
+  "hp": 8,
+  "od": 8
+}

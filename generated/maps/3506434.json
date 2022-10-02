@@ -1,0 +1,24 @@
+{
+  "category": "rice",
+  "counts": {
+    "bpm": -1,
+    "sv": -1,
+    "notes": {
+      "total": 1834,
+      "rice": 1773,
+      "ln": 61,
+      "single": -1,
+      "jump": -1,
+      "hand": -1,
+      "quad": -1
+    }
+  },
+  "title": "Great Fury of Heaven",
+  "artist": "Frums",
+  "mapper": "Vortex-",
+  "difficulty": "[4K] Divine Judgement 1.05x (331bpm)",
+  "beatmapId": "3506434",
+  "beatmapSetId": "1716026",
+  "hp": 8.7,
+  "od": 7.4
+}

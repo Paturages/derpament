@@ -1,0 +1,127 @@
+{
+  "avatar_url": "https://a.ppy.sh/10083439?1661702446.jpeg",
+  "country_code": "PH",
+  "default_group": "default",
+  "id": 10083439,
+  "is_active": true,
+  "is_bot": false,
+  "is_deleted": false,
+  "is_online": false,
+  "is_supporter": false,
+  "last_visit": "2022-09-27T14:54:22+00:00",
+  "pm_friends_only": false,
+  "profile_colour": null,
+  "username": "bojii",
+  "cover_url": "https://assets.ppy.sh/user-profile-covers/10083439/50f638166a25895f593fe69cca9fc388ce1de591b2b9023c5986ac68bd92f688.jpeg",
+  "discord": null,
+  "has_supported": true,
+  "interests": null,
+  "join_date": "2017-04-21T05:58:07+00:00",
+  "kudosu": { "total": 0, "available": 0 },
+  "location": "Laguna",
+  "max_blocks": 50,
+  "max_friends": 250,
+  "occupation": "Student - BS Education",
+  "playmode": "mania",
+  "playstyle": ["keyboard"],
+  "post_count": 98,
+  "profile_order": [
+    "me",
+    "recent_activity",
+    "top_ranks",
+    "beatmaps",
+    "historical",
+    "medals",
+    "kudosu"
+  ],
+  "title": null,
+  "title_url": null,
+  "twitter": "bojj__",
+  "website": null,
+  "country": { "code": "PH", "name": "Philippines" },
+  "cover": {
+    "custom_url": "https://assets.ppy.sh/user-profile-covers/10083439/50f638166a25895f593fe69cca9fc388ce1de591b2b9023c5986ac68bd92f688.jpeg",
+    "url": "https://assets.ppy.sh/user-profile-covers/10083439/50f638166a25895f593fe69cca9fc388ce1de591b2b9023c5986ac68bd92f688.jpeg",
+    "id": null
+  },
+  "account_history": [],
+  "active_tournament_banner": null,
+  "badges": [
+    {
+      "awarded_at": "2021-06-29T11:10:10+00:00",
+      "description": "Springtime osu!mania Free-for-all Tournament 5 2nd place",
+      "image_url": "https://assets.ppy.sh/profile-badges/soft5-2-201.png",
+      "url": ""
+    },
+    {
+      "awarded_at": "2021-02-05T10:09:17+00:00",
+      "description": "osu!mania Asian's Champions 2020 Winner",
+      "image_url": "https://assets.ppy.sh/profile-badges/omac-2020.png",
+      "url": ""
+    },
+    {
+      "awarded_at": "2018-07-18T15:30:28+00:00",
+      "description": "osu! PST Winner",
+      "image_url": "https://assets.ppy.sh/profile-badges/pst-4k-2018.png",
+      "url": ""
+    },
+    {
+      "awarded_at": "2018-01-22T06:50:44+00:00",
+      "description": "Philippines Friendlies Tournament (osu!mania 4K) 2017 Winner",
+      "image_url": "https://assets.ppy.sh/profile-badges/ptf4k-2018.jpg",
+      "url": ""
+    }
+  ],
+  "beatmap_playcounts_count": 8884,
+  "comments_count": 49,
+  "favourite_beatmapset_count": 3,
+  "follower_count": 2743,
+  "graveyard_beatmapset_count": 22,
+  "groups": [],
+  "guest_beatmapset_count": 0,
+  "loved_beatmapset_count": 0,
+  "mapping_follower_count": 137,
+  "pending_beatmapset_count": 0,
+  "previous_usernames": ["joseee-"],
+  "ranked_beatmapset_count": 0,
+  "scores_best_count": 100,
+  "scores_first_count": 189,
+  "scores_pinned_count": 5,
+  "scores_recent_count": 0,
+  "statistics": {
+    "level": { "current": 100, "progress": 3 },
+    "global_rank": 14,
+    "pp": 19488.8,
+    "ranked_score": 4163259583,
+    "hit_accuracy": 97.2655,
+    "play_count": 64280,
+    "play_time": 5967415,
+    "total_score": 30143359610,
+    "total_hits": 101279111,
+    "maximum_combo": 55365,
+    "replays_watched_by_others": 155601,
+    "is_ranked": true,
+    "grade_counts": { "ss": 2157, "ssh": 181, "s": 1502, "sh": 268, "a": 144 },
+    "country_rank": 2,
+    "rank": { "country": 2 },
+    "variants": [
+      {
+        "mode": "mania",
+        "variant": "4k",
+        "country_rank": 1,
+        "global_rank": 4,
+        "pp": 14018.2
+      },
+      {
+        "mode": "mania",
+        "variant": "7k",
+        "country_rank": 2,
+        "global_rank": 19,
+        "pp": 19121.4
+      }
+    ]
+  },
+  "support_level": 0,
+  "ranked_and_approved_beatmapset_count": 0,
+  "unranked_beatmapset_count": 0
+}

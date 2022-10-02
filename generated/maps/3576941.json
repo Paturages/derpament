@@ -1,0 +1,24 @@
+{
+  "category": "rice",
+  "counts": {
+    "bpm": -1,
+    "sv": -1,
+    "notes": {
+      "total": 3010,
+      "rice": 3010,
+      "ln": 0,
+      "single": -1,
+      "jump": -1,
+      "hand": -1,
+      "quad": -1
+    }
+  },
+  "title": "Vantablack",
+  "artist": "Dirtyphonics & Sullivan King",
+  "mapper": "Halogen-",
+  "difficulty": "[4K] Impenetrable Darkness 1.05x (158bpm)",
+  "beatmapId": "3576941",
+  "beatmapSetId": "1748681",
+  "hp": 8,
+  "od": 8.5
+}

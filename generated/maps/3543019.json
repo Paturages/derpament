@@ -1,0 +1,24 @@
+{
+  "category": "ln",
+  "counts": {
+    "bpm": -1,
+    "sv": -1,
+    "notes": {
+      "total": 1275,
+      "rice": 384,
+      "ln": 891,
+      "single": -1,
+      "jump": -1,
+      "hand": -1,
+      "quad": -1
+    }
+  },
+  "title": "Force of RA",
+  "artist": "Memme",
+  "mapper": "Toaph Daddy",
+  "difficulty": "[4K] Sun God",
+  "beatmapId": "3543019",
+  "beatmapSetId": "1733418",
+  "hp": 7,
+  "od": 7
+}

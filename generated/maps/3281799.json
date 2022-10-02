@@ -1,0 +1,24 @@
+{
+  "category": "rice",
+  "counts": {
+    "bpm": -1,
+    "sv": -1,
+    "notes": {
+      "total": 2337,
+      "rice": 2337,
+      "ln": 0,
+      "single": -1,
+      "jump": -1,
+      "hand": -1,
+      "quad": -1
+    }
+  },
+  "title": "Alastor",
+  "artist": "Hato",
+  "mapper": "Mipha-",
+  "difficulty": "[4K] Execution",
+  "beatmapId": "3281799",
+  "beatmapSetId": "1607175",
+  "hp": 8.5,
+  "od": 8.5
+}

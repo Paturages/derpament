@@ -1,0 +1,133 @@
+{
+  "avatar_url": "https://a.ppy.sh/2288341?1644765189.jpeg",
+  "country_code": "GB",
+  "default_group": "gmt",
+  "id": 2288341,
+  "is_active": true,
+  "is_bot": false,
+  "is_deleted": false,
+  "is_online": false,
+  "is_supporter": true,
+  "last_visit": "2022-10-01T19:44:51+00:00",
+  "pm_friends_only": false,
+  "profile_colour": "#6eac0a",
+  "username": "Pope Gadget",
+  "cover_url": "https://assets.ppy.sh/user-profile-covers/2288341/84b55f3b87f7ae847dad281a06a397c1d8f25b923a0ed0988604235ff596822a.jpeg",
+  "discord": "Pope Gadget#7080",
+  "has_supported": true,
+  "interests": null,
+  "join_date": "2013-01-21T23:56:32+00:00",
+  "kudosu": { "total": 119, "available": 92 },
+  "location": "engerland",
+  "max_blocks": 100,
+  "max_friends": 500,
+  "occupation": null,
+  "playmode": "mania",
+  "playstyle": ["mouse", "keyboard"],
+  "post_count": 314,
+  "profile_order": [
+    "me",
+    "recent_activity",
+    "beatmaps",
+    "kudosu",
+    "historical",
+    "top_ranks",
+    "medals"
+  ],
+  "title": "Global Moderator",
+  "title_url": null,
+  "twitter": "PopeGadget",
+  "website": "https://rateyourmusic.com/~PopeGadget",
+  "country": { "code": "GB", "name": "United Kingdom" },
+  "cover": {
+    "custom_url": "https://assets.ppy.sh/user-profile-covers/2288341/84b55f3b87f7ae847dad281a06a397c1d8f25b923a0ed0988604235ff596822a.jpeg",
+    "url": "https://assets.ppy.sh/user-profile-covers/2288341/84b55f3b87f7ae847dad281a06a397c1d8f25b923a0ed0988604235ff596822a.jpeg",
+    "id": null
+  },
+  "account_history": [],
+  "active_tournament_banner": null,
+  "badges": [
+    {
+      "awarded_at": "2019-02-22T07:34:36+00:00",
+      "description": "Pioneer Project Loved Captain (osu!mania)",
+      "image_url": "https://assets.ppy.sh/profile-badges/contributor.jpg",
+      "url": "https://osu.ppy.sh/wiki/en/People/Community_Contributors"
+    },
+    {
+      "awarded_at": "2017-12-19T08:44:49+00:00",
+      "description": "Rhythm Rivals (4K) Winner",
+      "image_url": "https://assets.ppy.sh/profile-badges/rr-2017.png",
+      "url": ""
+    },
+    {
+      "awarded_at": "2015-09-28T06:27:03+00:00",
+      "description": "MWC 4K 2015 3rd place",
+      "image_url": "https://assets.ppy.sh/profile-badges/osu!mania-4k-badge-3rd-Place.png",
+      "url": "https://osu.ppy.sh/wiki/en/Tournaments/MWC/2015"
+    }
+  ],
+  "beatmap_playcounts_count": 1953,
+  "comments_count": 129,
+  "favourite_beatmapset_count": 125,
+  "follower_count": 620,
+  "graveyard_beatmapset_count": 30,
+  "groups": [
+    {
+      "colour": "#99EB47",
+      "has_listing": true,
+      "has_playmodes": false,
+      "id": 4,
+      "identifier": "gmt",
+      "is_probationary": false,
+      "name": "Global Moderation Team",
+      "short_name": "GMT",
+      "playmodes": null
+    }
+  ],
+  "guest_beatmapset_count": 4,
+  "loved_beatmapset_count": 5,
+  "mapping_follower_count": 44,
+  "pending_beatmapset_count": 0,
+  "previous_usernames": ["GadgetGeek", "Willy Wonka"],
+  "ranked_beatmapset_count": 3,
+  "scores_best_count": 100,
+  "scores_first_count": 3,
+  "scores_pinned_count": 0,
+  "scores_recent_count": 0,
+  "statistics": {
+    "level": { "current": 98, "progress": 20 },
+    "global_rank": 1264,
+    "pp": 9590.33,
+    "ranked_score": 1377639025,
+    "hit_accuracy": 97.0296,
+    "play_count": 27372,
+    "play_time": 2096580,
+    "total_score": 13545999829,
+    "total_hits": 29188307,
+    "maximum_combo": 17471,
+    "replays_watched_by_others": 25407,
+    "is_ranked": true,
+    "grade_counts": { "ss": 389, "ssh": 0, "s": 909, "sh": 32, "a": 69 },
+    "country_rank": 33,
+    "rank": { "country": 33 },
+    "variants": [
+      {
+        "mode": "mania",
+        "variant": "4k",
+        "country_rank": 28,
+        "global_rank": 752,
+        "pp": 9341
+      },
+      {
+        "mode": "mania",
+        "variant": "7k",
+        "country_rank": 32,
+        "global_rank": 1103,
+        "pp": 8097.45
+      }
+    ]
+  },
+  "support_level": 2,
+  "ranked_and_approved_beatmapset_count": 3,
+  "unranked_beatmapset_count": 0
+}

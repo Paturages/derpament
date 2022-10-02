@@ -1,0 +1,24 @@
+{
+  "category": "rice",
+  "counts": {
+    "bpm": -1,
+    "sv": -1,
+    "notes": {
+      "total": 1971,
+      "rice": 1928,
+      "ln": 43,
+      "single": -1,
+      "jump": -1,
+      "hand": -1,
+      "quad": -1
+    }
+  },
+  "title": "The Glorious (Final Sketch Remix)",
+  "artist": "Her Bright Skies",
+  "mapper": "Shoegazer",
+  "difficulty": "[4K] Another",
+  "beatmapId": "2698431",
+  "beatmapSetId": "852660",
+  "hp": 8.5,
+  "od": 8.5
+}

@@ -1,0 +1,24 @@
+{
+  "category": "rice",
+  "counts": {
+    "bpm": -1,
+    "sv": -1,
+    "notes": {
+      "total": 5032,
+      "rice": 4910,
+      "ln": 122,
+      "single": -1,
+      "jump": -1,
+      "hand": -1,
+      "quad": -1
+    }
+  },
+  "title": "BURST LINKER",
+  "artist": "DJ SHARPNEL",
+  "mapper": "Fullerene-",
+  "difficulty": "[4K] INCARNATE 1.3x",
+  "beatmapId": "2896051",
+  "beatmapSetId": "1404148",
+  "hp": 8.5,
+  "od": 8.5
+}

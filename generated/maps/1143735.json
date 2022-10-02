@@ -1,0 +1,24 @@
+{
+  "category": "rice",
+  "counts": {
+    "bpm": -1,
+    "sv": -1,
+    "notes": {
+      "total": 1324,
+      "rice": 1312,
+      "ln": 12,
+      "single": -1,
+      "jump": -1,
+      "hand": -1,
+      "quad": -1
+    }
+  },
+  "title": "Fives",
+  "artist": "DET",
+  "mapper": "Elekton",
+  "difficulty": "[4K] Multiplied",
+  "beatmapId": "1143735",
+  "beatmapSetId": "539403",
+  "hp": 8,
+  "od": 8
+}

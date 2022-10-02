@@ -1,0 +1,24 @@
+{
+  "category": "rice",
+  "counts": {
+    "bpm": -1,
+    "sv": -1,
+    "notes": {
+      "total": 1801,
+      "rice": 1799,
+      "ln": 2,
+      "single": -1,
+      "jump": -1,
+      "hand": -1,
+      "quad": -1
+    }
+  },
+  "title": "Oprah Shmup",
+  "artist": "The J. Arthur Keenes Band",
+  "mapper": "Halogen-",
+  "difficulty": "[4K] The Best Is Yet To Come",
+  "beatmapId": "3502314",
+  "beatmapSetId": "1714022",
+  "hp": 8,
+  "od": 8.5
+}

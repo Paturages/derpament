@@ -1,0 +1,157 @@
+{
+  "avatar_url": "https://a.ppy.sh/2288363?1654496112.jpeg",
+  "country_code": "BR",
+  "default_group": "default",
+  "id": 2288363,
+  "is_active": true,
+  "is_bot": false,
+  "is_deleted": false,
+  "is_online": false,
+  "is_supporter": true,
+  "last_visit": "2022-10-02T08:40:42+00:00",
+  "pm_friends_only": false,
+  "profile_colour": null,
+  "username": "SillyFangirl",
+  "cover_url": "https://assets.ppy.sh/user-profile-covers/2288363/a5b287ad3094f0a4fc37f96c4feb04a04b77332e34567ec2745f443328d23002.jpeg",
+  "discord": "SillyFangirl#5948",
+  "has_supported": true,
+  "interests": "ELAHBMS ♥",
+  "join_date": "2013-01-22T00:14:37+00:00",
+  "kudosu": { "total": 2, "available": 0 },
+  "location": "Thom ♥",
+  "max_blocks": 100,
+  "max_friends": 500,
+  "occupation": "STUPUD MAN ♥",
+  "playmode": "mania",
+  "playstyle": ["keyboard"],
+  "post_count": 70,
+  "profile_order": [
+    "me",
+    "recent_activity",
+    "top_ranks",
+    "medals",
+    "historical",
+    "beatmaps",
+    "kudosu"
+  ],
+  "title": "Former osu!mania 4K Champion: 2021",
+  "title_url": null,
+  "twitter": "sillyfangirlosu",
+  "website": "https://www.twitch.tv/sillyfangirl",
+  "country": { "code": "BR", "name": "Brazil" },
+  "cover": {
+    "custom_url": "https://assets.ppy.sh/user-profile-covers/2288363/a5b287ad3094f0a4fc37f96c4feb04a04b77332e34567ec2745f443328d23002.jpeg",
+    "url": "https://assets.ppy.sh/user-profile-covers/2288363/a5b287ad3094f0a4fc37f96c4feb04a04b77332e34567ec2745f443328d23002.jpeg",
+    "id": null
+  },
+  "account_history": [],
+  "active_tournament_banner": null,
+  "badges": [
+    {
+      "awarded_at": "2022-09-18T16:59:57+00:00",
+      "description": "osu!mania 4K World Cup 2022 2nd Place (Brazil)",
+      "image_url": "https://assets.ppy.sh/profile-badges/mwc4k2022-2nd.png",
+      "url": "https://osu.ppy.sh/wiki/en/Tournaments/MWC/2022_4K"
+    },
+    {
+      "awarded_at": "2022-05-30T12:10:17+00:00",
+      "description": "Springtime osu!mania Free-for-all Tournament 6 3rd place",
+      "image_url": "https://assets.ppy.sh/profile-badges/soft6-3-2022.png",
+      "url": "https://osu.ppy.sh/wiki/en/Tournaments/SOFT/6"
+    },
+    {
+      "awarded_at": "2021-09-19T21:30:32+00:00",
+      "description": "osu!mania 4K World Cup 2021 Winner (Brazil)",
+      "image_url": "https://assets.ppy.sh/profile-badges/badge_mwc4k_winner.png",
+      "url": "https://osu.ppy.sh/wiki/en/Tournaments/MWC/2021_4K"
+    },
+    {
+      "awarded_at": "2021-06-29T11:10:10+00:00",
+      "description": "Springtime osu!mania Free-for-all Tournament 5 3rd place",
+      "image_url": "https://assets.ppy.sh/profile-badges/soft5-3-2021.png",
+      "url": "https://osu.ppy.sh/wiki/en/Tournaments/SOFT/5"
+    },
+    {
+      "awarded_at": "2020-09-20T16:04:12+00:00",
+      "description": "osu!mania 4K World Cup 2020 Winner (Brazil)",
+      "image_url": "https://assets.ppy.sh/profile-badges/badge_mwc4k2020_winner.png",
+      "url": "https://osu.ppy.sh/wiki/en/Tournaments/MWC/2020_4K"
+    },
+    {
+      "awarded_at": "2019-10-27T05:17:42+00:00",
+      "description": "osu!mania 4K World Cup 2019 2nd place (Brazil)",
+      "image_url": "https://assets.ppy.sh/profile-badges/mwc4k_2nd.png",
+      "url": "https://osu.ppy.sh/wiki/en/Tournaments/MWC/2019_4K"
+    },
+    {
+      "awarded_at": "2018-10-08T01:02:57+00:00",
+      "description": "MWC 4K 2018 3rd Place",
+      "image_url": "https://assets.ppy.sh/profile-badges/o_m4Kwc2018_3rd.jpg",
+      "url": "https://osu.ppy.sh/wiki/en/Tournaments/MWC/2018_4K"
+    },
+    {
+      "awarded_at": "2017-10-23T08:31:50+00:00",
+      "description": "MWC 4K 2017 3rd place",
+      "image_url": "https://assets.ppy.sh/profile-badges/o_m4Kwc2017_3rd.png",
+      "url": "https://osu.ppy.sh/wiki/en/Tournaments/MWC/2017_4K"
+    },
+    {
+      "awarded_at": "2016-11-03T13:58:52+00:00",
+      "description": "MWC 4K 2016 2nd place",
+      "image_url": "https://assets.ppy.sh/profile-badges/osu_mania4k_2nd.png",
+      "url": "https://osu.ppy.sh/wiki/en/Tournaments/MWC/2016_4K"
+    }
+  ],
+  "beatmap_playcounts_count": 10289,
+  "comments_count": 80,
+  "favourite_beatmapset_count": 188,
+  "follower_count": 8315,
+  "graveyard_beatmapset_count": 9,
+  "groups": [],
+  "guest_beatmapset_count": 0,
+  "loved_beatmapset_count": 0,
+  "mapping_follower_count": 675,
+  "pending_beatmapset_count": 0,
+  "previous_usernames": ["NathanTheJOOKER", "NateTheROOBIN", "HanssFangirl"],
+  "ranked_beatmapset_count": 0,
+  "scores_best_count": 100,
+  "scores_first_count": 28,
+  "scores_pinned_count": 0,
+  "scores_recent_count": 0,
+  "statistics": {
+    "level": { "current": 100, "progress": 5 },
+    "global_rank": 34,
+    "pp": 17993.5,
+    "ranked_score": 2698498956,
+    "hit_accuracy": 97.1242,
+    "play_count": 44198,
+    "play_time": 5202038,
+    "total_score": 32084959343,
+    "total_hits": 86172553,
+    "maximum_combo": 18059,
+    "replays_watched_by_others": 114553,
+    "is_ranked": true,
+    "grade_counts": { "ss": 648, "ssh": 0, "s": 1997, "sh": 11, "a": 85 },
+    "country_rank": 1,
+    "rank": { "country": 1 },
+    "variants": [
+      {
+        "mode": "mania",
+        "variant": "4k",
+        "country_rank": 1,
+        "global_rank": 5,
+        "pp": 13871.6
+      },
+      {
+        "mode": "mania",
+        "variant": "7k",
+        "country_rank": 2,
+        "global_rank": 36,
+        "pp": 17703
+      }
+    ]
+  },
+  "support_level": 2,
+  "ranked_and_approved_beatmapset_count": 0,
+  "unranked_beatmapset_count": 0
+}

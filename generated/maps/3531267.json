@@ -1,0 +1,24 @@
+{
+  "category": "hybrid",
+  "counts": {
+    "bpm": -1,
+    "sv": -1,
+    "notes": {
+      "total": 2425,
+      "rice": 1712,
+      "ln": 713,
+      "single": -1,
+      "jump": -1,
+      "hand": -1,
+      "quad": -1
+    }
+  },
+  "title": "Bad for me (Dz'Xa's Amenpunk)",
+  "artist": "Official HIGE DANdism",
+  "mapper": "[Crz]FolAH1217",
+  "difficulty": "[4K] Bittersweet",
+  "beatmapId": "3531267",
+  "beatmapSetId": "1728049",
+  "hp": 8,
+  "od": 7.5
+}

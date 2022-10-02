@@ -1,0 +1,24 @@
+{
+  "category": "hybrid",
+  "counts": {
+    "bpm": -1,
+    "sv": -1,
+    "notes": {
+      "total": 1768,
+      "rice": 1283,
+      "ln": 485,
+      "single": -1,
+      "jump": -1,
+      "hand": -1,
+      "quad": -1
+    }
+  },
+  "title": "ONIGIRI FREEWAY",
+  "artist": "OISHII",
+  "mapper": "Mentholzzz",
+  "difficulty": "[4K] Umeboshi Onigiri \"MX\"",
+  "beatmapId": "1403600",
+  "beatmapSetId": "663098",
+  "hp": 8,
+  "od": 8
+}

@@ -1,24 +1,24 @@
 {
   "category": "hybrid",
   "counts": {
-    "bpm": 1,
-    "sv": 2,
+    "bpm": -1,
+    "sv": -1,
     "notes": {
       "total": 2631,
       "rice": 1849,
       "ln": 782,
-      "single": 1163,
-      "jump": 450,
-      "hand": 180,
-      "quad": 7
+      "single": -1,
+      "jump": -1,
+      "hand": -1,
+      "quad": -1
     }
   },
   "title": "#1f1e33",
   "artist": "Camellia",
   "mapper": "Eclipse-",
-  "difficulty": "Eclipse & Sitek's Sapphire Dusk",
+  "difficulty": "[4K] Eclipse & Sitek's Sapphire Dusk [1,05x Rate]",
   "beatmapId": "2581351",
   "beatmapSetId": "1241616",
-  "hp": "8.5",
-  "od": "8"
+  "hp": 8.5,
+  "od": 8
 }

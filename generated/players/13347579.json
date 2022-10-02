@@ -1,0 +1,121 @@
+{
+  "avatar_url": "https://a.ppy.sh/13347579?1652742634.jpeg",
+  "country_code": "BR",
+  "default_group": "default",
+  "id": 13347579,
+  "is_active": true,
+  "is_bot": false,
+  "is_deleted": false,
+  "is_online": false,
+  "is_supporter": true,
+  "last_visit": "2022-10-02T01:37:07+00:00",
+  "pm_friends_only": false,
+  "profile_colour": null,
+  "username": "LeMarcinho",
+  "cover_url": "https://assets.ppy.sh/user-profile-covers/13347579/08ffce7257096085436749cd5ff3b09600e3d9b1060def1c07d04032a2ea0df7.jpeg",
+  "discord": "Marcinho#6490",
+  "has_supported": true,
+  "interests": "Cooking, Rhythm Games n Stuff",
+  "join_date": "2018-10-31T21:22:08+00:00",
+  "kudosu": { "total": 0, "available": 0 },
+  "location": "Brazil",
+  "max_blocks": 100,
+  "max_friends": 500,
+  "occupation": "Student",
+  "playmode": "mania",
+  "playstyle": ["mouse", "keyboard", "tablet"],
+  "post_count": 27,
+  "profile_order": [
+    "top_ranks",
+    "recent_activity",
+    "me",
+    "medals",
+    "historical",
+    "beatmaps",
+    "kudosu"
+  ],
+  "title": "Former osu!mania 4K Champion: 2021",
+  "title_url": null,
+  "twitter": "LeMarc71758708",
+  "website": null,
+  "country": { "code": "BR", "name": "Brazil" },
+  "cover": {
+    "custom_url": "https://assets.ppy.sh/user-profile-covers/13347579/08ffce7257096085436749cd5ff3b09600e3d9b1060def1c07d04032a2ea0df7.jpeg",
+    "url": "https://assets.ppy.sh/user-profile-covers/13347579/08ffce7257096085436749cd5ff3b09600e3d9b1060def1c07d04032a2ea0df7.jpeg",
+    "id": null
+  },
+  "account_history": [],
+  "active_tournament_banner": null,
+  "badges": [
+    {
+      "awarded_at": "2022-09-18T16:59:58+00:00",
+      "description": "osu!mania 4K World Cup 2022 2nd Place (Brazil)",
+      "image_url": "https://assets.ppy.sh/profile-badges/mwc4k2022-2nd.png",
+      "url": "https://osu.ppy.sh/wiki/en/Tournaments/MWC/2022_4K"
+    },
+    {
+      "awarded_at": "2022-09-05T21:14:31+00:00",
+      "description": "Torneio Brasileiro de osu!mania 3 Winner",
+      "image_url": "https://assets.ppy.sh/profile-badges/tbdm-2022.png",
+      "url": "https://osu.ppy.sh/community/forums/topics/1567511?n=1"
+    },
+    {
+      "awarded_at": "2021-09-19T21:30:33+00:00",
+      "description": "osu!mania 4K World Cup 2021 Winner (Brazil)",
+      "image_url": "https://assets.ppy.sh/profile-badges/badge_mwc4k_winner.png",
+      "url": "https://osu.ppy.sh/wiki/en/Tournaments/MWC/2021_4K"
+    }
+  ],
+  "beatmap_playcounts_count": 5588,
+  "comments_count": 53,
+  "favourite_beatmapset_count": 18,
+  "follower_count": 315,
+  "graveyard_beatmapset_count": 11,
+  "groups": [],
+  "guest_beatmapset_count": 0,
+  "loved_beatmapset_count": 0,
+  "mapping_follower_count": 6,
+  "pending_beatmapset_count": 0,
+  "previous_usernames": [],
+  "ranked_beatmapset_count": 0,
+  "scores_best_count": 100,
+  "scores_first_count": 11,
+  "scores_pinned_count": 3,
+  "scores_recent_count": 11,
+  "statistics": {
+    "level": { "current": 98, "progress": 88 },
+    "global_rank": 461,
+    "pp": 11551.2,
+    "ranked_score": 1646531235,
+    "hit_accuracy": 97.6406,
+    "play_count": 27353,
+    "play_time": 3288374,
+    "total_score": 17091453843,
+    "total_hits": 48991112,
+    "maximum_combo": 55428,
+    "replays_watched_by_others": 1403,
+    "is_ranked": true,
+    "grade_counts": { "ss": 359, "ssh": 0, "s": 1263, "sh": 14, "a": 41 },
+    "country_rank": 7,
+    "rank": { "country": 7 },
+    "variants": [
+      {
+        "mode": "mania",
+        "variant": "4k",
+        "country_rank": 3,
+        "global_rank": 83,
+        "pp": 11526.5
+      },
+      {
+        "mode": "mania",
+        "variant": "7k",
+        "country_rank": 39,
+        "global_rank": 2458,
+        "pp": 5315.88
+      }
+    ]
+  },
+  "support_level": 1,
+  "ranked_and_approved_beatmapset_count": 0,
+  "unranked_beatmapset_count": 0
+}

@@ -1,0 +1,24 @@
+{
+  "category": "ln",
+  "counts": {
+    "bpm": -1,
+    "sv": -1,
+    "notes": {
+      "total": 1641,
+      "rice": 483,
+      "ln": 1158,
+      "single": -1,
+      "jump": -1,
+      "hand": -1,
+      "quad": -1
+    }
+  },
+  "title": "werewolf howls.",
+  "artist": "Camellia",
+  "mapper": "lemonguy",
+  "difficulty": "[4K] LNFINITE.",
+  "beatmapId": "2954313",
+  "beatmapSetId": "1435835",
+  "hp": 8,
+  "od": 8
+}

@@ -1,0 +1,24 @@
+{
+  "category": "rice",
+  "counts": {
+    "bpm": -1,
+    "sv": -1,
+    "notes": {
+      "total": 2314,
+      "rice": 2314,
+      "ln": 0,
+      "single": -1,
+      "jump": -1,
+      "hand": -1,
+      "quad": -1
+    }
+  },
+  "title": "Serious Shit",
+  "artist": "The Quick Brown Fox",
+  "mapper": "Jole",
+  "difficulty": "[4K] ilikexd but the holds died",
+  "beatmapId": "2039249",
+  "beatmapSetId": "842331",
+  "hp": 8,
+  "od": 8
+}

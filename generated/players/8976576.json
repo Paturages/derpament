@@ -1,0 +1,127 @@
+{
+  "avatar_url": "https://a.ppy.sh/8976576?1656255272.jpeg",
+  "country_code": "US",
+  "default_group": "default",
+  "id": 8976576,
+  "is_active": true,
+  "is_bot": false,
+  "is_deleted": false,
+  "is_online": true,
+  "is_supporter": true,
+  "last_visit": "2022-10-02T12:32:30+00:00",
+  "pm_friends_only": false,
+  "profile_colour": null,
+  "username": "-mint-",
+  "cover_url": "https://assets.ppy.sh/user-profile-covers/8976576/2d471d214c84f84efd898229363a7aa8e9efdc49952189aa138792a24a4752ce.jpeg",
+  "discord": "mint#3902",
+  "has_supported": true,
+  "interests": "> she/her <",
+  "join_date": "2016-09-10T06:09:14+00:00",
+  "kudosu": { "total": 577, "available": 551 },
+  "location": "OC, California",
+  "max_blocks": 100,
+  "max_friends": 500,
+  "occupation": "mappign",
+  "playmode": "mania",
+  "playstyle": ["mouse", "keyboard", "touch"],
+  "post_count": 552,
+  "profile_order": [
+    "me",
+    "recent_activity",
+    "beatmaps",
+    "top_ranks",
+    "historical",
+    "medals",
+    "kudosu"
+  ],
+  "title": null,
+  "title_url": null,
+  "twitter": "uwumintyyy",
+  "website": null,
+  "country": { "code": "US", "name": "United States" },
+  "cover": {
+    "custom_url": "https://assets.ppy.sh/user-profile-covers/8976576/2d471d214c84f84efd898229363a7aa8e9efdc49952189aa138792a24a4752ce.jpeg",
+    "url": "https://assets.ppy.sh/user-profile-covers/8976576/2d471d214c84f84efd898229363a7aa8e9efdc49952189aa138792a24a4752ce.jpeg",
+    "id": null
+  },
+  "account_history": [],
+  "active_tournament_banner": null,
+  "badges": [
+    {
+      "awarded_at": "2021-04-27T20:39:12+00:00",
+      "description": "Mappers' Guild first level contributor",
+      "image_url": "https://assets.ppy.sh/profile-badges/mg2018-1star.png",
+      "url": "https://osu.ppy.sh/wiki/en/Community/Mappers_Guild"
+    },
+    {
+      "awarded_at": "2020-01-29T07:29:45+00:00",
+      "description": "Night Fall LAN 2020 osu!mania Winner",
+      "image_url": "https://assets.ppy.sh/profile-badges/nflan-2020.png",
+      "url": ""
+    },
+    {
+      "awarded_at": "2019-04-25T04:46:49+00:00",
+      "description": "osu!mania Third osu! Winter LAN 2019 Winner",
+      "image_url": "https://assets.ppy.sh/profile-badges/towt-2019.jpg",
+      "url": ""
+    },
+    {
+      "awarded_at": "2018-02-07T07:58:47+00:00",
+      "description": "SWOL 2018 Winner (mania)",
+      "image_url": "https://assets.ppy.sh/profile-badges/swol-2018.jpg",
+      "url": ""
+    }
+  ],
+  "beatmap_playcounts_count": 5061,
+  "comments_count": 1051,
+  "favourite_beatmapset_count": 86,
+  "follower_count": 1057,
+  "graveyard_beatmapset_count": 75,
+  "groups": [],
+  "guest_beatmapset_count": 23,
+  "loved_beatmapset_count": 2,
+  "mapping_follower_count": 455,
+  "pending_beatmapset_count": 6,
+  "previous_usernames": ["qqqant"],
+  "ranked_beatmapset_count": 25,
+  "scores_best_count": 100,
+  "scores_first_count": 0,
+  "scores_pinned_count": 10,
+  "scores_recent_count": 33,
+  "statistics": {
+    "level": { "current": 99, "progress": 26 },
+    "global_rank": 1831,
+    "pp": 8998.48,
+    "ranked_score": 1964772758,
+    "hit_accuracy": 96.7173,
+    "play_count": 46125,
+    "play_time": 3610277,
+    "total_score": 20163343507,
+    "total_hits": 47328170,
+    "maximum_combo": 15504,
+    "replays_watched_by_others": 785,
+    "is_ranked": true,
+    "grade_counts": { "ss": 344, "ssh": 1, "s": 1507, "sh": 0, "a": 115 },
+    "country_rank": 194,
+    "rank": { "country": 194 },
+    "variants": [
+      {
+        "mode": "mania",
+        "variant": "4k",
+        "country_rank": 184,
+        "global_rank": 1204,
+        "pp": 8953.41
+      },
+      {
+        "mode": "mania",
+        "variant": "7k",
+        "country_rank": 190,
+        "global_rank": 1962,
+        "pp": 6117.65
+      }
+    ]
+  },
+  "support_level": 2,
+  "ranked_and_approved_beatmapset_count": 25,
+  "unranked_beatmapset_count": 6
+}

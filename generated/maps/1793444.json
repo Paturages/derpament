@@ -1,0 +1,24 @@
+{
+  "category": "hybrid",
+  "counts": {
+    "bpm": -1,
+    "sv": -1,
+    "notes": {
+      "total": 1807,
+      "rice": 1300,
+      "ln": 507,
+      "single": -1,
+      "jump": -1,
+      "hand": -1,
+      "quad": -1
+    }
+  },
+  "title": "Carry Me Away",
+  "artist": "lapix",
+  "mapper": "arpia97",
+  "difficulty": "[4K] Daybreak",
+  "beatmapId": "1793444",
+  "beatmapSetId": "858142",
+  "hp": 8.5,
+  "od": 7.5
+}

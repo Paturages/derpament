@@ -1,0 +1,24 @@
+{
+  "category": "rice",
+  "counts": {
+    "bpm": -1,
+    "sv": -1,
+    "notes": {
+      "total": 1982,
+      "rice": 1982,
+      "ln": 0,
+      "single": -1,
+      "jump": -1,
+      "hand": -1,
+      "quad": -1
+    }
+  },
+  "title": "Swamp Thing",
+  "artist": "Pegboard Nerds",
+  "mapper": "Shoegazer",
+  "difficulty": "[4K] Swampgator 1.2x (162bpm)",
+  "beatmapId": "2553540",
+  "beatmapSetId": "1227404",
+  "hp": 8.5,
+  "od": 8
+}
