@@ -1,0 +1,24 @@
+{
+  "category": "BOSS",
+  "counts": {
+    "bpm": 743,
+    "sv": 743,
+    "notes": {
+      "total": 9963,
+      "rice": 9715,
+      "ln": 248,
+      "single": 5219,
+      "jump": 1662,
+      "hand": 432,
+      "quad": 31
+    }
+  },
+  "title": "JAPANESE SOUL BROTHERS (Cut & Live Ver.)",
+  "artist": "T-SQUARE SUPER BAND SPECIAL",
+  "mapper": "Ska",
+  "difficulty": "35th Anniversary | Part 2",
+  "beatmapId": "3466516",
+  "beatmapSetId": "1683567",
+  "hp": "8.5",
+  "od": "8.5"
+}

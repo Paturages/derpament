@@ -1,0 +1,24 @@
+{
+  "category": "TB",
+  "counts": {
+    "bpm": 35,
+    "sv": 35,
+    "notes": {
+      "total": 7730,
+      "rice": 5231,
+      "ln": 2499,
+      "single": 3276,
+      "jump": 1429,
+      "hand": 524,
+      "quad": 6
+    }
+  },
+  "title": "TremENDouS",
+  "artist": "Camellia",
+  "mapper": "Ventilo le vrai",
+  "difficulty": "Culmination",
+  "beatmapId": "3521914",
+  "beatmapSetId": "1723280",
+  "hp": "8.5",
+  "od": "8.5"
+}

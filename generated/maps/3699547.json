@@ -1,0 +1,24 @@
+{
+  "category": "SV",
+  "counts": {
+    "bpm": 1,
+    "sv": 3475,
+    "notes": {
+      "total": 1849,
+      "rice": 1770,
+      "ln": 79,
+      "single": 1019,
+      "jump": 190,
+      "hand": 150,
+      "quad": 0
+    }
+  },
+  "title": "Starlight (VIP)",
+  "artist": "Kaval",
+  "mapper": "BlackyDay",
+  "difficulty": "MoonLanding",
+  "beatmapId": "3699547",
+  "beatmapSetId": "1804071",
+  "hp": "8",
+  "od": "7"
+}

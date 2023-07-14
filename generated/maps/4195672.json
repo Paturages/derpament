@@ -1,0 +1,24 @@
+{
+  "category": "TECH",
+  "counts": {
+    "bpm": 55,
+    "sv": 55,
+    "notes": {
+      "total": 1781,
+      "rice": 1781,
+      "ln": 0,
+      "single": 1085,
+      "jump": 345,
+      "hand": 2,
+      "quad": 0
+    }
+  },
+  "title": "Layers (feat. Hadrien Feraud & Morgan Agren)",
+  "artist": "Anatole Muster",
+  "mapper": "Paturages",
+  "difficulty": "Stage 2: Mapping",
+  "beatmapId": "4195672",
+  "beatmapSetId": "2015557",
+  "hp": "8",
+  "od": "8.3"
+}

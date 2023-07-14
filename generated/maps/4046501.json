@@ -1,0 +1,24 @@
+{
+  "category": "BOSS",
+  "counts": {
+    "bpm": 1,
+    "sv": 2,
+    "notes": {
+      "total": 4882,
+      "rice": 4660,
+      "ln": 222,
+      "single": 2976,
+      "jump": 659,
+      "hand": 196,
+      "quad": 0
+    }
+  },
+  "title": "Burning Aquamarine",
+  "artist": "Camellia",
+  "mapper": "AlexDunk",
+  "difficulty": "crystallized heart.",
+  "beatmapId": "4046501",
+  "beatmapSetId": "1953916",
+  "hp": "8",
+  "od": "8"
+}

@@ -1,0 +1,24 @@
+{
+  "category": "RICE",
+  "counts": {
+    "bpm": 1,
+    "sv": 0,
+    "notes": {
+      "total": 2172,
+      "rice": 2172,
+      "ln": 0,
+      "single": 366,
+      "jump": 463,
+      "hand": 244,
+      "quad": 37
+    }
+  },
+  "title": "Envole-moi",
+  "artist": "Jean-Jacques Goldman",
+  "mapper": "PouletFurtif",
+  "difficulty": "Elevation",
+  "beatmapId": "3677382",
+  "beatmapSetId": "1794282",
+  "hp": "8",
+  "od": "8"
+}

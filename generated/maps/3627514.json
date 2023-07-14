@@ -1,0 +1,24 @@
+{
+  "category": "LN",
+  "counts": {
+    "bpm": 6,
+    "sv": 4,
+    "notes": {
+      "total": 1537,
+      "rice": 195,
+      "ln": 1342,
+      "single": 396,
+      "jump": 366,
+      "hand": 127,
+      "quad": 7
+    }
+  },
+  "title": "Undercover Martyn",
+  "artist": "Two Door Cinema Club",
+  "mapper": "[Crz]Crysarlene",
+  "difficulty": "until next day",
+  "beatmapId": "3627514",
+  "beatmapSetId": "1771855",
+  "hp": "9.3",
+  "od": "7.5"
+}

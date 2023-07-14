@@ -1,0 +1,24 @@
+{
+  "category": "LN",
+  "counts": {
+    "bpm": 3,
+    "sv": 5,
+    "notes": {
+      "total": 1709,
+      "rice": 388,
+      "ln": 1321,
+      "single": 697,
+      "jump": 381,
+      "hand": 82,
+      "quad": 1
+    }
+  },
+  "title": "Doron",
+  "artist": "King Gnu",
+  "mapper": "Raveille",
+  "difficulty": "Lifeless",
+  "beatmapId": "2733320",
+  "beatmapSetId": "1319476",
+  "hp": "7",
+  "od": "7"
+}

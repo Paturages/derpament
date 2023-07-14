@@ -1,0 +1,24 @@
+{
+  "category": "TB",
+  "counts": {
+    "bpm": 2,
+    "sv": 2,
+    "notes": {
+      "total": 4392,
+      "rice": 2847,
+      "ln": 1545,
+      "single": 2191,
+      "jump": 889,
+      "hand": 137,
+      "quad": 3
+    }
+  },
+  "title": "Scarlet Pinheel (glowing mix)",
+  "artist": "penoreri feat. zero",
+  "mapper": "Ventilo le vrai",
+  "difficulty": "Ventilo vs Poulet's Hope Pinheel",
+  "beatmapId": "4205831",
+  "beatmapSetId": "2019596",
+  "hp": "8",
+  "od": "8"
+}

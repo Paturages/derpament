@@ -1,0 +1,24 @@
+{
+  "category": "LN",
+  "counts": {
+    "bpm": 16,
+    "sv": 8,
+    "notes": {
+      "total": 1341,
+      "rice": 185,
+      "ln": 1156,
+      "single": 678,
+      "jump": 323,
+      "hand": 3,
+      "quad": 2
+    }
+  },
+  "title": "Sailing Force",
+  "artist": "penoreri",
+  "mapper": "Paturages",
+  "difficulty": "Normandy",
+  "beatmapId": "3841854",
+  "beatmapSetId": "1867629",
+  "hp": "7",
+  "od": "7"
+}

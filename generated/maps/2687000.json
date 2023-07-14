@@ -1,0 +1,24 @@
+{
+  "category": "RICE",
+  "counts": {
+    "bpm": 1,
+    "sv": 0,
+    "notes": {
+      "total": 1864,
+      "rice": 1850,
+      "ln": 14,
+      "single": 718,
+      "jump": 475,
+      "hand": 64,
+      "quad": 1
+    }
+  },
+  "title": "Wizdomiot",
+  "artist": "LeaF",
+  "mapper": "Zestiri9",
+  "difficulty": "Jealousy",
+  "beatmapId": "2687000",
+  "beatmapSetId": "1295013",
+  "hp": "8",
+  "od": "8"
+}

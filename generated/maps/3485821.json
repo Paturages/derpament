@@ -1,0 +1,24 @@
+{
+  "category": "LN",
+  "counts": {
+    "bpm": 1,
+    "sv": 4,
+    "notes": {
+      "total": 899,
+      "rice": 53,
+      "ln": 846,
+      "single": 362,
+      "jump": 267,
+      "hand": 1,
+      "quad": 0
+    }
+  },
+  "title": "Shama [inabakumori Remix]",
+  "artist": "Nilfruits",
+  "mapper": "Ballistic",
+  "difficulty": "Tempt",
+  "beatmapId": "3485821",
+  "beatmapSetId": "1705944",
+  "hp": "8.8",
+  "od": "7.4"
+}

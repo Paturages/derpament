@@ -1,0 +1,24 @@
+{
+  "category": "TB",
+  "counts": {
+    "bpm": 1,
+    "sv": 0,
+    "notes": {
+      "total": 4436,
+      "rice": 2732,
+      "ln": 1704,
+      "single": 2288,
+      "jump": 776,
+      "hand": 196,
+      "quad": 2
+    }
+  },
+  "title": "Another Xronixle",
+  "artist": "Camellia",
+  "mapper": "DannyPX",
+  "difficulty": "Xenguinosity x Xanny Edit",
+  "beatmapId": "2724583",
+  "beatmapSetId": "1182546",
+  "hp": "7.8",
+  "od": "7.8"
+}

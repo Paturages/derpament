@@ -1,0 +1,24 @@
+{
+  "category": "HYBRID",
+  "counts": {
+    "bpm": 1,
+    "sv": 1928,
+    "notes": {
+      "total": 3399,
+      "rice": 2927,
+      "ln": 472,
+      "single": 1482,
+      "jump": 372,
+      "hand": 287,
+      "quad": 78
+    }
+  },
+  "title": "Circles of Death",
+  "artist": "Camellia",
+  "mapper": "BlackyDay",
+  "difficulty": "Ventilo's mft edit",
+  "beatmapId": "3699578",
+  "beatmapSetId": "1804088",
+  "hp": "8",
+  "od": "8"
+}

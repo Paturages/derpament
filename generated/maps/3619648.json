@@ -1,0 +1,24 @@
+{
+  "category": "HYBRID",
+  "counts": {
+    "bpm": 1,
+    "sv": 0,
+    "notes": {
+      "total": 1812,
+      "rice": 1297,
+      "ln": 515,
+      "single": 886,
+      "jump": 394,
+      "hand": 46,
+      "quad": 0
+    }
+  },
+  "title": "Fiend Demme",
+  "artist": "Delaina as \"ZxNX\"",
+  "mapper": "DannyPX",
+  "difficulty": "Stage 6: Syl-Mirva",
+  "beatmapId": "3619648",
+  "beatmapSetId": "1768266",
+  "hp": "8",
+  "od": "8.3"
+}

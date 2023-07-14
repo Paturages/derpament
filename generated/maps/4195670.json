@@ -1,0 +1,24 @@
+{
+  "category": "HYBRID",
+  "counts": {
+    "bpm": 1,
+    "sv": 2,
+    "notes": {
+      "total": 1765,
+      "rice": 1140,
+      "ln": 625,
+      "single": 1027,
+      "jump": 342,
+      "hand": 18,
+      "quad": 0
+    }
+  },
+  "title": "Variables (Cut Ver.)",
+  "artist": "Mameyudoufu",
+  "mapper": "Paturages",
+  "difficulty": "Stage 5: Integral",
+  "beatmapId": "4195670",
+  "beatmapSetId": "2015555",
+  "hp": "7",
+  "od": "7"
+}

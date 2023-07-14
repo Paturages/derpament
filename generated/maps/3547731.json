@@ -1,0 +1,24 @@
+{
+  "category": "BOSS",
+  "counts": {
+    "bpm": 1,
+    "sv": 2,
+    "notes": {
+      "total": 4577,
+      "rice": 4577,
+      "ln": 0,
+      "single": 2446,
+      "jump": 827,
+      "hand": 139,
+      "quad": 15
+    }
+  },
+  "title": "Nhelv",
+  "artist": "Silentroom",
+  "mapper": "Elexire",
+  "difficulty": "Dissociate",
+  "beatmapId": "3547731",
+  "beatmapSetId": "1735824",
+  "hp": "8",
+  "od": "8"
+}

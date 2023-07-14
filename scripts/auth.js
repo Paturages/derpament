@@ -30,6 +30,7 @@ exports.initAuth = async () => {
       path.resolve(__dirname, "..", "auth.json"),
       JSON.stringify(token.body)
     );
+    auth = token.body;
     return token.body;
   }
 };

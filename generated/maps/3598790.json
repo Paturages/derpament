@@ -1,0 +1,24 @@
+{
+  "category": "LN",
+  "counts": {
+    "bpm": 2,
+    "sv": 0,
+    "notes": {
+      "total": 1943,
+      "rice": 205,
+      "ln": 1738,
+      "single": 975,
+      "jump": 364,
+      "hand": 80,
+      "quad": 0
+    }
+  },
+  "title": "Unleashed World",
+  "artist": "sak feat. myui",
+  "mapper": "Hylotl",
+  "difficulty": "Inverse World",
+  "beatmapId": "3598790",
+  "beatmapSetId": "1758499",
+  "hp": "7",
+  "od": "7"
+}

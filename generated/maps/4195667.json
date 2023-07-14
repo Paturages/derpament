@@ -1,0 +1,24 @@
+{
+  "category": "SPEED",
+  "counts": {
+    "bpm": 1,
+    "sv": 6,
+    "notes": {
+      "total": 2921,
+      "rice": 2921,
+      "ln": 0,
+      "single": 1252,
+      "jump": 740,
+      "hand": 63,
+      "quad": 0
+    }
+  },
+  "title": "Moon Over The Castle (Cut Ver.)",
+  "artist": "Masahiro Andoh",
+  "mapper": "Ventilo le vrai",
+  "difficulty": "Stage 4: Licence Test",
+  "beatmapId": "4195667",
+  "beatmapSetId": "2015553",
+  "hp": "8",
+  "od": "8"
+}

@@ -1,0 +1,24 @@
+{
+  "category": "LN",
+  "counts": {
+    "bpm": 1,
+    "sv": 2,
+    "notes": {
+      "total": 1618,
+      "rice": 244,
+      "ln": 1374,
+      "single": 559,
+      "jump": 319,
+      "hand": 135,
+      "quad": 4
+    }
+  },
+  "title": "Hestia",
+  "artist": "Street",
+  "mapper": "Auraah",
+  "difficulty": "Koiidex x Auraah's Mythology",
+  "beatmapId": "2653300",
+  "beatmapSetId": "1277053",
+  "hp": "8",
+  "od": "8"
+}

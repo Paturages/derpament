@@ -1,0 +1,24 @@
+{
+  "category": "RICE",
+  "counts": {
+    "bpm": 1,
+    "sv": 8,
+    "notes": {
+      "total": 1505,
+      "rice": 1505,
+      "ln": 0,
+      "single": 1003,
+      "jump": 251,
+      "hand": 0,
+      "quad": 0
+    }
+  },
+  "title": "Lost Without You (Boxplot Remix)",
+  "artist": "Idun Nicoline",
+  "mapper": "Reyi",
+  "difficulty": "emotional streams",
+  "beatmapId": "3911227",
+  "beatmapSetId": "1897696",
+  "hp": "8",
+  "od": "8"
+}

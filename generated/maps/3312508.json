@@ -1,0 +1,24 @@
+{
+  "category": "HYBRID",
+  "counts": {
+    "bpm": 21,
+    "sv": 21,
+    "notes": {
+      "total": 1669,
+      "rice": 1152,
+      "ln": 517,
+      "single": 436,
+      "jump": 342,
+      "hand": 151,
+      "quad": 24
+    }
+  },
+  "title": "GIMME DA BLOOD",
+  "artist": "C-Show",
+  "mapper": "Reyi",
+  "difficulty": "Mir",
+  "beatmapId": "3312508",
+  "beatmapSetId": "1622375",
+  "hp": "8.5",
+  "od": "8"
+}

@@ -1,0 +1,24 @@
+{
+  "category": "RICE",
+  "counts": {
+    "bpm": 337,
+    "sv": 247,
+    "notes": {
+      "total": 1659,
+      "rice": 1659,
+      "ln": 0,
+      "single": 840,
+      "jump": 408,
+      "hand": 1,
+      "quad": 0
+    }
+  },
+  "title": "instant emotion",
+  "artist": "Toromaru",
+  "mapper": "RuleBlazing",
+  "difficulty": "Short Night",
+  "beatmapId": "3724014",
+  "beatmapSetId": "1815292",
+  "hp": "8.5",
+  "od": "8.5"
+}

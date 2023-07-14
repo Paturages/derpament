@@ -1,0 +1,24 @@
+{
+  "category": "RICE",
+  "counts": {
+    "bpm": 1,
+    "sv": 0,
+    "notes": {
+      "total": 2021,
+      "rice": 2013,
+      "ln": 8,
+      "single": 917,
+      "jump": 399,
+      "hand": 102,
+      "quad": 0
+    }
+  },
+  "title": "Angels",
+  "artist": "Vicetone/Kat Nestel",
+  "mapper": "[Crz]hinako1804",
+  "difficulty": "Angels could be bad",
+  "beatmapId": "3497950",
+  "beatmapSetId": "1711858",
+  "hp": "7.4",
+  "od": "7.4"
+}

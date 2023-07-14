@@ -1,0 +1,24 @@
+{
+  "category": "SV",
+  "counts": {
+    "bpm": 1,
+    "sv": 3282,
+    "notes": {
+      "total": 1872,
+      "rice": 1868,
+      "ln": 4,
+      "single": 955,
+      "jump": 337,
+      "hand": 81,
+      "quad": 0
+    }
+  },
+  "title": "Elevator",
+  "artist": "DJ Majokko Mikakurun",
+  "mapper": "Revv-",
+  "difficulty": "Ainer's Levitation",
+  "beatmapId": "3612006",
+  "beatmapSetId": "1764622",
+  "hp": "8",
+  "od": "8"
+}

@@ -1,0 +1,24 @@
+{
+  "category": "RICE",
+  "counts": {
+    "bpm": 5,
+    "sv": 4,
+    "notes": {
+      "total": 3255,
+      "rice": 3255,
+      "ln": 0,
+      "single": 320,
+      "jump": 664,
+      "hand": 361,
+      "quad": 131
+    }
+  },
+  "title": "Infant Queen Bee",
+  "artist": "-45",
+  "mapper": "PouletFurtif",
+  "difficulty": "Chordjack",
+  "beatmapId": "3699532",
+  "beatmapSetId": "1804058",
+  "hp": "8",
+  "od": "8"
+}

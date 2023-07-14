@@ -1,0 +1,24 @@
+{
+  "category": "HYBRID",
+  "counts": {
+    "bpm": 1,
+    "sv": 8,
+    "notes": {
+      "total": 1619,
+      "rice": 1337,
+      "ln": 282,
+      "single": 546,
+      "jump": 280,
+      "hand": 171,
+      "quad": 0
+    }
+  },
+  "title": "Ukiyoe Yokochou",
+  "artist": "Chaos City Niigata",
+  "mapper": "WinterSnow",
+  "difficulty": "FAMoss' Insane",
+  "beatmapId": "2793919",
+  "beatmapSetId": "1330313",
+  "hp": "8",
+  "od": "8"
+}

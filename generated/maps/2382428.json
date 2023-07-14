@@ -1,0 +1,24 @@
+{
+  "category": "HYBRID",
+  "counts": {
+    "bpm": 1,
+    "sv": 2,
+    "notes": {
+      "total": 1320,
+      "rice": 1037,
+      "ln": 283,
+      "single": 504,
+      "jump": 213,
+      "hand": 130,
+      "quad": 0
+    }
+  },
+  "title": "Hydra",
+  "artist": "James Landino x Akira Complex",
+  "mapper": "Asherz007",
+  "difficulty": "Insane",
+  "beatmapId": "2382428",
+  "beatmapSetId": "1140188",
+  "hp": "8.2",
+  "od": "8.2"
+}

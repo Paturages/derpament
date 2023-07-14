@@ -1,0 +1,24 @@
+{
+  "category": "BOSS",
+  "counts": {
+    "bpm": 71,
+    "sv": 71,
+    "notes": {
+      "total": 7027,
+      "rice": 7027,
+      "ln": 0,
+      "single": 3100,
+      "jump": 1432,
+      "hand": 321,
+      "quad": 25
+    }
+  },
+  "title": "BRING+EYES=DEATH+INVITE",
+  "artist": "Imperial Circus Dead Decadence",
+  "mapper": "[Crz]Crysarlene",
+  "difficulty": "Causality Violation",
+  "beatmapId": "2765899",
+  "beatmapSetId": "1335077",
+  "hp": "8.5",
+  "od": "8.5"
+}

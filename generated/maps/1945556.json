@@ -1,0 +1,24 @@
+{
+  "category": "RICE",
+  "counts": {
+    "bpm": 182,
+    "sv": 182,
+    "notes": {
+      "total": 1236,
+      "rice": 1196,
+      "ln": 40,
+      "single": 476,
+      "jump": 362,
+      "hand": 12,
+      "quad": 0
+    }
+  },
+  "title": "Capillarian Crest",
+  "artist": "Mastodon",
+  "mapper": "XeoStyle",
+  "difficulty": "The Heartless Beast",
+  "beatmapId": "1945556",
+  "beatmapSetId": "931792",
+  "hp": "8",
+  "od": "8"
+}

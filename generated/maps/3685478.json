@@ -1,0 +1,24 @@
+{
+  "category": "RICE",
+  "counts": {
+    "bpm": 1,
+    "sv": 0,
+    "notes": {
+      "total": 2655,
+      "rice": 2517,
+      "ln": 138,
+      "single": 1685,
+      "jump": 479,
+      "hand": 4,
+      "quad": 0
+    }
+  },
+  "title": "Born 2 Lose",
+  "artist": "lapix",
+  "mapper": "arccat",
+  "difficulty": "Chrubble's Collapse 1.1x",
+  "beatmapId": "3685478",
+  "beatmapSetId": "1797902",
+  "hp": "8",
+  "od": "8"
+}

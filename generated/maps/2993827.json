@@ -1,0 +1,24 @@
+{
+  "category": "RICE",
+  "counts": {
+    "bpm": 1,
+    "sv": 0,
+    "notes": {
+      "total": 3028,
+      "rice": 3007,
+      "ln": 21,
+      "single": 978,
+      "jump": 845,
+      "hand": 120,
+      "quad": 0
+    }
+  },
+  "title": "G e n g a o z o - Noize of Nocent-",
+  "artist": "-45",
+  "mapper": "MyZterioN-",
+  "difficulty": "Nectar (cut) (178bpm)",
+  "beatmapId": "2993827",
+  "beatmapSetId": "1456610",
+  "hp": "8",
+  "od": "8"
+}

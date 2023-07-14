@@ -1,0 +1,24 @@
+{
+  "category": "LN",
+  "counts": {
+    "bpm": 6,
+    "sv": 0,
+    "notes": {
+      "total": 1122,
+      "rice": 296,
+      "ln": 826,
+      "single": 650,
+      "jump": 221,
+      "hand": 10,
+      "quad": 0
+    }
+  },
+  "title": "Ash Tree",
+  "artist": "Kokiri",
+  "mapper": "PouletFurtif",
+  "difficulty": "Stage 3: Mathematiques",
+  "beatmapId": "4195687",
+  "beatmapSetId": "2015560",
+  "hp": "8",
+  "od": "7"
+}

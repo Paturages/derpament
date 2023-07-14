@@ -69,10 +69,22 @@
   {
     "name": "Mania 4K French Tournament 2022",
     "stages": [
-      { "id": "1.qualifiers", "name": "Qualifiers", "qualifiers": true }
+      { "id": "1.qualifiers", "name": "Qualifiers", "qualifiers": true },
+      { "id": "2.week1", "name": "Week 1: RO32/16" },
+      { "id": "3.week2", "name": "Week 2: QF/SF" },
+      { "id": "4.week3", "name": "Week 3: Finals" }
     ],
     "id": "mft2022",
     "playersCount": 55
+  },
+  {
+    "name": "Mania 4K French Tournament 2023",
+    "stages": [
+      { "id": "1.qualifiers", "name": "Qualifiers", "qualifiers": true },
+      { "id": "2.week1", "name": "Week 1: RO32/16" }
+    ],
+    "id": "mft2023",
+    "playersCount": 38
   },
   {
     "name": "Mania 7K French Tournament 2021",
@@ -122,6 +134,6 @@
       { "id": "7.f1", "name": "Finals week 1" }
     ],
     "id": "soft6",
-    "playersCount": 272
+    "playersCount": 271
   }
 ]

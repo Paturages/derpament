@@ -1,0 +1,24 @@
+{
+  "category": "HYBRID",
+  "counts": {
+    "bpm": 1,
+    "sv": 0,
+    "notes": {
+      "total": 4497,
+      "rice": 3397,
+      "ln": 1100,
+      "single": 1471,
+      "jump": 879,
+      "hand": 356,
+      "quad": 50
+    }
+  },
+  "title": "re:||VERSE",
+  "artist": "Camellia feat. chiisana",
+  "mapper": "Ventilo le vrai",
+  "difficulty": "Renaissance",
+  "beatmapId": "3466344",
+  "beatmapSetId": "1696561",
+  "hp": "8",
+  "od": "8"
+}

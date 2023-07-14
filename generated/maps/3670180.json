@@ -1,0 +1,24 @@
+{
+  "category": "TB",
+  "counts": {
+    "bpm": 9,
+    "sv": 27,
+    "notes": {
+      "total": 5497,
+      "rice": 3446,
+      "ln": 2051,
+      "single": 3316,
+      "jump": 855,
+      "hand": 153,
+      "quad": 3
+    }
+  },
+  "title": "NekovhParavh",
+  "artist": "Sad Keyboard Guy, Gardens",
+  "mapper": "MyZterioN-",
+  "difficulty": "Repressed Memory (nerfed)",
+  "beatmapId": "3670180",
+  "beatmapSetId": "1791026",
+  "hp": "8",
+  "od": "7.5"
+}

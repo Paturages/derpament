@@ -29,6 +29,7 @@ const generatedPath = path.resolve(__dirname, "..", "generated");
   ).split(/\r?\n/);
 
   for (const mpId of mpIds) {
+    if (!mpId.trim()) continue;
     try {
       const data = require(`../generated/matches/${mpId}.json`);
       if (process.argv[4] !== "refresh") {

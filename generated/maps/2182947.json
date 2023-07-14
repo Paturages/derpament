@@ -1,0 +1,24 @@
+{
+  "category": "RICE",
+  "counts": {
+    "bpm": 1,
+    "sv": 0,
+    "notes": {
+      "total": 3271,
+      "rice": 3196,
+      "ln": 75,
+      "single": 360,
+      "jump": 476,
+      "hand": 413,
+      "quad": 180
+    }
+  },
+  "title": "Roller Mobster",
+  "artist": "Carpenter Brut",
+  "mapper": "AntoriAntori",
+  "difficulty": "Richard",
+  "beatmapId": "2182947",
+  "beatmapSetId": "1041376",
+  "hp": "9",
+  "od": "9.5"
+}

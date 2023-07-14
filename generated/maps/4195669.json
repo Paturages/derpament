@@ -1,0 +1,24 @@
+{
+  "category": "SV",
+  "counts": {
+    "bpm": 27,
+    "sv": 1468,
+    "notes": {
+      "total": 1128,
+      "rice": 1107,
+      "ln": 21,
+      "single": 584,
+      "jump": 260,
+      "hand": 8,
+      "quad": 0
+    }
+  },
+  "title": "Update (Cut Ver.)",
+  "artist": "PSYQUI",
+  "mapper": "Paturages",
+  "difficulty": "Stage 1: Windows",
+  "beatmapId": "4195669",
+  "beatmapSetId": "2015554",
+  "hp": "7",
+  "od": "7"
+}

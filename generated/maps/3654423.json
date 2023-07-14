@@ -1,0 +1,24 @@
+{
+  "category": "LN",
+  "counts": {
+    "bpm": 26,
+    "sv": 26,
+    "notes": {
+      "total": 1017,
+      "rice": 202,
+      "ln": 815,
+      "single": 463,
+      "jump": 200,
+      "hand": 46,
+      "quad": 4
+    }
+  },
+  "title": "Marginal*Frontier",
+  "artist": "AAAA",
+  "mapper": "Eclipse-",
+  "difficulty": "Grand Adventure!",
+  "beatmapId": "3654423",
+  "beatmapSetId": "1784357",
+  "hp": "8",
+  "od": "7.5"
+}

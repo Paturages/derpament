@@ -1,0 +1,24 @@
+{
+  "category": "RICE",
+  "counts": {
+    "bpm": 1,
+    "sv": 0,
+    "notes": {
+      "total": 2287,
+      "rice": 2229,
+      "ln": 58,
+      "single": 1141,
+      "jump": 486,
+      "hand": 50,
+      "quad": 6
+    }
+  },
+  "title": "Crimson Fighter",
+  "artist": "Falcom Sound Team jdk",
+  "mapper": "lemonguy",
+  "difficulty": "Adol The Red",
+  "beatmapId": "3671274",
+  "beatmapSetId": "1791533",
+  "hp": "8",
+  "od": "8"
+}

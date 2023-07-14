@@ -6,7 +6,10 @@
       "name": "Qualifiers",
       "qualifiers": true,
       "mapCount": 5
-    }
+    },
+    { "id": "2.week1", "name": "Week 1: RO32/16", "mapCount": 13 },
+    { "id": "3.week2", "name": "Week 2: QF/SF", "mapCount": 15 },
+    { "id": "4.week3", "name": "Week 3: Finals", "mapCount": 17 }
   ],
   "players": {
     "251683": {
@@ -23,9 +26,9 @@
       "name": "Chernobog",
       "avatar": "https://a.ppy.sh/3317042?1627958385.jpeg",
       "country": "France",
-      "pp": 5704.63,
-      "rank": 10782,
-      "countryRank": 175
+      "pp": 5758.19,
+      "rank": 12948,
+      "countryRank": 190
     },
     "4072068": {
       "id": 4072068,
@@ -38,12 +41,12 @@
     },
     "4107782": {
       "id": 4107782,
-      "name": "MiP486",
-      "avatar": "https://a.ppy.sh/4107782?1655288740.jpeg",
+      "name": "MiPS486",
+      "avatar": "https://a.ppy.sh/4107782?1673235745.png",
       "country": "France",
-      "pp": 6252.59,
-      "rank": 8026,
-      "countryRank": 128
+      "pp": 6086.46,
+      "rank": 11136,
+      "countryRank": 159
     },
     "4426908": {
       "id": 4426908,
@@ -59,9 +62,9 @@
       "name": "Adri",
       "avatar": "https://a.ppy.sh/4579132?1594553960.png",
       "country": "France",
-      "pp": 8109.62,
-      "rank": 2682,
-      "countryRank": 37
+      "pp": 8513.24,
+      "rank": 3347,
+      "countryRank": 49
     },
     "5714473": {
       "id": 5714473,
@@ -87,26 +90,26 @@
       "avatar": "https://a.ppy.sh/6701738?1654394019.jpeg",
       "country": "Canada",
       "pp": 8403.1,
-      "rank": 2213,
-      "countryRank": 58
+      "rank": 2598,
+      "countryRank": 69
     },
     "7294830": {
       "id": 7294830,
       "name": "DragonSonic",
       "avatar": "https://a.ppy.sh/7294830?1611416624.jpeg",
       "country": "France",
-      "pp": 8984.7,
-      "rank": 1557,
-      "countryRank": 23
+      "pp": 9501.85,
+      "rank": 2046,
+      "countryRank": 28
     },
     "7306522": {
       "id": 7306522,
       "name": "PatouZ",
       "avatar": "https://a.ppy.sh/7306522?1617414891.png",
       "country": "France",
-      "pp": 9160.45,
-      "rank": 1400,
-      "countryRank": 16
+      "pp": 9135.77,
+      "rank": 2432,
+      "countryRank": 34
     },
     "8505454": {
       "id": 8505454,
@@ -122,8 +125,8 @@
       "name": "Tupidix",
       "avatar": "https://a.ppy.sh/8655604?1632898288.jpeg",
       "country": "Switzerland",
-      "pp": 10043.5,
-      "rank": 858,
+      "pp": 10986.6,
+      "rank": 1093,
       "countryRank": 3
     },
     "8756421": {
@@ -131,8 +134,8 @@
       "name": "quentin5110054",
       "avatar": "https://a.ppy.sh/8756421?1647799040.jpeg",
       "country": "France",
-      "pp": 10559.7,
-      "rank": 628,
+      "pp": 12333.3,
+      "rank": 627,
       "countryRank": 7
     },
     "9049282": {
@@ -147,10 +150,10 @@
     "10015908": {
       "id": 10015908,
       "name": "Auraah",
-      "avatar": "https://a.ppy.sh/10015908?1623434179.jpeg",
+      "avatar": "https://a.ppy.sh/10015908?1662315623.jpeg",
       "country": "France",
-      "pp": 10153.5,
-      "rank": 802,
+      "pp": 10463.7,
+      "rank": 787,
       "countryRank": 9
     },
     "10804091": {
@@ -158,9 +161,9 @@
       "name": "GDMem",
       "avatar": "https://a.ppy.sh/10804091?1654394261.jpeg",
       "country": "Canada",
-      "pp": 12287.2,
-      "rank": 265,
-      "countryRank": 6
+      "pp": 12331.5,
+      "rank": 315,
+      "countryRank": 7
     },
     "11643399": {
       "id": 11643399,
@@ -219,11 +222,11 @@
     "13431947": {
       "id": 13431947,
       "name": "jeremkyurem",
-      "avatar": "https://a.ppy.sh/13431947?1610010135.png",
+      "avatar": "https://a.ppy.sh/13431947?1667422955.jpeg",
       "country": "France",
-      "pp": 8561.23,
-      "rank": 2003,
-      "countryRank": 30
+      "pp": 13878.8,
+      "rank": 375,
+      "countryRank": 3
     },
     "13495170": {
       "id": 13495170,
@@ -255,20 +258,20 @@
     "13921965": {
       "id": 13921965,
       "name": "DarkMew2",
-      "avatar": "https://a.ppy.sh/13921965?1606869063.jpeg",
+      "avatar": "https://a.ppy.sh/13921965?1688483438.jpeg",
       "country": "United States",
-      "pp": 10171.8,
-      "rank": 789,
-      "countryRank": 53
+      "pp": 11921.4,
+      "rank": 735,
+      "countryRank": 55
     },
     "13942150": {
       "id": 13942150,
       "name": "CrashSmash",
       "avatar": "https://a.ppy.sh/13942150?1573317215.jpeg",
       "country": "Switzerland",
-      "pp": 8625.35,
-      "rank": 1921,
-      "countryRank": 6
+      "pp": 9836.22,
+      "rank": 1749,
+      "countryRank": 4
     },
     "14015337": {
       "id": 14015337,
@@ -282,11 +285,11 @@
     "14055233": {
       "id": 14055233,
       "name": "MisteurFR",
-      "avatar": "https://a.ppy.sh/14055233?1653556763.jpeg",
+      "avatar": "https://a.ppy.sh/14055233?1682352359.jpeg",
       "country": "France",
-      "pp": 8244.8,
-      "rank": 2451,
-      "countryRank": 34
+      "pp": 8714.23,
+      "rank": 3035,
+      "countryRank": 43
     },
     "14797411": {
       "id": 14797411,
@@ -320,35 +323,35 @@
       "name": "altroz43",
       "avatar": "https://a.ppy.sh/16003019?1622277913.jpeg",
       "country": "France",
-      "pp": 6864.66,
-      "rank": 5770,
-      "countryRank": 90
+      "pp": 6473.24,
+      "rank": 9263,
+      "countryRank": 133
     },
     "16399680": {
       "id": 16399680,
       "name": "loleur361",
-      "avatar": "https://a.ppy.sh/16399680?1644845409.png",
+      "avatar": "https://a.ppy.sh/16399680?1688744031.jpeg",
       "country": "France",
-      "pp": 7405.13,
-      "rank": 4190,
-      "countryRank": 66
+      "pp": 10573.1,
+      "rank": 1299,
+      "countryRank": 17
     },
     "16404881": {
       "id": 16404881,
-      "name": "[RUE]Miss",
-      "avatar": "https://a.ppy.sh/16404881?1654693281.jpeg",
+      "name": "Miss_",
+      "avatar": "https://a.ppy.sh/16404881?1689313852.jpeg",
       "country": "France",
-      "pp": 6283.41,
-      "rank": 7896,
-      "countryRank": 126
+      "pp": 8233.43,
+      "rank": 3884,
+      "countryRank": 56
     },
     "16468962": {
       "id": 16468962,
       "name": "walmart5193",
-      "avatar": "https://a.ppy.sh/16468962?1654951171.png",
+      "avatar": "https://a.ppy.sh/16468962?1664635282.jpeg",
       "country": "Canada",
-      "pp": 9514.45,
-      "rank": 1138,
+      "pp": 9788.82,
+      "rank": 1148,
       "countryRank": 22
     },
     "16487992": {
@@ -356,36 +359,36 @@
       "name": "ssiizz_",
       "avatar": "https://a.ppy.sh/16487992?1608733843.jpeg",
       "country": "France",
-      "pp": 7749.9,
-      "rank": 3364,
-      "countryRank": 46
+      "pp": 7864.1,
+      "rank": 3608,
+      "countryRank": 48
     },
     "16892459": {
       "id": 16892459,
       "name": "Babibelbleu",
-      "avatar": "https://a.ppy.sh/16892459?1652612553.png",
+      "avatar": "https://a.ppy.sh/16892459?1686494239.jpeg",
       "country": "France",
-      "pp": 8932.09,
-      "rank": 1605,
-      "countryRank": 25
+      "pp": 10176.8,
+      "rank": 1521,
+      "countryRank": 20
     },
     "17036270": {
       "id": 17036270,
-      "name": "AmariaLove",
-      "avatar": "https://a.ppy.sh/17036270?1646205915.jpeg",
+      "name": "Holo the Wise",
+      "avatar": "https://a.ppy.sh/17036270?1686000605.jpeg",
       "country": "Canada",
-      "pp": 7373.7,
-      "rank": 4264,
-      "countryRank": 107
+      "pp": 8256.1,
+      "rank": 3833,
+      "countryRank": 105
     },
     "17194567": {
       "id": 17194567,
       "name": "[RUE]Langoustin",
-      "avatar": "https://a.ppy.sh/17194567?1649608750.gif",
+      "avatar": "https://a.ppy.sh/17194567?1660220369.jpeg",
       "country": "France",
-      "pp": 6730.07,
-      "rank": 6210,
-      "countryRank": 97
+      "pp": 7009.31,
+      "rank": 6122,
+      "countryRank": 95
     },
     "17538478": {
       "id": 17538478,
@@ -461,12 +464,12 @@
     },
     "25261784": {
       "id": 25261784,
-      "name": "Zykoo",
-      "avatar": "https://a.ppy.sh/25261784?1655923531.jpeg",
+      "name": "Kyun",
+      "avatar": "https://a.ppy.sh/25261784?1689277198.png",
       "country": "France",
-      "pp": 4949.05,
-      "rank": 16109,
-      "countryRank": 295
+      "pp": 6235.2,
+      "rank": 10431,
+      "countryRank": 144
     },
     "25354335": {
       "id": 25354335,
@@ -499,9 +502,9 @@
       "name": "suliv10",
       "avatar": "https://a.ppy.sh/29918755?1652175777.jpeg",
       "country": "France",
-      "pp": 1942.88,
-      "rank": 85142,
-      "countryRank": 1761
+      "pp": 4276.99,
+      "rank": 26893,
+      "countryRank": 459
     }
   }
 }

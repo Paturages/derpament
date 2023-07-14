@@ -1,0 +1,24 @@
+{
+  "category": "RICE",
+  "counts": {
+    "bpm": 1,
+    "sv": 0,
+    "notes": {
+      "total": 1920,
+      "rice": 1879,
+      "ln": 41,
+      "single": 1169,
+      "jump": 281,
+      "hand": 63,
+      "quad": 0
+    }
+  },
+  "title": "Pencilina",
+  "artist": "Culprate & Dictate",
+  "mapper": "Evening",
+  "difficulty": "Apprehension [1.2x Rate]",
+  "beatmapId": "2750463",
+  "beatmapSetId": "1326790",
+  "hp": "9.5",
+  "od": "10"
+}

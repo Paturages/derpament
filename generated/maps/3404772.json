@@ -1,0 +1,24 @@
+{
+  "category": "HYBRID",
+  "counts": {
+    "bpm": 1,
+    "sv": 2,
+    "notes": {
+      "total": 1614,
+      "rice": 875,
+      "ln": 739,
+      "single": 1094,
+      "jump": 213,
+      "hand": 30,
+      "quad": 1
+    }
+  },
+  "title": "Chronos (Cut Ver.)",
+  "artist": "KOAN Sound",
+  "mapper": "Dreamwalker",
+  "difficulty": "shattered will swirling into the dead soul",
+  "beatmapId": "3404772",
+  "beatmapSetId": "1667473",
+  "hp": "9.5",
+  "od": "6.6"
+}

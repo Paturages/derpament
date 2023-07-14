@@ -1,0 +1,24 @@
+{
+  "category": "HYBRID",
+  "counts": {
+    "bpm": 1,
+    "sv": 12,
+    "notes": {
+      "total": 1702,
+      "rice": 1163,
+      "ln": 539,
+      "single": 858,
+      "jump": 329,
+      "hand": 62,
+      "quad": 0
+    }
+  },
+  "title": "zeke didn't \"invent dariacore\", i did",
+  "artist": "coltrane",
+  "mapper": "Stability",
+  "difficulty": "s1 e1",
+  "beatmapId": "3549255",
+  "beatmapSetId": "1736615",
+  "hp": "8",
+  "od": "7.5"
+}

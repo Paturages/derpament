@@ -54,6 +54,7 @@ const docsDataPath = path.resolve(__dirname, "..", "..", "docs", "data");
     const picks = {};
 
     for (const matchId of matchIds) {
+      if (!matchId.trim()) continue;
       const { games } = require(`${generatedPath}/matches/${matchId}.json`);
       // Matches should pick a song only once, so we keep track of them
       const matchPicks = new Set();

@@ -1,0 +1,24 @@
+{
+  "category": "RICE",
+  "counts": {
+    "bpm": 1,
+    "sv": 0,
+    "notes": {
+      "total": 3774,
+      "rice": 3774,
+      "ln": 0,
+      "single": 1769,
+      "jump": 790,
+      "hand": 127,
+      "quad": 11
+    }
+  },
+  "title": "Tokyo Ghetto",
+  "artist": "Eve",
+  "mapper": "isokasapupuja",
+  "difficulty": "Medium (cut)",
+  "beatmapId": "2743106",
+  "beatmapSetId": "1324319",
+  "hp": "8",
+  "od": "8.5"
+}

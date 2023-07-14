@@ -1,0 +1,57 @@
+osu file format v14
+
+[General]
+AudioFilename: audio.mp3
+AudioLeadIn: 0
+PreviewTime: 65912
+Countdown: 0
+SampleSet: None
+StackLeniency: 0.7
+Mode: 3
+LetterboxInBreaks: 0
+SpecialStyle: 0
+WidescreenStoryboard: 0
+
+[Editor]
+Bookmarks: 8168,22604,37040,51476,65912,80348,94784,111025,125461,139897
+DistanceSpacing: 1
+BeatDivisor: 4
+GridSize: 16
+TimelineZoom: 1.9
+
+[Metadata]
+Title:-
+TitleUnicode:-
+Artist:-
+ArtistUnicode:-
+Creator:-
+Version:-
+Source:
+Tags:
+BeatmapID:3688245
+BeatmapSetID:1799140
+
+[Difficulty]
+HPDrainRate:0
+CircleSize:4
+OverallDifficulty:0
+ApproachRate:0
+SliderMultiplier:1.4
+SliderTickRate:1
+
+[Events]
+//Background and Video events
+0,0,"btr.jpg",0,0
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Layer 4 (Overlay)
+//Storyboard Sound Samples
+
+[TimingPoints]
+950,451.127819548872,4,1,1,100,1,0
+
+[HitObjects]
+64,192,949,5,0,0:0:0:0:

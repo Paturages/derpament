@@ -1,0 +1,24 @@
+{
+  "category": "RICE",
+  "counts": {
+    "bpm": 1,
+    "sv": 0,
+    "notes": {
+      "total": 2292,
+      "rice": 2292,
+      "ln": 0,
+      "single": 1292,
+      "jump": 470,
+      "hand": 20,
+      "quad": 0
+    }
+  },
+  "title": "DRENCHING IN THE 90'S",
+  "artist": "watering",
+  "mapper": "wolfyou",
+  "difficulty": "spinout",
+  "beatmapId": "3602819",
+  "beatmapSetId": "1758691",
+  "hp": "8",
+  "od": "8.4"
+}

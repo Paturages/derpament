@@ -1,0 +1,24 @@
+{
+  "category": "HYBRID",
+  "counts": {
+    "bpm": 1,
+    "sv": 0,
+    "notes": {
+      "total": 1489,
+      "rice": 1005,
+      "ln": 484,
+      "single": 637,
+      "jump": 288,
+      "hand": 92,
+      "quad": 0
+    }
+  },
+  "title": "Yami Obi",
+  "artist": "Vitalism",
+  "mapper": "Guilhermeziat",
+  "difficulty": "Stage 5: Excelsa",
+  "beatmapId": "3664437",
+  "beatmapSetId": "1788530",
+  "hp": "8",
+  "od": "7"
+}

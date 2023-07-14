@@ -1,0 +1,24 @@
+{
+  "category": "RICE",
+  "counts": {
+    "bpm": 1,
+    "sv": 0,
+    "notes": {
+      "total": 3706,
+      "rice": 3706,
+      "ln": 0,
+      "single": 2367,
+      "jump": 644,
+      "hand": 17,
+      "quad": 0
+    }
+  },
+  "title": "ON MY OWN 2006 (Sped Up Ver.)",
+  "artist": "ANNERLEY GORDON",
+  "mapper": "Jole",
+  "difficulty": "i showed you my car please respond 1.15x (179bpm)",
+  "beatmapId": "3107450",
+  "beatmapSetId": "844060",
+  "hp": "8",
+  "od": "8"
+}

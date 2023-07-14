@@ -1,0 +1,24 @@
+{
+  "category": "HYBRID",
+  "counts": {
+    "bpm": 5,
+    "sv": 0,
+    "notes": {
+      "total": 2293,
+      "rice": 1237,
+      "ln": 1056,
+      "single": 1456,
+      "jump": 342,
+      "hand": 51,
+      "quad": 0
+    }
+  },
+  "title": "Obfuscate (Billain Remix)",
+  "artist": "Rregula & Dementia x Smooth",
+  "mapper": "Abraxos",
+  "difficulty": "Disambiguation",
+  "beatmapId": "2496420",
+  "beatmapSetId": "1185353",
+  "hp": "9.3",
+  "od": "7.6"
+}

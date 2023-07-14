@@ -1,0 +1,24 @@
+{
+  "category": "RICE",
+  "counts": {
+    "bpm": 2,
+    "sv": 0,
+    "notes": {
+      "total": 2465,
+      "rice": 2421,
+      "ln": 44,
+      "single": 1555,
+      "jump": 378,
+      "hand": 50,
+      "quad": 1
+    }
+  },
+  "title": "Puppet in the Dark (Part2 : Buried Away)",
+  "artist": "FELT",
+  "mapper": "[Crz]hinako1804",
+  "difficulty": "INTER",
+  "beatmapId": "2881454",
+  "beatmapSetId": "1396066",
+  "hp": "8.2",
+  "od": "7.4"
+}

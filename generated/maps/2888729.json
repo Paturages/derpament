@@ -1,0 +1,24 @@
+{
+  "category": "HYBRID",
+  "counts": {
+    "bpm": 1,
+    "sv": 874,
+    "notes": {
+      "total": 2363,
+      "rice": 1464,
+      "ln": 899,
+      "single": 616,
+      "jump": 450,
+      "hand": 273,
+      "quad": 7
+    }
+  },
+  "title": "Call My Name feat. Yukacco",
+  "artist": "Mameyudoufu",
+  "mapper": "Herarudo",
+  "difficulty": "Future",
+  "beatmapId": "2888729",
+  "beatmapSetId": "1400098",
+  "hp": "8",
+  "od": "8"
+}

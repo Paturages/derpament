@@ -1,0 +1,24 @@
+{
+  "category": "LN",
+  "counts": {
+    "bpm": 1,
+    "sv": 4,
+    "notes": {
+      "total": 1065,
+      "rice": 363,
+      "ln": 702,
+      "single": 458,
+      "jump": 277,
+      "hand": 15,
+      "quad": 2
+    }
+  },
+  "title": "Crazy Shuffle",
+  "artist": "Yooh",
+  "mapper": "Leniane",
+  "difficulty": "Stage 3: Mad",
+  "beatmapId": "2403554",
+  "beatmapSetId": "1151480",
+  "hp": "8.2",
+  "od": "7.5"
+}

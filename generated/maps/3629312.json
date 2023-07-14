@@ -1,0 +1,24 @@
+{
+  "category": "LN",
+  "counts": {
+    "bpm": 1,
+    "sv": 8,
+    "notes": {
+      "total": 2617,
+      "rice": 93,
+      "ln": 2524,
+      "single": 994,
+      "jump": 651,
+      "hand": 99,
+      "quad": 6
+    }
+  },
+  "title": "R.I.P.",
+  "artist": "youman feat. GUMI",
+  "mapper": "MyZterioN-",
+  "difficulty": "cacophony 1.05x (284bpm)",
+  "beatmapId": "3629312",
+  "beatmapSetId": "1712790",
+  "hp": "7.5",
+  "od": "7.3"
+}

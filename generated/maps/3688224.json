@@ -1,0 +1,24 @@
+{
+  "category": "SV",
+  "counts": {
+    "bpm": 9,
+    "sv": 4715,
+    "notes": {
+      "total": 1483,
+      "rice": 1347,
+      "ln": 136,
+      "single": 746,
+      "jump": 247,
+      "hand": 81,
+      "quad": 0
+    }
+  },
+  "title": "Get Out (Slowed)",
+  "artist": "TRISEKT",
+  "mapper": "BlackyDay",
+  "difficulty": "Get IN (powered)",
+  "beatmapId": "3688224",
+  "beatmapSetId": "1799122",
+  "hp": "8",
+  "od": "7.5"
+}
