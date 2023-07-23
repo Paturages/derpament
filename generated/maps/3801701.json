@@ -1,0 +1,24 @@
+{
+  "category": "RICE",
+  "counts": {
+    "bpm": 1,
+    "sv": 0,
+    "notes": {
+      "total": 2362,
+      "rice": 2362,
+      "ln": 0,
+      "single": 1227,
+      "jump": 515,
+      "hand": 35,
+      "quad": 0
+    }
+  },
+  "title": "My Cat Is A Superhero",
+  "artist": "Final Sketch X VANDVL",
+  "mapper": "DannyPX",
+  "difficulty": "Catnip [1.05x Rate]",
+  "beatmapId": "3801701",
+  "beatmapSetId": "1850615",
+  "hp": "8",
+  "od": "8"
+}

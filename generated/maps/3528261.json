@@ -1,0 +1,24 @@
+{
+  "category": "RICE",
+  "counts": {
+    "bpm": 2,
+    "sv": 0,
+    "notes": {
+      "total": 2145,
+      "rice": 2145,
+      "ln": 0,
+      "single": 1797,
+      "jump": 135,
+      "hand": 26,
+      "quad": 0
+    }
+  },
+  "title": "nano love",
+  "artist": "meganeko",
+  "mapper": "Eclipse-",
+  "difficulty": "^_^",
+  "beatmapId": "3528261",
+  "beatmapSetId": "1726149",
+  "hp": "8",
+  "od": "8"
+}

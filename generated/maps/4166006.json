@@ -1,0 +1,24 @@
+{
+  "category": "RICE",
+  "counts": {
+    "bpm": 2,
+    "sv": 0,
+    "notes": {
+      "total": 1997,
+      "rice": 1970,
+      "ln": 27,
+      "single": 307,
+      "jump": 430,
+      "hand": 246,
+      "quad": 23
+    }
+  },
+  "title": "Gasoline (ft. Raga)",
+  "artist": "Apashe",
+  "mapper": "DannyPX",
+  "difficulty": "Tu jale jaise gasoline [1.2x Rate]",
+  "beatmapId": "4166006",
+  "beatmapSetId": "2003273",
+  "hp": "8",
+  "od": "8"
+}

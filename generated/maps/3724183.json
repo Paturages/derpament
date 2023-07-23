@@ -1,0 +1,24 @@
+{
+  "category": "HYBRID",
+  "counts": {
+    "bpm": 1,
+    "sv": 4,
+    "notes": {
+      "total": 1682,
+      "rice": 738,
+      "ln": 944,
+      "single": 716,
+      "jump": 168,
+      "hand": 166,
+      "quad": 33
+    }
+  },
+  "title": "Random",
+  "artist": "Sobrem x Silentroom",
+  "mapper": "cherrychou",
+  "difficulty": "Concert",
+  "beatmapId": "3724183",
+  "beatmapSetId": "1815356",
+  "hp": "8.2",
+  "od": "7.2"
+}

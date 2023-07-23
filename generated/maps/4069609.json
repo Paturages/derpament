@@ -1,0 +1,24 @@
+{
+  "category": "TB",
+  "counts": {
+    "bpm": 21,
+    "sv": 29,
+    "notes": {
+      "total": 4264,
+      "rice": 2474,
+      "ln": 1790,
+      "single": 1792,
+      "jump": 1072,
+      "hand": 108,
+      "quad": 1
+    }
+  },
+  "title": "EXXTRA JUDGEMENT",
+  "artist": "seatrus",
+  "mapper": "Saemitsu",
+  "difficulty": "INCONXXEIVABLE PUNISHMENT",
+  "beatmapId": "4069609",
+  "beatmapSetId": "1963534",
+  "hp": "8.5",
+  "od": "8"
+}

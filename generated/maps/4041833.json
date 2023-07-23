@@ -1,0 +1,24 @@
+{
+  "category": "RICE",
+  "counts": {
+    "bpm": 2,
+    "sv": 0,
+    "notes": {
+      "total": 3827,
+      "rice": 3820,
+      "ln": 7,
+      "single": 1493,
+      "jump": 971,
+      "hand": 120,
+      "quad": 8
+    }
+  },
+  "title": "Koiro Master Spark",
+  "artist": "Noah",
+  "mapper": "[Crz]Serika",
+  "difficulty": "Calcium #1.1",
+  "beatmapId": "4041833",
+  "beatmapSetId": "1951917",
+  "hp": "8",
+  "od": "8.5"
+}

@@ -1,0 +1,24 @@
+{
+  "category": "LN",
+  "counts": {
+    "bpm": 1,
+    "sv": 0,
+    "notes": {
+      "total": 3927,
+      "rice": 187,
+      "ln": 3740,
+      "single": 1182,
+      "jump": 860,
+      "hand": 315,
+      "quad": 20
+    }
+  },
+  "title": "Lilith",
+  "artist": "Kabocha feat. Aitsuki Nakuru",
+  "mapper": "doctormango",
+  "difficulty": "sways of lust",
+  "beatmapId": "4018366",
+  "beatmapSetId": "1942613",
+  "hp": "8",
+  "od": "7"
+}

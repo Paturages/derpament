@@ -1,0 +1,24 @@
+{
+  "category": "SV",
+  "counts": {
+    "bpm": 19,
+    "sv": 12107,
+    "notes": {
+      "total": 1511,
+      "rice": 1481,
+      "ln": 30,
+      "single": 880,
+      "jump": 257,
+      "hand": 31,
+      "quad": 6
+    }
+  },
+  "title": "Dream Odyssey (Cut Ver.)",
+  "artist": "Kaval",
+  "mapper": "BlackyDay",
+  "difficulty": "Futuroscope",
+  "beatmapId": "4225730",
+  "beatmapSetId": "2027878",
+  "hp": "7",
+  "od": "7"
+}

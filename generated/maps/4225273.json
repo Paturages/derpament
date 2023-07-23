@@ -1,0 +1,24 @@
+{
+  "category": "HYBRID",
+  "counts": {
+    "bpm": 1,
+    "sv": 4,
+    "notes": {
+      "total": 3211,
+      "rice": 2384,
+      "ln": 827,
+      "single": 1504,
+      "jump": 570,
+      "hand": 177,
+      "quad": 9
+    }
+  },
+  "title": "MAGENTA POTION",
+  "artist": "EmoCosine",
+  "mapper": "AlexDunk",
+  "difficulty": "insanity restored 1.15x",
+  "beatmapId": "4225273",
+  "beatmapSetId": "1758130",
+  "hp": "8.3",
+  "od": "7.5"
+}

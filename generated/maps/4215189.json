@@ -1,0 +1,24 @@
+{
+  "category": "SV",
+  "counts": {
+    "bpm": 1,
+    "sv": 6610,
+    "notes": {
+      "total": 1257,
+      "rice": 1082,
+      "ln": 175,
+      "single": 497,
+      "jump": 182,
+      "hand": 132,
+      "quad": 0
+    }
+  },
+  "title": "BLEEP BLOOP",
+  "artist": "Tokyo Machine",
+  "mapper": "BlackyDay",
+  "difficulty": "BLUUP",
+  "beatmapId": "4215189",
+  "beatmapSetId": "2023670",
+  "hp": "7",
+  "od": "7"
+}

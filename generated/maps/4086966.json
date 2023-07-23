@@ -1,0 +1,24 @@
+{
+  "category": "LN",
+  "counts": {
+    "bpm": 1,
+    "sv": 0,
+    "notes": {
+      "total": 3486,
+      "rice": 147,
+      "ln": 3339,
+      "single": 1756,
+      "jump": 663,
+      "hand": 132,
+      "quad": 2
+    }
+  },
+  "title": "Spin Eternally",
+  "artist": "Camellia",
+  "mapper": "FelixSpade",
+  "difficulty": "LN Master",
+  "beatmapId": "4086966",
+  "beatmapSetId": "1855284",
+  "hp": "8.3",
+  "od": "7"
+}

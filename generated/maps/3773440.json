@@ -1,0 +1,24 @@
+{
+  "category": "RICE",
+  "counts": {
+    "bpm": 1,
+    "sv": 0,
+    "notes": {
+      "total": 2612,
+      "rice": 2584,
+      "ln": 28,
+      "single": 1141,
+      "jump": 483,
+      "hand": 163,
+      "quad": 4
+    }
+  },
+  "title": "Seven Style",
+  "artist": "Adust Rain",
+  "mapper": "FelixSpade",
+  "difficulty": "Nanatsu",
+  "beatmapId": "3773440",
+  "beatmapSetId": "1837706",
+  "hp": "8.5",
+  "od": "8.5"
+}

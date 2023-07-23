@@ -1,0 +1,24 @@
+{
+  "category": "LN",
+  "counts": {
+    "bpm": 1,
+    "sv": 0,
+    "notes": {
+      "total": 1328,
+      "rice": 62,
+      "ln": 1266,
+      "single": 712,
+      "jump": 299,
+      "hand": 6,
+      "quad": 0
+    }
+  },
+  "title": "20210517demo",
+  "artist": "Kabanagu",
+  "mapper": "Wavelation",
+  "difficulty": "FolAH1217's Prototype:LN (edit) x1.1 (192bpm)",
+  "beatmapId": "4225736",
+  "beatmapSetId": "2027882",
+  "hp": "7",
+  "od": "7"
+}

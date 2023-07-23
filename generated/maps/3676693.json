@@ -1,0 +1,24 @@
+{
+  "category": "RICE",
+  "counts": {
+    "bpm": 1,
+    "sv": 0,
+    "notes": {
+      "total": 2330,
+      "rice": 2330,
+      "ln": 0,
+      "single": 1133,
+      "jump": 555,
+      "hand": 29,
+      "quad": 0
+    }
+  },
+  "title": "Bloodstained Ground",
+  "artist": "Eluveitie",
+  "mapper": "[GB]Sanae",
+  "difficulty": "Stage 7: Ares",
+  "beatmapId": "3676693",
+  "beatmapSetId": "1793958",
+  "hp": "8.5",
+  "od": "8.5"
+}

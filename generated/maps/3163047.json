@@ -1,0 +1,24 @@
+{
+  "category": "TB",
+  "counts": {
+    "bpm": 1,
+    "sv": 573,
+    "notes": {
+      "total": 5663,
+      "rice": 3785,
+      "ln": 1878,
+      "single": 2750,
+      "jump": 962,
+      "hand": 311,
+      "quad": 14
+    }
+  },
+  "title": "Tera I/O",
+  "artist": "Camellia",
+  "mapper": "Ventilo le vrai",
+  "difficulty": "Beyond Human Limit",
+  "beatmapId": "3163047",
+  "beatmapSetId": "1537073",
+  "hp": "8.5",
+  "od": "8.2"
+}

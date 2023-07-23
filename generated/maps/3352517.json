@@ -1,0 +1,24 @@
+{
+  "category": "LN",
+  "counts": {
+    "bpm": 1,
+    "sv": 0,
+    "notes": {
+      "total": 1504,
+      "rice": 360,
+      "ln": 1144,
+      "single": 593,
+      "jump": 332,
+      "hand": 69,
+      "quad": 10
+    }
+  },
+  "title": "Heracles",
+  "artist": "Yooh",
+  "mapper": "[Crz]FolAH1217",
+  "difficulty": "Divinity",
+  "beatmapId": "3352517",
+  "beatmapSetId": "1642378",
+  "hp": "8",
+  "od": "7"
+}

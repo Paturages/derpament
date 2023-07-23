@@ -1,0 +1,24 @@
+{
+  "category": "LN",
+  "counts": {
+    "bpm": 1,
+    "sv": 0,
+    "notes": {
+      "total": 3014,
+      "rice": 756,
+      "ln": 2258,
+      "single": 939,
+      "jump": 495,
+      "hand": 299,
+      "quad": 47
+    }
+  },
+  "title": "Salamandra no Odoriko",
+  "artist": "Seifuu Meigetsu",
+  "mapper": "Begin",
+  "difficulty": "LN Odori 1.1x",
+  "beatmapId": "4113358",
+  "beatmapSetId": "1980932",
+  "hp": "8",
+  "od": "7"
+}

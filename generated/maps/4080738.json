@@ -1,0 +1,24 @@
+{
+  "category": "HYBRID",
+  "counts": {
+    "bpm": 7,
+    "sv": 7,
+    "notes": {
+      "total": 1444,
+      "rice": 918,
+      "ln": 526,
+      "single": 513,
+      "jump": 404,
+      "hand": 41,
+      "quad": 0
+    }
+  },
+  "title": "Quad Erat Demonstrandum",
+  "artist": "takehirotei",
+  "mapper": "DannyPX",
+  "difficulty": "Hoper Edei Deixai",
+  "beatmapId": "4080738",
+  "beatmapSetId": "1967641",
+  "hp": "8",
+  "od": "8"
+}

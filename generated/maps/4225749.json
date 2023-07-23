@@ -1,0 +1,24 @@
+{
+  "category": "RICE",
+  "counts": {
+    "bpm": 1,
+    "sv": 0,
+    "notes": {
+      "total": 2088,
+      "rice": 2088,
+      "ln": 0,
+      "single": 293,
+      "jump": 478,
+      "hand": 277,
+      "quad": 2
+    }
+  },
+  "title": "King of the World (Cut Ver.)",
+  "artist": "David Dima",
+  "mapper": "Ventilo le vrai",
+  "difficulty": "Drift King",
+  "beatmapId": "4225749",
+  "beatmapSetId": "2027886",
+  "hp": "8",
+  "od": "8"
+}

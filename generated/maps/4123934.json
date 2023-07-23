@@ -1,0 +1,24 @@
+{
+  "category": "RICE",
+  "counts": {
+    "bpm": 1,
+    "sv": 0,
+    "notes": {
+      "total": 2000,
+      "rice": 2000,
+      "ln": 0,
+      "single": 1408,
+      "jump": 296,
+      "hand": 0,
+      "quad": 0
+    }
+  },
+  "title": "ROGUE: MYTH",
+  "artist": "Voysol",
+  "mapper": "elexire",
+  "difficulty": "XXII 1.05x",
+  "beatmapId": "4123934",
+  "beatmapSetId": "1985425",
+  "hp": "8",
+  "od": "8"
+}

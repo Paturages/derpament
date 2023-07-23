@@ -1,0 +1,24 @@
+{
+  "category": "BOSS",
+  "counts": {
+    "bpm": 14,
+    "sv": 14,
+    "notes": {
+      "total": 14974,
+      "rice": 14462,
+      "ln": 512,
+      "single": 9386,
+      "jump": 2284,
+      "hand": 340,
+      "quad": 0
+    }
+  },
+  "title": "ANGEL OF SALVATION",
+  "artist": "GALNERYUS",
+  "mapper": "Gekido-",
+  "difficulty": "Angelic Concerto",
+  "beatmapId": "1735644",
+  "beatmapSetId": "828379",
+  "hp": "9",
+  "od": "8.5"
+}

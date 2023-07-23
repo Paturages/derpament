@@ -1,0 +1,24 @@
+{
+  "category": "HYBRID",
+  "counts": {
+    "bpm": 1,
+    "sv": 2,
+    "notes": {
+      "total": 2257,
+      "rice": 1410,
+      "ln": 847,
+      "single": 1214,
+      "jump": 451,
+      "hand": 47,
+      "quad": 0
+    }
+  },
+  "title": "Macrocosmic Modulation",
+  "artist": "JAKAZiD",
+  "mapper": "TheFunk",
+  "difficulty": "Configurativity (edit)",
+  "beatmapId": "3734222",
+  "beatmapSetId": "1819507",
+  "hp": "8",
+  "od": "7.5"
+}

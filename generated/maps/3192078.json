@@ -1,0 +1,24 @@
+{
+  "category": "RICE",
+  "counts": {
+    "bpm": 1,
+    "sv": 0,
+    "notes": {
+      "total": 1833,
+      "rice": 1833,
+      "ln": 0,
+      "single": 1278,
+      "jump": 259,
+      "hand": 11,
+      "quad": 1
+    }
+  },
+  "title": "You Show",
+  "artist": "Blitz Lunar",
+  "mapper": "Pizza69",
+  "difficulty": "Collab Extra 1.1x (198bpm)",
+  "beatmapId": "3192078",
+  "beatmapSetId": "1563147",
+  "hp": "8",
+  "od": "8"
+}

@@ -1,0 +1,24 @@
+{
+  "category": "SV",
+  "counts": {
+    "bpm": 3,
+    "sv": 1684,
+    "notes": {
+      "total": 1588,
+      "rice": 1559,
+      "ln": 29,
+      "single": 1092,
+      "jump": 233,
+      "hand": 10,
+      "quad": 0
+    }
+  },
+  "title": "tckp",
+  "artist": "MMQX",
+  "mapper": "Paturages",
+  "difficulty": "tkt",
+  "beatmapId": "4215194",
+  "beatmapSetId": "2023673",
+  "hp": "7",
+  "od": "7"
+}

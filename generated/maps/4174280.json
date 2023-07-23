@@ -1,0 +1,24 @@
+{
+  "category": "HYBRID",
+  "counts": {
+    "bpm": 1,
+    "sv": 0,
+    "notes": {
+      "total": 2027,
+      "rice": 1422,
+      "ln": 605,
+      "single": 1189,
+      "jump": 386,
+      "hand": 22,
+      "quad": 0
+    }
+  },
+  "title": "Square Peg",
+  "artist": "Pluvio",
+  "mapper": "elexire",
+  "difficulty": "Stage 2: Inexpedient",
+  "beatmapId": "4174280",
+  "beatmapSetId": "2006855",
+  "hp": "8",
+  "od": "7.5"
+}

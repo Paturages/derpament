@@ -1,0 +1,24 @@
+{
+  "category": "RICE",
+  "counts": {
+    "bpm": 1,
+    "sv": 8,
+    "notes": {
+      "total": 2224,
+      "rice": 2224,
+      "ln": 0,
+      "single": 1513,
+      "jump": 330,
+      "hand": 17,
+      "quad": 0
+    }
+  },
+  "title": "Palette Lab(Extended)",
+  "artist": "Kanzaki Shion",
+  "mapper": "Wavelation",
+  "difficulty": "-MysticEyes's Scarlet Another 1.05x (136bpm) (cut)",
+  "beatmapId": "4215196",
+  "beatmapSetId": "2023674",
+  "hp": "8",
+  "od": "8"
+}

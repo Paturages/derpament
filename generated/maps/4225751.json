@@ -1,0 +1,24 @@
+{
+  "category": "SV",
+  "counts": {
+    "bpm": 85,
+    "sv": 1295,
+    "notes": {
+      "total": 1427,
+      "rice": 1359,
+      "ln": 68,
+      "single": 721,
+      "jump": 341,
+      "hand": 8,
+      "quad": 0
+    }
+  },
+  "title": "Shuu no Hazama (Cut Ver.)",
+  "artist": "Silentroom",
+  "mapper": "Paturages",
+  "difficulty": "Rincage",
+  "beatmapId": "4225751",
+  "beatmapSetId": "2027887",
+  "hp": "7",
+  "od": "7"
+}

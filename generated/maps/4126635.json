@@ -1,0 +1,24 @@
+{
+  "category": "LN",
+  "counts": {
+    "bpm": 1,
+    "sv": 0,
+    "notes": {
+      "total": 1423,
+      "rice": 211,
+      "ln": 1212,
+      "single": 588,
+      "jump": 275,
+      "hand": 95,
+      "quad": 0
+    }
+  },
+  "title": "MEJIRUSHI",
+  "artist": "Zekk",
+  "mapper": "Ainer",
+  "difficulty": "Stage 7: Domination",
+  "beatmapId": "4126635",
+  "beatmapSetId": "1986590",
+  "hp": "8",
+  "od": "8"
+}

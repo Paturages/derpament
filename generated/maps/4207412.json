@@ -1,0 +1,24 @@
+{
+  "category": "LN",
+  "counts": {
+    "bpm": 1,
+    "sv": 0,
+    "notes": {
+      "total": 1232,
+      "rice": 14,
+      "ln": 1218,
+      "single": 370,
+      "jump": 314,
+      "hand": 78,
+      "quad": 0
+    }
+  },
+  "title": "Vitamins feat. world's end girlfriend",
+  "artist": "Mili",
+  "mapper": "Ready Perfectly",
+  "difficulty": "Vitamin B6 (Cut)",
+  "beatmapId": "4207412",
+  "beatmapSetId": "1542320",
+  "hp": "7.5",
+  "od": "7.5"
+}

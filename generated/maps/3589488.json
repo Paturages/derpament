@@ -1,0 +1,24 @@
+{
+  "category": "HYBRID",
+  "counts": {
+    "bpm": 5,
+    "sv": 1,
+    "notes": {
+      "total": 2202,
+      "rice": 1329,
+      "ln": 873,
+      "single": 1467,
+      "jump": 228,
+      "hand": 93,
+      "quad": 0
+    }
+  },
+  "title": "Spider Tank",
+  "artist": "onumi",
+  "mapper": "Abraxos",
+  "difficulty": "Encroach 1.1x",
+  "beatmapId": "3589488",
+  "beatmapSetId": "1551057",
+  "hp": "8.9",
+  "od": "7.3"
+}

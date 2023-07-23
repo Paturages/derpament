@@ -1,0 +1,24 @@
+{
+  "category": "BOSS",
+  "counts": {
+    "bpm": 6,
+    "sv": 17,
+    "notes": {
+      "total": 5782,
+      "rice": 5686,
+      "ln": 96,
+      "single": 3072,
+      "jump": 1003,
+      "hand": 204,
+      "quad": 23
+    }
+  },
+  "title": "GENS D'ARMES",
+  "artist": "Falcom Sound Team jdk",
+  "mapper": "RandomeLoL",
+  "difficulty": "ENCORE",
+  "beatmapId": "4190867",
+  "beatmapSetId": "2013874",
+  "hp": "9.3",
+  "od": "8"
+}

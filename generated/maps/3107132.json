@@ -1,0 +1,24 @@
+{
+  "category": "RICE",
+  "counts": {
+    "bpm": 1,
+    "sv": 0,
+    "notes": {
+      "total": 2549,
+      "rice": 2462,
+      "ln": 87,
+      "single": 1542,
+      "jump": 433,
+      "hand": 47,
+      "quad": 0
+    }
+  },
+  "title": "Perfume x Superstar",
+  "artist": "Fusq x Moe Shop ft. Hentai Dude",
+  "mapper": "Ska",
+  "difficulty": "1.05",
+  "beatmapId": "3107132",
+  "beatmapSetId": "1517816",
+  "hp": "8.5",
+  "od": "8.5"
+}
